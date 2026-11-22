@@ -157,9 +157,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const li = document.createElement('li');
       li.className = `chapter-item ${idx === state.currentSectionIndex ? 'active' : ''}`;
+      const titleWithoutNum = sec.title.replace(/^\s*\d+[\.\-\)]\s*/, '');
       li.innerHTML = `
         <span class="ch-num">${String(sec.number).padStart(2, '0')}.</span>
-        <span class="ch-title">${formatTitleArabic(sec.title)}</span>
+        <span class="ch-title">${formatTitleArabic(titleWithoutNum)}</span>
       `;
       li.addEventListener('click', () => {
         state.currentSectionIndex = idx;
@@ -188,8 +189,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const arMatch = sec.title.match(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/);
     bannerArabicGold.textContent = arMatch ? arMatch[0].trim() : (sec.title_ar || risalah.arabic_title);
     
-    // Tajuk bersih BM di bawah banner (buang bahagian Arab dan kurungan jika ada)
-    const cleanHeading = sec.title.replace(/\s*\([^)]*[\u0600-\u06FF][^)]*\)\s*/g, ' ').replace(/\s+/g, ' ').trim();
+    // Tajuk bersih BM di bawah banner (buang nombor pendua dan kurungan Arab)
+    const cleanHeading = sec.title
+      .replace(/^\s*\d+[\.\-\)]\s*/, '')
+      .replace(/\s*\([^)]*[\u0600-\u06FF][^)]*\)\s*/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
     activeSectionHeading.textContent = cleanHeading || sec.title;
 
     // Render HTML Content

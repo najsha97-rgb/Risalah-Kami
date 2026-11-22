@@ -292,7 +292,7 @@ Demi Allah! Apakah keselarasan yang menakjubkan dan gandingan yang unik ini anta
 
 ---
 
-### 21. Bimbingan Peradaban vs Penjajahan Barat (استعمار الأستاذية و الإصلاح)
+### 21. Pembukaan Sebagai Bimbingan dan Pengislahan (استعمار الأستاذية والإصلاح)
 
 Kerana kefahaman inilah kaum muslimin generasi awal keluar bertebaran ke segenap pelusuk bumi selepas kewafatan baginda Rasulullah ﷺ. Al-Quran terpahat di dalam dada mereka, kediaman mereka adalah di atas pelana kuda, pedang terhunus di tangan demi mempertahankan hak, dan hujah kebenaran mengalir di lidah mereka. Mereka mengajak manusia kepada salah satu daripada tiga perkara: **menerima Islam, membayar jizyah (tunduk kepada naungan keadilan sistem Islam), atau berperang**.
 
