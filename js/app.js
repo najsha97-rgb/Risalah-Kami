@@ -115,14 +115,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // 3. Render Sidebar Items
     renderSidebarChapters(risalah);
 
-    // 4. Render Active View
-    if (state.currentViewMode === 'full') {
-      renderActiveSection();
-    } else if (state.currentViewMode === 'summary') {
-      renderSummary(risalah);
-    } else if (state.currentViewMode === 'quotes') {
-      renderQuotes(risalah);
-    }
+    // 4. Render Active View Secara Eksklusif
+    switchViewMode(state.currentViewMode || 'full');
 
     // Scroll smoothly to top
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -334,10 +328,11 @@ document.addEventListener('DOMContentLoaded', () => {
       ummahPbiView.classList.toggle('active', mode === 'ummah_pbi');
     }
 
-    // Sembunyikan hero spesifik jika dalam mod Ummah PBI
+    // Hero Kad Risalah: HANYA dipaparkan dalam mod Versi Penuh ('full').
+    // Dalam mod Ringkasan, Mutiara Hikmah, dan Ummah & PBI, hero ini disembunyikan sepenuhnya.
     const heroElem = document.getElementById('risalahHero');
     if (heroElem) {
-      heroElem.style.display = mode === 'ummah_pbi' ? 'none' : 'block';
+      heroElem.style.display = (mode === 'full') ? 'block' : 'none';
     }
 
     const risalah = getCurrentRisalah();
