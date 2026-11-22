@@ -10,7 +10,7 @@
 
 ## 📌 RINGKASAN EKSEKUTIF & PETA MINDA DAKWATUNA
 
-Risalah ***Da'watuna*** (*Seruan Dakwah Kami*) merupakan piagam asas manifestasi fikrah gerakan Ikhwanul Muslimin yang ditulis oleh Imam Hasan al-Banna pada era pembentukan awal gerakan. Risalah ini menggariskan manifesto dakwah yang tuntas, telus, dan bebas daripada sebarang kepentingan duniawi.
+Risalah *Da'watuna (Seruan Dakwah Kami)* merupakan piagam asas manifestasi fikrah gerakan dakwah Islamiah moden yang digariskan oleh Al-Imam Hasan al-Banna. Risalah ini mengemukakan ketelusan prinsip (*al-wuduh*), keterusterangan matlamat (*al-musarahah*), sikap berlepas diri daripada ketaksuban kepartian (*al-bara'ah*), serta menzahirkan kasih sayang mendalam terhadap nasib umat (*al-'atifah*).
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -169,13 +169,13 @@ Para propagandis dan pendakwah ideologi hari ini jauh berbeza berbanding masa la
 
 ### 11. Revolusi Wasilah & Media Komunikasi (وسائل - Wasā'il)
 
-Wasilah propaganda dan dakwah pada hari ini juga jauh berbeza berbanding dahulu. Jika propaganda masa lalu hanyalah berupa kata-kata yang disampaikan dalam khutbah atau perhimpunan, atau warkah yang ditulis dalam bentuk surat dan risalah; maka pada hari ini wasilahnya telah meluas merangkumi buletin, majalah, akhbar harian, buku-buku, pentas teater, pawagam filem, piring hitam, dan corong radio! 
+Wasilah propaganda dan dakwah pada hari ini juga jauh berbeza berbanding dahulu. Jika propaganda masa lalu hanyalah berupa kata-kata yang disampaikan dalam khutbah atau perhimpunan, atau warkah yang ditulis dalam bentuk surat dan risalah; maka pada hari ini wasilahnya telah meluas merangkumi buletin, majalah, akhbar harian, buku-buku, pentas teater, pawagam filem, piring hitam (*haki*), dan corong radio! 
 
 Semua kemajuan ini telah merintis jalan mudah untuk menembusi hati setiap manusia — lelaki dan wanita — di dalam rumah kediaman mereka, gedung perniagaan, kilang-kilang perusahaan, dan ladang-ladang pertanian.
 
 Oleh itu, menjadi kewajipan para pendakwah Islam untuk menguasai dan memperkemas kesemua wasilah ini sebaik-baiknya agar gerak kerja mereka membuahkan hasil yang diharapkan. 
 
-Namun mengapakah saya menghuraikan perbahasan ini panjang lebar? Saya kembali menegaskan: dunia hari ini sedang sarat kekenyangan (*ḥālat takhmah*) dengan lambakan seruan — antara seruan politik, nasionalisme, patriotisme kebangsaan, ekonomi, ketenteraan, dan pasifisme. Maka di manakah kedudukan dakwah Ikhwanul Muslimin di tengah-tengah percampuran yang rumit ini?
+Namun mengapakah saya menghuraikan perbahasan ini panjang lebar? Saya kembali menegaskan: dunia hari ini sedang sarat kekenyangan (*ḥālat takhmah*) dengan lambakan seruan — antara seruan politik, nasionalisme, patriotisme kebangsaan, ekonomi, ketenteraan, dan pasifisme (seruan damai). Maka di manakah kedudukan dakwah Ikhwanul Muslimin di tengah-tengah percampuran yang rumit ini?
 
 Perkara ini menuntut saya membicarakan dua aspek utama:
 1. **Struktur positif dan hakiki dakwah kami secara tulen.**
@@ -216,7 +216,7 @@ Apa sahaja yang bertepatan dan selari dengannya, maka selamat datang kami ucapka
 
 Ramai manusia terpesona dengan seruan kewatanan (*al-waṭaniyyah*) pada suatu ketika, dan seruan kebangsaan (*al-qawmiyyah*) pada ketika yang lain — terutamanya di dunia Timur. Umat Timur merasakan kezaliman dan penghinaan Barat yang telah mencabuli kemuliaan, kehormatan, dan kemerdekaan mereka, serta merampas harta dan menumpahkan darah mereka. Tatkala bangsa-bangsa Timur menanggung penderitaan di bawah belenggu penjajahan Barat yang dipaksakan ke atas mereka, mereka bangkit berusaha melepaskan diri daripadanya dengan segala kekuatan, pertahanan, jihad, dan perjuangan yang ada. Lantas lidah para pemimpin mula berpidato, lautan akhbar mengalirkan tulisan, para penulis mengarang, para orator berkhutbah, dan orang ramai melaungkan slogan atas nama kewatanan dan keagungan kebangsaan.
 
-Semua itu adalah baik dan indah. Namun perkara yang tidak baik dan tidak indah ialah: tatkala engkau cuba memahamkan bangsa-bangsa Timur yang beragama Islam bahawa hakikat nilai-nilai tersebut di dalam Islam adalah jauh lebih sempurna, lebih suci, lebih tinggi, dan lebih mulia berbanding apa yang dilaungkan oleh lidah orang Barat dan tulisan orang Eropah — mereka enggan menerimanya! Mereka berdegil hanyut meniru Barat dalam keadaan teraba-raba. Mereka mendakwa bahawa Islam berada di satu pihak dan gagasan kewatanan berada di pihak yang lain; bahkan sebahagian mereka menyangka bahawa mengaitkan seruan ini dengan Islam akan memecahkan perpaduan bangsa dan melemahkan ikatan para pemuda!
+Semua itu adalah baik dan indah. Namun perkara yang tidak baik dan tidak indah ialah: tatkala engkau cuba memahamkan bangsa-bangsa Timur yang beragama Islam bahawa semua perjuangan itu kononnya menuntut pelepasan diri sepenuhnya daripada Islam — sehingga terurai ikatan Islam satu persatu dan orang-orang Islam keluar daripada agama mereka dalam keadaan mereka sedar atau tidak sedar! Atau engkau cuba memahamkan mereka bahawa meniru Barat itu lebih baik bagi mereka berbanding berpegang teguh dengan Islam, lantas mereka berdegil hanyut meniru Barat dalam keadaan teraba-raba dan membuta tuli. Mereka mendakwa bahawa berpegang kepada Islam akan memecahkan perpaduan bangsa dan melemahkan ikatan para pemuda!
 
 Khayalan yang salah ini amat berbahaya kepada bangsa-bangsa Timur dari segenap sudut. Menerusi penjelasan ini, saya terpanggil membentangkan pendirian Ikhwanul Muslimin dan dakwah mereka terhadap gagasan kewatanan — iaitu pendirian yang kami redai untuk diri kami dan yang kami usahakan agar diredai oleh seluruh manusia bersama kami:
 
@@ -342,10 +342,12 @@ Ikhwanul Muslimin sama sekali tidak beriman kepada gagasan kebangsaan dengan ert
 > **«إِنَّ اللَّهَ قَدْ أَذْهَبَ عَنْكُمْ نَخْوَةَ الْجَاهِلِيَّةِ وَتَعَظُّمَهَا بِالآبَاءِ، النَّاسُ لآدَمَ وَآدَمُ مِنْ تُرَابٍ، لا فَضْلَ لِعَرَبِيٍّ عَلَى أَعْجَمِيٍّ إِلا بِالتَّقْوَى»**  
 > *"Sesungguhnya Allah telah melenyapkan daripada kamu keangkuhan Jahiliah dan sikap membangga-banggakan keturunan nenek moyang. Manusia semuanya berasal daripada Adam, dan Adam diciptakan daripada tanah. Tiada kelebihan bagi orang Arab ke atas orang Ajam (bukan Arab) melainkan dengan ketakwaan."*
 
-Alangkah agung, indah, dan adilnya ketetapan ini! Semua manusia berasal daripada Adam, maka dalam hakikat kemanusiaan mereka adalah setaraf. Dan manusia itu berbeza darjatnya berdasarkan amal kebajikan, maka kewajipan mereka adalah berlumba-lumba dalam kebaikan. Dua tiang asas yang amat kukuh: sekiranya kemanusiaan dibina di atas keduanya, nescaya darjat manusia akan terangkat ke mercu langit yang tinggi!
+Alangkah agung, indah, dan adilnya ketetapan ini! Semua manusia berasal daripada Adam, maka dalam hakikat kemanusiaan mereka adalah setaraf. Dan manusia itu berbeza darjatnya berdasarkan amal kebajikan, maka kewajipan mereka adalah berlumba-lumba dalam kebaikan. Dua tiang asas yang amat kukuh: sekiranya kemanusiaan dibina di atas keduanya, nescaya darjat manusia akan terangkat ke mercu langit yang tinggi! Semua manusia bersumberkan Adam: mereka adalah saudara yang wajib saling bekerjasama, berdamai antara satu sama lain, berkasih sayang sesama mereka, dan saling menunjuk jalan kebaikan. Dan kelebihan dinilai dengan takwa: maka setiap insan wajib berusaha bersungguh-sungguh sehingga dapat mengangkat darjat kemanusiaan daripada tahap kedudukannya.
 
 #### Keistimewaan Bangsa Arab (خواص العروبة - Khawāṣṣ al-‘Urūbah)
-Walaupun demikian, kami sama sekali tidak menafikan keistimewaan khusus setiap bangsa dan ciri akhlaknya. Kami mengetahui bahawa setiap bangsa mempunyai keistimewaan dan bahagian fadhilatnya yang tersendiri, dan kami meyakini bahawa bangsa Arab memiliki bahagian yang paling besar dan melimpah dalam hal tersebut. Namun ini bukan bermakna bangsa Arab boleh menjadikan kelebihan itu sebagai lesen untuk menceroboh bangsa lain! Sebaliknya mereka wajib menjadikannya sebagai wasilah untuk memikul tanggungjawab memimpin kebangkitan umat manusia. Barangkali engkau tidak akan menemui dalam lipatan sejarah mana-mana bangsa yang memahami hakikat ini sebagaimana yang difahami oleh ketumbukan para sahabat Rasulullah SAW daripada bangsa Arab.
+Walaupun demikian, kami sama sekali tidak menafikan keistimewaan khusus setiap bangsa dan ciri akhlaknya. Kami mengetahui bahawa setiap bangsa mempunyai keistimewaan dan bahagian fadhilatnya yang tersendiri, dan kami meyakini bahawa bangsa Arab memiliki bahagian yang paling besar dan melimpah dalam hal tersebut. Namun ini bukan bermakna bangsa Arab boleh menjadikan kelebihan itu sebagai lesen untuk menceroboh bangsa lain! Sebaliknya mereka wajib menjadikannya sebagai wasilah untuk memikul tanggungjawab memimpin kebangkitan umat manusia. Dan barangkali lipatan sejarah tidak pernah merakamkan zaman sesuatu umat yang lebih mulia dalam pembukaannya, lebih adil dalam hukum pemerintahannya, dan lebih berbelas kasihan dalam sifat kemanusiaannya berbanding angkatan terawal daripada bangsa Arab ini — yang telah bertebaran ke serata pelusuk bumi sebagai pembawa hidayah yang terpimpin!
+
+*(Ini adalah sisihan perbincangan yang dituntut oleh arus perbahasan, dan saya tidak mahu memanjangkannya agar tidak terkeluar dari tajuk asal perbincangan ini).*
 
 #### Ikatan Akidah Mengatasi Segalanya (رباط العقيدة - Ribāṭ al-‘Aqīdah)
 Ketahuilah — semoga Allah memperkukuhkanmu — bahawa manusia dalam pandangan Ikhwanul Muslimin terbahagi kepada dua kelompok:
@@ -361,6 +363,8 @@ Dengarlah ketetapan ini daripada Kitabullah:
 > **لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ • إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُم مِّن دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ**  
 > *"Allah tidak melarang kamu daripada berbuat baik dan berlaku adil kepada orang-orang yang tidak memerangi kamu kerana agamamu, dan tidak mengeluarkan kamu dari kampung halamanmu; sesungguhnya Allah mengasihi orang-orang yang berlaku adil. Sesungguhnya Allah hanya melarang kamu daripada menjadikan teman rapat orang-orang yang memerangi kamu kerana agamamu, dan mengeluarkan kamu dari kampung halamanmu, serta membantu orang lain untuk mengusir kamu."*  
 > *(Surah al-Mumtahanah: 8-9)*
+
+Mudah-mudahan dengan penjelasan ini, saya telah menyingkap kepadamu sudut pandang dakwah kami ini dengan sejelas-jelasnya tanpa meninggalkan sebarang keraguan atau kesamaran di dalam jiwamu, serta memperjelaskan hala tuju dan laluannya.
 
 ---
 
@@ -395,7 +399,7 @@ Atas keyakinan inilah, **kami sentiasa mencari keuzuran bagi mereka yang berbeza
 
 Para sahabat Rasulullah SAW sendiri pernah berbeza pandangan dalam mengeluarkan fatwa, namun adakah hal itu mencetuskan permusuhan hati sesama mereka? Adakah ia memecahkan perpaduan saf mereka? Demi Allah, sama sekali tidak! Kisah perselisihan faham mengenai kefahaman perintah bersolat Asar di perkampungan Bani Quraizah adalah bukti nyata yang amat dekat. 
 
-Sekiranya para sahabat yang paling dekat dengan zaman kenabian pun berbeza pandangan, mengapakah kita hari ini sanggup berpecah-belah dan saling memusuhi kerana perbezaan remeh yang tidak membawa sebarang bahaya?! Dan sekiranya para imam mujtahid saling berbeza pandangan dan berdialog secara ilmiah, mengapakah dada kita tidak mampu berlapang dada sebagaimana lapangnya dada mereka?!
+Sekiranya para sahabat yang paling dekat dengan zaman kenabian pun berbeza pandangan, mengapakah kita hari ini sanggup berpecah-belah dan saling memusuhi kerana perbezaan remeh yang tidak membawa sebarang bahaya?! Dan sekiranya para imam mujtahid saling berbeza pandangan dan meredai bagi diri mereka apa yang dicapai oleh ijtihad masing-masing, tanpa menyempitkan orang lain dan tanpa memaksa orang lain mengikutinya; maka mengapakah kita hari ini merasa sempit dengan apa yang dilapangkan oleh mereka?! Mengapakah kita mewajibkan ke atas manusia apa yang tidak diwajibkan oleh Allah ke atas mereka?!
 
 Terdapat satu lagi hakikat penting: pada masa lalu, apabila umat berbalah dalam sesuatu urusan, mereka merujuk kepada **Khalifah** yang memiliki autoriti keimaman; maka keputusannya melenyapkan perselisihan (*ḥukmul-ḥākim yarfa‘ul-khilāf*). Namun di manakah Khalifah pada hari ini?! Sekiranya keadaannya demikian, maka adalah lebih utama bagi umat Islam mencari hakim pemutusnya terlebih dahulu daripada saling bertikam lidah tanpa rujukan autoriti yang hanya menambah jurang perpecahan!
 
@@ -409,14 +413,9 @@ Ikhwanul Muslimin memahami segala pertimbangan ini; oleh itu mereka adalah golon
 
 Wahai saudaraku: ketahuilah bahawa perumpamaan umat dalam kekuatan, kelemahan, kemudaan, ketuaan, kesihatan, dan penyakitnya adalah sama persis seperti keadaan individu manusia. 
 
-Seseorang insan, tatkala engkau melihatnya berada dalam keadaan sihat, kuat, dan sejahtera, tiba-tiba dia diserang pelbagai penyakit dan kesakitan yang meruntuhkan kekuatannya. Dia terus mengadu kesakitan sehinggalah rahmat Allah Taala mendatangkan kepadanya seorang doktor pakar (*ṭabīb māhir*) yang mahir mendiagnosis punca penyakit dan ikhlas merawatnya; lantas tidak lama selepas itu engkau melihat pesakit tersebut pulih kembali kekuatannya dan sihat seperti sediakala — bahkan mungkin lebih baik daripada keadaannya sebelum sakit!
+Seseorang insan, tatkala engkau melihatnya berada dalam keadaan sihat, kuat, dan sejahtera, tiba-tiba dia diserang pelbagai penyakit dan kesakitan yang meruntuhkan kekuatannya. Dia terus mengadu kesakitan sehinggalah takdir Allah Taala membawanya kepada seorang doktor pakar (*ṭabīb māhir*) yang tajam pandangannya melihat punca penyakit dan pakar merawatnya. Doktor tersebut menetapkan untuknya ubat yang pahit dan mewajibkannya berpantang dengan diet yang ketat; lantas pesakit itu bersabar menanggung kepahitan ubat dan keperitan pantang itu sehinggalah Allah mengizinkan kesembuhan baginya. Maka pulihlah kesihatannya, mengalirlah afiat ke seluruh sendi tubuhnya, dan dia kembali kepada keluarganya dalam keadaan gembira berseri-seri!
 
-Demikianlah halnya bangsa-bangsa dan umat manusia: ia sering dilanda malapetaka zaman yang mengancam kewujudannya, meretakkan bangunannya, dan menjalar ke dalam sendi-sendi kekuatannya laksana penyakit. Penyakit itu terus mencengkamnya sehingga umat itu kelihatan kurus kering, lemah lesu, dan menjadi sasaran kerakusan penjajah yang merampas kedaulatannya. 
-
-Rawatan bagi memulihkan umat memerlukan tiga perkara asas:
-1. **Mengenalpasti punca penyakit secara tepat (*ma‘rifat mawṭin al-dā'*).**
-2. **Bersabar menanggung kepahitan ubat rawatan (*al-ṣabru ‘alā ālām al-‘ilāj*).**
-3. **Doktor pakar yang mahir (*al-niṭāsiyy*) yang memimpin rawatan sehingga Allah menyempurnakan kesembuhan dan kejayaan di tangannya.**
+Katakanlah perumpamaan yang serupa ini pada umat-umat manusia sepenuhnya! Umat didatangi peristiwa zaman yang mengancam kewujudannya, meretakkan bangunannya, dan menyusupkan ke dalamnya pelbagai gejala kelemahan yang semakin berlarutan dari hari ke hari sehinggalah kelemahan itu mencengkam setiap sudut dan kelumpuhan mengepungnya dari segenap arah. Tatkala itu berdirilah para pemberi peringatan berasa belas kasihan terhadap nasibnya, dan jeritan tangisan mereka berulang-kali menerjah telinganya. Keadaan umat akan berterusan demikian sehinggalah ia menyedari tempat bahaya yang mengancamnya, dan Allah Tabaraka wa Taala menyelamatkannya dengan menghantar seorang pemulih (*muslih*) yang berpandangan tajam — yang menyatukan kembali suaranya, merangka perancangannya, dan memimpinnya di atas jalan kejayaan sehingga ia mencapai apa yang dicita-citakannya daripada kekuatan dan kemenangan!
 
 ---
 
@@ -426,33 +425,43 @@ Pengalaman dan peristiwa sejarah telah mengajar kami bahawa penyakit yang menimp
 1. **Penyakit Politik:** Cengkaman penjajahan daripada musuh luar; serta fanatik kepartian, permusuhan, dan perpecahan daripada anak watan sendiri.
 2. **Penyakit Ekonomi:** Penularan riba dalam semua lapisan masyarakat, serta monopoli syarikat-syarikat asing ke atas sumber kekayaan dan hasil mahsul negara.
 3. **Penyakit Pemikiran:** Kecelaruan fikrah, kegelinciran daripada ajaran agama, dan penularan ateisme yang meruntuhkan akidah serta menghancurkan nilai-nilai murni dalam jiwa generasi muda.
-4. **Penyakit Sosial:** Kebobrokan moral, keruntuhan akhlak, peniruan buta tuli terhadap gaya hidup Barat yang menjalar laksana bisa ular berbisa, serta penguatkuasaan undang-undang ciptaan manusia yang mandul — yang tidak mampu mencegah penjenayah, mendidik penceroboh, dan menghentikan kezaliman.
-5. **Kecelaruan Pendidikan:** Dasar pendidikan yang bercelaru yang menghalang pembentukan generasi masa depan yang berwibawa untuk memikul amanah kebangkitan umat.
-6. **Penyakit Kejiwaan / Jiwa:** Keputusasaan yang membunuh (*ya'sun qātil*), kelesuan yang mematikan, sifat bacul yang memalukan, kerendahan jiwa yang hina, kebakhilan dan mementingkan diri sendiri yang menahan tangan daripada berkorban lantas mengeluarkan umat daripada saf mujahid kepada saf orang-orang yang leka bermain!
+4. **Penyakit Sosial:** Kebobrokan moral, keruntuhan akhlak dan فضائل (fadhilat) yang diwarisi daripada datuk nenek moyang mereka yang gemilang, peniruan buta tuli terhadap gaya hidup Barat yang menjalar laksana bisa ular berbisa yang meracuni darah dan mengeruhkan ketenteraman hidup mereka; serta penguatkuasaan undang-undang ciptaan manusia yang mandul — yang tidak mampu mencegah penjenayah, mendidik penceroboh, dan menghentikan kezaliman, serta tidak dapat menggantikan walau sehari pun undang-undang samawi yang diturunkan oleh Pencipta makhluk, Pemilik kerajaan, dan Tuhan segala jiwa.
+5. **Kecelaruan Pendidikan:** Dasar pendidikan dan pengasuhan yang bercelaru yang menghalang bimbingan yang betul bagi generasi muda dan pembentukan tokoh-tokoh masa depan yang bakal memikul amanah kebangkitan umat.
+6. **Penyakit Kejiwaan / Jiwa:** Keputusasaan yang membunuh (*ya'sun qātil*), kelesuan yang mematikan, sifat bacul yang memalukan, kerendahan jiwa yang hina, sifat kelelakian yang lembik dan berleluasa (*khunūthah fāsyiyah*), serta kebakhilan dan mementingkan diri sendiri yang menahan tangan daripada berkorban lantas mengeluarkan umat daripada saf mujahidin kepada saf orang-orang yang leka bermain!
 
-Apakah yang diharapkan daripada sebuah umat yang diserang serentak oleh kesemua faktor pemusnah ini pada kemuncak kekuatannya?! Satu sahaja daripada penyakit ini sudah cukup untuk membinasakan empayar yang gagah perkasa, apatah lagi tatkala kesemuanya merebak serentak ke dalam tubuh umat ini? 
+Apakah yang diharapkan daripada sebuah umat yang diserang serentak oleh kesemua faktor pemusnah ini pada manifestasi paling dahsyat dan gejala paling parah?! Iaitu: **penjajahan dan kepartian, riba dan monopoli syarikat asing, ateisme dan kebobrokan moral, kecelaruan pendidikan dan perundangan, keputusasaan dan kebakhilan, sifat lembik dan sifat bacul, serta ketakjuban terhadap musuh dengan rasa kagum yang mengheret kepada meniru segala yang terbit daripada musuh tersebut terutamanya dalam seburuk-buruk perbuatan mereka!**
 
-Kalaulah bukan kerana adanya daya ketahanan, kekebalan, dan ketabahan yang luar biasa pada bangsa-bangsa Timur ini — yang telah lama disuntik dengan kuman penyakit oleh musuh-musuhnya — nescaya kesan kewujudannya telah lama lenyap daripada peta dunia! Namun Allah dan orang-orang yang beriman enggan membiarkannya binasa.
+Sesungguhnya satu sahaja daripada penyakit ini sudah cukup untuk membunuh empayar-empayar yang bersatu teguh, apatah lagi tatkala kesemuanya merebak serentak ke dalam tubuh setiap umat secara berasingan?! 
 
-Inilah diagnosis sebenar yang disentuh oleh Ikhwanul Muslimin terhadap penyakit umat ini, dan inilah medan rawatan yang mereka usahakan demi menyembuhkan umat serta mengembalikan kesihatan dan kemudaannya yang telah hilang!
+Kalaulah bukan kerana adanya daya ketahanan, benteng kekebalan, ketabahan, dan kekuatan luar biasa pada bangsa-bangsa Timur ini — yang telah ditarik tali permusuhan oleh musuh-musuhnya dari kejauhan, dan mereka terus-menerus menyuntiknya dengan kuman-kuman penyakit ini sekian lama sehingga membiak dan bertelur-menetas di dalamnya — kalaulah bukan kerana daya tahan itu nescaya telah terhapus segala jejaknya dan telah lenyap daripada alam kewujudan! Namun Allah dan orang-orang yang beriman enggan membiarkannya binasa.
+
+Wahai saudaraku: inilah diagnosis sebenar yang disentuh oleh Ikhwanul Muslimin terhadap penyakit umat ini, dan inilah medan rawatan yang mereka usahakan demi menyembuhkan umat serta mengembalikan kesihatan dan kemudaannya yang telah hilang!
 
 ---
 
 ### 19. Optimisme & Harapan Kebangkitan (أمل وشعور - Amalun wa Syu‘ūr)
 
-Ketahuilah wahai saudaraku, kami sama sekali tidak berputus asa terhadap masa depan umat kami! Kami menaruh harapan yang amat besar, dan kami meyakini bahawa tiada yang menghalang antara kita dengan kejayaan melainkan rasa putus asa ini. Sekiranya harapan mengukuh di dalam jiwa kita, nescaya kita akan sampai kepada kebaikan yang melimpah ruah dengan izin Allah Taala. Segala tanda di sekeliling kita memberikan khabar gembira tentang harapan, di sebalik pesimisme golongan yang berputus asa.
+Ketahuilah wahai saudaraku, kami sama sekali tidak berputus asa terhadap masa depan umat kami! Kami menaruh harapan yang amat besar, dan kami meyakini bahawa tiada yang menghalang antara kita dengan kejayaan melainkan rasa putus asa ini. Sekiranya harapan mengukuh di dalam jiwa kita, nescaya kita akan sampai kepada kebaikan yang melimpah ruah dengan izin Allah Taala. Oleh sebab itulah kami tidak pernah berputus asa dan keputusasaan sama sekali tidak mendapat laluan ke dalam lubuk hati kami, walhamdulillah.
 
-Sekiranya engkau menziarahi seorang pesakit, lalu engkau melihatnya beralih daripada boleh bercakap kepada diam membisu, dan daripada bergerak kepada kaku terbaring — nescaya engkau merasakan ajalnya sudah hampir. Namun sekiranya berlaku sebaliknya: pesakit itu beralih daripada membisu kepada mula berbicara, dan daripada kaku kepada mula bergerak — nescaya engkau merasakan kesembuhannya semakin hampir dan dia sedang melangkah ke arah kesihatan dan afiat!
+Segala tanda di sekeliling kita memberikan khabar gembira tentang harapan, di sebalik pesimisme golongan yang berputus asa. Sekiranya engkau menziarahi seorang pesakit, lalu engkau melihatnya beralih daripada boleh bercakap kepada diam membisu, dan daripada bergerak kepada kaku terbaring — nescaya engkau merasakan ajalnya sudah hampir, kesembuhannya sukar, dan penyakitnya bertambah parah. Namun sekiranya berlaku sebaliknya: pesakit itu beralih daripada membisu kepada mula berbicara, dan daripada kaku kepada mula bergerak — nescaya engkau merasakan kesembuhannya semakin hampir dan dia sedang melangkah maju di atas jalan kesihatan dan afiat!
 
-Sesungguhnya telah berlalu suatu zaman ke atas bangsa-bangsa Timur di mana ia membeku sehingga kejumudan itu menjemukannya, dan ia kaku sehingga ketenangan itu meletihkannya. Namun kini, Timur sedang mendidih dengan kebangkitan menyeluruh dalam segenap aspek kehidupan, dan bergelora hebat dengan perasaan yang hidup serta sentimen yang membara! Kalaulah bukan kerana beratnya belenggu penjajah di satu pihak dan kecelaruan kepimpinan di pihak yang lain, nescaya kebangkitan ini telah membuahkan kesan yang paling mengagumkan. Belenggu ini tidak akan kekal selama-lamanya, kerana masa itu sentiasa berputar dan bertukar; dalam sekelip mata Allah mampu mengubah sesuatu keadaan kepada keadaan yang lain!
+Sesungguhnya telah berlalu suatu zaman ke atas bangsa-bangsa Timur di mana ia membeku sehingga kejumudan itu menjemukannya, dan ia kaku sehingga ketenangan itu meletihkannya. Namun kini, Timur sedang mendidih dengan kebangkitan menyeluruh dalam segenap aspek kehidupan, dan bergelora hebat dengan perasaan yang hidup serta sentimen yang membara!
 
-Oleh itu kami tidak pernah berputus asa sama sekali. Ayat-ayat Allah, hadis-hadis Rasulullah SAW, serta sunnatullah dalam mentarbiah umat dan membangkitkan bangsa-bangsa setelah berada di ambang kemusnahan — semuanya menyeru kita kepada harapan yang terbentang luas:
+Kalaulah bukan kerana beratnya belenggu penjajah di satu pihak dan kecelaruan kepimpinan di pihak yang lain, nescaya kebangkitan ini telah membuahkan kesan yang paling mengagumkan. Belenggu ini tidak akan kekal selama-lamanya, kerana masa itu sentiasa berputar dan bertukar; dalam sekelip mata antara kerdipan dan celikan mata Allah mampu mengubah sesuatu keadaan kepada keadaan yang lain! Orang yang keliru tidak akan kekal dalam kekeliruan, kerana selepas kebingungan ada petunjuk hidayah, dan selepas kekacauan ada ketenteraman; dan bagi Allahlah segala urusan sebelum dan selepasnya.
+
+Oleh itu kami tidak pernah berputus asa sama sekali. Ayat-ayat Allah Tabaraka wa Taala, hadis-hadis Rasulullah SAW, sunnah ketetapan-Nya dalam mentarbiah umat dan membangkitkan bangsa-bangsa setelah berada di ambang kemusnahan, serta kisah-kisah yang diceritakan-Nya kepada kita di dalam Kitab-Nya — semuanya menyeru kita kepada harapan yang terbentang luas dan memandu kita ke arah jalan kebangkitan; dan sesungguhnya umat Islam telah mengetahuinya sekiranya mereka mahu mengambil pengajaran!
+
+Dengarlah tatkala engkau membaca ayat suci yang mulia pada permulaan Surah al-Qashash:
 
 > **طسم • تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ • نَتْلُو عَلَيْكَ مِن نَّبَإِ مُوسَىٰ وَفِرْعَوْنَ بِالْحَقِّ لِقَوْمٍ يُؤْمِنُونَ • إِنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَائِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَاءَهُمْ وَيَسْتَحْيِي نِسَاءَهُمْ ۚ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ • وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ • وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا يَحْذَرُونَ**  
 > *"Taa, Seen, Meem. Ini ialah ayat-ayat Kitab (al-Quran) yang memberi penjelasan. Kami membacakan kepadamu sebahagian daripada kisah Nabi Musa dan Firaun dengan benar bagi kaum yang beriman. Sesungguhnya Firaun telah berlaku zalim dan sombong di bumi serta menjadikan penduduknya berpuak-puak; dia menindas sepuak daripada mereka dengan menyembelih anak-anak lelaki mereka dan membiarkan hidup anak-anak perempuan mereka; sesungguhnya dia adalah daripada golongan yang melakukan kerosakan. Dan Kami hendak melimpahkan kurnia kepada orang-orang yang tertindas di bumi itu, dan hendak menjadikan mereka pemimpin-pemimpin serta menjadikan mereka orang-orang yang mewarisi (bumi); dan Kami hendak memberi kedudukan yang teguh kepada mereka di bumi serta memperlihatkan kepada Firaun, Haman, dan tentera mereka apa yang mereka bimbangi daripada golongan tertindas itu."*  
 > *(Surah al-Qashash: 1-6)*
 
-Tatkala engkau membaca ayat-ayat mulia ini, engkau akan melihat bagaimana kebatilan melampau dalam keangkuhannya, berbangga dengan kekuatannya, tenteram dengan kezalimannya, dan leka daripada pengawasan mata al-Haqq yang sentiasa mengintainya... sehingga apabila ia bergembira dengan apa yang dimilikinya, Allah merentapnya dengan rentapan Tuhan Yang Maha Perkasa lagi Maha Kuasa! Kehendak Allah pasti memenangkan golongan yang tertindas; lantas kebatilan runtuh rebah dari asasnya dan kebenaran tegak kukuh mercu tiangnya.
+Tatkala engkau membaca ayat-ayat mulia ini, engkau akan melihat bagaimana kebatilan melampau dalam keangkuhannya, berbangga dengan kekuatannya, tenteram dengan kezalimannya, dan leka daripada pengawasan mata al-Haqq yang sentiasa mengintainya... sehingga apabila ia bergembira dengan apa yang dimilikinya, Allah merentapnya dengan rentapan Tuhan Yang Maha Perkasa lagi Maha Kuasa! Kehendak Allah pasti memenangkan golongan yang tertindas dan membela nasib mereka yang dizalimi; lantas kebatilan runtuh rebah dari asasnya dan kebenaran tegak kukuh mercu tiangnya, dan para pendukungnya adalah orang-orang yang beroleh kemenangan! 
+
+Tiadalah selepas ayat yang mulia ini dan seumpamanya daripada ayat-ayat Kitabullah sebarang alasan untuk berputus asa dan berputus harapan bagi mana-mana umat daripada umat Islam yang beriman kepada Allah, Rasul-Nya, dan Kitab-Nya. Maka bilakah umat Islam akan mendalami kefahaman terhadap Kitabullah?!
+
+Kerana ayat-ayat seperti inilah wahai saudaraku — dan ia amat banyak di dalam agama Allah — Ikhwanul Muslimin tidak pernah berputus asa daripada turunnya pertolongan Allah ke atas umat ini walaupun terdapat pelbagai rintangan yang terbentang di hadapannya. Dan di bawah suluhan cahaya harapan inilah mereka beramal dengan kesungguhan orang yang menaruh harapan tinggi, dan Allahlah tempat memohon pertolongan.
 
 ---
 
@@ -471,13 +480,13 @@ Adapun wasilah praktikal yang saya janjikan untuk berbicara mengenainya kepada k
 ```
 
 #### 1. Manhaj yang Sahih (المنهاج الصحيح - Al-Minhāj al-Ṣaḥīḥ)
-Ikhwanul Muslimin telah menemuinya di dalam Kitabullah, Sunnah Rasul-Nya, dan hukum-hukum syariat Islam tatkala umat Islam memahaminya dalam bentuknya yang segar, murni, dan bersih daripada segala tokok-tambah bidaah dan kepalsuan. Maka mereka menumpukan diri mempelajari Islam di atas asas ini dengan kajian yang mudah, luas, dan menyeluruh.
+Iaitu manhaj yang ditemui oleh Ikhwanul Muslimin di dalam Kitabullah, Sunnah Rasul-Nya, dan hukum-hakam Islam tatkala difahami oleh umat Islam di atas wajahnya yang sebenar — dalam keadaan segar (*ghaḍḍah*), suci murni (*naqiyyah*), jauh daripada unsur-unsur asing (*al-dakhā'il*) dan rekaan fitnah (*al-muftarayāt*). Maka mereka menumpukan sepenuh perhatian untuk mendalami Islam di atas asas ini dengan kajian yang mudah, luas, dan merangkumi segenap sudut (*dirāsah sahlatun wāsi‘atun mustaw‘ibah*).
 
 #### 2. Para Penggerak yang Beriman (العاملون المؤمنون - Al-‘Āmilūn al-Mu’minūn)
-Oleh itu, Ikhwanul Muslimin melatih diri mereka melaksanakan apa yang telah mereka fahami daripada agama Allah dengan pelaksanaan yang tegas tanpa kelonggaran dan kompromi. Dengan memuji Allah, mereka beriman teguh dengan gagasan mereka, tenang dengan matlamat mereka, dan yakin dengan pertolongan Allah selagi mana mereka beramal semata-mata kerana-Nya dan melangkah di atas petunjuk Rasul-Nya.
+Oleh sebab itulah, Ikhwanul Muslimin mendidik dan melatih diri mereka sendiri untuk melaksanakan apa yang mereka fahami daripada agama Allah dengan pelaksanaan yang tegas tanpa sebarang kompromi dan tawar-menawar (*taṭbīqan lā hawādata fīhi walā līn*). Dan mereka memikul tanggungjawab untuk beramal dengannya serta berdakwah kepadanya sehinggalah seluruh hati bersatu di atas manhaj ini. Dengan memuji Allah, mereka adalah generasi yang beriman dengan prinsip perjuangannya, tenang tenteram terhadap matlamatnya, dan yakin dengan pertolongan serta sokongan Allah kepada mereka selagi mana mereka ikhlas beramal semata-mata kerana-Nya dan melangkah di atas petunjuk Rasul-Nya.
 
 #### 3. Kepimpinan yang Tegas lagi Diyakini (القيادة الحازمة الموثوق بها - Al-Qiyādah al-Ḥāzimah al-Mawthūq bihā)
-Ikhwanul Muslimin telah menemuinya; maka mereka patuh mentaatinya dan beramal setia di bawah panjinya.
+Ikhwanul Muslimin telah menemui kepimpinan yang tegas lagi diyakini ini; oleh itu mereka sentiasa patuh dan taat kepadanya, serta bergerak melaksanakan tugas perjuangan di bawah kibaran panjinya.
 
 ---
 
@@ -504,308 +513,218 @@ Sekiranya engkau berpuas hati dan tertarik dengan pegangan perjuangan kami ini, 
 
 ---
 
-## 30 MUTIARA KATA EMAS RISALAH DA‘WATUNĀ (TAHZIB FIKRAH HARAKI)
-### 1. Keikhlasan Mutlak Tanpa Retorik
+## 🌟 30 MUTIARA KATA EMAS RISALAH DA‘WATUNĀ (TAHZIB FIKRAH HARAKI)
+
+(TAHZIB FIKRAH HARAKI)
+
+#### 1. Keikhlasan Mutlak Tanpa Retorik
+
 > **لَا نَبْتَغِي مِنْكُمْ جَزَاءً وَلَا شُكُورًا**  
 > *"Kami tidak berhajat kepada kata-kata sanjungan dan tidak mengharapkan pujian manusia. Cukuplah Allah yang mengetahui keikhlasan niat kami, dan sesungguhnya kami tidak meminta upah daripada sesiapa pun selain Allah Rabbul-'Alamin."*  
 > — **Fasal 01: Al-Muṣāraḥah (Keterusterangan)**
 
-### 2. Bebas dari Sentimen Kepartian
+
+#### 2. Bebas dari Sentimen Kepartian
+
 > **دَعْوَةٌ إِسْلَامِيَّةٌ صَافِيَةٌ لَا حِزْبِيَّةَ فِيهَا**  
 > *"Dakwah kami adalah dakwah Islam yang tulen—ia bukan sebuah parti politik sempit yang memecah-belahkan umat, dan bukan mazhab teologi baharu yang menambah jurang sengketa. Kami berdiri di atas panji Islam yang menyatukan, bukan yang meretakkan."*  
 > — **Fasal 02: Al-Barā'ah min al-Ḥizbiyyah**
 
-### 3. Menolak Sikap Mengungkit Jasa
+
+#### 3. Menolak Sikap Mengungkit Jasa
+
 > **بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ**  
 > *"Maha suci Allah daripada kami merasa diri telah berjasa kepada ummah! Bahkan Allahlah yang mengurniakan rahmat dan nikmat-Nya kepada kami apabila Dia sudi memilih kami untuk berkhidmat di jalan dakwah ini."*  
 > — **Fasal 03: Lillāhil-Faḍlu wal-Minnah**
 
-### 4. Siasah Syar'iyyah Juzuk Islam
+
+#### 4. Siasah Syar'iyyah Juzuk Islam
+
 > **فَهَذِهِ سِيَاسَتُنَا لَا نَبْغِي بِهَا بَدِيلًا**  
 > *"Jika orang yang mengambil berat tentang keadilan rakyat dan kedaulatan syariat kamu gelarkan sebagai 'politikus', maka katakanlah: Kami adalah orang yang paling berakar umbi dalam politik, kerana politik Islam adalah menjaga maslahat ummah dunia dan akhirat."*  
 > — **Fasal 04: Siasah dan Pemerintahan**
 
-### 5. Kategori Mukmin Terhadap Dakwah
+
+#### 5. Kategori Mukmin Terhadap Dakwah
+
 > **فَهَذَا مَعَنَا وَمِنَّا لَهُ مَا لَنَا وَعَلَيْهِ مَا عَلَيْنَا**  
 > *"Seorang mukmin sejati tatkala mendengar seruan dakwah yang benar, dia tidak berlengah lagi. Dia meletakkan tangannya di atas tangan kami, menjual dirinya kepada Allah, dan bersedia menanggung beban perjuangan."*  
 > — **Fasal 05: Empat Sikap Manusia**
 
-### 6. Menyantuni yang Ragu-Ragu
+
+#### 6. Menyantuni yang Ragu-Ragu
+
 > **تَأَمَّلْ فِي دَعْوَتِنَا بِمِيزَانِ الحَقِّ**  
 > *"Kepada orang yang masih ragu-ragu dan meneliti dari kejauhan, kami katakan: Periksalah dakwah kami dengan neraca Al-Quran dan Sunnah. Jika engkau melihat ia adalah kebenaran, mari melangkah bersama; dan jika engkau melihat sebaliknya, nasihatilah kami dengan ikhlas."*  
 > — **Fasal 05: Al-Mutaraddid (Yang Ragu-ragu)**
 
-### 7. Menolak Sikap Oportunis (An-Naf'i)
+
+#### 7. Menolak Sikap Oportunis (An-Naf'i)
+
 > **لَا نَعِدُكُمْ بِمَغَانِمِ الدُّنْيَا**  
 > *"Jalan dakwah ini tidak menjanjikan jawatan empuk, kemewahan harta, atau populariti murahan. Sesiapa yang menyertainya demi mencari keuntungan duniawi, nescaya dia akan kecewa dan berundur di tengah jalan."*  
 > — **Fasal 05: Golongan Oportunis**
 
-### 8. Menghadapi Penentang dengan Sabar
+
+#### 8. Menghadapi Penentang dengan Sabar
+
 > **اللَّهُمَّ اهْدِ قَوْمِي فَإِنَّهُمْ لَا يَعْلَمُونَ**  
 > *"Kepada mereka yang berprasangka buruk dan memusuhi kami tanpa usul periksa, doa kami hanyalah: 'Ya Allah, berilah petunjuk kepada kaum kami, sesungguhnya mereka belum mengetahui hakikat seruan kami.'"*  
 > — **Fasal 05: Al-Mutahamil (Penentang)**
 
-### 9. Fana' fi Sabil al-Fikrah
+
+#### 9. Fana' fi Sabil al-Fikrah
+
 > **الفَنَاءُ فِي سَبِيلِ الفِكْرَةِ**  
 > *"Prinsip dakwah tidak akan tegak melainkan apabila para pendokongnya meleburkan kepentingan diri mereka demi kemenangan prinsip tersebut. Prinsip dakwah menuntut agar seluruh jiwa, masa, tenaga, dan harta diwakafkan untuknya."*  
 > — **Fasal 06: Meleburkan Diri Demi Prinsip**
 
-### 10. Kejelasan Identiti Manhaj
+
+#### 10. Kejelasan Identiti Manhaj
+
 > **تَرَكْتُكُمْ عَلَى المَحَجَّةِ البَيْضَاءِ**  
 > *"Kejayaan sesuatu gerakan bergantung kepada kejelasan manhajnya dan kebersihan sumber ambilan dasarnya. Manhaj kami terang bagaikan fajar menyingsing, dicedok langsung dari telaga jernih Al-Quran dan Sunnah Rasulullah ﷺ."*  
 > — **Fasal 07: Al-Wuduh wa Naqa' al-Manhaj**
 
-### 11. Dua Jenis Keimanan
+
+#### 11. Dua Jenis Keimanan
+
 > **إِيمَانٌ يُحَرِّكُ الجِبَالَ**  
 > *"Betapa berbezanya antara iman yang sejuk beku di sudut hati yang sekadar menghasilkan solat tanpa roh—dengan keimanan yang membakar jiwa laksana bara api, yang menggerakkan pemiliknya untuk berkorban dan mengubah kebatilan!"*  
 > — **Fasal 08: Imanani (Dua Keimanan)**
 
-### 12. Kesempurnaan dan Kesyumulan Islam
+
+#### 12. Kesempurnaan dan Kesyumulan Islam
+
 > **الإِسْلَامُ شَامِلٌ لِكُلِّ مَنَاحِي الحَيَاةِ**  
 > *"Islam menurut kami adalah sebuah akidah yang suci dan ibadah yang khusyuk, tanah air dan kewarganegaraan, toleransi dan kekuatan, akhlak dan perundangan, ilmu dan kehakiman, kebendaan dan harta kekayaan, jihad dan dakwah, tentera dan fikrah—ia merangkumi segenap sudut kehidupan manusia."*  
 > — **Fasal 12: Islamuna (Islam Menurut Kami)**
 
-### 13. Cinta Tanah Air yang Hakiki
+
+#### 13. Cinta Tanah Air yang Hakiki
+
 > **حُبُّ الوَطَنِ مِنَ الإِيمَانِ**  
 > *"Kami mencintai tanah air tempat tumpah darah kami dengan kecintaan yang mendalam, dan kami bersedia berkorban demi membebaskannya daripada belenggu penjajahan; namun cinta kami tidak berakhir di sempadan geografi, kerana setiap bumi orang beriman adalah tanah air kami."*  
 > — **Fasal 13: Wataniyyah al-Hanin**
 
-### 14. Menolak Fasisme Perkauman
+
+#### 14. Menolak Fasisme Perkauman
+
 > **لَا فَضْلَ لِعَرَبِيٍّ عَلَى أَعْجَمِيٍّ إِلَّا بِالتَّقْوَى**  
 > *"Kami menolak semangat kebangsaan yang melahirkan cauvinisme sempit dan kezaliman terhadap bangsa lain; sebaliknya kami menjulang kebangsaan akhlak dan keadilan yang mengangkat darjat manusia berasaskan takwa."*  
 > — **Fasal 14: Bedah Siasat Al-Qawmiyyah**
 
-### 15. Ufuk Watan Islam Melangkaui Benua
+
+#### 15. Ufuk Watan Islam Melangkaui Benua
+
 > **كُلُّ أَرْضٍ يُذْكَرُ فِيهَا اسْمُ اللَّهِ وَطَنِي**  
 > *"Sempadan tanah air pada neraca seorang muslim bukanlah dipagari oleh kawat berduri atau garis peta penjajah; sempadan tanah air kami terbentang luas sejauh mana terbentangnya kalimah 'Lā Ilāha Illallāh, Muḥammadur Rasūlullāh'."*  
 > — **Fasal 15: Sempadan Wataniah Kami**
 
-### 16. Adab Menghadapi Khilaf Mazhab
+
+#### 16. Adab Menghadapi Khilaf Mazhab
+
 > **نَتَعَاوَنُ فِيمَا اتَّفَقْنَا عَلَيْهِ وَيَعْذُرُ بَعْضُنَا بَعْضًا**  
 > *"Perbezaan pendapat dalam perkara cabang (furū‘) adalah rahmat dan kemestian akal. Jangan sekali-kali kita menjadikan masalah ranting sebagai punca untuk merobek perpaduan akidah yang pokok."*  
 > — **Fasal 16: Sikap Terhadap Khilaf Mazhab**
 
-### 17. Menyatukan Hati Mengatasi Persengketaan
+
+#### 17. Menyatukan Hati Mengatasi Persengketaan
+
 > **وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا**  
 > *"Umat Islam tidak akan mampu menghadapi musuh yang mengepung mereka sekiranya mereka terus sibuk saling mengkafirkan, menyesatkan, dan mempertikaikan ijtihad furū‘iyyah sesama sendiri."*  
 > — **Fasal 16: Penyatuan Saf**
 
-### 18. Keadilan Terhadap Warga Bukan Islam
+
+#### 18. Keadilan Terhadap Warga Bukan Islam
+
 > **لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ**  
 > *"Islam mewajibkan keadilan yang mutlak, ihsan, dan perlindungan penuh ke atas warga bukan Islam yang hidup bersama kita secara aman. Al-Quran mengharamkan sebarang bentuk kezaliman terhadap mereka."*  
 > — **Fasal 17: Hubungan dengan Bukan Islam**
 
-### 19. Diagnosis Penyakit Perpecahan
+
+#### 19. Diagnosis Penyakit Perpecahan
+
 > **دَاءُ التَّفَرُّقِ وَالعَصَبِيَّةِ**  
 > *"Penyakit paling kronik yang melumpuhkan umat Islam bukanlah kerana ketiadaan sumber alam, tetapi kerana virus perpecahan politik dan hilangnya rasa ukhuwah persaudaraan hakiki."*  
 > — **Fasal 18: Diagnosis Penyakit Ummah**
 
-### 20. Krisis Kehampaan Jiwa
+
+#### 20. Krisis Kehampaan Jiwa
+
 > **وَإِنَّمَا الأُمَمُ الأَخْلَاقُ مَا بَقِيَتْ**  
 > *"Kemiskinan kebendaan mudah diubati dengan usaha dan perancangan; namun kemiskinan jiwa dan keruntuhan moral adalah penyakit kanser yang mampu melenyapkan sesuatu tamadun dari persada sejarah."*  
 > — **Fasal 18: Penyakit Runtuh Moral**
 
-### 21. Rukun Pertama: Manhaj yang Lurus
+
+#### 21. Rukun Pertama: Manhaj yang Lurus
+
 > **المِنْهَاجُ القَوِيمُ المُسْتَمَدُّ مِنَ القُرْآنِ**  
 > *"Ubat pertama bagi penyakit umat adalah mengembalikan Manhaj Al-Quran yang lurus—manhaj yang menggabungkan pembinaan akal dengan penyucian hati, serta menggandingkan keimanan dengan jihad amali."*  
 > — **Fasal 19: Al-Minhāj al-Qawīm**
 
-### 22. Rukun Kedua: Para Amilin yang Ikhlas
+
+#### 22. Rukun Kedua: Para Amilin yang Ikhlas
+
 > **رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ**  
 > *"Manhaj yang agung di atas kertas tidak akan bergerak sekiranya tiada barisan para amilin yang ikhlas—mereka yang tidak dibeli dengan wang ringgit dan tidak digoyahkan oleh ugutan penindas."*  
 > — **Fasal 19: Al-‘Āmilūn al-Mukhliṣūn**
 
-### 23. Rukun Ketiga: Kepimpinan yang Sedar
+
+#### 23. Rukun Ketiga: Kepimpinan yang Sedar
+
 > **قِيَادَةٌ وَاعِيَةٌ تَعْرِفُ مَعَالِمَ الطَّرِيقِ**  
 > *"Umat ini memerlukan kepimpinan yang sedar dan tajam pengamatannya; kepimpinan yang mengetahui bila masanya untuk berlemah-lembut, bila masanya untuk tegas berprinsip, dan bagaimana memandu bahtera ummah meredah badai fitnah."*  
 > — **Fasal 19: Al-Qiyādah al-Wā‘iyah**
 
-### 24. Kekuatan Aqidah Mendahului Dana
+
+#### 24. Kekuatan Aqidah Mendahului Dana
+
 > **الإِيمَانُ قَبْلَ المَالِ**  
 > *"Wang ringgit bukanlah segala-galanya dalam dakwah. Sejarah membuktikan bahawa keimanan yang menyala dalam jiwa sekumpulan pemuda mampu menggoncang empayar besar dan mematahkan keangkuhan kebendaan."*  
 > — **Fasal 10: Sumber Kekuatan Dakwah**
 
-### 25. Hakikat Perjuangan Menuntut Pengorbanan
+
+#### 25. Hakikat Perjuangan Menuntut Pengorbanan
+
 > **النَّصْرُ مَعَ الصَّبْرِ**  
 > *"Kemenangan Islam tidak akan turun seperti titisan hujan dari langit ke atas mereka yang berpangku tangan; kemenangan hanya akan dianugerahkan kepada mereka yang berpeluh dahi dan mengalirkan darah di medan bakti."*  
 > — **Fasal 09: Hakikat Perjuangan**
 
-### 26. Penyatuan Syariat dan Kehidupan
+
+#### 26. Penyatuan Syariat dan Kehidupan
+
 > **لَا حَيَاةَ إِلَّا بِالشَّرِيعَةِ**  
 > *"Memisahkan urusan duniawi daripada kawalan syariat Islam adalah jenayah terbesar terhadap fitrah kemanusiaan, yang menjadi punca kepada kezaliman sosial dan keruntuhan tamadun moden."*  
 > — **Fasal 12: Daulat Syariat**
 
-### 27. Kewaspadaan Terhadap Jarum Kolonial
+
+#### 27. Kewaspadaan Terhadap Jarum Kolonial
+
 > **الغَزْوُ الفِكْرِيُّ أَخْطَرُ مِنَ الغَزْوِ العَسْكَرِيِّ**  
 > *"Penjajahan minda dan kebudayaan jauh lebih berbahaya daripada penjajahan tentera; kerana penjajahan tentera membangkitkan kebencian, manakala penjajahan minda memukau mangsanya sehingga mengagumi penindasnya."*  
 > — **Fasal 18: Imperialisme Minda**
 
-### 28. Keseimbangan Dunia dan Akhirat
+
+#### 28. Keseimbangan Dunia dan Akhirat
+
 > **رُهْبَانٌ بِاللَّيْلِ فُرْسَانٌ بِالنَّهَارِ**  
 > *"Dakwah kami mendidik seorang muslim agar menjadi rahib yang khusyuk di mihrab ibadahnya pada malam hari, dan menjadi pahlawan yang tangkas membina peradaban serta menegakkan keadilan pada siang hari."*  
 > — **Fasal 12: Rahib dan Pahlawan**
 
-### 29. Harapan Tidak Pernah Padam
+
+#### 29. Harapan Tidak Pernah Padam
+
 > **أَلَيْسَ الصُّبْحُ بِقَرِيبٍ**  
 > *"Jangan sekali-kali kamu berputus asa terhadap masa depan kebangkitan Islam! Sesungguhnya apa yang kamu lihat sebagai kegelapan malam hari ini adalah petanda bahawa fajar kemuliaan Islam semakin hampir menyingsing."*  
 > — **Fasal 20: Seruan Harapan**
 
-### 30. Khatimah Keteguhan Langkah
+
+#### 30. Khatimah Keteguhan Langkah
+
 > **وَاللَّهُ مَعَكُمْ وَلَنْ يَتِرَكُمْ أَعْمَالَكُمْ**  
 > *"Wahai ikhwan! Di tangan kalianlah letaknya harapan ummah yang terluka ini. Teguhkanlah langkah kamu di atas jalan dakwah, bersabarlah menempuh mehnah, dan yakinlah bahawa Allah bersama orang-orang yang bertakwa lagi berbuat kebaikan."*  
 > — **Fasal 21: Khatimah Haraki**
 
 
 ---
-
-## 30 MUTIARA KATA EMAS RISALAH DA‘WATUNĀ (TAHZIB FIKRAH HARAKI)
-### 1. Keikhlasan Mutlak Tanpa Retorik
-> **لَا نَبْتَغِي مِنْكُمْ جَزَاءً وَلَا شُكُورًا**  
-> *"Kami tidak berhajat kepada kata-kata sanjungan dan tidak mengharapkan pujian manusia. Cukuplah Allah yang mengetahui keikhlasan niat kami, dan sesungguhnya kami tidak meminta upah daripada sesiapa pun selain Allah Rabbul-'Alamin."*  
-> — **Fasal 01: Al-Muṣāraḥah (Keterusterangan)**
-
-### 2. Bebas dari Sentimen Kepartian
-> **دَعْوَةٌ إِسْلَامِيَّةٌ صَافِيَةٌ لَا حِزْبِيَّةَ فِيهَا**  
-> *"Dakwah kami adalah dakwah Islam yang tulen—ia bukan sebuah parti politik sempit yang memecah-belahkan umat, dan bukan mazhab teologi baharu yang menambah jurang sengketa. Kami berdiri di atas panji Islam yang menyatukan, bukan yang meretakkan."*  
-> — **Fasal 02: Al-Barā'ah min al-Ḥizbiyyah**
-
-### 3. Menolak Sikap Mengungkit Jasa
-> **بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ**  
-> *"Maha suci Allah daripada kami merasa diri telah berjasa kepada ummah! Bahkan Allahlah yang mengurniakan rahmat dan nikmat-Nya kepada kami apabila Dia sudi memilih kami untuk berkhidmat di jalan dakwah ini."*  
-> — **Fasal 03: Lillāhil-Faḍlu wal-Minnah**
-
-### 4. Siasah Syar'iyyah Juzuk Islam
-> **فَهَذِهِ سِيَاسَتُنَا لَا نَبْغِي بِهَا بَدِيلًا**  
-> *"Jika orang yang mengambil berat tentang keadilan rakyat dan kedaulatan syariat kamu gelarkan sebagai 'politikus', maka katakanlah: Kami adalah orang yang paling berakar umbi dalam politik, kerana politik Islam adalah menjaga maslahat ummah dunia dan akhirat."*  
-> — **Fasal 04: Siasah dan Pemerintahan**
-
-### 5. Kategori Mukmin Terhadap Dakwah
-> **فَهَذَا مَعَنَا وَمِنَّا لَهُ مَا لَنَا وَعَلَيْهِ مَا عَلَيْنَا**  
-> *"Seorang mukmin sejati tatkala mendengar seruan dakwah yang benar, dia tidak berlengah lagi. Dia meletakkan tangannya di atas tangan kami, menjual dirinya kepada Allah, dan bersedia menanggung beban perjuangan."*  
-> — **Fasal 05: Empat Sikap Manusia**
-
-### 6. Menyantuni yang Ragu-Ragu
-> **تَأَمَّلْ فِي دَعْوَتِنَا بِمِيزَانِ الحَقِّ**  
-> *"Kepada orang yang masih ragu-ragu dan meneliti dari kejauhan, kami katakan: Periksalah dakwah kami dengan neraca Al-Quran dan Sunnah. Jika engkau melihat ia adalah kebenaran, mari melangkah bersama; dan jika engkau melihat sebaliknya, nasihatilah kami dengan ikhlas."*  
-> — **Fasal 05: Al-Mutaraddid (Yang Ragu-ragu)**
-
-### 7. Menolak Sikap Oportunis (An-Naf'i)
-> **لَا نَعِدُكُمْ بِمَغَانِمِ الدُّنْيَا**  
-> *"Jalan dakwah ini tidak menjanjikan jawatan empuk, kemewahan harta, atau populariti murahan. Sesiapa yang menyertainya demi mencari keuntungan duniawi, nescaya dia akan kecewa dan berundur di tengah jalan."*  
-> — **Fasal 05: Golongan Oportunis**
-
-### 8. Menghadapi Penentang dengan Sabar
-> **اللَّهُمَّ اهْدِ قَوْمِي فَإِنَّهُمْ لَا يَعْلَمُونَ**  
-> *"Kepada mereka yang berprasangka buruk dan memusuhi kami tanpa usul periksa, doa kami hanyalah: 'Ya Allah, berilah petunjuk kepada kaum kami, sesungguhnya mereka belum mengetahui hakikat seruan kami.'"*  
-> — **Fasal 05: Al-Mutahamil (Penentang)**
-
-### 9. Fana' fi Sabil al-Fikrah
-> **الفَنَاءُ فِي سَبِيلِ الفِكْرَةِ**  
-> *"Prinsip dakwah tidak akan tegak melainkan apabila para pendokongnya meleburkan kepentingan diri mereka demi kemenangan prinsip tersebut. Prinsip dakwah menuntut agar seluruh jiwa, masa, tenaga, dan harta diwakafkan untuknya."*  
-> — **Fasal 06: Meleburkan Diri Demi Prinsip**
-
-### 10. Kejelasan Identiti Manhaj
-> **تَرَكْتُكُمْ عَلَى المَحَجَّةِ البَيْضَاءِ**  
-> *"Kejayaan sesuatu gerakan bergantung kepada kejelasan manhajnya dan kebersihan sumber ambilan dasarnya. Manhaj kami terang bagaikan fajar menyingsing, dicedok langsung dari telaga jernih Al-Quran dan Sunnah Rasulullah ﷺ."*  
-> — **Fasal 07: Al-Wuduh wa Naqa' al-Manhaj**
-
-### 11. Dua Jenis Keimanan
-> **إِيمَانٌ يُحَرِّكُ الجِبَالَ**  
-> *"Betapa berbezanya antara iman yang sejuk beku di sudut hati yang sekadar menghasilkan solat tanpa roh—dengan keimanan yang membakar jiwa laksana bara api, yang menggerakkan pemiliknya untuk berkorban dan mengubah kebatilan!"*  
-> — **Fasal 08: Imanani (Dua Keimanan)**
-
-### 12. Kesempurnaan dan Kesyumulan Islam
-> **الإِسْلَامُ شَامِلٌ لِكُلِّ مَنَاحِي الحَيَاةِ**  
-> *"Islam menurut kami adalah sebuah akidah yang suci dan ibadah yang khusyuk, tanah air dan kewarganegaraan, toleransi dan kekuatan, akhlak dan perundangan, ilmu dan kehakiman, kebendaan dan harta kekayaan, jihad dan dakwah, tentera dan fikrah—ia merangkumi segenap sudut kehidupan manusia."*  
-> — **Fasal 12: Islamuna (Islam Menurut Kami)**
-
-### 13. Cinta Tanah Air yang Hakiki
-> **حُبُّ الوَطَنِ مِنَ الإِيمَانِ**  
-> *"Kami mencintai tanah air tempat tumpah darah kami dengan kecintaan yang mendalam, dan kami bersedia berkorban demi membebaskannya daripada belenggu penjajahan; namun cinta kami tidak berakhir di sempadan geografi, kerana setiap bumi orang beriman adalah tanah air kami."*  
-> — **Fasal 13: Wataniyyah al-Hanin**
-
-### 14. Menolak Fasisme Perkauman
-> **لَا فَضْلَ لِعَرَبِيٍّ عَلَى أَعْجَمِيٍّ إِلَّا بِالتَّقْوَى**  
-> *"Kami menolak semangat kebangsaan yang melahirkan cauvinisme sempit dan kezaliman terhadap bangsa lain; sebaliknya kami menjulang kebangsaan akhlak dan keadilan yang mengangkat darjat manusia berasaskan takwa."*  
-> — **Fasal 14: Bedah Siasat Al-Qawmiyyah**
-
-### 15. Ufuk Watan Islam Melangkaui Benua
-> **كُلُّ أَرْضٍ يُذْكَرُ فِيهَا اسْمُ اللَّهِ وَطَنِي**  
-> *"Sempadan tanah air pada neraca seorang muslim bukanlah dipagari oleh kawat berduri atau garis peta penjajah; sempadan tanah air kami terbentang luas sejauh mana terbentangnya kalimah 'Lā Ilāha Illallāh, Muḥammadur Rasūlullāh'."*  
-> — **Fasal 15: Sempadan Wataniah Kami**
-
-### 16. Adab Menghadapi Khilaf Mazhab
-> **نَتَعَاوَنُ فِيمَا اتَّفَقْنَا عَلَيْهِ وَيَعْذُرُ بَعْضُنَا بَعْضًا**  
-> *"Perbezaan pendapat dalam perkara cabang (furū‘) adalah rahmat dan kemestian akal. Jangan sekali-kali kita menjadikan masalah ranting sebagai punca untuk merobek perpaduan akidah yang pokok."*  
-> — **Fasal 16: Sikap Terhadap Khilaf Mazhab**
-
-### 17. Menyatukan Hati Mengatasi Persengketaan
-> **وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا**  
-> *"Umat Islam tidak akan mampu menghadapi musuh yang mengepung mereka sekiranya mereka terus sibuk saling mengkafirkan, menyesatkan, dan mempertikaikan ijtihad furū‘iyyah sesama sendiri."*  
-> — **Fasal 16: Penyatuan Saf**
-
-### 18. Keadilan Terhadap Warga Bukan Islam
-> **لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ**  
-> *"Islam mewajibkan keadilan yang mutlak, ihsan, dan perlindungan penuh ke atas warga bukan Islam yang hidup bersama kita secara aman. Al-Quran mengharamkan sebarang bentuk kezaliman terhadap mereka."*  
-> — **Fasal 17: Hubungan dengan Bukan Islam**
-
-### 19. Diagnosis Penyakit Perpecahan
-> **دَاءُ التَّفَرُّقِ وَالعَصَبِيَّةِ**  
-> *"Penyakit paling kronik yang melumpuhkan umat Islam bukanlah kerana ketiadaan sumber alam, tetapi kerana virus perpecahan politik dan hilangnya rasa ukhuwah persaudaraan hakiki."*  
-> — **Fasal 18: Diagnosis Penyakit Ummah**
-
-### 20. Krisis Kehampaan Jiwa
-> **وَإِنَّمَا الأُمَمُ الأَخْلَاقُ مَا بَقِيَتْ**  
-> *"Kemiskinan kebendaan mudah diubati dengan usaha dan perancangan; namun kemiskinan jiwa dan keruntuhan moral adalah penyakit kanser yang mampu melenyapkan sesuatu tamadun dari persada sejarah."*  
-> — **Fasal 18: Penyakit Runtuh Moral**
-
-### 21. Rukun Pertama: Manhaj yang Lurus
-> **المِنْهَاجُ القَوِيمُ المُسْتَمَدُّ مِنَ القُرْآنِ**  
-> *"Ubat pertama bagi penyakit umat adalah mengembalikan Manhaj Al-Quran yang lurus—manhaj yang menggabungkan pembinaan akal dengan penyucian hati, serta menggandingkan keimanan dengan jihad amali."*  
-> — **Fasal 19: Al-Minhāj al-Qawīm**
-
-### 22. Rukun Kedua: Para Amilin yang Ikhlas
-> **رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ**  
-> *"Manhaj yang agung di atas kertas tidak akan bergerak sekiranya tiada barisan para amilin yang ikhlas—mereka yang tidak dibeli dengan wang ringgit dan tidak digoyahkan oleh ugutan penindas."*  
-> — **Fasal 19: Al-‘Āmilūn al-Mukhliṣūn**
-
-### 23. Rukun Ketiga: Kepimpinan yang Sedar
-> **قِيَادَةٌ وَاعِيَةٌ تَعْرِفُ مَعَالِمَ الطَّرِيقِ**  
-> *"Umat ini memerlukan kepimpinan yang sedar dan tajam pengamatannya; kepimpinan yang mengetahui bila masanya untuk berlemah-lembut, bila masanya untuk tegas berprinsip, dan bagaimana memandu bahtera ummah meredah badai fitnah."*  
-> — **Fasal 19: Al-Qiyādah al-Wā‘iyah**
-
-### 24. Kekuatan Aqidah Mendahului Dana
-> **الإِيمَانُ قَبْلَ المَالِ**  
-> *"Wang ringgit bukanlah segala-galanya dalam dakwah. Sejarah membuktikan bahawa keimanan yang menyala dalam jiwa sekumpulan pemuda mampu menggoncang empayar besar dan mematahkan keangkuhan kebendaan."*  
-> — **Fasal 10: Sumber Kekuatan Dakwah**
-
-### 25. Hakikat Perjuangan Menuntut Pengorbanan
-> **النَّصْرُ مَعَ الصَّبْرِ**  
-> *"Kemenangan Islam tidak akan turun seperti titisan hujan dari langit ke atas mereka yang berpangku tangan; kemenangan hanya akan dianugerahkan kepada mereka yang berpeluh dahi dan mengalirkan darah di medan bakti."*  
-> — **Fasal 09: Hakikat Perjuangan**
-
-### 26. Penyatuan Syariat dan Kehidupan
-> **لَا حَيَاةَ إِلَّا بِالشَّرِيعَةِ**  
-> *"Memisahkan urusan duniawi daripada kawalan syariat Islam adalah jenayah terbesar terhadap fitrah kemanusiaan, yang menjadi punca kepada kezaliman sosial dan keruntuhan tamadun moden."*  
-> — **Fasal 12: Daulat Syariat**
-
-### 27. Kewaspadaan Terhadap Jarum Kolonial
-> **الغَزْوُ الفِكْرِيُّ أَخْطَرُ مِنَ الغَزْوِ العَسْكَرِيِّ**  
-> *"Penjajahan minda dan kebudayaan jauh lebih berbahaya daripada penjajahan tentera; kerana penjajahan tentera membangkitkan kebencian, manakala penjajahan minda memukau mangsanya sehingga mengagumi penindasnya."*  
-> — **Fasal 18: Imperialisme Minda**
-
-### 28. Keseimbangan Dunia dan Akhirat
-> **رُهْبَانٌ بِاللَّيْلِ فُرْسَانٌ بِالنَّهَارِ**  
-> *"Dakwah kami mendidik seorang muslim agar menjadi rahib yang khusyuk di mihrab ibadahnya pada malam hari, dan menjadi pahlawan yang tangkas membina peradaban serta menegakkan keadilan pada siang hari."*  
-> — **Fasal 12: Rahib dan Pahlawan**
-
-### 29. Harapan Tidak Pernah Padam
-> **أَلَيْسَ الصُّبْحُ بِقَرِيبٍ**  
-> *"Jangan sekali-kali kamu berputus asa terhadap masa depan kebangkitan Islam! Sesungguhnya apa yang kamu lihat sebagai kegelapan malam hari ini adalah petanda bahawa fajar kemuliaan Islam semakin hampir menyingsing."*  
-> — **Fasal 20: Seruan Harapan**
-
-### 30. Khatimah Keteguhan Langkah
-> **وَاللَّهُ مَعَكُمْ وَلَنْ يَتِرَكُمْ أَعْمَالَكُمْ**  
-> *"Wahai ikhwan! Di tangan kalianlah letaknya harapan ummah yang terluka ini. Teguhkanlah langkah kamu di atas jalan dakwah, bersabarlah menempuh mehnah, dan yakinlah bahawa Allah bersama orang-orang yang bertakwa lagi berbuat kebaikan."*  
-> — **Fasal 21: Khatimah Haraki**
-
