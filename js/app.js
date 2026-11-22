@@ -65,9 +65,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const fullTextView = document.getElementById('fullTextView');
   const summaryView = document.getElementById('summaryView');
   const quotesView = document.getElementById('quotesView');
+  const ummahPbiView = document.getElementById('ummahPbiView');
   const activeChapterContent = document.getElementById('activeChapterContent');
   const summaryGrid = document.getElementById('summaryGrid');
   const quotesGrid = document.getElementById('quotesGrid');
+  const featUmmahPbiBtn = document.getElementById('featUmmahPbiBtn');
 
   // Pager Elements
   const prevChapterBtn = document.getElementById('prevChapterBtn');
@@ -162,7 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Update Subheading Banner
     bannerSectionNumber.textContent = `FASAL ${String(sec.number).padStart(2, '0')} / ${String(risalah.sections.length).padStart(2, '0')}`;
-    
+
     // Ekstrak teks Arab dari tajuk fasal jika ada (cth: (المقياس))
     const arMatch = sec.title.match(/\(([\u0600-\u06FF\s]+)\)/);
     bannerArabicGold.textContent = arMatch ? arMatch[1] : risalah.arabic_title;
@@ -298,7 +300,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: `Mutiara Hikmah: ${hasRich ? item.theme : risalah.title}`,
             text: fullShare,
             url: window.location.href
-          }).catch(() => {});
+          }).catch(() => { });
         } else {
           navigator.clipboard.writeText(fullShare);
           showToast('Pautan disalin ke papan keratan');
@@ -309,7 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Switch View Mode (Full, Summary, Quotes)
+  // Switch View Mode (Full, Summary, Quotes, Ummah_PBI)
   function switchViewMode(mode) {
     state.currentViewMode = mode;
     headerTabBtns.forEach(btn => btn.classList.toggle('active', btn.dataset.mode === mode));
@@ -317,11 +319,22 @@ document.addEventListener('DOMContentLoaded', () => {
     fullTextView.classList.toggle('active', mode === 'full');
     summaryView.classList.toggle('active', mode === 'summary');
     quotesView.classList.toggle('active', mode === 'quotes');
+    if (ummahPbiView) {
+      ummahPbiView.classList.toggle('active', mode === 'ummah_pbi');
+    }
+
+    // Sembunyikan hero spesifik jika dalam mod Ummah PBI
+    const heroElem = document.getElementById('risalahHero');
+    if (heroElem) {
+      heroElem.style.display = mode === 'ummah_pbi' ? 'none' : 'block';
+    }
 
     const risalah = getCurrentRisalah();
     if (mode === 'summary') renderSummary(risalah);
     if (mode === 'quotes') renderQuotes(risalah);
     if (mode === 'full') renderActiveSection();
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
   // Setup Event Listeners
@@ -343,6 +356,13 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Feature Cards (Sidebar)
+    if (featUmmahPbiBtn) {
+      featUmmahPbiBtn.addEventListener('click', () => {
+        switchViewMode('ummah_pbi');
+        closeSidebar();
+      });
+    }
+
     featRandomQuoteBtn.addEventListener('click', () => {
       switchViewMode('quotes');
       closeSidebar();

@@ -1237,6 +1237,204 @@ body {
 .dl-btn.md { background: rgba(16, 185, 129, 0.15); color: #34D399; border-color: rgba(16, 185, 129, 0.35); }
 .dl-btn.md:hover { background: #10B981; color: #FFFFFF; }
 
+/* ==========================================================================
+   UMMAH FADHILAH, KUASA NASIONAL & PBI VIEW STYLING
+   ========================================================================== */
+.header-tab-btn.tab-ummah-pbi {
+  border: 1px solid rgba(56, 189, 248, 0.4);
+  background: rgba(14, 30, 64, 0.5);
+  color: var(--cyan-primary);
+}
+.header-tab-btn.tab-ummah-pbi:hover {
+  background: linear-gradient(135deg, #0284c7, #0369a1);
+  color: #FFFFFF;
+  border-color: #38bdf8;
+  box-shadow: 0 0 12px var(--cyan-glow);
+}
+.header-tab-btn.tab-ummah-pbi.active {
+  background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%) !important;
+  color: #FFFFFF !important;
+  border-color: #38bdf8 !important;
+  box-shadow: 0 4px 14px var(--cyan-glow) !important;
+}
+
+.pbi-hero-card {
+  background: linear-gradient(135deg, rgba(6, 23, 38, 0.96) 0%, rgba(14, 38, 40, 0.92) 100%);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  border-radius: var(--radius-lg);
+  padding: 2.2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.5), 0 0 24px rgba(56, 189, 248, 0.2);
+}
+
+.pbi-pillars-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.4rem;
+  margin-bottom: 2.2rem;
+}
+
+.pbi-pillar-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+.pbi-pillar-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card);
+}
+
+.pillar-emerald {
+  border-left: 4px solid var(--emerald-primary);
+}
+.pillar-emerald:hover {
+  border-color: var(--emerald-light);
+  box-shadow: 0 8px 24px var(--emerald-glow);
+}
+
+.pillar-blue {
+  border-left: 4px solid var(--cyan-primary);
+}
+.pillar-blue:hover {
+  border-color: var(--cyan-primary);
+  box-shadow: 0 8px 24px var(--cyan-glow);
+}
+
+.pillar-rose {
+  border-left: 4px solid var(--pink-soft);
+}
+.pillar-rose:hover {
+  border-color: var(--pink-light);
+  box-shadow: 0 8px 24px var(--pink-glow);
+}
+
+.pillar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.8rem;
+}
+.pillar-icon {
+  font-size: 1.5rem;
+}
+.pillar-emerald .pillar-icon { color: var(--emerald-light); }
+.pillar-blue .pillar-icon { color: var(--cyan-primary); }
+.pillar-rose .pillar-icon { color: var(--pink-soft); }
+
+.pillar-badge {
+  font-size: 0.7rem;
+  font-weight: 800;
+  padding: 3px 8px;
+  border-radius: var(--radius-pill);
+}
+.badge-emerald { background: var(--emerald-dark); color: #A7F3D0; }
+.badge-blue { background: #1E3A8A; color: #93C5FD; }
+.badge-rose { background: #881337; color: #FDA4AF; }
+
+.pbi-pillar-card h4 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  margin-bottom: 0.2rem;
+}
+.pillar-ar {
+  font-family: var(--font-arabic) !important;
+  font-size: 1.05rem;
+  color: var(--gold-light);
+  margin-bottom: 0.8rem;
+  display: block;
+}
+.pbi-pillar-card p {
+  font-size: 0.86rem;
+  color: var(--text-secondary);
+  line-height: 1.55;
+  margin-bottom: 0.9rem;
+}
+.pillar-list {
+  list-style: none;
+  font-size: 0.84rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+.pillar-list li {
+  margin-bottom: 0.6rem;
+  padding-left: 1.2rem;
+  position: relative;
+}
+.pillar-list li::before {
+  content: '▸';
+  position: absolute;
+  left: 0;
+  color: var(--gold-light);
+}
+
+/* Matriks Table Card */
+.matrix-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.8rem;
+  box-shadow: var(--shadow-card);
+  margin-top: 1.5rem;
+}
+.matrix-header {
+  margin-bottom: 1.4rem;
+}
+.matrix-header h3 {
+  font-size: 1.25rem;
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 0.3rem;
+}
+.matrix-header p {
+  font-size: 0.86rem;
+  color: var(--text-muted);
+}
+
+.matrix-table-wrap {
+  overflow-x: auto;
+}
+.pbi-matrix-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.84rem;
+  text-align: left;
+}
+.pbi-matrix-table th {
+  background: rgba(6, 23, 18, 0.95);
+  color: var(--gold-light);
+  font-weight: 700;
+  padding: 11px 14px;
+  border-bottom: 2px solid var(--border-subtle);
+  white-space: nowrap;
+}
+.pbi-matrix-table td {
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border-card);
+  color: var(--text-secondary);
+  vertical-align: top;
+  line-height: 1.5;
+}
+.pbi-matrix-table tr:hover td {
+  background: var(--bg-card-hover);
+  color: var(--text-main);
+}
+.b-cyan {
+  background: #0E7490;
+  color: #CFFAFE;
+}
+.download-highlight-item {
+  border-color: var(--cyan-primary) !important;
+  background: linear-gradient(135deg, rgba(56, 189, 248, 0.08) 0%, rgba(14, 32, 26, 0.9) 100%) !important;
+}
+
 /* Toast */
 .toast {
   position: fixed;

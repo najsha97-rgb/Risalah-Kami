@@ -22,7 +22,9 @@ const ASSETS_TO_CACHE = [
   './docs/03_Risalah_Hal_Nahnu_Qaumun_Amaliyyun.docx',
   './docs/03_Risalah_Hal_Nahnu_Qaumun_Amaliyyun.md',
   './docs/04_Risalah_Muhimmatuna.docx',
-  './docs/04_Risalah_Muhimmatuna.md'
+  './docs/04_Risalah_Muhimmatuna.md',
+  './docs/05_Sumbangan_Risalah_Kami_Dalam_Ummah_Fadhilah_Kuasa_Nasional_dan_PBI.docx',
+  './docs/05_Sumbangan_Risalah_Kami_Dalam_Ummah_Fadhilah_Kuasa_Nasional_dan_PBI.md'
 ];
 
 self.addEventListener('install', (event) => {
