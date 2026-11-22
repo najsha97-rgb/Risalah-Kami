@@ -1,25 +1,26 @@
 /**
  * ==========================================================================
  * RISALAH KAMI: TETRALOGI FIKRAH AL-IMAM HASAN AL-BANNA
- * Client-Side JavaScript Logic (SPA Architecture)
+ * Client-Side JavaScript Logic (Al-Raqā'iq & Tanẓīr Inspired Engine)
  * ==========================================================================
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-  // Application State
+  // State
   const state = {
     currentRisalahId: 'dawatuna',
     currentSectionIndex: 0,
     currentViewMode: 'full', // 'full', 'summary', 'quotes'
-    fontSize: parseFloat(localStorage.getItem('risalah_reader_font_size')) || 1.05,
+    fontSize: parseFloat(localStorage.getItem('risalah_reader_font_size')) || 1.06,
     theme: localStorage.getItem('risalah_reader_theme') || 'dark'
   };
 
-  // DOM Cache
+  // DOM Elements
   const readingProgress = document.getElementById('readingProgress');
   const themeToggleBtn = document.getElementById('themeToggleBtn');
   const fontDecBtn = document.getElementById('fontDecBtn');
   const fontIncBtn = document.getElementById('fontIncBtn');
+
   const searchOpenBtn = document.getElementById('searchOpenBtn');
   const searchModal = document.getElementById('searchModal');
   const searchCloseBtn = document.getElementById('searchCloseBtn');
@@ -36,17 +37,31 @@ document.addEventListener('DOMContentLoaded', () => {
   const sidebarCloseBtn = document.getElementById('sidebarCloseBtn');
   const sidebarOverlay = document.getElementById('sidebarOverlay');
   const chapterList = document.getElementById('chapterList');
-  const sidebarRisalahTitle = document.getElementById('sidebarRisalahTitle');
+  const sidebarSearchInput = document.getElementById('sidebarSearchInput');
+  const sidebarRisalahBadge = document.getElementById('sidebarRisalahBadge');
+  const sidebarRisalahName = document.getElementById('sidebarRisalahName');
+
+  const featRandomQuoteBtn = document.getElementById('featRandomQuoteBtn');
+  const featSummaryBtn = document.getElementById('featSummaryBtn');
+  const featDocsBtn = document.getElementById('featDocsBtn');
 
   const risalahTabs = document.querySelectorAll('.risalah-tab');
-  const modeBtns = document.querySelectorAll('.mode-btn');
+  const headerTabBtns = document.querySelectorAll('.header-tab-btn');
 
-  const heroTag = document.getElementById('heroTag');
+  // Hero Card Elements
   const heroTitle = document.getElementById('heroTitle');
   const heroArabic = document.getElementById('heroArabic');
   const heroDesc = document.getElementById('heroDesc');
-  const sectionCounterBadge = document.getElementById('sectionCounterBadge');
+  const metaFasalCount = document.getElementById('metaFasalCount');
+  const metaSubCount = document.getElementById('metaSubCount');
+  const metaQuoteCount = document.getElementById('metaQuoteCount');
 
+  // Subheading Banner Elements
+  const bannerSectionNumber = document.getElementById('bannerSectionNumber');
+  const bannerArabicGold = document.getElementById('bannerArabicGold');
+  const activeSectionHeading = document.getElementById('activeSectionHeading');
+
+  // Views Containers
   const fullTextView = document.getElementById('fullTextView');
   const summaryView = document.getElementById('summaryView');
   const quotesView = document.getElementById('quotesView');
@@ -54,13 +69,14 @@ document.addEventListener('DOMContentLoaded', () => {
   const summaryGrid = document.getElementById('summaryGrid');
   const quotesGrid = document.getElementById('quotesGrid');
 
+  // Pager Elements
   const prevChapterBtn = document.getElementById('prevChapterBtn');
   const nextChapterBtn = document.getElementById('nextChapterBtn');
   const prevChapterTitle = document.getElementById('prevChapterTitle');
   const nextChapterTitle = document.getElementById('nextChapterTitle');
   const toast = document.getElementById('toast');
 
-  // Initialize
+  // Initialize App
   initApp();
 
   function initApp() {
@@ -71,26 +87,30 @@ document.addEventListener('DOMContentLoaded', () => {
     registerServiceWorker();
   }
 
-  // Helper: Get Current Risalah Data
+  // Get Current Risalah Object
   function getCurrentRisalah() {
     return RISALAH_DATA.find(r => r.id === state.currentRisalahId) || RISALAH_DATA[0];
   }
 
-  // Render Whole Risalah State
+  // Render Whole Risalah Context
   function renderCurrentRisalah() {
     const risalah = getCurrentRisalah();
+    const rIdx = RISALAH_DATA.findIndex(r => r.id === state.currentRisalahId) + 1;
 
-    // 1. Update Hero
-    const risalahIndex = RISALAH_DATA.findIndex(r => r.id === state.currentRisalahId) + 1;
-    heroTag.textContent = `RISALAH 0${risalahIndex}`;
-    heroTitle.textContent = risalah.title;
+    // 1. Update Hero Card
+    heroTitle.textContent = risalah.title.toUpperCase();
     heroArabic.textContent = risalah.arabic_title;
     heroDesc.textContent = risalah.subtitle;
 
-    // 2. Update Sidebar Title
-    sidebarRisalahTitle.textContent = `${risalah.arabic_title} — ${risalah.title}`;
+    metaFasalCount.textContent = `${risalah.sections_count} Bahagian Lengkap`;
+    metaSubCount.textContent = `Risalah 0${rIdx} dari 04`;
+    metaQuoteCount.textContent = `${risalah.quotes ? risalah.quotes.length : 10} Mutiara Hikmah`;
 
-    // 3. Render Chapters List
+    // 2. Update Sidebar Title
+    sidebarRisalahBadge.textContent = `RISALAH 0${rIdx}`;
+    sidebarRisalahName.textContent = risalah.title;
+
+    // 3. Render Sidebar Items
     renderSidebarChapters(risalah);
 
     // 4. Render Active View
@@ -102,14 +122,18 @@ document.addEventListener('DOMContentLoaded', () => {
       renderQuotes(risalah);
     }
 
-    // Scroll to top of content
+    // Scroll smoothly to top
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  // Render Sidebar Chapters
-  function renderSidebarChapters(risalah) {
+  // Render Sidebar Chapters List
+  function renderSidebarChapters(risalah, filterText = '') {
     chapterList.innerHTML = '';
+    const q = filterText.toLowerCase().trim();
+
     risalah.sections.forEach((sec, idx) => {
+      if (q && !sec.title.toLowerCase().includes(q)) return;
+
       const li = document.createElement('li');
       li.className = `chapter-item ${idx === state.currentSectionIndex ? 'active' : ''}`;
       li.innerHTML = `
@@ -124,22 +148,28 @@ document.addEventListener('DOMContentLoaded', () => {
       });
       chapterList.appendChild(li);
     });
+
+    if (chapterList.children.length === 0) {
+      chapterList.innerHTML = '<li class="text-muted" style="padding:10px;font-size:0.8rem;">Tiada tajuk berpadanan.</li>';
+    }
   }
 
-  // Render Active Section (Full Text)
+  // Render Active Section Content
   function renderActiveSection() {
     const risalah = getCurrentRisalah();
     const sec = risalah.sections[state.currentSectionIndex];
     if (!sec) return;
 
-    // Counter Badge
-    sectionCounterBadge.textContent = `Bahagian ${state.currentSectionIndex + 1} daripada ${risalah.sections.length}`;
+    // Update Subheading Banner
+    bannerSectionNumber.textContent = `FASAL ${String(sec.number).padStart(2, '0')} / ${String(risalah.sections.length).padStart(2, '0')}`;
+    
+    // Ekstrak teks Arab dari tajuk fasal jika ada (cth: (المقياس))
+    const arMatch = sec.title.match(/\(([\u0600-\u06FF\s]+)\)/);
+    bannerArabicGold.textContent = arMatch ? arMatch[1] : risalah.arabic_title;
+    activeSectionHeading.textContent = sec.title.replace(/\([\u0600-\u06FF\s]+\)/, '').trim();
 
-    // Render HTML
-    activeChapterContent.innerHTML = `
-      <h3 class="chapter-heading">${sec.title}</h3>
-      <div class="chapter-body">${sec.html}</div>
-    `;
+    // Render HTML Content
+    activeChapterContent.innerHTML = sec.html;
 
     // Highlight in sidebar
     const items = chapterList.querySelectorAll('.chapter-item');
@@ -150,8 +180,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // Pager controls
     updatePager(risalah);
 
-    // Reset scroll to top
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    // Scroll to section banner
+    const bannerElem = document.querySelector('.subheading-banner');
+    if (bannerElem && window.scrollY > 200) {
+      bannerElem.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
   }
 
   // Pager Update
@@ -182,7 +215,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function renderSummary(risalah) {
     summaryGrid.innerHTML = '';
     if (!risalah.summary || risalah.summary.length === 0) {
-      summaryGrid.innerHTML = '<p class="text-muted">Tiada ringkasan khusus untuk risalah ini.</p>';
+      summaryGrid.innerHTML = '<p class="text-muted" style="padding:1.5rem;">Tiada ringkasan khusus untuk risalah ini.</p>';
       return;
     }
 
@@ -190,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const card = document.createElement('div');
       card.className = 'summary-card';
       card.innerHTML = `
-        <div class="summary-card-header">FASAL 0${idx + 1}</div>
+        <div class="summary-card-header">FASAL ${String(idx + 1).padStart(2, '0')}</div>
         <h4>${item.title}</h4>
         <p>${item.brief}</p>
       `;
@@ -207,7 +240,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function renderQuotes(risalah) {
     quotesGrid.innerHTML = '';
     if (!risalah.quotes || risalah.quotes.length === 0) {
-      quotesGrid.innerHTML = '<p class="text-muted">Tiada mutiara kata direkodkan untuk risalah ini.</p>';
+      quotesGrid.innerHTML = '<p class="text-muted" style="padding:1.5rem;">Tiada mutiara kata direkodkan untuk risalah ini.</p>';
       return;
     }
 
@@ -250,7 +283,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Switch View Mode (Full, Summary, Quotes)
   function switchViewMode(mode) {
     state.currentViewMode = mode;
-    modeBtns.forEach(btn => btn.classList.toggle('active', btn.dataset.mode === mode));
+    headerTabBtns.forEach(btn => btn.classList.toggle('active', btn.dataset.mode === mode));
 
     fullTextView.classList.toggle('active', mode === 'full');
     summaryView.classList.toggle('active', mode === 'summary');
@@ -264,7 +297,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Setup Event Listeners
   function setupEventListeners() {
-    // Risalah Tab Buttons
+    // Risalah Tabs
     risalahTabs.forEach(tab => {
       tab.addEventListener('click', () => {
         risalahTabs.forEach(t => t.classList.remove('active'));
@@ -275,17 +308,38 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     });
 
-    // View Mode Switcher
-    modeBtns.forEach(btn => {
+    // Header Mode Tabs
+    headerTabBtns.forEach(btn => {
       btn.addEventListener('click', () => switchViewMode(btn.dataset.mode));
     });
 
-    // Sidebar Toggle
+    // Feature Cards (Sidebar)
+    featRandomQuoteBtn.addEventListener('click', () => {
+      switchViewMode('quotes');
+      closeSidebar();
+    });
+
+    featSummaryBtn.addEventListener('click', () => {
+      switchViewMode('summary');
+      closeSidebar();
+    });
+
+    featDocsBtn.addEventListener('click', () => {
+      downloadModal.classList.add('open');
+      closeSidebar();
+    });
+
+    // Sidebar Search Filter
+    sidebarSearchInput.addEventListener('input', (e) => {
+      renderSidebarChapters(getCurrentRisalah(), e.target.value);
+    });
+
+    // Sidebar Controls
     sidebarToggle.addEventListener('click', openSidebar);
     sidebarCloseBtn.addEventListener('click', closeSidebar);
     sidebarOverlay.addEventListener('click', closeSidebar);
 
-    // Pager Click Handlers
+    // Pager Handlers
     prevChapterBtn.addEventListener('click', () => {
       if (state.currentSectionIndex > 0) {
         state.currentSectionIndex--;
@@ -307,9 +361,9 @@ document.addEventListener('DOMContentLoaded', () => {
       applyTheme(newTheme);
     });
 
-    // Font Size Controls
+    // Font Controls
     fontIncBtn.addEventListener('click', () => {
-      if (state.fontSize < 1.4) {
+      if (state.fontSize < 1.45) {
         state.fontSize += 0.05;
         applyFontSize(state.fontSize);
       }
@@ -343,7 +397,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (e.target === downloadModal) downloadModal.classList.remove('open');
     });
 
-    // Keyboard Shortcuts (Ctrl+K for search, Esc to close modals)
+    // Shortcuts
     window.addEventListener('keydown', (e) => {
       if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
         e.preventDefault();
@@ -356,7 +410,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    // Scroll Progress Handler
+    // Reading Progress
     window.addEventListener('scroll', updateReadingProgress, { passive: true });
   }
 
@@ -410,7 +464,6 @@ document.addEventListener('DOMContentLoaded', () => {
           if (start > 0) snippet = '...' + snippet;
           if (end < plainText.length) snippet = snippet + '...';
 
-          // Highlight keyword
           const regex = new RegExp(`(${q})`, 'gi');
           const highlightedSnippet = snippet.replace(regex, '<mark style="background:#F59E0B;color:#000;border-radius:2px;padding:0 2px;">$1</mark>');
 
@@ -438,13 +491,11 @@ document.addEventListener('DOMContentLoaded', () => {
       </div>
     `).join('');
 
-    // Attach click to jump to section
     searchResults.querySelectorAll('.search-hit-item').forEach(item => {
       item.addEventListener('click', () => {
         state.currentRisalahId = item.dataset.risalah;
         state.currentSectionIndex = parseInt(item.dataset.sec, 10);
 
-        // Update Tab UI
         risalahTabs.forEach(t => t.classList.toggle('active', t.dataset.risalah === state.currentRisalahId));
         switchViewMode('full');
         renderCurrentRisalah();
@@ -476,7 +527,7 @@ document.addEventListener('DOMContentLoaded', () => {
     setTimeout(() => toast.classList.remove('show'), 2600);
   }
 
-  // PWA Service Worker
+  // Service Worker
   function registerServiceWorker() {
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('sw.js')

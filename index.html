@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-  <meta name="theme-color" content="#0F5132">
+  <meta name="theme-color" content="#061712">
   <meta name="description" content="PWA Rujukan Ilmiah Tetralogi Risalah Fikrah Al-Imam Hasan al-Banna: Da'watuna, Ila Ayyi Syai', Hal Nahnu, dan Muhimmatuna.">
   <title>Risalah Kami | Tetralogi Fikrah Al-Imam Hasan al-Banna</title>
 
@@ -11,10 +11,10 @@
   <link rel="icon" type="image/png" href="icons/favicon.png">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
 
-  <!-- Google Fonts & Font Awesome 6 -->
+  <!-- Google Fonts: Amiri (Arab Gold), Plus Jakarta Sans, Outfit, Merriweather -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
   <link rel="stylesheet" href="css/style.css">
@@ -26,23 +26,38 @@
   <!-- App Header -->
   <header class="app-header">
     <div class="header-container">
-      <div class="brand-section">
-        <button id="sidebarToggle" class="icon-btn" aria-label="Buka Menu Bab" title="Daftar Kandungan">
+      <div class="brand-wrapper" id="brandHomeBtn">
+        <button id="sidebarToggle" class="icon-btn-menu" aria-label="Buka Menu" title="Daftar Kandungan">
           <i class="fas fa-bars-staggered"></i>
         </button>
-        <div class="brand-meta">
-          <h1 class="brand-title">
-            <span class="brand-gold">رسائلنا</span> RISALAH KAMI
+        <div class="brand-text">
+          <h1>
+            <span class="ar-badge">رسائلنا</span>
+            <span>RISALAH KAMI</span>
           </h1>
           <span class="brand-subtitle">Tetralogi Fikrah Al-Imam Hasan al-Banna</span>
         </div>
       </div>
 
       <div class="header-actions">
-        <!-- Live Search Button -->
-        <button id="searchOpenBtn" class="icon-btn" aria-label="Cari Kandungan" title="Carian Pantas (Ctrl+K)">
+        <!-- Live Search -->
+        <button id="searchOpenBtn" class="header-tool-btn" aria-label="Cari Kandungan" title="Carian Pantas (Ctrl+K)">
           <i class="fas fa-search"></i>
+          <span class="tool-btn-text">Cari</span>
         </button>
+
+        <!-- View Modes Switcher in Header (Al-Raqaiq Style) -->
+        <div class="header-mode-tabs">
+          <button class="header-tab-btn active" data-mode="full">
+            <i class="fas fa-book-open"></i> <span>Versi Penuh</span>
+          </button>
+          <button class="header-tab-btn" data-mode="summary">
+            <i class="fas fa-bolt"></i> <span>Ringkasan</span>
+          </button>
+          <button class="header-tab-btn" data-mode="quotes">
+            <i class="fas fa-gem"></i> <span>Mutiara Hikmah</span>
+          </button>
+        </div>
 
         <!-- Font Size Controls -->
         <div class="font-controls">
@@ -50,21 +65,21 @@
           <button id="fontIncBtn" class="pill-btn" title="Besarkan Saiz Fon">A+</button>
         </div>
 
-        <!-- Theme Switcher -->
-        <button id="themeToggleBtn" class="icon-btn" aria-label="Tukar Tema" title="Mod Terang/Gelap">
+        <!-- Theme Toggle -->
+        <button id="themeToggleBtn" class="header-icon-btn" aria-label="Tukar Tema" title="Mod Terang/Gelap">
           <i class="fas fa-moon"></i>
         </button>
 
-        <!-- Download Docs Modal Btn -->
-        <button id="downloadModalBtn" class="icon-btn download-highlight" title="Muat Turun Naskhah (.docx / .md)">
+        <!-- Download Docs Modal -->
+        <button id="downloadModalBtn" class="header-icon-btn download-highlight" title="Muat Turun Naskhah (.docx / .md)">
           <i class="fas fa-file-arrow-down"></i>
         </button>
       </div>
     </div>
   </header>
 
-  <!-- Navigation: 4 Risalah Tabs -->
-  <nav class="risalah-nav" aria-label="Navigasi Risalah">
+  <!-- 4 Risalah Tab Selector Bar -->
+  <nav class="risalah-nav" aria-label="Navigasi Tetralogi">
     <div class="nav-container">
       <button class="risalah-tab active" data-risalah="dawatuna">
         <span class="tab-badge">01</span>
@@ -89,37 +104,55 @@
     </div>
   </nav>
 
-  <!-- Sub-Nav: View Modes (Teks Penuh, Ringkasan, Mutiara Hikmah) -->
-  <div class="viewmode-bar">
-    <div class="viewmode-container">
-      <div class="viewmode-switcher">
-        <button class="mode-btn active" data-mode="full">
-          <i class="fas fa-book-open"></i> Teks Penuh
-        </button>
-        <button class="mode-btn" data-mode="summary">
-          <i class="fas fa-feather-pointed"></i> Ringkasan Eksekutif
-        </button>
-        <button class="mode-btn" data-mode="quotes">
-          <i class="fas fa-gem"></i> Mutiara Hikmah
-        </button>
-      </div>
-      <div class="quick-meta" id="quickMeta">
-        <span id="sectionCounterBadge" class="counter-badge">Bahagian 1 dari 21</span>
-      </div>
-    </div>
-  </div>
-
-  <!-- Main Content Layout -->
+  <!-- Main Layout -->
   <div class="main-layout">
-    <!-- Chapter Sidebar (TOC) -->
+    <!-- Sidebar: Al-Raqaiq Style Card Navigation -->
     <aside id="chapterSidebar" class="chapter-sidebar">
       <div class="sidebar-header">
-        <h3><i class="fas fa-list-check"></i> Daftar Kandungan</h3>
+        <div class="sidebar-search-wrap">
+          <i class="fas fa-search search-inner-icon"></i>
+          <input type="text" id="sidebarSearchInput" placeholder="Cari topik, dalil, fasal..." autocomplete="off">
+        </div>
         <button id="sidebarCloseBtn" class="icon-btn-sm"><i class="fas fa-times"></i></button>
       </div>
-      <div class="sidebar-current-info" id="sidebarRisalahTitle">
-        <!-- Injected by JS -->
+
+      <!-- Quick Feature Cards (Al-Raqaiq Style) -->
+      <div class="sidebar-feature-cards">
+        <div class="feat-card feat-gold" id="featRandomQuoteBtn">
+          <div class="feat-icon"><i class="fas fa-gem"></i></div>
+          <div class="feat-info">
+            <span class="feat-title">Mutiara Hikmah</span>
+            <span class="feat-desc">Koleksi Fikrah Haraki</span>
+          </div>
+          <span class="feat-badge badge-gold">RAWAK</span>
+        </div>
+
+        <div class="feat-card feat-pink" id="featSummaryBtn">
+          <div class="feat-icon"><i class="fas fa-bolt"></i></div>
+          <div class="feat-info">
+            <span class="feat-title">Ringkasan Eksekutif</span>
+            <span class="feat-desc">Intisari 3 Minit Fasal</span>
+          </div>
+          <span class="feat-badge badge-pink">PANTAS</span>
+        </div>
+
+        <div class="feat-card feat-cyan" id="featDocsBtn">
+          <div class="feat-icon"><i class="fas fa-cloud-arrow-down"></i></div>
+          <div class="feat-info">
+            <span class="feat-title">Naskhah Asal</span>
+            <span class="feat-desc">Muat Turun .docx & .md</span>
+          </div>
+          <span class="feat-badge badge-cyan">ARKIB</span>
+        </div>
       </div>
+
+      <!-- Current Active Risalah Section Header -->
+      <div class="sidebar-section-title">
+        <span id="sidebarRisalahBadge">RISALAH 01</span>
+        <h4 id="sidebarRisalahName">Da‘watunā</h4>
+      </div>
+
+      <!-- Dynamic Chapter List -->
       <ul id="chapterList" class="chapter-list">
         <!-- Injected by JS -->
       </ul>
@@ -127,25 +160,50 @@
 
     <div id="sidebarOverlay" class="sidebar-overlay"></div>
 
-    <!-- Content Workspace -->
+    <!-- Main Content Workspace -->
     <main class="content-workspace">
-      <!-- Risalah Banner Info -->
-      <section class="risalah-hero" id="risalahHero">
-        <div class="hero-inner">
-          <span class="hero-tag" id="heroTag">RISALAH 01</span>
-          <h2 class="hero-title" id="heroTitle">Risalah Da‘watunā</h2>
-          <div class="hero-arabic" id="heroArabic">دعوتنا</div>
-          <p class="hero-desc" id="heroDesc">Seruan Dakwah Kami: Asas Identiti, Sikap Manusia, Batas Kebangsaan & Fiqh Ikhtilaf</p>
+      <!-- Hero Card (Al-Raqaiq Style dengan Cyan Glow, Pink Subtitle, & Amiri Gold) -->
+      <section class="hero-card" id="risalahHero">
+        <div class="hero-pill-badge">
+          <span class="pill-dot"></span>
+          <span>— SIRI KAJIAN HARAKI & RISALAH FIKRAH (AL-IMAM HASAN AL-BANNA) —</span>
+        </div>
+        
+        <div class="hero-title-wrap">
+          <h2 class="hero-main-title" id="heroTitle">DA‘WATUNĀ</h2>
+          <div class="hero-ar-title" id="heroArabic">دعوتنا</div>
+        </div>
+
+        <p class="hero-tagline" id="heroDesc">
+          Seruan Dakwah Kami: Asas Identiti, Sikap Manusia, Batas Kebangsaan & Fiqh Ikhtilaf
+        </p>
+
+        <!-- Meta Information Badges (Al-Raqaiq Style) -->
+        <div class="hero-meta-grid">
+          <div class="meta-pill"><i class="fas fa-book-bookmark text-emerald"></i> <span id="metaFasalCount">21 Bahagian Lengkap</span></div>
+          <div class="meta-pill"><i class="fas fa-layer-group text-blue"></i> <span id="metaSubCount">74 Fasal Bersanad</span></div>
+          <div class="meta-pill"><i class="fas fa-gem text-pink"></i> <span id="metaQuoteCount">Mutiara Hikmah Lengkap</span></div>
+          <div class="meta-pill status-offline"><i class="fas fa-circle-check text-green"></i> <span>Luar Talian (Offline-First)</span></div>
         </div>
       </section>
 
-      <!-- View Container 1: Teks Penuh (Full Text) -->
+      <!-- View Container 1: Teks Penuh (Full Text Reader) -->
       <section id="fullTextView" class="view-panel active">
+        <!-- Subheading Banner with Amiri Gold Accent -->
+        <div class="subheading-banner">
+          <div class="banner-top">
+            <span class="banner-tag" id="bannerSectionNumber">FASAL 01</span>
+            <span class="banner-arabic-gold" id="bannerArabicGold">المُصَارَحَة</span>
+          </div>
+          <h3 class="banner-title" id="activeSectionHeading">Tajuk Fasal</h3>
+        </div>
+
+        <!-- Chapter Reader Article -->
         <article class="chapter-card" id="activeChapterContent">
-          <!-- Dynamic Content Injected by JS -->
+          <!-- Dynamic Formatted Quran Verse Cards & Paragraphs Injected Here -->
         </article>
 
-        <!-- Chapter Pager (Previous / Next) -->
+        <!-- Chapter Nav Pager -->
         <nav class="chapter-nav-pager">
           <button id="prevChapterBtn" class="pager-btn">
             <i class="fas fa-chevron-left"></i>
@@ -164,25 +222,31 @@
         </nav>
       </section>
 
-      <!-- View Container 2: Ringkasan Eksekutif (Summary) -->
+      <!-- View Container 2: Ringkasan Eksekutif -->
       <section id="summaryView" class="view-panel">
-        <div class="section-intro">
-          <h3><i class="fas fa-sparkles"></i> Ringkasan Eksekutif & Peta Minda</h3>
-          <p>Sintesis pantas bagi memahami garis besar risalah dalam 3 hingga 5 minit bacaan santai.</p>
+        <div class="section-intro-card">
+          <div class="intro-icon"><i class="fas fa-bolt text-pink"></i></div>
+          <div class="intro-text">
+            <h3>Ringkasan Eksekutif & Peta Minda</h3>
+            <p>Intisari padat untuk kefahaman pantas 3 hingga 5 minit bagi para dai dan generasi muda.</p>
+          </div>
         </div>
         <div class="summary-grid" id="summaryGrid">
-          <!-- Dynamic Cards Injected by JS -->
+          <!-- Injected by JS -->
         </div>
       </section>
 
-      <!-- View Container 3: Mutiara Hikmah (Quotes) -->
+      <!-- View Container 3: Mutiara Hikmah -->
       <section id="quotesView" class="view-panel">
-        <div class="section-intro">
-          <h3><i class="fas fa-quote-left"></i> Mutiara Kata Emas (Tahzib Fikrah)</h3>
-          <p>Koleksi mutiara kata pilihan Al-Imam Hasan al-Banna yang membakar jiwa dan menggerakkan amal.</p>
+        <div class="section-intro-card">
+          <div class="intro-icon"><i class="fas fa-gem text-gold"></i></div>
+          <div class="intro-text">
+            <h3>Mutiara Kata Emas (Tahzib Fikrah)</h3>
+            <p>Untaian kata-kata hikmah Al-Imam Hasan al-Banna yang menyalakan semangat pengorbanan dan keteguhan amal.</p>
+          </div>
         </div>
         <div class="quotes-grid" id="quotesGrid">
-          <!-- Dynamic Quote Cards Injected by JS -->
+          <!-- Injected by JS -->
         </div>
       </section>
     </main>
@@ -194,7 +258,7 @@
       <div class="modal-header">
         <div class="search-input-wrap">
           <i class="fas fa-search search-icon"></i>
-          <input type="text" id="searchInput" placeholder="Cari kata kunci merentas 4 risalah (cth: politik, jiwa, zakat, jihad)..." autocomplete="off">
+          <input type="text" id="searchInput" placeholder="Cari kata kunci Al-Quran, hadis, atau fikrah merentas 4 risalah..." autocomplete="off">
           <button id="searchClearBtn" class="search-clear"><i class="fas fa-times"></i></button>
         </div>
         <button id="searchCloseBtn" class="icon-btn-sm"><i class="fas fa-times"></i></button>
@@ -209,11 +273,11 @@
   <div id="downloadModal" class="modal-backdrop">
     <div class="modal-card download-card">
       <div class="modal-header">
-        <h3><i class="fas fa-cloud-arrow-down"></i> Muat Turun Naskhah Asal</h3>
+        <h3><i class="fas fa-cloud-arrow-down text-cyan"></i> Muat Turun Naskhah Asal</h3>
         <button id="downloadCloseBtn" class="icon-btn-sm"><i class="fas fa-times"></i></button>
       </div>
       <div class="modal-body">
-        <p class="download-info">Semua naskhah terjemahan ilmiah ini sedia dimuat turun dalam format Microsoft Word (.docx) berjadual atau Markdown (.md) untuk kajian luar talian:</p>
+        <p class="download-info">Naskhah terjemahan ilmiah lengkap sedia dimuat turun dalam format Microsoft Word (.docx) berjadual atau Markdown (.md):</p>
         <div class="download-list">
           <div class="download-item">
             <div class="item-title">
