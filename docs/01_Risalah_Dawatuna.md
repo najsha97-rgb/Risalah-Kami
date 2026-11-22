@@ -501,3 +501,311 @@ Sekiranya engkau berpuas hati dan tertarik dengan pegangan perjuangan kami ini, 
 8. **Dua Tiang Kemanusiaan:** *"Semua manusia berasal daripada Adam, maka dalam hakikat kemanusiaan mereka adalah setaraf; dan manusia berbeza darjatnya berdasarkan takwa dan amal kebajikan."*
 9. **Piagam Perpaduan:** *"Kami mencintai permuafakatan dan membenci perpecahan; tidak akan dapat memulihkan generasi akhir umat ini melainkan apa yang telah memulihkan generasi awalnya."*
 10. **Tiga Rukun Kemenangan:** *"Kebangkitan umat tegak di atas tiga rukun: Manhaj yang Sahih dari al-Quran dan Sunnah, Penggerak yang Beriman dan Ikhlas, serta Kepimpinan yang Tegas lagi Diyakini."*
+
+---
+
+## 30 MUTIARA KATA EMAS RISALAH DA‘WATUNĀ (TAHZIB FIKRAH HARAKI)
+### 1. Keikhlasan Mutlak Tanpa Retorik
+> **لَا نَبْتَغِي مِنْكُمْ جَزَاءً وَلَا شُكُورًا**  
+> *"Kami tidak berhajat kepada kata-kata sanjungan dan tidak mengharapkan pujian manusia. Cukuplah Allah yang mengetahui keikhlasan niat kami, dan sesungguhnya kami tidak meminta upah daripada sesiapa pun selain Allah Rabbul-'Alamin."*  
+> — **Fasal 01: Al-Muṣāraḥah (Keterusterangan)**
+
+### 2. Bebas dari Sentimen Kepartian
+> **دَعْوَةٌ إِسْلَامِيَّةٌ صَافِيَةٌ لَا حِزْبِيَّةَ فِيهَا**  
+> *"Dakwah kami adalah dakwah Islam yang tulen—ia bukan sebuah parti politik sempit yang memecah-belahkan umat, dan bukan mazhab teologi baharu yang menambah jurang sengketa. Kami berdiri di atas panji Islam yang menyatukan, bukan yang meretakkan."*  
+> — **Fasal 02: Al-Barā'ah min al-Ḥizbiyyah**
+
+### 3. Menolak Sikap Mengungkit Jasa
+> **بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ**  
+> *"Maha suci Allah daripada kami merasa diri telah berjasa kepada ummah! Bahkan Allahlah yang mengurniakan rahmat dan nikmat-Nya kepada kami apabila Dia sudi memilih kami untuk berkhidmat di jalan dakwah ini."*  
+> — **Fasal 03: Lillāhil-Faḍlu wal-Minnah**
+
+### 4. Siasah Syar'iyyah Juzuk Islam
+> **فَهَذِهِ سِيَاسَتُنَا لَا نَبْغِي بِهَا بَدِيلًا**  
+> *"Jika orang yang mengambil berat tentang keadilan rakyat dan kedaulatan syariat kamu gelarkan sebagai 'politikus', maka katakanlah: Kami adalah orang yang paling berakar umbi dalam politik, kerana politik Islam adalah menjaga maslahat ummah dunia dan akhirat."*  
+> — **Fasal 04: Siasah dan Pemerintahan**
+
+### 5. Kategori Mukmin Terhadap Dakwah
+> **فَهَذَا مَعَنَا وَمِنَّا لَهُ مَا لَنَا وَعَلَيْهِ مَا عَلَيْنَا**  
+> *"Seorang mukmin sejati tatkala mendengar seruan dakwah yang benar, dia tidak berlengah lagi. Dia meletakkan tangannya di atas tangan kami, menjual dirinya kepada Allah, dan bersedia menanggung beban perjuangan."*  
+> — **Fasal 05: Empat Sikap Manusia**
+
+### 6. Menyantuni yang Ragu-Ragu
+> **تَأَمَّلْ فِي دَعْوَتِنَا بِمِيزَانِ الحَقِّ**  
+> *"Kepada orang yang masih ragu-ragu dan meneliti dari kejauhan, kami katakan: Periksalah dakwah kami dengan neraca Al-Quran dan Sunnah. Jika engkau melihat ia adalah kebenaran, mari melangkah bersama; dan jika engkau melihat sebaliknya, nasihatilah kami dengan ikhlas."*  
+> — **Fasal 05: Al-Mutaraddid (Yang Ragu-ragu)**
+
+### 7. Menolak Sikap Oportunis (An-Naf'i)
+> **لَا نَعِدُكُمْ بِمَغَانِمِ الدُّنْيَا**  
+> *"Jalan dakwah ini tidak menjanjikan jawatan empuk, kemewahan harta, atau populariti murahan. Sesiapa yang menyertainya demi mencari keuntungan duniawi, nescaya dia akan kecewa dan berundur di tengah jalan."*  
+> — **Fasal 05: Golongan Oportunis**
+
+### 8. Menghadapi Penentang dengan Sabar
+> **اللَّهُمَّ اهْدِ قَوْمِي فَإِنَّهُمْ لَا يَعْلَمُونَ**  
+> *"Kepada mereka yang berprasangka buruk dan memusuhi kami tanpa usul periksa, doa kami hanyalah: 'Ya Allah, berilah petunjuk kepada kaum kami, sesungguhnya mereka belum mengetahui hakikat seruan kami.'"*  
+> — **Fasal 05: Al-Mutahamil (Penentang)**
+
+### 9. Fana' fi Sabil al-Fikrah
+> **الفَنَاءُ فِي سَبِيلِ الفِكْرَةِ**  
+> *"Prinsip dakwah tidak akan tegak melainkan apabila para pendokongnya meleburkan kepentingan diri mereka demi kemenangan prinsip tersebut. Prinsip dakwah menuntut agar seluruh jiwa, masa, tenaga, dan harta diwakafkan untuknya."*  
+> — **Fasal 06: Meleburkan Diri Demi Prinsip**
+
+### 10. Kejelasan Identiti Manhaj
+> **تَرَكْتُكُمْ عَلَى المَحَجَّةِ البَيْضَاءِ**  
+> *"Kejayaan sesuatu gerakan bergantung kepada kejelasan manhajnya dan kebersihan sumber ambilan dasarnya. Manhaj kami terang bagaikan fajar menyingsing, dicedok langsung dari telaga jernih Al-Quran dan Sunnah Rasulullah ﷺ."*  
+> — **Fasal 07: Al-Wuduh wa Naqa' al-Manhaj**
+
+### 11. Dua Jenis Keimanan
+> **إِيمَانٌ يُحَرِّكُ الجِبَالَ**  
+> *"Betapa berbezanya antara iman yang sejuk beku di sudut hati yang sekadar menghasilkan solat tanpa roh—dengan keimanan yang membakar jiwa laksana bara api, yang menggerakkan pemiliknya untuk berkorban dan mengubah kebatilan!"*  
+> — **Fasal 08: Imanani (Dua Keimanan)**
+
+### 12. Kesempurnaan dan Kesyumulan Islam
+> **الإِسْلَامُ شَامِلٌ لِكُلِّ مَنَاحِي الحَيَاةِ**  
+> *"Islam menurut kami adalah sebuah akidah yang suci dan ibadah yang khusyuk, tanah air dan kewarganegaraan, toleransi dan kekuatan, akhlak dan perundangan, ilmu dan kehakiman, kebendaan dan harta kekayaan, jihad dan dakwah, tentera dan fikrah—ia merangkumi segenap sudut kehidupan manusia."*  
+> — **Fasal 12: Islamuna (Islam Menurut Kami)**
+
+### 13. Cinta Tanah Air yang Hakiki
+> **حُبُّ الوَطَنِ مِنَ الإِيمَانِ**  
+> *"Kami mencintai tanah air tempat tumpah darah kami dengan kecintaan yang mendalam, dan kami bersedia berkorban demi membebaskannya daripada belenggu penjajahan; namun cinta kami tidak berakhir di sempadan geografi, kerana setiap bumi orang beriman adalah tanah air kami."*  
+> — **Fasal 13: Wataniyyah al-Hanin**
+
+### 14. Menolak Fasisme Perkauman
+> **لَا فَضْلَ لِعَرَبِيٍّ عَلَى أَعْجَمِيٍّ إِلَّا بِالتَّقْوَى**  
+> *"Kami menolak semangat kebangsaan yang melahirkan cauvinisme sempit dan kezaliman terhadap bangsa lain; sebaliknya kami menjulang kebangsaan akhlak dan keadilan yang mengangkat darjat manusia berasaskan takwa."*  
+> — **Fasal 14: Bedah Siasat Al-Qawmiyyah**
+
+### 15. Ufuk Watan Islam Melangkaui Benua
+> **كُلُّ أَرْضٍ يُذْكَرُ فِيهَا اسْمُ اللَّهِ وَطَنِي**  
+> *"Sempadan tanah air pada neraca seorang muslim bukanlah dipagari oleh kawat berduri atau garis peta penjajah; sempadan tanah air kami terbentang luas sejauh mana terbentangnya kalimah 'Lā Ilāha Illallāh, Muḥammadur Rasūlullāh'."*  
+> — **Fasal 15: Sempadan Wataniah Kami**
+
+### 16. Adab Menghadapi Khilaf Mazhab
+> **نَتَعَاوَنُ فِيمَا اتَّفَقْنَا عَلَيْهِ وَيَعْذُرُ بَعْضُنَا بَعْضًا**  
+> *"Perbezaan pendapat dalam perkara cabang (furū‘) adalah rahmat dan kemestian akal. Jangan sekali-kali kita menjadikan masalah ranting sebagai punca untuk merobek perpaduan akidah yang pokok."*  
+> — **Fasal 16: Sikap Terhadap Khilaf Mazhab**
+
+### 17. Menyatukan Hati Mengatasi Persengketaan
+> **وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا**  
+> *"Umat Islam tidak akan mampu menghadapi musuh yang mengepung mereka sekiranya mereka terus sibuk saling mengkafirkan, menyesatkan, dan mempertikaikan ijtihad furū‘iyyah sesama sendiri."*  
+> — **Fasal 16: Penyatuan Saf**
+
+### 18. Keadilan Terhadap Warga Bukan Islam
+> **لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ**  
+> *"Islam mewajibkan keadilan yang mutlak, ihsan, dan perlindungan penuh ke atas warga bukan Islam yang hidup bersama kita secara aman. Al-Quran mengharamkan sebarang bentuk kezaliman terhadap mereka."*  
+> — **Fasal 17: Hubungan dengan Bukan Islam**
+
+### 19. Diagnosis Penyakit Perpecahan
+> **دَاءُ التَّفَرُّقِ وَالعَصَبِيَّةِ**  
+> *"Penyakit paling kronik yang melumpuhkan umat Islam bukanlah kerana ketiadaan sumber alam, tetapi kerana virus perpecahan politik dan hilangnya rasa ukhuwah persaudaraan hakiki."*  
+> — **Fasal 18: Diagnosis Penyakit Ummah**
+
+### 20. Krisis Kehampaan Jiwa
+> **وَإِنَّمَا الأُمَمُ الأَخْلَاقُ مَا بَقِيَتْ**  
+> *"Kemiskinan kebendaan mudah diubati dengan usaha dan perancangan; namun kemiskinan jiwa dan keruntuhan moral adalah penyakit kanser yang mampu melenyapkan sesuatu tamadun dari persada sejarah."*  
+> — **Fasal 18: Penyakit Runtuh Moral**
+
+### 21. Rukun Pertama: Manhaj yang Lurus
+> **المِنْهَاجُ القَوِيمُ المُسْتَمَدُّ مِنَ القُرْآنِ**  
+> *"Ubat pertama bagi penyakit umat adalah mengembalikan Manhaj Al-Quran yang lurus—manhaj yang menggabungkan pembinaan akal dengan penyucian hati, serta menggandingkan keimanan dengan jihad amali."*  
+> — **Fasal 19: Al-Minhāj al-Qawīm**
+
+### 22. Rukun Kedua: Para Amilin yang Ikhlas
+> **رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ**  
+> *"Manhaj yang agung di atas kertas tidak akan bergerak sekiranya tiada barisan para amilin yang ikhlas—mereka yang tidak dibeli dengan wang ringgit dan tidak digoyahkan oleh ugutan penindas."*  
+> — **Fasal 19: Al-‘Āmilūn al-Mukhliṣūn**
+
+### 23. Rukun Ketiga: Kepimpinan yang Sedar
+> **قِيَادَةٌ وَاعِيَةٌ تَعْرِفُ مَعَالِمَ الطَّرِيقِ**  
+> *"Umat ini memerlukan kepimpinan yang sedar dan tajam pengamatannya; kepimpinan yang mengetahui bila masanya untuk berlemah-lembut, bila masanya untuk tegas berprinsip, dan bagaimana memandu bahtera ummah meredah badai fitnah."*  
+> — **Fasal 19: Al-Qiyādah al-Wā‘iyah**
+
+### 24. Kekuatan Aqidah Mendahului Dana
+> **الإِيمَانُ قَبْلَ المَالِ**  
+> *"Wang ringgit bukanlah segala-galanya dalam dakwah. Sejarah membuktikan bahawa keimanan yang menyala dalam jiwa sekumpulan pemuda mampu menggoncang empayar besar dan mematahkan keangkuhan kebendaan."*  
+> — **Fasal 10: Sumber Kekuatan Dakwah**
+
+### 25. Hakikat Perjuangan Menuntut Pengorbanan
+> **النَّصْرُ مَعَ الصَّبْرِ**  
+> *"Kemenangan Islam tidak akan turun seperti titisan hujan dari langit ke atas mereka yang berpangku tangan; kemenangan hanya akan dianugerahkan kepada mereka yang berpeluh dahi dan mengalirkan darah di medan bakti."*  
+> — **Fasal 09: Hakikat Perjuangan**
+
+### 26. Penyatuan Syariat dan Kehidupan
+> **لَا حَيَاةَ إِلَّا بِالشَّرِيعَةِ**  
+> *"Memisahkan urusan duniawi daripada kawalan syariat Islam adalah jenayah terbesar terhadap fitrah kemanusiaan, yang menjadi punca kepada kezaliman sosial dan keruntuhan tamadun moden."*  
+> — **Fasal 12: Daulat Syariat**
+
+### 27. Kewaspadaan Terhadap Jarum Kolonial
+> **الغَزْوُ الفِكْرِيُّ أَخْطَرُ مِنَ الغَزْوِ العَسْكَرِيِّ**  
+> *"Penjajahan minda dan kebudayaan jauh lebih berbahaya daripada penjajahan tentera; kerana penjajahan tentera membangkitkan kebencian, manakala penjajahan minda memukau mangsanya sehingga mengagumi penindasnya."*  
+> — **Fasal 18: Imperialisme Minda**
+
+### 28. Keseimbangan Dunia dan Akhirat
+> **رُهْبَانٌ بِاللَّيْلِ فُرْسَانٌ بِالنَّهَارِ**  
+> *"Dakwah kami mendidik seorang muslim agar menjadi rahib yang khusyuk di mihrab ibadahnya pada malam hari, dan menjadi pahlawan yang tangkas membina peradaban serta menegakkan keadilan pada siang hari."*  
+> — **Fasal 12: Rahib dan Pahlawan**
+
+### 29. Harapan Tidak Pernah Padam
+> **أَلَيْسَ الصُّبْحُ بِقَرِيبٍ**  
+> *"Jangan sekali-kali kamu berputus asa terhadap masa depan kebangkitan Islam! Sesungguhnya apa yang kamu lihat sebagai kegelapan malam hari ini adalah petanda bahawa fajar kemuliaan Islam semakin hampir menyingsing."*  
+> — **Fasal 20: Seruan Harapan**
+
+### 30. Khatimah Keteguhan Langkah
+> **وَاللَّهُ مَعَكُمْ وَلَنْ يَتِرَكُمْ أَعْمَالَكُمْ**  
+> *"Wahai ikhwan! Di tangan kalianlah letaknya harapan ummah yang terluka ini. Teguhkanlah langkah kamu di atas jalan dakwah, bersabarlah menempuh mehnah, dan yakinlah bahawa Allah bersama orang-orang yang bertakwa lagi berbuat kebaikan."*  
+> — **Fasal 21: Khatimah Haraki**
+
+
+---
+
+## 30 MUTIARA KATA EMAS RISALAH DA‘WATUNĀ (TAHZIB FIKRAH HARAKI)
+### 1. Keikhlasan Mutlak Tanpa Retorik
+> **لَا نَبْتَغِي مِنْكُمْ جَزَاءً وَلَا شُكُورًا**  
+> *"Kami tidak berhajat kepada kata-kata sanjungan dan tidak mengharapkan pujian manusia. Cukuplah Allah yang mengetahui keikhlasan niat kami, dan sesungguhnya kami tidak meminta upah daripada sesiapa pun selain Allah Rabbul-'Alamin."*  
+> — **Fasal 01: Al-Muṣāraḥah (Keterusterangan)**
+
+### 2. Bebas dari Sentimen Kepartian
+> **دَعْوَةٌ إِسْلَامِيَّةٌ صَافِيَةٌ لَا حِزْبِيَّةَ فِيهَا**  
+> *"Dakwah kami adalah dakwah Islam yang tulen—ia bukan sebuah parti politik sempit yang memecah-belahkan umat, dan bukan mazhab teologi baharu yang menambah jurang sengketa. Kami berdiri di atas panji Islam yang menyatukan, bukan yang meretakkan."*  
+> — **Fasal 02: Al-Barā'ah min al-Ḥizbiyyah**
+
+### 3. Menolak Sikap Mengungkit Jasa
+> **بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ**  
+> *"Maha suci Allah daripada kami merasa diri telah berjasa kepada ummah! Bahkan Allahlah yang mengurniakan rahmat dan nikmat-Nya kepada kami apabila Dia sudi memilih kami untuk berkhidmat di jalan dakwah ini."*  
+> — **Fasal 03: Lillāhil-Faḍlu wal-Minnah**
+
+### 4. Siasah Syar'iyyah Juzuk Islam
+> **فَهَذِهِ سِيَاسَتُنَا لَا نَبْغِي بِهَا بَدِيلًا**  
+> *"Jika orang yang mengambil berat tentang keadilan rakyat dan kedaulatan syariat kamu gelarkan sebagai 'politikus', maka katakanlah: Kami adalah orang yang paling berakar umbi dalam politik, kerana politik Islam adalah menjaga maslahat ummah dunia dan akhirat."*  
+> — **Fasal 04: Siasah dan Pemerintahan**
+
+### 5. Kategori Mukmin Terhadap Dakwah
+> **فَهَذَا مَعَنَا وَمِنَّا لَهُ مَا لَنَا وَعَلَيْهِ مَا عَلَيْنَا**  
+> *"Seorang mukmin sejati tatkala mendengar seruan dakwah yang benar, dia tidak berlengah lagi. Dia meletakkan tangannya di atas tangan kami, menjual dirinya kepada Allah, dan bersedia menanggung beban perjuangan."*  
+> — **Fasal 05: Empat Sikap Manusia**
+
+### 6. Menyantuni yang Ragu-Ragu
+> **تَأَمَّلْ فِي دَعْوَتِنَا بِمِيزَانِ الحَقِّ**  
+> *"Kepada orang yang masih ragu-ragu dan meneliti dari kejauhan, kami katakan: Periksalah dakwah kami dengan neraca Al-Quran dan Sunnah. Jika engkau melihat ia adalah kebenaran, mari melangkah bersama; dan jika engkau melihat sebaliknya, nasihatilah kami dengan ikhlas."*  
+> — **Fasal 05: Al-Mutaraddid (Yang Ragu-ragu)**
+
+### 7. Menolak Sikap Oportunis (An-Naf'i)
+> **لَا نَعِدُكُمْ بِمَغَانِمِ الدُّنْيَا**  
+> *"Jalan dakwah ini tidak menjanjikan jawatan empuk, kemewahan harta, atau populariti murahan. Sesiapa yang menyertainya demi mencari keuntungan duniawi, nescaya dia akan kecewa dan berundur di tengah jalan."*  
+> — **Fasal 05: Golongan Oportunis**
+
+### 8. Menghadapi Penentang dengan Sabar
+> **اللَّهُمَّ اهْدِ قَوْمِي فَإِنَّهُمْ لَا يَعْلَمُونَ**  
+> *"Kepada mereka yang berprasangka buruk dan memusuhi kami tanpa usul periksa, doa kami hanyalah: 'Ya Allah, berilah petunjuk kepada kaum kami, sesungguhnya mereka belum mengetahui hakikat seruan kami.'"*  
+> — **Fasal 05: Al-Mutahamil (Penentang)**
+
+### 9. Fana' fi Sabil al-Fikrah
+> **الفَنَاءُ فِي سَبِيلِ الفِكْرَةِ**  
+> *"Prinsip dakwah tidak akan tegak melainkan apabila para pendokongnya meleburkan kepentingan diri mereka demi kemenangan prinsip tersebut. Prinsip dakwah menuntut agar seluruh jiwa, masa, tenaga, dan harta diwakafkan untuknya."*  
+> — **Fasal 06: Meleburkan Diri Demi Prinsip**
+
+### 10. Kejelasan Identiti Manhaj
+> **تَرَكْتُكُمْ عَلَى المَحَجَّةِ البَيْضَاءِ**  
+> *"Kejayaan sesuatu gerakan bergantung kepada kejelasan manhajnya dan kebersihan sumber ambilan dasarnya. Manhaj kami terang bagaikan fajar menyingsing, dicedok langsung dari telaga jernih Al-Quran dan Sunnah Rasulullah ﷺ."*  
+> — **Fasal 07: Al-Wuduh wa Naqa' al-Manhaj**
+
+### 11. Dua Jenis Keimanan
+> **إِيمَانٌ يُحَرِّكُ الجِبَالَ**  
+> *"Betapa berbezanya antara iman yang sejuk beku di sudut hati yang sekadar menghasilkan solat tanpa roh—dengan keimanan yang membakar jiwa laksana bara api, yang menggerakkan pemiliknya untuk berkorban dan mengubah kebatilan!"*  
+> — **Fasal 08: Imanani (Dua Keimanan)**
+
+### 12. Kesempurnaan dan Kesyumulan Islam
+> **الإِسْلَامُ شَامِلٌ لِكُلِّ مَنَاحِي الحَيَاةِ**  
+> *"Islam menurut kami adalah sebuah akidah yang suci dan ibadah yang khusyuk, tanah air dan kewarganegaraan, toleransi dan kekuatan, akhlak dan perundangan, ilmu dan kehakiman, kebendaan dan harta kekayaan, jihad dan dakwah, tentera dan fikrah—ia merangkumi segenap sudut kehidupan manusia."*  
+> — **Fasal 12: Islamuna (Islam Menurut Kami)**
+
+### 13. Cinta Tanah Air yang Hakiki
+> **حُبُّ الوَطَنِ مِنَ الإِيمَانِ**  
+> *"Kami mencintai tanah air tempat tumpah darah kami dengan kecintaan yang mendalam, dan kami bersedia berkorban demi membebaskannya daripada belenggu penjajahan; namun cinta kami tidak berakhir di sempadan geografi, kerana setiap bumi orang beriman adalah tanah air kami."*  
+> — **Fasal 13: Wataniyyah al-Hanin**
+
+### 14. Menolak Fasisme Perkauman
+> **لَا فَضْلَ لِعَرَبِيٍّ عَلَى أَعْجَمِيٍّ إِلَّا بِالتَّقْوَى**  
+> *"Kami menolak semangat kebangsaan yang melahirkan cauvinisme sempit dan kezaliman terhadap bangsa lain; sebaliknya kami menjulang kebangsaan akhlak dan keadilan yang mengangkat darjat manusia berasaskan takwa."*  
+> — **Fasal 14: Bedah Siasat Al-Qawmiyyah**
+
+### 15. Ufuk Watan Islam Melangkaui Benua
+> **كُلُّ أَرْضٍ يُذْكَرُ فِيهَا اسْمُ اللَّهِ وَطَنِي**  
+> *"Sempadan tanah air pada neraca seorang muslim bukanlah dipagari oleh kawat berduri atau garis peta penjajah; sempadan tanah air kami terbentang luas sejauh mana terbentangnya kalimah 'Lā Ilāha Illallāh, Muḥammadur Rasūlullāh'."*  
+> — **Fasal 15: Sempadan Wataniah Kami**
+
+### 16. Adab Menghadapi Khilaf Mazhab
+> **نَتَعَاوَنُ فِيمَا اتَّفَقْنَا عَلَيْهِ وَيَعْذُرُ بَعْضُنَا بَعْضًا**  
+> *"Perbezaan pendapat dalam perkara cabang (furū‘) adalah rahmat dan kemestian akal. Jangan sekali-kali kita menjadikan masalah ranting sebagai punca untuk merobek perpaduan akidah yang pokok."*  
+> — **Fasal 16: Sikap Terhadap Khilaf Mazhab**
+
+### 17. Menyatukan Hati Mengatasi Persengketaan
+> **وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا**  
+> *"Umat Islam tidak akan mampu menghadapi musuh yang mengepung mereka sekiranya mereka terus sibuk saling mengkafirkan, menyesatkan, dan mempertikaikan ijtihad furū‘iyyah sesama sendiri."*  
+> — **Fasal 16: Penyatuan Saf**
+
+### 18. Keadilan Terhadap Warga Bukan Islam
+> **لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ**  
+> *"Islam mewajibkan keadilan yang mutlak, ihsan, dan perlindungan penuh ke atas warga bukan Islam yang hidup bersama kita secara aman. Al-Quran mengharamkan sebarang bentuk kezaliman terhadap mereka."*  
+> — **Fasal 17: Hubungan dengan Bukan Islam**
+
+### 19. Diagnosis Penyakit Perpecahan
+> **دَاءُ التَّفَرُّقِ وَالعَصَبِيَّةِ**  
+> *"Penyakit paling kronik yang melumpuhkan umat Islam bukanlah kerana ketiadaan sumber alam, tetapi kerana virus perpecahan politik dan hilangnya rasa ukhuwah persaudaraan hakiki."*  
+> — **Fasal 18: Diagnosis Penyakit Ummah**
+
+### 20. Krisis Kehampaan Jiwa
+> **وَإِنَّمَا الأُمَمُ الأَخْلَاقُ مَا بَقِيَتْ**  
+> *"Kemiskinan kebendaan mudah diubati dengan usaha dan perancangan; namun kemiskinan jiwa dan keruntuhan moral adalah penyakit kanser yang mampu melenyapkan sesuatu tamadun dari persada sejarah."*  
+> — **Fasal 18: Penyakit Runtuh Moral**
+
+### 21. Rukun Pertama: Manhaj yang Lurus
+> **المِنْهَاجُ القَوِيمُ المُسْتَمَدُّ مِنَ القُرْآنِ**  
+> *"Ubat pertama bagi penyakit umat adalah mengembalikan Manhaj Al-Quran yang lurus—manhaj yang menggabungkan pembinaan akal dengan penyucian hati, serta menggandingkan keimanan dengan jihad amali."*  
+> — **Fasal 19: Al-Minhāj al-Qawīm**
+
+### 22. Rukun Kedua: Para Amilin yang Ikhlas
+> **رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ**  
+> *"Manhaj yang agung di atas kertas tidak akan bergerak sekiranya tiada barisan para amilin yang ikhlas—mereka yang tidak dibeli dengan wang ringgit dan tidak digoyahkan oleh ugutan penindas."*  
+> — **Fasal 19: Al-‘Āmilūn al-Mukhliṣūn**
+
+### 23. Rukun Ketiga: Kepimpinan yang Sedar
+> **قِيَادَةٌ وَاعِيَةٌ تَعْرِفُ مَعَالِمَ الطَّرِيقِ**  
+> *"Umat ini memerlukan kepimpinan yang sedar dan tajam pengamatannya; kepimpinan yang mengetahui bila masanya untuk berlemah-lembut, bila masanya untuk tegas berprinsip, dan bagaimana memandu bahtera ummah meredah badai fitnah."*  
+> — **Fasal 19: Al-Qiyādah al-Wā‘iyah**
+
+### 24. Kekuatan Aqidah Mendahului Dana
+> **الإِيمَانُ قَبْلَ المَالِ**  
+> *"Wang ringgit bukanlah segala-galanya dalam dakwah. Sejarah membuktikan bahawa keimanan yang menyala dalam jiwa sekumpulan pemuda mampu menggoncang empayar besar dan mematahkan keangkuhan kebendaan."*  
+> — **Fasal 10: Sumber Kekuatan Dakwah**
+
+### 25. Hakikat Perjuangan Menuntut Pengorbanan
+> **النَّصْرُ مَعَ الصَّبْرِ**  
+> *"Kemenangan Islam tidak akan turun seperti titisan hujan dari langit ke atas mereka yang berpangku tangan; kemenangan hanya akan dianugerahkan kepada mereka yang berpeluh dahi dan mengalirkan darah di medan bakti."*  
+> — **Fasal 09: Hakikat Perjuangan**
+
+### 26. Penyatuan Syariat dan Kehidupan
+> **لَا حَيَاةَ إِلَّا بِالشَّرِيعَةِ**  
+> *"Memisahkan urusan duniawi daripada kawalan syariat Islam adalah jenayah terbesar terhadap fitrah kemanusiaan, yang menjadi punca kepada kezaliman sosial dan keruntuhan tamadun moden."*  
+> — **Fasal 12: Daulat Syariat**
+
+### 27. Kewaspadaan Terhadap Jarum Kolonial
+> **الغَزْوُ الفِكْرِيُّ أَخْطَرُ مِنَ الغَزْوِ العَسْكَرِيِّ**  
+> *"Penjajahan minda dan kebudayaan jauh lebih berbahaya daripada penjajahan tentera; kerana penjajahan tentera membangkitkan kebencian, manakala penjajahan minda memukau mangsanya sehingga mengagumi penindasnya."*  
+> — **Fasal 18: Imperialisme Minda**
+
+### 28. Keseimbangan Dunia dan Akhirat
+> **رُهْبَانٌ بِاللَّيْلِ فُرْسَانٌ بِالنَّهَارِ**  
+> *"Dakwah kami mendidik seorang muslim agar menjadi rahib yang khusyuk di mihrab ibadahnya pada malam hari, dan menjadi pahlawan yang tangkas membina peradaban serta menegakkan keadilan pada siang hari."*  
+> — **Fasal 12: Rahib dan Pahlawan**
+
+### 29. Harapan Tidak Pernah Padam
+> **أَلَيْسَ الصُّبْحُ بِقَرِيبٍ**  
+> *"Jangan sekali-kali kamu berputus asa terhadap masa depan kebangkitan Islam! Sesungguhnya apa yang kamu lihat sebagai kegelapan malam hari ini adalah petanda bahawa fajar kemuliaan Islam semakin hampir menyingsing."*  
+> — **Fasal 20: Seruan Harapan**
+
+### 30. Khatimah Keteguhan Langkah
+> **وَاللَّهُ مَعَكُمْ وَلَنْ يَتِرَكُمْ أَعْمَالَكُمْ**  
+> *"Wahai ikhwan! Di tangan kalianlah letaknya harapan ummah yang terluka ini. Teguhkanlah langkah kamu di atas jalan dakwah, bersabarlah menempuh mehnah, dan yakinlah bahawa Allah bersama orang-orang yang bertakwa lagi berbuat kebaikan."*  
+> — **Fasal 21: Khatimah Haraki**
+

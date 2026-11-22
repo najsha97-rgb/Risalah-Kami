@@ -239,16 +239,43 @@ document.addEventListener('DOMContentLoaded', () => {
   // Render Quotes View
   function renderQuotes(risalah) {
     quotesGrid.innerHTML = '';
-    if (!risalah.quotes || risalah.quotes.length === 0) {
+    const hasRich = risalah.golden_quotes_rich && risalah.golden_quotes_rich.length > 0;
+    const quotesList = hasRich ? risalah.golden_quotes_rich : (risalah.quotes || []);
+
+    if (quotesList.length === 0) {
       quotesGrid.innerHTML = '<p class="text-muted" style="padding:1.5rem;">Tiada mutiara kata direkodkan untuk risalah ini.</p>';
       return;
     }
 
-    risalah.quotes.forEach(quote => {
+    quotesList.forEach((item, idx) => {
       const card = document.createElement('div');
       card.className = 'quote-card';
+
+      let quoteText = '';
+      let themeTag = '';
+      let arSnippet = '';
+      let refFasal = '';
+
+      if (hasRich) {
+        quoteText = item.quote;
+        themeTag = `<span class="quote-theme-badge"><i class="fas fa-sparkles"></i> ${item.theme}</span>`;
+        if (item.ar_snippet) {
+          arSnippet = `<div class="quote-ar-snippet" dir="rtl" lang="ar">${item.ar_snippet}</div>`;
+        }
+        refFasal = `<div class="quote-fasal-ref"><i class="fas fa-bookmark ref-icon"></i> ${item.fasal}</div>`;
+      } else {
+        quoteText = typeof item === 'string' ? item : item.quote;
+        themeTag = `<span class="quote-theme-badge">HIKMAH 0${idx + 1}</span>`;
+      }
+
       card.innerHTML = `
-        <div class="quote-text">"${quote}"</div>
+        <div class="quote-card-header">
+          <span class="quote-number">HIKMAH ${String(idx + 1).padStart(2, '0')}</span>
+          ${themeTag}
+        </div>
+        ${arSnippet}
+        <div class="quote-text">"${quoteText}"</div>
+        ${refFasal}
         <div class="quote-actions">
           <button class="quote-action-btn copy-btn"><i class="fas fa-copy"></i> Salin</button>
           <button class="quote-action-btn share-btn"><i class="fas fa-share-nodes"></i> Kongsi</button>
@@ -257,21 +284,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Copy Action
       card.querySelector('.copy-btn').addEventListener('click', () => {
-        navigator.clipboard.writeText(`"${quote}" — Al-Imam Hasan al-Banna (${risalah.title})`)
+        const fullShare = `"${quoteText}"\n— Al-Imam Hasan al-Banna (${hasRich ? item.fasal : risalah.title})`;
+        navigator.clipboard.writeText(fullShare)
           .then(() => showToast('Mutiara kata berjaya disalin!'))
           .catch(() => showToast('Gagal menyalin teks'));
       });
 
       // Share Action
       card.querySelector('.share-btn').addEventListener('click', () => {
+        const fullShare = `"${quoteText}"\n— Al-Imam Hasan al-Banna (${hasRich ? item.fasal : risalah.title})`;
         if (navigator.share) {
           navigator.share({
-            title: `Mutiara Kata ${risalah.title}`,
-            text: `"${quote}" — Al-Imam Hasan al-Banna`,
+            title: `Mutiara Hikmah: ${hasRich ? item.theme : risalah.title}`,
+            text: fullShare,
             url: window.location.href
           }).catch(() => {});
         } else {
-          navigator.clipboard.writeText(`"${quote}" — Al-Imam Hasan al-Banna`);
+          navigator.clipboard.writeText(fullShare);
           showToast('Pautan disalin ke papan keratan');
         }
       });
