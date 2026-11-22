@@ -4,7 +4,7 @@
    Palet: Deep Forest Midnight + Emerald Haraki + Amiri Gold + Soft Rose Pink
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&family=Amiri:ital,wght@0,400;0,700;1,400&family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
 
 :root {
   /* Dark Theme (Default) — Al-Raqaiq Deep Midnight Emerald */
@@ -45,9 +45,11 @@
   --text-muted: #84A396;
   --text-gold: #FDE047;
 
-  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-outfit: 'Outfit', sans-serif;
-  --font-arabic: 'Amiri', serif;
+  --font-sans: 'Plus Jakarta Sans', 'Almarai', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-outfit: 'Outfit', 'Almarai', sans-serif;
+  --font-arabic: 'Almarai', 'Amiri', sans-serif;
+  --font-almarai: 'Almarai', sans-serif;
+  --font-quran: 'Amiri', serif;
   --font-serif: 'Merriweather', Georgia, serif;
 
   --reader-font-size: 1.06rem;
@@ -598,6 +600,26 @@ body {
   font-weight: 700;
 }
 
+.ch-title {
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  color: var(--text-main);
+  line-height: 1.45;
+}
+
+.arabic-inline-almarai {
+  font-family: 'Almarai', sans-serif !important;
+  font-size: 1.06em !important;
+  font-weight: 700 !important;
+  color: var(--gold-light, #FDE047) !important;
+  display: inline-block;
+  direction: rtl !important;
+  margin: 0 3px;
+  vertical-align: baseline;
+  text-shadow: 0 0 10px rgba(253, 224, 71, 0.35);
+  letter-spacing: normal;
+}
+
 .sidebar-overlay {
   display: none;
 }
@@ -736,12 +758,13 @@ body {
 }
 
 .banner-arabic-gold {
-  font-family: var(--font-arabic) !important;
-  font-size: 1.5rem;
-  font-weight: 700;
+  font-family: 'Almarai', sans-serif !important;
+  font-size: 1.55rem;
+  font-weight: 800;
   color: var(--gold-light) !important;
-  text-shadow: 0 0 10px var(--gold-glow);
+  text-shadow: 0 0 12px var(--gold-glow);
   direction: rtl;
+  letter-spacing: normal;
 }
 
 .banner-title {
@@ -1055,7 +1078,7 @@ body {
 }
 
 .quote-ar-snippet {
-  font-family: 'Amiri', serif !important;
+  font-family: 'Almarai', sans-serif !important;
   font-size: 1.35rem;
   font-weight: 700;
   color: var(--gold-amiri) !important;

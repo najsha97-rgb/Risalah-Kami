@@ -128,6 +128,14 @@ document.addEventListener('DOMContentLoaded', () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
+  // Format sebarang teks Arab dalam tajuk fasal dengan font Almarai tebal bercahaya
+  function formatTitleArabic(title) {
+    if (!title) return '';
+    return title.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/g, function(match) {
+      return `<span class="arabic-inline-almarai" dir="rtl">${match.trim()}</span>`;
+    });
+  }
+
   // Render Sidebar Chapters List
   function renderSidebarChapters(risalah, filterText = '') {
     chapterList.innerHTML = '';
@@ -140,7 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
       li.className = `chapter-item ${idx === state.currentSectionIndex ? 'active' : ''}`;
       li.innerHTML = `
         <span class="ch-num">${String(sec.number).padStart(2, '0')}.</span>
-        <span class="ch-title">${sec.title}</span>
+        <span class="ch-title">${formatTitleArabic(sec.title)}</span>
       `;
       li.addEventListener('click', () => {
         state.currentSectionIndex = idx;
@@ -165,10 +173,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // Update Subheading Banner
     bannerSectionNumber.textContent = `FASAL ${String(sec.number).padStart(2, '0')} / ${String(risalah.sections.length).padStart(2, '0')}`;
 
-    // Ekstrak teks Arab dari tajuk fasal jika ada (cth: (المقياس))
-    const arMatch = sec.title.match(/\(([\u0600-\u06FF\s]+)\)/);
-    bannerArabicGold.textContent = arMatch ? arMatch[1] : risalah.arabic_title;
-    activeSectionHeading.textContent = sec.title.replace(/\([\u0600-\u06FF\s]+\)/, '').trim();
+    // Ekstrak teks Arab dari tajuk fasal jika ada (cth: (المصارحة - Al-Muṣāraḥah) atau (المقياس))
+    const arMatch = sec.title.match(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/);
+    bannerArabicGold.textContent = arMatch ? arMatch[0].trim() : (sec.title_ar || risalah.arabic_title);
+    
+    // Tajuk bersih BM di bawah banner (buang bahagian Arab dan kurungan jika ada)
+    const cleanHeading = sec.title.replace(/\s*\([^)]*[\u0600-\u06FF][^)]*\)\s*/g, ' ').replace(/\s+/g, ' ').trim();
+    activeSectionHeading.textContent = cleanHeading || sec.title;
 
     // Render HTML Content
     activeChapterContent.innerHTML = sec.html;
@@ -197,7 +208,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Prev
     if (current > 0) {
       prevChapterBtn.disabled = false;
-      prevChapterTitle.textContent = risalah.sections[current - 1].title;
+      prevChapterTitle.innerHTML = formatTitleArabic(risalah.sections[current - 1].title);
     } else {
       prevChapterBtn.disabled = true;
       prevChapterTitle.textContent = 'Permulaan Risalah';
@@ -206,7 +217,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Next
     if (current < total - 1) {
       nextChapterBtn.disabled = false;
-      nextChapterTitle.textContent = risalah.sections[current + 1].title;
+      nextChapterTitle.innerHTML = formatTitleArabic(risalah.sections[current + 1].title);
     } else {
       nextChapterBtn.disabled = true;
       nextChapterTitle.textContent = 'Akhir Risalah';
@@ -226,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
       card.className = 'summary-card';
       card.innerHTML = `
         <div class="summary-card-header">FASAL ${String(idx + 1).padStart(2, '0')}</div>
-        <h4>${item.title}</h4>
+        <h4>${formatTitleArabic(item.title)}</h4>
         <p>${item.brief}</p>
       `;
       card.addEventListener('click', () => {
@@ -535,7 +546,7 @@ document.addEventListener('DOMContentLoaded', () => {
     searchResults.innerHTML = matches.map(m => `
       <div class="search-hit-item" data-risalah="${m.risalahId}" data-sec="${m.sectionIndex}">
         <span class="hit-risalah">${m.risalahTitle}</span>
-        <div class="hit-title">${m.sectionTitle}</div>
+        <div class="hit-title">${formatTitleArabic(m.sectionTitle)}</div>
         <div class="hit-snippet">${m.snippet}</div>
       </div>
     `).join('');
