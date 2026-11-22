@@ -17,8 +17,13 @@ Risalah ini merangkumi:
 1. **Diagnosis Keterasingan:** Pendedahan pemisahan total antara tata sistem kehidupan umat dengan ajaran Al-Quran (8 sistem kenegaraan dan kemasyarakatan yang terputus daripada Islam).
 2. **Kritikan Terhadap Hegemoni Modenisme Barat:** Pendedahan kebankrapan tamadun kebendaan yang gagal membawa kebahagiaan rohani, gagal menghapuskan jenayah, dan gagal menamatkan kemiskinan.
 3. **Misi Agung (Muhimmatunā):** Garis panduan pembinaan 8 sistem negara berasaskan Al-Quran (Pemerintahan, Hubungan Antarabangsa, Kehakiman, Pertahanan/Ketenteraan, Ekonomi Berdikari, Pendidikan/Kebudayaan, Keluarga Rabbani, dan Akhlak Individu).
-4. **Tahapan Pembinaan Peradaban:** Rantaian 6 fasa pembinaan (*Al-Fard al-Muslim $ightarrow$ Al-Bayt al-Muslim $ightarrow$ Asy-Sya‘b al-Muslim $ightarrow$ Al-Ḥukūmah al-Muslimah $ightarrow$ Ad-Dawlah al-Islāmiyyah $ightarrow$ Ustādhiyyatul-‘Ālam*).
-5. **Bekalan Pejuang (‘Uddatunā):** Senjata rohani generasi terawal (Iman mendalam, Ukhuwah suci, dan Jihad pengorbanan tanpa kompromi).
+4. **Tahapan Pembinaan Peradaban:** Rantaian 6 fasa pembinaan (*Al-Fard al-Muslim $
+ightarrow$ Al-Bayt al-Muslim $
+ightarrow$ Asy-Sya‘b al-Muslim $
+ightarrow$ Al-Ḥukūmah al-Muslimah $
+ightarrow$ Ad-Dawlah al-Islāmiyyah $
+ightarrow$ Ustādhiyyatul-‘Ālam*).
+5. **Bekalan Pejuang (عدتنا - ‘Uddatunā):** Senjata rohani generasi terawal (Iman mendalam, Ukhuwah suci, dan Jihad pengorbanan tanpa kompromi).
 6. **Hakikat Fikrah:** Penegasan bahawa jemaah dakwah ini bukan sekadar parti politik sempit, bukan persatuan kebajikan biasa, dan bukan kelab sukan; sebaliknya ia adalah **Fikrah & Akidah, Nizam & Manhaj** yang mewarisi panji Rasulullah ﷺ.
 
 ```
@@ -220,7 +225,7 @@ Secara konkrit dan bertahap, **apa yang kami kehendaki adalah pembinaan enam mer
 
 ---
 
-### 8. Bekalan dan Senjata Kami (‘Uddatunā)
+### 8. Bekalan dan Senjata Kami (عدتنا - ‘Uddatunā)
 
 Inilah matlamat kami, wahai sekelian manusia... dan inilah manhaj perjuangan kami!
 
