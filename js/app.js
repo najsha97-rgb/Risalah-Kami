@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     currentRisalahId: 'dawatuna',
     currentSectionIndex: 0,
     currentViewMode: 'full', // 'full', 'summary', 'quotes'
-    quoteFontMode: 'compare', // 'compare', 'amiri', 'almarai'
+    quoteFontMode: localStorage.getItem('risalah_quote_font_mode') || 'amiri', // 'amiri' (default), 'compare', 'almarai'
     fontSize: parseFloat(localStorage.getItem('risalah_reader_font_size')) || 1.06,
     theme: localStorage.getItem('risalah_reader_theme') || 'dark'
   };
@@ -464,14 +464,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Theme Switcher
     
-    // Font Compare Bar Pill Buttons
+    // Font Compare Bar Pill Buttons (Amiri Gold by default)
     const fontCompareBar = document.getElementById('fontCompareBar');
     if (fontCompareBar) {
+      // Sync initial active state with state.quoteFontMode
       fontCompareBar.querySelectorAll('.font-pill-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.fontMode === state.quoteFontMode);
         btn.addEventListener('click', () => {
           fontCompareBar.querySelectorAll('.font-pill-btn').forEach(b => b.classList.remove('active'));
           btn.classList.add('active');
           state.quoteFontMode = btn.dataset.fontMode;
+          localStorage.setItem('risalah_quote_font_mode', state.quoteFontMode);
           renderQuotes(getCurrentRisalah());
         });
       });
