@@ -200,6 +200,16 @@ document.addEventListener('DOMContentLoaded', () => {
     // Render HTML Content
     activeChapterContent.innerHTML = sec.html;
 
+    // Safety pass: Pastikan sebarang teks Arab dalam tajuk (h1-h6) atau kurungan berformat Almarai Gold
+    activeChapterContent.querySelectorAll('h1, h2, h3, h4, h5, h6, p').forEach(el => {
+      if (/[\u0600-\u06FF]/.test(el.innerHTML)) {
+        // Jika el adalah heading dan belum ada pembungkus arabic-inline-almarai
+        if (/^h[1-6]$/i.test(el.tagName) && !el.querySelector('.arabic-inline-almarai')) {
+          el.innerHTML = el.innerHTML.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/g, '<span class="arabic-inline-almarai" dir="rtl">$1</span>');
+        }
+      }
+    });
+
     // Highlight in sidebar
     const items = chapterList.querySelectorAll('.chapter-item');
     items.forEach((item, idx) => {
@@ -251,13 +261,14 @@ document.addEventListener('DOMContentLoaded', () => {
     risalah.summary.forEach((item, idx) => {
       const card = document.createElement('div');
       card.className = 'summary-card';
+      const headerBadge = item.badge || `FASAL ${String(idx + 1).padStart(2, '0')}`;
       card.innerHTML = `
-        <div class="summary-card-header">FASAL ${String(idx + 1).padStart(2, '0')}</div>
+        <div class="summary-card-header">${headerBadge}</div>
         <h4>${formatTitleArabic(item.title)}</h4>
         <p>${item.brief}</p>
       `;
       card.addEventListener('click', () => {
-        state.currentSectionIndex = idx;
+        state.currentSectionIndex = (item.start_sec !== undefined) ? item.start_sec : idx;
         switchViewMode('full');
         renderActiveSection();
       });
