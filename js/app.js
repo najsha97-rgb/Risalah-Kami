@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     currentRisalahId: 'dawatuna',
     currentSectionIndex: 0,
     currentViewMode: 'full', // 'full', 'summary', 'quotes'
+    quoteFontMode: 'compare', // 'compare', 'amiri', 'almarai'
     fontSize: parseFloat(localStorage.getItem('risalah_reader_font_size')) || 1.06,
     theme: localStorage.getItem('risalah_reader_theme') || 'dark'
   };
@@ -296,11 +297,28 @@ document.addEventListener('DOMContentLoaded', () => {
       let arSnippet = '';
       let refFasal = '';
 
+      let fontClass = 'font-amiri-style';
+      let fontBadge = '';
+
+      if (state.quoteFontMode === 'compare') {
+        if (idx % 2 === 0) {
+          fontClass = 'font-almarai-style';
+          fontBadge = `<span class="quote-font-badge badge-almarai"><i class="fas fa-font"></i> Font 1: Almarai Gold</span>`;
+        } else {
+          fontClass = 'font-amiri-style';
+          fontBadge = `<span class="quote-font-badge badge-amiri"><i class="fas fa-pen-nib"></i> Font 2: Amiri Gold</span>`;
+        }
+      } else if (state.quoteFontMode === 'amiri') {
+        fontClass = 'font-amiri-style';
+      } else if (state.quoteFontMode === 'almarai') {
+        fontClass = 'font-almarai-style';
+      }
+
       if (hasRich) {
         quoteText = item.quote;
         themeTag = `<span class="quote-theme-badge"><i class="fas fa-sparkles"></i> ${item.theme}</span>`;
         if (item.ar_snippet) {
-          arSnippet = `<div class="quote-ar-snippet" dir="rtl" lang="ar">${item.ar_snippet}</div>`;
+          arSnippet = `<div class="quote-ar-snippet ${fontClass}" dir="rtl" lang="ar">${item.ar_snippet}</div>`;
         }
         refFasal = `<div class="quote-fasal-ref"><i class="fas fa-bookmark ref-icon"></i> ${item.fasal}</div>`;
       } else {
@@ -312,6 +330,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="quote-card-header">
           <span class="quote-number">HIKMAH ${String(idx + 1).padStart(2, '0')}</span>
           ${themeTag}
+          ${fontBadge}
         </div>
         ${arSnippet}
         <div class="quote-text">"${quoteText}"</div>
@@ -444,6 +463,20 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Theme Switcher
+    
+    // Font Compare Bar Pill Buttons
+    const fontCompareBar = document.getElementById('fontCompareBar');
+    if (fontCompareBar) {
+      fontCompareBar.querySelectorAll('.font-pill-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          fontCompareBar.querySelectorAll('.font-pill-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          state.quoteFontMode = btn.dataset.fontMode;
+          renderQuotes(getCurrentRisalah());
+        });
+      });
+    }
+
     themeToggleBtn.addEventListener('click', () => {
       const newTheme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
       applyTheme(newTheme);
