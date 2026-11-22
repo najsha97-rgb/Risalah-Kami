@@ -1127,14 +1127,19 @@ body {
 
 .quote-ar-snippet {
   font-family: 'Almarai', sans-serif !important;
-  font-size: 1.35rem;
+  font-size: 1.06rem;
   font-weight: 700;
-  color: var(--gold-amiri) !important;
+  color: #F6E08E !important; /* Emas lembut yang tidak menyilaukan */
   text-align: right;
   direction: rtl;
-  line-height: 1.8;
-  margin-top: 0.2rem;
-  text-shadow: 0 0 10px var(--gold-glow);
+  line-height: 1.95;
+  margin: 0.4rem 0 0.8rem 0;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6); /* Buang kilauan glow yang berpinar, ganti bayang lembut */
+  letter-spacing: normal;
+  padding: 0.6rem 0.85rem;
+  background: rgba(0, 0, 0, 0.18);
+  border-radius: 8px;
+  border-right: 3px solid rgba(246, 224, 142, 0.45);
 }
 
 .quote-text {
