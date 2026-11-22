@@ -74,7 +74,7 @@ Justeru, matlamat utama Ikhwanul Muslimin adalah **Tarbiah yang Sahih (*at-Tarbi
 
 ---
 
-### 5. Penetapan Wasilah: Keunggulan Agama (تحديد الوسيلة واعتماد المبدأ)
+### 5. Penentuan Wasilah dan Berpegang kepada Dasar (تحديد الوسيلة واعتماد المبدأ)
 
 Sebahagian pihak memilih kaedah sains dan kebudayaan, ada yang memilih sastera dan seni, ada yang memilih kaedah kepartian politik, dan ada yang memilih sukan jasmani. 
 
