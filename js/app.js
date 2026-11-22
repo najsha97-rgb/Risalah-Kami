@@ -122,12 +122,29 @@ document.addEventListener('DOMContentLoaded', () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  // Format sebarang teks Arab dalam tajuk fasal dengan font Almarai tebal bercahaya
+  // Format teks Arab dalam tajuk fasal: bawa turun simbol kurungan '(' bersama teks ke bawah agar tidak terputus
   function formatTitleArabic(title) {
     if (!title) return '';
-    return title.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/g, function(match) {
-      return `<span class="arabic-inline-almarai" dir="rtl">${match.trim()}</span>`;
-    });
+    const clean = title.trim();
+
+    // 1. Tajuk yang semata-mata kurungan, cth: "(هَلْ نَحْنُ قَوْمٌ عَمَلِيُّونَ؟)"
+    if (clean.startsWith('(') && clean.endsWith(')')) {
+      const inner = clean.slice(1, -1).trim();
+      const innerFormatted = inner.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/g, '<span class="arabic-inline-almarai" dir="rtl">$1</span>');
+      return `<span class="title-sub-wrap">(${innerFormatted})</span>`;
+    }
+
+    // 2. Tajuk dwibahasa dengan kurungan di hujung: "Tajuk BM (Arab / Transliterasi)"
+    const m = clean.match(/^(.*?)\s*\(([^)]+)\)\s*$/);
+    if (m) {
+      const mainPart = m[1].trim();
+      const parenContent = m[2].trim();
+      const parenFormatted = parenContent.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/g, '<span class="arabic-inline-almarai" dir="rtl">$1</span>');
+      return `${mainPart} <span class="title-sub-wrap">(${parenFormatted})</span>`;
+    }
+
+    // 3. Tajuk tanpa kurungan luar, tetapi ada teks Arab
+    return clean.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/g, '<span class="arabic-inline-almarai" dir="rtl">$1</span>');
   }
 
   // Render Sidebar Chapters List

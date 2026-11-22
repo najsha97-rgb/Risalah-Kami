@@ -605,6 +605,26 @@ body {
   font-size: 0.88rem;
   color: var(--text-main);
   line-height: 1.45;
+  flex: 1;
+}
+
+.title-sub-wrap {
+  display: inline-block;
+  white-space: normal;
+  color: var(--text-muted);
+}
+
+/* Di dalam senarai sidebar skroll: Bawa turun seluruh kurungan ke baris baharu */
+.chapter-item .title-sub-wrap {
+  display: block;
+  margin-top: 3px;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  color: #94A3B8;
+}
+
+[data-theme="light"] .chapter-item .title-sub-wrap {
+  color: #64748B;
 }
 
 .arabic-inline-almarai {
