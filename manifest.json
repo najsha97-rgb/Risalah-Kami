@@ -1,0 +1,25 @@
+{
+  "name": "Risalah Kami - Tetralogi Fikrah Al-Imam Hasan al-Banna",
+  "short_name": "Risalah Kami",
+  "description": "Portal Rujukan Ilmiah Tetralogi Risalah Fikrah Al-Imam Hasan al-Banna: Da'watuna, Ila Ayyi Syai', Hal Nahnu, dan Muhimmatuna.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0A140F",
+  "theme_color": "#0F5132",
+  "lang": "ms",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

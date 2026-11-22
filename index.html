@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="ms" dir="ltr" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="theme-color" content="#0F5132">
+  <meta name="description" content="PWA Rujukan Ilmiah Tetralogi Risalah Fikrah Al-Imam Hasan al-Banna: Da'watuna, Ila Ayyi Syai', Hal Nahnu, dan Muhimmatuna.">
+  <title>Risalah Kami | Tetralogi Fikrah Al-Imam Hasan al-Banna</title>
+
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" href="icons/favicon.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+
+  <!-- Google Fonts & Font Awesome 6 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Reading Progress Bar -->
+  <div id="readingProgress" class="reading-progress"></div>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand-section">
+        <button id="sidebarToggle" class="icon-btn" aria-label="Buka Menu Bab" title="Daftar Kandungan">
+          <i class="fas fa-bars-staggered"></i>
+        </button>
+        <div class="brand-meta">
+          <h1 class="brand-title">
+            <span class="brand-gold">رسائلنا</span> RISALAH KAMI
+          </h1>
+          <span class="brand-subtitle">Tetralogi Fikrah Al-Imam Hasan al-Banna</span>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <!-- Live Search Button -->
+        <button id="searchOpenBtn" class="icon-btn" aria-label="Cari Kandungan" title="Carian Pantas (Ctrl+K)">
+          <i class="fas fa-search"></i>
+        </button>
+
+        <!-- Font Size Controls -->
+        <div class="font-controls">
+          <button id="fontDecBtn" class="pill-btn" title="Kecilkan Saiz Fon">A-</button>
+          <button id="fontIncBtn" class="pill-btn" title="Besarkan Saiz Fon">A+</button>
+        </div>
+
+        <!-- Theme Switcher -->
+        <button id="themeToggleBtn" class="icon-btn" aria-label="Tukar Tema" title="Mod Terang/Gelap">
+          <i class="fas fa-moon"></i>
+        </button>
+
+        <!-- Download Docs Modal Btn -->
+        <button id="downloadModalBtn" class="icon-btn download-highlight" title="Muat Turun Naskhah (.docx / .md)">
+          <i class="fas fa-file-arrow-down"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navigation: 4 Risalah Tabs -->
+  <nav class="risalah-nav" aria-label="Navigasi Risalah">
+    <div class="nav-container">
+      <button class="risalah-tab active" data-risalah="dawatuna">
+        <span class="tab-badge">01</span>
+        <span class="tab-name">Da‘watunā</span>
+        <span class="tab-ar">دعوتنا</span>
+      </button>
+      <button class="risalah-tab" data-risalah="ila_ayyi_syai">
+        <span class="tab-badge">02</span>
+        <span class="tab-name">Ilā Ayyi Syai’</span>
+        <span class="tab-ar">إلى أي شيء ندعو</span>
+      </button>
+      <button class="risalah-tab" data-risalah="hal_nahnu">
+        <span class="tab-badge">03</span>
+        <span class="tab-name">Hal Naḥnu</span>
+        <span class="tab-ar">هل نحن عمليون</span>
+      </button>
+      <button class="risalah-tab" data-risalah="muhimmatuna">
+        <span class="tab-badge">04</span>
+        <span class="tab-name">Muhimmatunā</span>
+        <span class="tab-ar">مهمتنا</span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Sub-Nav: View Modes (Teks Penuh, Ringkasan, Mutiara Hikmah) -->
+  <div class="viewmode-bar">
+    <div class="viewmode-container">
+      <div class="viewmode-switcher">
+        <button class="mode-btn active" data-mode="full">
+          <i class="fas fa-book-open"></i> Teks Penuh
+        </button>
+        <button class="mode-btn" data-mode="summary">
+          <i class="fas fa-feather-pointed"></i> Ringkasan Eksekutif
+        </button>
+        <button class="mode-btn" data-mode="quotes">
+          <i class="fas fa-gem"></i> Mutiara Hikmah
+        </button>
+      </div>
+      <div class="quick-meta" id="quickMeta">
+        <span id="sectionCounterBadge" class="counter-badge">Bahagian 1 dari 21</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Content Layout -->
+  <div class="main-layout">
+    <!-- Chapter Sidebar (TOC) -->
+    <aside id="chapterSidebar" class="chapter-sidebar">
+      <div class="sidebar-header">
+        <h3><i class="fas fa-list-check"></i> Daftar Kandungan</h3>
+        <button id="sidebarCloseBtn" class="icon-btn-sm"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="sidebar-current-info" id="sidebarRisalahTitle">
+        <!-- Injected by JS -->
+      </div>
+      <ul id="chapterList" class="chapter-list">
+        <!-- Injected by JS -->
+      </ul>
+    </aside>
+
+    <div id="sidebarOverlay" class="sidebar-overlay"></div>
+
+    <!-- Content Workspace -->
+    <main class="content-workspace">
+      <!-- Risalah Banner Info -->
+      <section class="risalah-hero" id="risalahHero">
+        <div class="hero-inner">
+          <span class="hero-tag" id="heroTag">RISALAH 01</span>
+          <h2 class="hero-title" id="heroTitle">Risalah Da‘watunā</h2>
+          <div class="hero-arabic" id="heroArabic">دعوتنا</div>
+          <p class="hero-desc" id="heroDesc">Seruan Dakwah Kami: Asas Identiti, Sikap Manusia, Batas Kebangsaan & Fiqh Ikhtilaf</p>
+        </div>
+      </section>
+
+      <!-- View Container 1: Teks Penuh (Full Text) -->
+      <section id="fullTextView" class="view-panel active">
+        <article class="chapter-card" id="activeChapterContent">
+          <!-- Dynamic Content Injected by JS -->
+        </article>
+
+        <!-- Chapter Pager (Previous / Next) -->
+        <nav class="chapter-nav-pager">
+          <button id="prevChapterBtn" class="pager-btn">
+            <i class="fas fa-chevron-left"></i>
+            <div class="pager-text">
+              <span class="pager-label">Sebelumnya</span>
+              <span class="pager-target" id="prevChapterTitle">--</span>
+            </div>
+          </button>
+          <button id="nextChapterBtn" class="pager-btn next-btn">
+            <div class="pager-text text-right">
+              <span class="pager-label">Seterusnya</span>
+              <span class="pager-target" id="nextChapterTitle">--</span>
+            </div>
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </nav>
+      </section>
+
+      <!-- View Container 2: Ringkasan Eksekutif (Summary) -->
+      <section id="summaryView" class="view-panel">
+        <div class="section-intro">
+          <h3><i class="fas fa-sparkles"></i> Ringkasan Eksekutif & Peta Minda</h3>
+          <p>Sintesis pantas bagi memahami garis besar risalah dalam 3 hingga 5 minit bacaan santai.</p>
+        </div>
+        <div class="summary-grid" id="summaryGrid">
+          <!-- Dynamic Cards Injected by JS -->
+        </div>
+      </section>
+
+      <!-- View Container 3: Mutiara Hikmah (Quotes) -->
+      <section id="quotesView" class="view-panel">
+        <div class="section-intro">
+          <h3><i class="fas fa-quote-left"></i> Mutiara Kata Emas (Tahzib Fikrah)</h3>
+          <p>Koleksi mutiara kata pilihan Al-Imam Hasan al-Banna yang membakar jiwa dan menggerakkan amal.</p>
+        </div>
+        <div class="quotes-grid" id="quotesGrid">
+          <!-- Dynamic Quote Cards Injected by JS -->
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Search Modal -->
+  <div id="searchModal" class="modal-backdrop">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="search-input-wrap">
+          <i class="fas fa-search search-icon"></i>
+          <input type="text" id="searchInput" placeholder="Cari kata kunci merentas 4 risalah (cth: politik, jiwa, zakat, jihad)..." autocomplete="off">
+          <button id="searchClearBtn" class="search-clear"><i class="fas fa-times"></i></button>
+        </div>
+        <button id="searchCloseBtn" class="icon-btn-sm"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="search-results" id="searchResults">
+        <div class="search-placeholder">Taip kata kunci untuk memulakan carian...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Download Modal -->
+  <div id="downloadModal" class="modal-backdrop">
+    <div class="modal-card download-card">
+      <div class="modal-header">
+        <h3><i class="fas fa-cloud-arrow-down"></i> Muat Turun Naskhah Asal</h3>
+        <button id="downloadCloseBtn" class="icon-btn-sm"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="modal-body">
+        <p class="download-info">Semua naskhah terjemahan ilmiah ini sedia dimuat turun dalam format Microsoft Word (.docx) berjadual atau Markdown (.md) untuk kajian luar talian:</p>
+        <div class="download-list">
+          <div class="download-item">
+            <div class="item-title">
+              <span class="badge b-green">01</span>
+              <strong>Risalah Da‘watunā (دعوتنا)</strong>
+            </div>
+            <div class="item-links">
+              <a href="docs/01_Risalah_Dawatuna.docx" download class="dl-btn docx"><i class="fas fa-file-word"></i> Word (.docx)</a>
+              <a href="docs/01_Risalah_Dawatuna.md" download class="dl-btn md"><i class="fas fa-file-code"></i> Markdown</a>
+            </div>
+          </div>
+
+          <div class="download-item">
+            <div class="item-title">
+              <span class="badge b-blue">02</span>
+              <strong>Risalah Ilā Ayyi Syai’in Nad‘un-Nās? (إلى أي شيء ندعو الناس؟)</strong>
+            </div>
+            <div class="item-links">
+              <a href="docs/02_Risalah_Ila_Ayyi_Syai_Nadun_Nas.docx" download class="dl-btn docx"><i class="fas fa-file-word"></i> Word (.docx)</a>
+              <a href="docs/02_Risalah_Ila_Ayyi_Syai_Nadun_Nas.md" download class="dl-btn md"><i class="fas fa-file-code"></i> Markdown</a>
+            </div>
+          </div>
+
+          <div class="download-item">
+            <div class="item-title">
+              <span class="badge b-amber">03</span>
+              <strong>Risalah Hal Naḥnu Qawmun ‘Amaliyyūn? (هل نحن قوم عمليون؟)</strong>
+            </div>
+            <div class="item-links">
+              <a href="docs/03_Risalah_Hal_Nahnu_Qaumun_Amaliyyun.docx" download class="dl-btn docx"><i class="fas fa-file-word"></i> Word (.docx)</a>
+              <a href="docs/03_Risalah_Hal_Nahnu_Qaumun_Amaliyyun.md" download class="dl-btn md"><i class="fas fa-file-code"></i> Markdown</a>
+            </div>
+          </div>
+
+          <div class="download-item">
+            <div class="item-title">
+              <span class="badge b-red">04</span>
+              <strong>Risalah Muhimmatunā (مهمتنا)</strong>
+            </div>
+            <div class="item-links">
+              <a href="docs/04_Risalah_Muhimmatuna.docx" download class="dl-btn docx"><i class="fas fa-file-word"></i> Word (.docx)</a>
+              <a href="docs/04_Risalah_Muhimmatuna.md" download class="dl-btn md"><i class="fas fa-file-code"></i> Markdown</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast">Notifikasi</div>
+
+  <!-- Scripts -->
+  <script src="data/risalah_data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
