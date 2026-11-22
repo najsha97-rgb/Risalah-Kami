@@ -194,8 +194,8 @@ const RISALAH_DATA = [
       },
       {
         "badge": "BAHAGIAN 5: FASAL 21",
-        "title": "5. Khatimah & Seruan Melangkah Bersama",
-        "brief": "Mengambil iktibar sunnatullah kemenangan dakwah daripada kisah Nabi Musa AS dan Bani Israel menghadapi kezaliman Firaun sebagai inspirasi kebangkitan kaum yang tertindas (mustaḍ‘afīn). Mengakhiri dengan seruan tulus kepada setiap insan yang mendambakan kebangkitan Islam agar menghulurkan tangan, merapatkan saf, dan melangkah bersama-sama dalam kafilah dakwah ini untuk memimpin peradaban dunia (ustāzhiyyatul-‘ālam) di bawah naungan keredaan Allah.",
+        "title": "5. Khatimah: Engkaulah Yusuf bagi Mimpi Kebangkitan Ini (خاتمة)",
+        "brief": "Mengakhiri risalah dengan tamsilan metafora agung Nabi Yusuf AS: meletakkan setiap pembaca dan jiwa mukmin sebagai 'Yusuf' yang bakal mentakwil, mengurus, dan merealisasikan mimpi-mimpi kebangkitan umat daripada kemarau kejatuhan kepada fajar kejayaan. Ditutup dengan seruan tulus dan penuh pengharapan agar menghulurkan tangan (bai‘ah fil-‘amal), menyatukan saf, dan melangkah bersama-sama di atas jalan dakwah ini dengan berserah diri sepenuhnya kepada Allah: Dialah Pelindung taufik kami, sebaik-baik Pemimpin, dan sebaik-baik Penolong.",
         "start_sec": 20
       }
     ],

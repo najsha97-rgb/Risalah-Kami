@@ -27,8 +27,8 @@ Mendiagnosis punca kelemahan dan penyakit umat Timur (perpecahan politik, kerunt
 2. **العاملون المؤمنون (Al-‘Āmilūn al-Mu’minūn):** Barisan penggerak yang beriman, ikhlas, berdisiplin, dan melaksanakan syariat tanpa kompromi.
 3. **القيادة الحازمة الموثوق بها (Al-Qiyādah al-Ḥāzimah):** Kepimpinan yang tegas, berwibawa, dan diyakini oleh seluruh saf dakwah.
 
-### 5. Khatimah & Seruan Melangkah Bersama (Fasal 21)
-Mengambil teladan sunnatullah kebangkitan daripada kisah Nabi Musa AS dan Bani Israel menghadapi kezaliman Firaun sebagai inspirasi kemenangan golongan yang tertindas (*mustaḍ‘afīn*). Mengakhiri dengan seruan tulus kepada setiap jiwa yang dahagakan kebangkitan Islam agar menghulurkan tangan, merapatkan saf, dan melangkah bersama-sama memimpin peradaban dunia (*ustāzhiyyatul-‘ālam*).
+### 5. Khatimah: Engkaulah Yusuf bagi Mimpi Kebangkitan Ini (Fasal 21)
+Mengakhiri risalah dengan tamsilan metafora agung Nabi Yusuf AS: meletakkan setiap pembaca dan jiwa mukmin sebagai 'Yusuf' yang bakal mentakwil, mengurus, dan merealisasikan mimpi-mimpi kebangkitan umat daripada kemarau kejatuhan kepada fajar kejayaan (*wa anta Yūsufu hādzihil-aḥlām*). Ditutup dengan seruan tulus dan penuh pengharapan agar menghulurkan tangan (*bai‘ah fil-‘amal*), merapatkan saf, dan melangkah bersama-sama di atas jalan dakwah ini dengan berserah diri sepenuhnya kepada Allah: Dialah Pelindung taufik kami, sebaik-baik Pemimpin, dan sebaik-baik Penolong!
 
 ---
 
