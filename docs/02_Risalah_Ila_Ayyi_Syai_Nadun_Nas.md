@@ -332,7 +332,7 @@ Kemudian Allah memerintahkan mereka selepas itu agar berjihad di jalan Allah den
 
 ---
 
-### 19. Mengawal Kebenaran dengan Kekuatan (حراسة الحق بالقوة)
+### 19. Mengawal Kebenaran dengan Kekuatan (حراسة الحق بالقوة - Ḥirāsatul-Ḥaqqi bil-Quwwah)
 
 Alangkah bijaksananya ungkapan kata mutiara: "Kekuatan adalah jalan paling terjamin untuk menegakkan kebenaran; dan alangkah indahnya apabila kekuatan dan kebenaran berjalan seiringan bergandingan tangan!"
 Maka jihad pada jalan menyebarkan dakwah Islamiah—apatah lagi memelihara kesucian syiar dan kehormatan Islam—merupakan kewajipan fardhu yang diwajibkan oleh Allah ke atas kaum muslimin sebagaimana Dia memfardukan ke atas mereka puasa, solat, haji, zakat, melakukan kebajikan, dan meninggalkan kemungkaran. Allah mewajibkannya ke atas mereka dan menyeru mereka kepadanya, dan Allah sama sekali tidak memberi kemaafan dalam perkara ini kepada sesiapa pun yang memiliki daya kekuatan dan kemampuan. Dan sesungguhnya ia merupakan ayat pencegah yang amat menggentarkan dan peringatan pengajaran yang amat mendalam:
@@ -354,7 +354,7 @@ Dan itulah misi kemasyarakatan (al-muhimmah al-ijtimā‘iyyah) yang diserukan o
 
 ---
 
-### 20. Rahib di Malam Hari, Pahlawan di Siang Hari (رهبان بالليل فرسان بالنهار)
+### 20. Rahib di Malam Hari, Pahlawan di Siang Hari (رهبان بالليل فرسان بالنهار - Ruhbānun bil-Lail Fursānun bin-Nahār)
 
 Kemudian Allah Yang Maha Benar Tabāraka wa Ta‘ālā memperjelaskan kepada manusia selepas itu tentang ikatan pertautan antara taklif-taklif fardhu peribadi seperti solat dan puasa dengan taklif-taklif kemasyarakatan (seperti jihad dan islah), dan bahawa taklif yang pertama adalah wasilah penyedia kepada taklif yang kedua, manakala akidah yang sahih adalah asas tunjang kepada kedua-duanya sekali. Ini bertujuan agar tidak ada ruang alasan bagi seseorang untuk berpangku tangan daripada kewajipan fardhu peribadi dengan beralasan kononnya dia sedang berkhidmat untuk kebajikan masyarakat, dan agar tidak ada pula ruang alasan bagi orang lain untuk berpangku tangan daripada berjuang untuk masyarakat dengan beralasan kononnya dia sedang sibuk beribadat tenggelam dalam hubungan peribadinya dengan Tuhannya! Alangkah halusnya, alangkah bijaksananya hikmah ini, dan siapakah yang lebih benar perkataannya daripada Allah?
 Wahai kaum muslimin! Beribadat menyembah Tuhan kamu dan berjihad pada jalan meneguhkan kedudukan agama kamu serta memuliakan syariat kamu—inilah misi dan tugas hakiki kamu dalam kehidupan ini. Sekiranya kamu menunaikannya dengan sebenar-benar penunaian, maka kamulah golongan yang beroleh kemenangan. Sebaliknya, sekiranya kamu hanya menunaikan sebahagiannya sahaja atau kamu mengabaikan keseluruhannya, maka kepada kamulah saya kemukakan firman Allah Tabāraka wa Ta‘ālā:
@@ -376,7 +376,7 @@ Demi Allah, perhatikanlah! Di manakah dalam sejarah umat manusia engkau dapat me
 
 ---
 
-### 21. Pembukaan Sebagai Bimbingan dan Pengislahan (استعمار الأستاذية و الإصلاح)
+### 21. Pembukaan Sebagai Bimbingan dan Pengislahan (الفتح إرشاد وإصلاح - Al-Fatḥu Irsyādun wa Iṣlāḥ)
 
 Kerana pengertian inilah, wahai kaum muslimin, umat Islam generasi awal mara bertebaran ke segenap pelusuk bumi selepas baginda Nabi Muhammad ﷺ memilih untuk kembali ke sisi Ar-Rafīq al-A‘lā. Al-Quran terpahat teguh di dalam dada mereka, rumah-rumah kediaman mereka adalah di atas pelana-pelana kuda mereka, pedang-pedang mereka terhunus di tangan mereka, dan hujah kebenaran mengalir terang di atas lisan lidah mereka. Mereka mengajak manusia kepada salah satu daripada tiga pilihan: memeluk Islam, membayar jizyah (tunduk kepada naungan keadilan sistem Islam), atau berperang. Sesiapa yang memeluk Islam, maka dia adalah saudara mereka—memperolehi hak yang sama seperti mereka dan memikul tanggungjawab yang sama seperti mereka. Sesiapa yang membayar jizyah, maka dia berada di bawah perlindungan (dhimmah) dan perjanjian damai mereka; mereka menunaikan haknya, memelihara perjanjiannya, dan menyempurnakan syarat-syaratnya. Manakala sesiapa yang berdegil menolak dan menindas, mereka tentangnya sehinggalah Allah memenangkan mereka ke atasnya:
 
@@ -405,7 +405,7 @@ Justeru, keluarnya mereka daripada tanah air mereka bukanlah demi memburu darjat
 
 ---
 
-### 22. Sudah Tiba Masanya untuk Kita Fahami (آن لنا أن نفهم)
+### 22. Sudah Tiba Masanya untuk Kita Fahami (آن لنا أن نفهم - Āna Lanā An Nafham)
 
 Kaum muslimin pada zaman lampau memahami hakikat ini dan mereka beramal kerananya. Keimanan mendorong mereka berkorban di jalannya. Namun pada hari ini, umat Islam berpecah dalam memahami misi hidup mereka. Mereka mengambil takwil yang longgar dan sikap sambil lewa sebagai sandaran untuk duduk bermalas-malasan.
 Ada yang berkata kepada anda: "Masa untuk berjihad dan beramal telah berlalu." Yang lain pula melemahkan semangat anda dengan mendakwa: "Wasilah tiada dan negara-negara Islam terbelenggu." Manakala golongan ketiga berpuas hati dengan agama sekadar beberapa patah wirid yang diulang-ulang pagi dan petang, serta mencukupkan diri dengan beberapa rakaat solat yang dilakukan dalam keadaan hati yang kosong lalai!
@@ -434,7 +434,7 @@ Dan janganlah kamu bergantung harap kepada orang lain! Majulah melangkah ke meda
 
 ---
 
-### 23. Dari Mana Kita Bermula? (من أين نبدأ؟)
+### 23. Dari Mana Kita Bermula? (من أين نبدأ؟ - Min Aina Nabda'?)
 
 Sesungguhnya pembentukan bangsa-bangsa, pentarbiyahan umat, perealisasian cita-cita, dan penegakan prinsip memerlukan daripada umat yang ingin bangkit—atau sekurang-kurangnya daripada kelompok yang memimpin dakwah ke arahnya—satu "Kekuatan Jiwa yang Luar Biasa" (Quwwah Nafsiyyah ‘Aẓīmah) yang terjelma dalam beberapa rukun asas:
 
@@ -473,7 +473,7 @@ Dan sesungguhnya apabila sesuatu umat leka bersenang-lenang dalam kenikmatan, te
 
 ---
 
-### 24. Antara Dua Kekuatan: Rohani dan Kebendaan (بين القوتين)
+### 24. Antara Dua Kekuatan: Rohani dan Kebendaan (بين القوتين: الروح والمادة - Bainal-Quwwatain)
 
 Ramai orang menyangka bahawa dunia Timur pada hari ini kekurangan kekuatan kebendaan berupa wang ringgit, kelengkapan senjata, dan jentera peperangan untuk bangkit menyaingi kuasa-kuasa yang merampas haknya dan menindas warganya. Anggapan tersebut ada benarnya dan sememangnya penting; akan tetapi apa yang jauh lebih penting dan lebih utama daripadanya adalah: Kekuatan Rohani (Al-Quwwah ar-Rūḥiyyah) yang terbit daripada akhlak yang mulia, jiwa yang tinggi martabatnya, keimanan yang teguh terhadap hak, dan pengorbanan yang ikhlas pada jalan kebenaran.
 Sekiranya dunia Timur beriman kepada haknya, mengubah apa yang ada dalam jiwanya, memelihara kekuatan rohaninya, dan bersungguh-sungguh meluruskan akhlaknya; nescaya segala peralatan kebendaan dan sebab-sebab kekuatan material akan datang tunduk kepadanya dari segenap arah!
@@ -490,7 +490,7 @@ Dan sesungguhnya Al-Quran telah menyingkap makna yang mendalam ini dalam banyak 
 
 ---
 
-### 25. Manhaj yang Jelas dan Syumul (المنهاج واضح)
+### 25. Manhaj yang Jelas dan Syumul (المنهاج الواضح - Al-Minhājul-Wāḍiḥ)
 
 Berasaskan kefahaman yang mendalam inilah manhaj Ikhwanul Muslimin menjadi amat jelas dan terang nyata di hadapan mata mereka. Mereka tidak meraba-raba dalam kegelapan, tidak teragak-agak dalam melangkah, dan tidak terperangkap dalam percanggahan ideologi.
 Manhaj kami adalah Al-Quran yang syumul—kitab suci yang menghimpunkan segala urusan dunia dan akhirat, menyatukan antara akidah dengan syariat, antara ibadah dengan muamalat, dan antara akhlak peribadi dengan undang-undang ketamadunan.
@@ -501,7 +501,7 @@ Dan bukanlah ini tempatnya untuk menghuraikan segala perincian tersebut dalam ri
 
 ---
 
-### 26. Kita Wajib Mengikut Syariat Islam (لا بد من أن نتبع)
+### 26. Kita Wajib Mengikut Syariat Islam (لا بد من أن نتبع - Lā Budda An Nattabi‘)
 
 Dan apabila Ikhwanul Muslimin meyakini hakikat ini sepenuhnya, maka kami menuntut seluruh manusia agar berusaha menjadikan kaedah-kaedah dan prinsip-prinsip Islam sebagai asas fundamental yang di atasnya dibina kebangkitan dunia Timur moden dalam setiap urusan kehidupan.
 Kami meyakini bahawa setiap manifestasi kebangkitan yang bertentangan dengan kaedah-kaedah Islam dan bertembung dengan hukum-hakam Al-Quran adalah satu eksperimen yang rosak dan pasti gagal, yang hanya akan menyebabkan bangsa-bangsa keluar daripadanya dengan menanggung pengorbanan besar yang sia-sia tanpa sebarang faedah! Maka adalah jauh lebih baik bagi bangsa-bangsa yang ingin bangkit untuk mengambil jalan pintas yang paling selamat dengan mengikuti hukum-hakam syariat Islam.
@@ -510,81 +510,130 @@ Dan Ikhwanul Muslimin sama sekali tidak mengkhususkan seruan dakwah ini kepada s
 
 ---
 
-### 27. Lima Tuntutan Pembaharuan Perundangan dan Kemasyarakatan (خَمْسَةُ مَطَالِبَ تَشْرِيعِيَّةٍ وَاجْتِمَاعِيَّة)
+### 27. Awasilah Penyimpangan: Lima Tuntutan Perundangan & Sosial (احذروا الانحراف - Iḥdharūl-Inḥirāf)
 
-Sesungguhnya kebimbangan terbesar Ikhwanul Muslimin adalah sekiranya bangsa-bangsa Timur Islam terdorong hanyut ke dalam arus penyelewengan perlembagaan dan perundangan sekular Barat, lalu membelakangkan syariat Al-Quran. Oleh itu, kami mengemukakan Lima Tuntutan Pembaharuan Asasi:
+Sesungguhnya kebimbangan terbesar yang amat ditakuti oleh Ikhwanul Muslimin adalah sekiranya bangsa-bangsa Timur Islam terdorong hanyut ke dalam arus peniruan melulu (*tayyārut-taqlīd*), lalu mereka menampal kebangkitan mereka dengan sistem-sistem lapuk yang telah reput binasa pada dirinya sendiri dan telah dibuktikan oleh sejarah akan kerosakan serta kegagalannya!
+Setiap umat daripada umat-umat Islam memiliki perlembagaan umum (*dustūr ‘āmm*). Maka menjadi satu kemestian bahawa fasal-fasal perlembagaannya dicedok daripada hukum-hakam Al-Quranul Karim. Dan negara-negara yang menyatakan dalam fasal pertama perlembagaannya bahawa "Agama rasminya adalah Islam", wajib meletakkan seluruh fasal yang lain berteraskan kaedah asas ini. Mana-mana fasal yang tidak diperakui oleh Islam dan tidak diizinkan oleh hukum-hakamnya, wajib dipadamkan serta-merta agar tidak timbul pertentangan yang memalukan dalam undang-undang dasar negara!
 
   ١. Islahkan Undang-Undang dan Kehakiman (أصلحوا القانون)
-  Sesungguhnya bagi setiap umat ada undang-undang tempat berhukum bagi warganya. Dan undang-undang ini wajib dicedok dan bersumberkan daripada hukum-hakam syariat Islam yang suci:
+  Sesungguhnya bagi setiap umat ada undang-undang tempat berhukum bagi warganya. Dan undang-undang ini wajib dicedok dan bersumberkan daripada hukum-hakam syariat Islam, diambil daripada Al-Quranul Karim, serta menepati usul feqah Islam.
+  Sesungguhnya di dalam syariat Islam dan apa yang telah digariskan oleh para fuqaha' Islam terdapat kecukupan yang menampal segala kelompangan, memenuhi segala keperluan, dan memuaskan dahaga keadilan, serta membawa kepada sebaik-baik hasil dan keberkatan. Dan sesungguhnya dalam pelaksanaan hukum hudud Allah terdapat pencegah yang amat menggentarkan penjenayah sekalipun dia telah terbiasa melakukan jenayah, menghentikan pencerobohan penceroboh sekalipun pencerobohan telah berakar dalam jiwanya, serta merehatkan kerajaan daripada kepayahan menguji eksperimen undang-undang sekular yang gagal!
+  Pengalaman sejarah telah membuktikannya, prinsip perundangan moden menuntutnya, dan Allah Tabāraka wa Ta‘ālā memfardukan dan mewajibkannya:
   
 > **وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ ۝**
 >
 > *"Dan sesiapa yang tidak menghukum dengan apa yang telah diturunkan oleh Allah, maka mereka itulah orang-orang yang kafir."*
 > — **Surah Al-Mā’idah (5): 44**
 
-  ٢. Islahkan Penampilan Sosial Masyarakat (أصلحوا مظهر الاجتماع)
-  Sesungguhnya dalam setiap umat terdapat pelbagai مظاهر kehidupan sosial yang diselia oleh pihak pemerintah dan diatur oleh undang-undang. Maka amatlah aib apabila negara membiarkan pelacuran berlesen, penjualan arak secara terbuka di jalan-jalan utama, dan papan-papan iklan gergasi yang mempromosikan minuman keras. Semua ini adalah maksiat terang-terangan yang wajib dibanteras:
+  ٢. Islahkan Penampilan Kehidupan Sosial (أصلحوا مظهر الاجتماع)
+  Di dalam setiap bangsa terdapat مظاهر (penampilan dan gaya) kehidupan sosial yang diselia oleh kerajaan, disusun oleh undang-undang, dan dilindungi oleh pihak berkuasa. Maka menjadi kewajipan ke atas setiap bangsa Timur Islam untuk memastikan seluruh penampilan sosial ini selari dengan adab agama serta mematuhi perundangan dan perintah Islam.
+  Sesungguhnya pelacuran berlesen (*al-bighā’ ar-rasmī*) merupakan tompokan aib yang mencemari dahi setiap bangsa yang menghargai nilai moral; apatah lagi bagi bangsa-bangsa Islam yang agamanya mewajibkan pertempuran membanteras pelacuran dan menghukum penzina secara keras tanpa belas kasihan palsu:
   
-> **ٱلزَّانِيَةُ وَٱلزَّانِى فَٱجْلِدُوا۟ كُلَّ وَٰحِدٍۢ مِّنْهُمَا مِا۟ئَةَ جَلْدَةٍۢ ۖ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌۭ فِى دِينِ ٱللَّهِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ**
+> **ٱلزَّانِيَةُ وَٱلزَّانِى فَٱجْلِدُوا۟ كُلَّ وَٰحِدٍۢ مِّنْهُمَا مِا۟ئَةَ جَلْدَةٍۢ ۖ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌۭ فِى دِينِ ٱللَّهِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ وَلِيَشْهَدْ عَذَابَهُمَا طَآئِفَةٌۭ مِّنَ ٱلْمُؤْمِنِينَ ۝**
 >
-> *"Perempuan yang berzina dan lelaki yang berzina, hendaklah kamu sebat tiap-tiap seorang dari keduanya seratus kali sebat; dan janganlah belas kasihan kamu kepada keduanya mencegah kamu daripada menjalankan ugama Allah, jika kamu beriman kepada Allah dan hari akhirat..."*
+> *"Perempuan yang berzina dan lelaki yang berzina, hendaklah kamu sebat tiap-tiap seorang dari keduanya seratus kali sebat; dan janganlah kamu dipengaruhi oleh perasaan belas kasihan terhadap keduanya dalam menjalankan hukum agama Allah, jika benar kamu beriman kepada Allah dan hari akhirat; dan hendaklah disaksikan hukuman seksa keduanya itu oleh sekumpulan daripada orang-orang yang beriman."*
 > — **Surah An-Nūr (24): 2**
 
-  ٣. Perangilah Kebebasan Liar & Liberalisme Moral (حاربوا الإباحية)
-  Sesungguhnya kebebasan liar (al-ibāḥiyyah) yang memikat, hiburan murah yang melalaikan di jalanan, panggung wayang lucah, kelab malam, dan majalah porno adalah racun perosak akhlak anak muda. Menjadi kewajipan ke atas sekalian umat Islam dan pemerintah untuk mengerahkan segenap daya usaha bagi memerangi dan menumpaskan segala anasir kebinasaan moral ini.
+  Begitu juga kelab-kelab arak yang beroperasi di jalan-jalan utama kota dan kawasan-kawasan terkemuka, papan-papan iklan gergasi yang mempromosikan minuman keras, serta iklan-iklan terbuka yang mempamerkan ibu segala kekejian (*ummul-khabā’ith*); kesemuanya adalah kemungkaran yang ditolak oleh agama dan diharamkan oleh Al-Quran dengan sekeras-keras pengharaman!
 
-  ٤. Susunlah Sistem Pendidikan Secara Rabbani (نظموا التعليم)
-  Setiap umat mempunyai dasar pendidikan bagi melahirkan generasi muda dan membina para rijal masa hadapan. Dasar ini wajib dipandu oleh hikmah yang memelihara akidah anak-anak watan, menanamkan kebanggaan terhadap syariat, dan memperkukuhkan kefahaman Al-Quran:
+  ٣. Perangilah Kebebasan Liar dan Hedonisme (حاربوا الإباحية)
+  Sesungguhnya budaya kebebasan liar yang menggiurkan (*al-ibāḥiyyah*), hiburan yang meruntuhkan maruah, dan keseronokan melalaikan yang memenuhi lorong jalan, kelab percutian, dan tempat tumpuan awam, adalah bercanggah secara mutlak dengan apa yang diwasiatkan oleh Islam iaitu kesucian maruah (*‘iffah*), kepahlawanan, kemuliaan jiwa, dan ketekunan kepada urusan-urusan yang agung:
+  
+> 📜 **[MUTIARA HADIS • ALLAH MENCINTAI KELUHURAN AKHLAK]**
+> **إِنَّ اللهَ تَعَالَى يُحِبُّ مَعَالِيَ الأُمُورِ وَأَشْرَافَهَا، وَيَكْرَهُ سَفَاسِفَهَا**
+>
+> *"Sesungguhnya Allah Taala mencintai perkara-perkara yang mulia lagi luhur, dan Dia membenci perkara-perkara yang hina dan keji."*
+
+  Maka ke atas seluruh negara-negara Islam wajib mengerahkan segala kuasa dan undang-undang yang ada dalam bidang kuasa mereka untuk memerangi dan menentang segala gejala kerosakan moral ini tanpa berlengah dan tanpa sikap lepas tangan!
+
+  ٤. Susunlah Sistem Pendidikan (نظموا التعليم)
+  Bagi setiap bangsa dan umat Islam ada dasar pendidikan dalam mendidik generasi muda dan membina generasi masa hadapan yang menjadi sandaran hidup baharu umat. Maka dasar pendidikan ini wajib dibina di atas asas-asas yang bijaksana yang menjamin anak-anak muda memiliki daya ketahanan akidah (*manā‘ah dīniyyah*), kemuliaan akhlak, serta penguasaan sains dan teknologi moden.
+  Dan tiada pertentangan sama sekali antara ilmu sains dengan agama; bahkan Al-Quran menyeru kepada penerokaan ilmu dan sains di atas neraca basirah ketuhanan:
   
 > **قُلْ هَـٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَـٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ ۝**
 >
-> *"Katakanlah (wahai Muhammad): Inilah jalanku, aku dan orang-orang yang mengikutiku menyeru (manusia) kepada Allah dengan hujah yang nyata (basirah); dan Maha Suci Allah, dan bukanlah aku daripada golongan orang-orang musyrik."*
+> *"Katakanlah (wahai Muhammad): 'Inilah jalanku, aku dan orang-orang yang mengikutiku menyeru (manusia) kepada Allah dengan basirah (ilmu dan keyakinan yang nyata); dan Maha Suci Allah, dan bukanlah aku daripada golongan orang-orang musyrik.'"*
 > — **Surah Yūsuf (12): 108**
 
-  ٥. Manfaatkanlah Persaudaraan Sesama Saudara Kamu (انتفعوا بإخاء إخوانكم)
-  Islam memanggil anak-anaknya dan para pengikutnya seraya menyeru:
+  ٥. Manfaatkanlah Persaudaraan Sesama Saudaramu (انتفعوا بإخاء إخوانكم)
+  Islam menyeru sekalian anak-anaknya dan para pengikutnya seraya berfirman:
   
 > **وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءًۭ فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًۭا**
 >
-> *"Dan berpegang teguhlah kamu sekalian kepada tali Allah (ugama Islam), dan janganlah kamu bercerai-berai; dan kenanglah nikmat Allah kepada kamu ketika kamu bermusuh-musuhan (semasa jahiliah), lalu Allah menyatukan hati-hati kamu, maka menjadilah kamu dengan nikmat-Nya itu orang-orang yang bersaudara..."*
+> *"Dan berpegang teguhlah kamu sekalian kepada tali (agama) Allah, dan janganlah kamu bercerai-berai; dan kenanglah nikmat Allah kepadamu ketika kamu bermusuh-musuhan (semasa jahiliah), lalu Allah menyatukan antara hati kamu, maka menjadilah kamu dengan nikmat-Nya itu orang-orang yang bersaudara."*
 > — **Surah Āli ‘Imrān (3): 103**
 
-  Dan Nabi yang mulia ﷺ bersabda:
+  Dan Al-Quran menegaskan lagi: "Sesungguhnya orang-orang yang beriman itu bersaudara" (Al-Ḥujurāt: 10), dan "Orang-orang yang beriman lelaki dan perempuan sebahagian mereka menjadi penolong bagi sebahagian yang lain" (At-Tawbah: 71). Dan Baginda Rasulullah ﷺ bersabda:
   
-> 📜 **[HADIS SAHIH • PERSAUDARAAN HAMBA-HAMBA ALLAH]**
-> **«وَكُونُوا عِبَادَ اللهِ إِخْوَانًا... المُسْلِمُ أَخُو المُسْلِمِ لَا يَظْلِمُهُ وَلَا يَخْذُلُهُ وَلَا يَحْقِرُهُ»**
+> 📜 **[MUTIARA HADIS • PERSAUDARAAN SESAMA HAMBA ALLAH]**
+> **وَكُونُوا عِبَادَ اللهِ إِخْوَانًا، المُسْلِمُ أَخُو المُسْلِمِ: لَا يَظْلِمُهُ، وَلَا يَخْذُلُهُ، وَلَا يَحْقِرُهُ**
 >
-> *"Dan jadilah kamu hamba-hamba Allah yang bersaudara! Seorang Muslim adalah saudara kepada Muslim yang lain; dia tidak menzaliminya, tidak membiarkannya binasa, dan tidak menghinanya. (HR. Al-Bukhari & Muslim)"*
+> *"Dan jadilah kamu sekalian hamba-hamba Allah yang bersaudara! Seorang muslim adalah saudara kepada muslim yang lain: dia tidak menzaliminya, tidak membiarkannya binasa, dan tidak merendah-rendahkannya."*
 
-  Dan demikianlah generasi awal Muhajirin dan Ansar menterjemahkan persaudaraan ini dalam realiti kehidupan mereka sehingga Al-Quran mengabadikan keutamaan mereka sepanjang zaman:
+  Demikianlah generasi Salafus Soleh memahami makna ukhuwah ini; akidah mereka melahirkan rasa kasih sayang yang abadi dan persaudaraan yang suci, sehingga mereka menjadi laksana satu jasad, satu hati, dan satu tangan:
+  
+> **وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ لَوْ أَنفَقْتَ مَا فِى ٱلْأَرْضِ جَمِيعًۭا مَّآ أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَـٰكِنَّ ٱللَّهَ أَلَّفَ بَيْنَهُمْ ۚ إِنَّهُۥ عَزِيزٌ حَكِيمٌۭ ۝**
+>
+> *"Dan (Dialah) yang menyatu-padukan antara hati mereka (orang-orang yang beriman). Walaupun engkau membelanjakan segala (kekayaan) yang ada di bumi, nescaya engkau tidak dapat juga menyatu-padukan antara hati mereka, akan tetapi Allah jualah yang telah menyatu-padukan antara (hati) mereka. Sesungguhnya Dia Maha Kuasa, lagi Maha Bijaksana."*
+> — **Surah Al-Anfāl (8): 63**
+
+  Aplikasi Praktikal Ukhuwah: Muhajirin, Ansar dan Kabilah Asy‘ariyyin
+  Perhatikanlah aplikasi praktikal yang mempesonakan ini: Seorang Muhajirin yang meninggalkan keluarga dan tanah airnya di Makkah demi menyelamatkan agamanya, mendapati di hadapannya para pemuda Yatsrib (Madinah) menunggunya dengan penuh kerinduan, kecintaan, dan kegembiraan menyambut kedatangannya—padahal tiada pertalian darah atau kepentingan duniawi antara mereka!
+  Sebaik sahaja Muhajirin tiba di masjid, para pembesar Aus dan Khazraj berebut-rebut mempelawanya ke rumah mereka, mengutamakannya melebihi diri mereka sendiri, dan sanggup menebusnya dengan jiwa dan keluarga mereka. Bahkan perebutan untuk memuliakan tetamu Muhajirin ini begitu hebat sehingga mereka terpaksa membuat undian (*qur‘ah*), sebagaimana yang diriwayatkan oleh Imam Al-Bukhari bahawa: "Tiadalah seorang Muhajirin menumpang di rumah seorang Ansar melainkan dengan cabutan undi!"
   
 > **وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ ۝**
 >
-> *"Dan orang-orang (Ansar) yang mendiami negeri (Madinah) serta beriman sebelum mereka, mengasihi orang-orang yang berhijrah ke negeri mereka, dan tidak mendapati dalam hati mereka sesuatu keinginan terhadap apa yang diberikan kepada orang-orang Muhajirin; bahkan mereka mengutamakan orang-orang Muhajirin lebih daripada diri mereka sendiri, sekalipun mereka sendiri dalam kesempitan dan kemiskinan..."*
+> *"Dan orang-orang (Ansar) yang mendiami negeri (Madinah) serta beriman sebelum mereka, mengasihi orang-orang yang berhijrah ke negeri mereka, dan tidak mendapati dalam hati mereka sesuatu keinginan terhadap apa yang diberikan kepada orang-orang Muhajirin; bahkan mereka mengutamakan orang-orang Muhajirin lebih daripada diri mereka sendiri, sekalipun mereka sendiri dalam kesempitan dan kemiskinan. Dan sesiapa yang dipelihara daripada sifat bakhil dirinya, maka mereka itulah orang-orang yang berjaya."*
 > — **Surah Al-Ḥasyr (59): 9**
 
-  Dan apabila engkau membaca Al-Quran, meneliti hadis-hadis Nabi ﷺ, serta menelaah lembaran sejarah para sahabat, engkau akan menyaksikan bahawa persaudaraan iman inilah yang telah menyatukan hati-hati yang dahulunya berpecah-belah dan melahirkan tamadun teragung di muka bumi!
+  Dan di atas landasan persaudaraan suci inilah umat Islam bergerak melakar kegemilangan. Tiada perbezaan antara Muhajirin dan Ansar, antara orang Makkah dan orang Yaman; sehinggakan Rasulullah ﷺ memuji kabilah Asy‘ariyyin dari Yaman kerana model persaudaraan ekonomi mereka yang agung:
+  
+> 📜 **[TELADAN UKHUWAH EKONOMI • PUJIAN KEPADA KABILAH ASY‘ARIYYIN]**
+> **نِعْمَ القَوْمُ الأَشْعَرِيُّونَ، إِذَا أَرْمَلُوا فِي الغَزْوِ، أَوْ قَلَّ طَعَامُ عِيَالِهِمْ بِالمَدِينَةِ، جَمَعُوا مَا كَانَ عِنْدَهُمْ فِي ثَوْبٍ وَاحِدٍ، ثُمَّ اقْتَسَمُوهُ بَيْنَهُمْ فِي إِنَاءٍ وَاحِدٍ بِالسَّوِيَّةِ، فَهُمْ مِنِّي وَأَنَا مِنْهُمْ**
+>
+> *"Sebaik-baik kaum adalah kabilah Asy‘ariyyun! Apabila mereka kehabisan bekalan dalam peperangan, atau makanan keluarga mereka berkurangan di Madinah, mereka mengumpulkan apa sahaja makanan yang ada pada mereka dalam satu kain, kemudian mereka membahagikannya sesama mereka dalam satu bekas secara sama rata; maka mereka adalah sebahagian daripadaku dan aku adalah sebahagian daripada mereka!"*
+
+  Maka apabila engkau membaca Al-Quranul Karim, meneliti hadis-hadis Nabi ﷺ yang agung, dan menelaah sirah generasi terbilang ini, engkau akan menyaksikan suatu hakikat yang menyejukkan pandangan matamu dan memenuhi pendengaran serta hatimu dengan keimanan!
 
 
 ---
 
-### 28. Persaudaraan Sejagat & Ufuk Tanah Air Islam (أخوة تعلن الإنسانية و أفق الوطن الإسلامي)
+### 28. Persaudaraan Sejagat & Ufuk Tanah Air Islam (أخوة تعلن الإنسانية - Ukhuwwatun Tu‘linul-Insāniyyah)
 
-Inilah persaudaraan Islam yang mengisytiharkan nilai kemanusiaan sejagat! Ia adalah ikatan persaudaraan yang meruntuhkan segala tembok perkauman warna kulit, bahasa, dan keturunan.
-Bagi seorang Muslim, setiap jengkal bumi yang di dalamnya ada orang beriman yang bersaksi bahawa tiada Tuhan melainkan Allah dan Muhammad itu utusan Allah—adalah tanah airnya yang suci. Kehormatannya wajib dibela, kesuciannya wajib dipelihara, dan warganya adalah saudara kandungnya dalam akidah!
-Dan terhadap warganegara bukan Islam yang hidup bersama di bawah naungan daulat Islam dan tidak memusuhi agama kita, Islam menetapkan hubungan berasaskan keadilan mutlak, ihsan, perlindungan hak, dan toleransi yang luhur:
+Inilah persaudaraan Islam yang mengisytiharkan nilai kemanusiaan sejagat (أخوة تعلن الإنسانية)! Dan sesungguhnya akidah persaudaraan ini telah membuahkan Dua Buah Hasil Agung yang wajib kita petik dan bicarakan kemanisan, kebaikan, dan faedahnya:
 
+  Buah Pertama: Falsafah Pembukaan Islam vs Penjajahan Imperialis Dunia
+  Sesungguhnya akidah ini telah melahirkan satu hakikat bersejarah bahawa Pembukaan Islam (*Al-Fatḥul-Islāmī*) sama sekali tidak pernah menyerupai mana-mana penjajahan imperialisme dalam sejarah manusia—tidak pada matlamatnya, tidak pada cara perlaksanaannya, dan tidak pada hasil buahnya!
+  Pahlawan pembebas Muslim tatkala membuka sesuatu wilayah, membukanya semata-mata untuk meninggikan kalimah kebenaran dan menyinari ufuknya dengan petunjuk Al-Quranul Karim. Maka apabila matahari hidayah Muhammadiah menyinari jiwa penduduk tempatan, lenyaplah serta-merta segala dinding pemisah kasta dan terhapuslah segala kezaliman. Wilayah tersebut dilimpahi keadilan, kasih sayang, dan persaudaraan sejati; tiada lagi di sana pihak penakluk yang mendabik dada dan tiada musuh yang ditindas hina, sebaliknya mereka bertukar menjadi saudara-saudara yang saling berkasih sayang!
+  Di sinilah leburnya sentimen kebangsaan sempit (*al-qawmiyyah*), cair lenyap laksana salji yang ditimpa pancaran sinar matahari yang terik di hadapan keagungan persaudaraan Islam yang disemarakkan oleh Al-Quran ke dalam sanubari seluruh pengikutnya!
+
+  Keikhlasan Mutlak Pejuang: Kisah Pertanyaan Niat Jihad
+  Pahlawan Muslim sebelum keluar berperang dan menundukkan musuh, telah menjual jiwanya kepada Allah dan membersihkan dirinya daripada sentimen perkauman dan ‘asabiyyah sempit. Dia tidak berperang kerana fanatik suku kaum, tidak menakluk demi hegemoni bangsa, dan tidak mencari kemenangan untuk kebanggaan peribadi; tetapi dia berjuang semata-mata kerana Allah yang Maha Esa tiada sekutu bagi-Nya!
+  Antara bukti keikhlasan paling agung dan penyucian diri daripada hawa nafsu adalah apa yang diriwayatkan dalam hadis bahawa seorang lelaki pernah datang kepada Baginda Rasulullah ﷺ lalu berkata: "Wahai Rasulullah! Sesungguhnya aku suka berjihad pada jalan Allah, namun aku juga suka kedudukan dan keberanianku dilihat dan dipuji orang..." Maka Baginda Rasulullah ﷺ diam dan tidak menjawab pertanyaannya, sehinggalah Allah menurunkan wahyu yang agung:
+  
+> **فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَـٰلِحًۭا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا ۝**
+>
+> *"Oleh itu, sesiapa yang percaya dan berharap akan pertemuan dengan Tuhannya, hendaklah dia mengerjakan amal yang soleh dan janganlah dia mempersekutukan sesiapapun dalam ibadahnya kepada Tuhannya."*
+> — **Surah Al-Kahf (18): 110**
+
+  Perhatikanlah bagaimana Islam menganggap kecenderungan seseorang mendambakan pujian dan sanjungan—yang merupakan tabiat semulajadi manusia—sebagai syirik tersembunyi yang wajib dibersihkan demi menjaga kesucian matlamat perjuangan yang mulia! Adakah engkau menyangka bahawa seorang pejuang yang agamanya mensyaratkan penyucian nafsu sedalam ini akan terfikir untuk berperang demi kepentingan bangsa atau fanatik puak? Sekali-kali tidak, demi Allah!
+  Dan penduduk tempatan yang dibuka wilayahnya tatkala menerima hidayah Islam, sama sekali tidak menyerahkan tanah airnya kepada penjajah asing untuk dijadikan hamba abdi yang hina atau dirampas kekayaannya; sebaliknya mereka menyatukan jiwa dengan saudara seakidah mereka seraya berseru dengan penuh ketulusan: "Bagi kamu hak seperti hak kami, dan ke atas kamu kewajipan seperti kewajipan kami, dan Kitabullah Tabāraka wa Ta‘ālā menjadi pemutus antara kita!" Kedua-duanya melebur dalam satu matlamat dan berkorban demi menegakkan prinsip yang sama.
+
+  Buah Kedua: Ufuk Tanah Air Islam Sejagat (أفق الوطن الإسلامي)
+  Adapun buah hasil yang kedua: Sesungguhnya persaudaraan Islam telah menjadikan setiap muslim berkeyakinan padu bahawa setiap jengkal tanah di muka bumi yang di dalamnya ada seorang saudara yang beriman dengan Al-Quranul Karim—adalah sebahagian daripada tanah air Islam yang agung, yang diwajibkan oleh Islam ke atas seluruh anak-anaknya untuk berusaha melindungi dan membahagiakannya!
+  Maka dengan kefahaman ini, meluaslah ufuk tanah air Islam melangkaui sempadan geografi yang sempit dan batas perkauman darah kepada tanah air prinsip-prinsip yang luhur dan akidah yang suci murni—hakikat-hakikat yang dijadikan oleh Allah sebagai hidayah dan cahaya bagi sekalian alam.
+  Dan Islam tatkala menanamkan rasa kemuliaan ini ke dalam jiwa anak-anaknya, mewajibkan ke atas mereka satu kefardhuan yang lazim untuk mempertahankan tanah air Islam daripada pencerobohan penceroboh, membebaskannya daripada rampasan perampas, serta membentenginya daripada kerakusan musuh!
+  Dan terhadap orang-orang bukan Islam yang berkongsi tanah air dan tidak memusuhi agama kita, Islam menetapkan hubungan berasaskan keadilan mutlak, kebajikan, perlindungan hak, dan toleransi yang luhur:
+  
 > **لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ ۝**
 >
 > *"Allah tidak melarang kamu daripada berbuat baik dan berlaku adil kepada orang-orang yang tidak memerangi kamu kerana agama (kamu), dan tidak mengeluarkan kamu dari kampung halaman kamu; sesungguhnya Allah mengasihi orang-orang yang berlaku adil."*
 > — **Surah Al-Mumtaḥanah (60): 8**
 
-Inilah keindahan tamadun Islam: tegas mempertahankan prinsip dan maruah tanah airnya, namun lapang dada dan penuh rahmah dalam menyantuni seluruh umat manusia!
-
 
 ---
 
-### 29. Jalan Ini Panjang, Namun Tiada Jalan Lain Selainnya (طريق طويلة ... و الواجب أولاً)
+### 29. Jalan Ini Panjang, Namun Tiada Jalan Lain Selainnya (طريق طويلة ... و الواجب أولاً - Ṭarīqun Ṭawīlah)
 
 Apabila kami berbicara dengan para tokoh dan pejuang yang prihatin tentang kebangkitan Islam, mereka sering bersetuju dengan kemuliaan matlamat ini, namun mereka mengeluh: "Tetapi jalan ini terlalu panjang, arus kerosakan terlalu deras, sehingga putus asa mula merayap ke dalam jiwa!"
 Bagi menolak keputusasaan ini, saya kemukakan dua sudut pandang yang positif:
@@ -610,7 +659,7 @@ Dan kemudiannya, terdapat dua prinsip utama yang mengarahkan hati pejuang yang g
 
 ---
 
-### 30. Sunnah Kebangkitan: Model 5 Fasa Pembinaan Bangsa Melalui Kisah Nabi Musa AS (قصة أمة تتكون)
+### 30. Sunnah Kebangkitan: Model 5 Fasa Pembinaan Bangsa Melalui Kisah Nabi Musa AS (قصة أمة تتكون - Qiṣṣatu Ummatin Tatakawwan)
 
 Dan sesungguhnya Al-Quran telah membentangkan di hadapan kita satu model agung sunnatullah dalam pembentukan sesuatu bangsa yang bangkit daripada lembah kelemahan menuju kemuncak kemuliaan, iaitu kisah pembinaan umat melalui sirah Nabi Musa a.s. dan Bani Israel, yang merangkumi lima fasa bersejarah:
 

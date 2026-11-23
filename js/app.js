@@ -126,13 +126,14 @@ document.addEventListener('DOMContentLoaded', () => {
   // Format teks Arab dalam tajuk fasal: bawa turun simbol kurungan '(' bersama teks ke bawah agar tidak terputus
   function formatTitleArabic(title) {
     if (!title) return '';
-    const clean = title.trim();
+    // Buang sebarang tag HTML mentah sedia ada
+    const clean = title.replace(/<[^>]+>/g, '').trim();
 
     // 1. Tajuk yang semata-mata kurungan, cth: "(هَلْ نَحْنُ قَوْمٌ عَمَلِيُّونَ؟)"
     if (clean.startsWith('(') && clean.endsWith(')')) {
       const inner = clean.slice(1, -1).trim();
       const innerFormatted = inner.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/g, '<span class="arabic-inline-almarai" dir="rtl">$1</span>');
-      return `<span class="title-sub-wrap">(${innerFormatted})</span>`;
+      return `<span class="title-sub-wrap"><span class="title-bracket">(</span>${innerFormatted}<span class="title-bracket">)</span></span>`;
     }
 
     // 2. Tajuk dwibahasa dengan kurungan di hujung: "Tajuk BM (Arab / Transliterasi)"
@@ -141,7 +142,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const mainPart = m[1].trim();
       const parenContent = m[2].trim();
       const parenFormatted = parenContent.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/g, '<span class="arabic-inline-almarai" dir="rtl">$1</span>');
-      return `${mainPart} <span class="title-sub-wrap">(${parenFormatted})</span>`;
+      return `${mainPart} <span class="title-sub-wrap"><span class="title-bracket">(</span>${parenFormatted}<span class="title-bracket">)</span></span>`;
     }
 
     // 3. Tajuk tanpa kurungan luar, tetapi ada teks Arab

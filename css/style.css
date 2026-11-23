@@ -661,10 +661,31 @@ body {
   font-size: 0.82rem;
   line-height: 1.35;
   color: #94A3B8;
+  word-break: break-word;
 }
 
 [data-theme="light"] .chapter-item .title-sub-wrap {
   color: #64748B;
+}
+
+/* Memastikan kurungan pembuka dan penutup tidak terasing atau tergantung */
+.title-bracket {
+  display: inline;
+  color: inherit;
+  opacity: 0.85;
+}
+
+.title-sub-wrap .arabic-inline-almarai,
+.chapter-item .arabic-inline-almarai {
+  display: inline !important;
+  direction: rtl !important;
+  unicode-bidi: isolate;
+  font-family: 'Almarai', sans-serif !important;
+  font-size: 1.05em !important;
+  font-weight: 700 !important;
+  margin: 0 2px !important;
+  vertical-align: baseline;
+  text-shadow: 0 0 10px rgba(253, 224, 71, 0.35);
 }
 
 .arabic-inline-almarai {
