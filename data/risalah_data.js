@@ -1,5 +1,4 @@
-// Data Risalah Dakwah Hasan al-Banna
-const risalahData = [
+window.RISALAH_DATA = [
   {
     "id": "dawatuna",
     "title": "Risalah Da‘watunā",
@@ -1530,5 +1529,5 @@ const risalahData = [
 ];
 
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = risalahData;
+  module.exports = window.RISALAH_DATA;
 }
