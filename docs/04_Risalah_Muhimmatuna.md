@@ -4,39 +4,23 @@
 **Pengarang Asal:** Al-Imām Asy-Syahīd Ḥasan al-Bannā (*raḥimahullāh*)  
 **Penterjemah & Penyelaras Istilah:** Sidang Editor Ilmiah Fikrah Haraki  
 **Siri:** Tetralogi Risalah Fikrah Asasi (Risalah Ke-4)  
-**Kategori:** Manhaj Taghyīr, Doktrin Gerakan, Rekabentuk Sistem Kenegaraan & Fiqh Haraki  
-**Laras Bahasa:** Melayu Baku Haraki Standard (Ilmiah Dakwah Kontemporari)  
 
 ---
 
-## PENGANTAR EDITOR & PETA MINDA FIKRAH
-
-Risalah **مهمتنا (Muhimmatunā / Misi Kami)** merupakan naskhah perisytiharan doktrin kenegaraan dan peradaban yang paling tegas dan komprehensif oleh Al-Imam Asy-Syahid Hasan al-Banna. Jika risalah-risalah terdahulu membina asas kefahaman (*Da‘watunā*), menetapkan visi kepimpinan dunia (*Ilā Ayyi Syai’*), dan membuktikan kesungguhan amali di lapangan (*Hal Naḥnu*), maka risalah **Muhimmatunā** ini menggariskan pelan tindakan sistemik (*blue-print*) bagi pembinaan sebuah daulat dan tamadun Islam yang berdaulat.
-
-Risalah ini merangkumi:
-1. **Diagnosis Keterasingan:** Pendedahan pemisahan total antara tata sistem kehidupan umat dengan ajaran Al-Quran (8 sistem kenegaraan dan kemasyarakatan yang terputus daripada Islam).
-2. **Kritikan Terhadap Hegemoni Modenisme Barat:** Pendedahan kebankrapan tamadun kebendaan yang gagal membawa kebahagiaan rohani, gagal menghapuskan jenayah, dan gagal menamatkan kemiskinan.
-3. **Misi Agung (Muhimmatunā):** Garis panduan pembinaan 8 sistem negara berasaskan Al-Quran (Pemerintahan, Hubungan Antarabangsa, Kehakiman, Pertahanan/Ketenteraan, Ekonomi Berdikari, Pendidikan/Kebudayaan, Keluarga Rabbani, dan Akhlak Individu).
-4. **Tahapan Pembinaan Peradaban:** Rantaian 6 fasa pembinaan (*Al-Fard al-Muslim → Al-Bayt al-Muslim → Asy-Sya‘b al-Muslim → Al-Ḥukūmah al-Muslimah → Ad-Dawlah al-Islāmiyyah → Ustādhiyyatul-‘Ālam*).
-5. **Bekalan Pejuang (‘Uddatunā):** Senjata rohani generasi terawal (Iman mendalam, Ukhuwah suci, dan Jihad pengorbanan tanpa kompromi).
-6. **Hakikat Fikrah:** Penegasan bahawa jemaah dakwah ini bukan sekadar parti politik sempit, bukan persatuan kebajikan biasa, dan bukan kelab sukan; sebaliknya ia adalah **Fikrah & Akidah, Nizam & Manhaj** yang mewarisi panji Rasulullah ﷺ.
-
----
-
-### 01. Mukadimah: Suara Tenang di Tengah Kebisingan Zaman (مـهـمّتنـا)
+### 01. Mukadimah: Suara Tenang di Tengah Kebisingan Zaman (مقدمة: نتقدم بدعوتنا)
 
 Bismillāhir-Raḥmānir-Raḥīm.
 Segala puji bagi Allah, selawat dan salam ke atas junjungan kita Nabi Muhammad ﷺ, ahli keluarga baginda, dan para sahabatnya sekelian.
 Saya menyampaikan salam kepada kamu dengan ucapan salam Islam—ucapan yang diberkati dan indah daripada sisi Allah: As-Salāmu ‘alaikum wa raḥmatullāhi wa barakātuh.
 Wahai Ikhwanul Muslimin... Wahai sekelian manusia!
-Di celah-celah kebisingan gelombang dunia yang saling bergolak, di tengah-tengah pertarungan dakyah dan ideologi yang menyesatkan manusia, dan di hadapan kepelbagaian suara yang membingungkan fikiran, kami tampil mempersembahkan dakwah kami—dakwah الإخوان المسلمون (Ikhwanul Muslimin):
+Di tengah-tengah kebisingan gegak-gempita yang bergema daripada rentetan peristiwa pahit yang silih berganti, yang dilahirkan oleh malam-malam sarat mengandung malapetaka besar, dan yang dihidangkan kepada kita oleh hari-hari yang menggerunkan secara berturut-turut...
+Maka kami tampil ke hadapan mengemukakan dakwah kami—dakwah الإخوان المسلمون (Ikhwanul Muslimin):
 
-  Ia adalah seruan yang tenang... tetapi ia lebih perkasa dan menggoncang jiwa berbanding ribut taufan yang dahsyat.
-  Ia adalah seruan yang merendah diri... namun ia lebih mulia dan kukuh berbanding puncak gunung-ganang yang menjulang tinggi.
-  Ia adalah seruan yang terhad zahirnya... tetapi hakikatnya lebih luas melangkaui seluruh sempadan benua dan rantau bumi ini.
-  Ia adalah seruan yang sunyi daripada kemegahan duniawi dan perhiasan palsu... namun ia sentiasa dinaungi dan dilingkungi oleh keagungan kebenaran, keindahan pesona wahyu Ilahi, dan pemeliharaan Allah yang Maha Pelindung.
-
-Inilah sifat hakiki dakwah kami; seruan yang lahir dari keikhlasan hati nurani untuk mengembalikan manusia kepada fitrah penghambaan kepada Rabbul 'Alamin, bukan untuk mengejar kepentingan kebendaan atau takhta kekuasaan sementara.
+  Ia adalah seruan yang tenang (هادئة)... tetapi ia jauh lebih perkasa dan menggoncang jiwa berbanding ribut taufan yang membadai ganas!
+  Ia adalah seruan yang tawaduk bersahaja (متواضعة)... namun ia jauh lebih mulia, agung dan kukuh berbanding puncak gunung-ganang yang menjulang tinggi!
+  Ia adalah seruan yang terbatas langkah awalnya (محدودة)... tetapi hakikat jangkauannya jauh lebih luas melangkaui seluruh sempadan benua dan rantau bumi ini!
+  Ia adalah seruan yang sunyi daripada penampilan palsu dan kilauan fatamorgana yang menipu (خالية من المظاهر والبهرج الكاذب)... namun ia sentiasa dinaungi dan dilingkungi oleh keagungan kebenaran, pesona wahyu Ilahi, serta keindahan hakikat yang sempurna!
+  Ia adalah seruan yang suci bersih daripada kerakusan nafsu tamak, agenda tersembunyi, dan manfaat peribadi yang fana (بريئة من الأطماع والأغراض والمنافع الشخصية الزائلة)... sebaliknya ia melimpah-ruah dengan kecintaan pengorbanan dan penebusan jiwa (*al-fidā’*) pada jalan Allah—Tuhan yang telah menurunkan Al-Quran sebagai petunjuk bagi seluruh manusia serta penjelasan-penjelasan mengenai petunjuk itu dan pembeza antara hak dan batil!
 
 
 ---
@@ -49,7 +33,7 @@ Dengarlah seruan ini secara terus-terang lagi bergema hebat, dilaungkan oleh sua
 > **يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ ۝ قُمْ فَأَنذِرْ ۝ وَرَبَّكَ فَكَبِّرْ ۝**
 >
 > *"Wahai orang yang berselimut! Bangunlah serta berilah peringatan! Dan Tuhanmu, maka agungkanlah!"*
-> — **Surah Al-Muddaththir (74): 1-3**
+> — **Surah Al-Muddaththir (74): 1–3**
 
 Dan bergema bersama-samanya rahsia firman Allah Taala:
 
@@ -58,14 +42,14 @@ Dan bergema bersama-samanya rahsia firman Allah Taala:
 > *"Maka sampaikanlah secara terus-terang apa yang diperintahkan kepadamu, dan janganlah engkau pedulikan orang-orang musyrik itu."*
 > — **Surah Al-Ḥijr (15): 94**
 
-Serta dilaungkan oleh lisan wahyu yang suci kepada junjungan besar Nabi Muhammad ﷺ:
+Serta dilaungkan oleh lisan wahyu yang suci kepada junjungan besar Nabi Muhammad ﷺ seraya menyeru seluruh umat manusia:
 
 > **قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَـٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ ۝**
 >
 > *"Katakanlah (wahai Muhammad): 'Wahai seluruh manusia! Sesungguhnya aku adalah utusan Allah kepada kamu semua, (diutuskan oleh Allah) yang memiliki kerajaan langit dan bumi; tiada Tuhan yang berhak disembah melainkan Dia, Yang menghidupkan dan mematikan. Oleh itu berimanlah kamu kepada Allah dan Rasul-Nya, Nabi yang ummi yang beriman kepada Allah dan kalimah-kalimah-Nya; dan ikutlah dia supaya kamu beroleh petunjuk.'"*
 > — **Surah Al-A‘rāf (7): 158**
 
-Inilah sinar wahyu terawal yang menjadi inspirasi kebangkitan kami. Dakwah ini bukan ciptaan manusia dan bukan rekaan falsafah falsafah moden; sebaliknya ia adalah penerusan amanah agung daripada Rasulullah ﷺ untuk memperingatkan sekalian manusia tentang hakikat kewujudan dan tujuan hidup mereka di muka bumi.
+Inilah sinar wahyu terawal yang menjadi inspirasi kebangkitan kami. Dakwah ini bukan ciptaan manusia dan bukan rekaan falsafah moden; sebaliknya ia adalah penerusan amanah agung daripada Rasulullah ﷺ untuk memperingatkan sekalian manusia tentang hakikat kewujudan dan tujuan hidup mereka di muka bumi.
 
 
 ---
@@ -73,473 +57,347 @@ Inilah sinar wahyu terawal yang menjadi inspirasi kebangkitan kami. Dakwah ini b
 ### 03. Di Manakah Kita daripada Ajaran Islam? (أين نحن من تعاليم الإسلام؟)
 
 Wahai Ikhwanul Muslimin... Wahai sekelian manusia!
-Sesungguhnya Allah telah mengutuskan kepada kamu seorang pemimpin agung (Nabi Muhammad ﷺ), menetapkan untuk kamu satu sistem kehidupan yang sempurna, dan menurunkan kepada kamu sebuah kitab suci yang terang nyata (Al-Quran). Namun demikian, adakah kamu benar-benar hidup berpandukan ajaran Al-Quran tersebut?
-Bersikap jujurlah dalam memberikan jawapan, nescaya kamu akan menyaksikan satu hakikat yang amat pahit lagi nyata terpampang di hadapan mata kamu: Semua sistem yang kamu ikuti hari ini dalam urusan-urusan hidup yang penting adalah sistem taklid buta semata-mata yang terputus langsung daripada Islam, tidak bersumberkan daripadanya, dan tidak bersandarkan kepadanya:
+Sesungguhnya Allah telah mengutuskan kepada kamu seorang pemimpin agung (Nabi Muhammad ﷺ), menetapkan untuk kamu satu sistem perundangan yang sempurna, memperincikan hukum-hakam, menurunkan sebuah Kitab Suci yang benderang (Al-Quran), menghalalkan perkara-perkara yang baik, mengharamkan perkara-perkara yang keji, dan memimpin kamu dengan panduan wahyu yang luhur.
+Namun demikian, bersikap jujurlah dalam memberikan jawapan, nescaya kamu akan menyaksikan satu hakikat yang amat pahit lagi nyata terpampang di hadapan mata kamu: Semua sistem yang kamu ikuti hari ini dalam urusan-urusan hidup yang kamu lalui adalah sangat jauh menyimpang daripada ajaran Islam yang suci!
 
+  Diagnosis Keterasingan: Lapan Sistem Kehidupan yang Menyimpang
   
-    ١. Sistem Pemerintahan Dalam Negeri (نظام الحكم الداخلي)
-    Terputus daripada petunjuk syura dan keadilan Islam; sebaliknya diceduk daripada undang-undang ciptaan manusia yang sarat dengan kecacatan dan kepentingan nafsu politikus.
+    Sistem Pemerintahan Dalaman Negara (نظام الحكم الداخلي): Jauh daripada prinsip syura, keadilan Islam dan amanah kepimpinan rabbani.
+    Sistem Hubungan Antarabangsa (نظام العلاقات الدولية): Mengikut telunjuk undang-undang sekular dan kepentingan kuasa-kuasa besar yang menindas.
+    Sistem Kehakiman dan Perundangan (نظام القضاء): Menolak hukum syariat Allah dan menggantikannya dengan kanun ciptaan manusia yang dicedok dari Eropah.
+    Sistem Pertahanan dan Ketenteraan (نظام الدفاع والجندية): Kehilangan roh jihad fi sabilillah dan kesiapsiagaan mempertahankan kesucian maruah akidah.
+    Sistem Kewangan dan Ekonomi (نظام المال والاقتصاد للدولة والأفراد): Dikuasai oleh sistem riba, monopoli kapitalis yang menindas rakyat marhaen, dan pengabaian institusi zakat.
+    Sistem Kebudayaan dan Pendidikan (نظام الثقافة والتعليم): Memisahkan ilmu daripada iman, menghasilkan generasi berjiwa hampa dan berorientasikan kebendaan.
+    Sistem Kekeluargaan dan Rumahtangga (نظام الأسرة والبيت): Terancam oleh keruntuhan moral, pergaulan bebas, dan peniruan gaya hidup Barat yang merosakkan kesucian institusi perkahwinan.
+    Sistem Tingkah Laku dan Akhlak Individu (نظام الفرد في سلوكه الخاص): Dikuasai oleh hawa nafsu, egoisme melampau, dan hilangnya sifat muraqabah kepada Allah.
   
-  
-    ٢. Sistem Hubungan Antarabangsa (نظام العلاقات الدولية)
-    Tunduk kepada hegemoni kuasa-kuasa imperialis besar dunia, bukan berlandaskan prinsip persaudaraan sejagat dan maruah umat pertengahan (ummatan wasaṭan).
-  
-  
-    ٣. Sistem Kehakiman & Perundangan (نظام القضاء)
-    Mahkamah-mahkamah menghukum dengan undang-undang sekular Barat (Kod Napoleon), membelakangkan hudud dan syariat yang diturunkan oleh Allah dari langit.
-  
-  
-    ٤. Sistem Pertahanan & Ketenteraan (نظام الدفاع والجندية)
-    Kehilangan roh jihad dan pengorbanan fi sabilillah; tentera dijadikan alat memelihara kepentingan rejim bukan membela akidah dan tanah air Islam.
-  
-  
-    ٥. Sistem Kewangan & Ekonomi (نظام المال والاقتصاد)
-    Dihanyutkan oleh sistem riba antarabangsa, monopoli kapitalis, penindasan pekerja, dan pembaziran kekayaan negara yang melalaikan amanah zakat.
-  
-  
-    ٦. Sistem Pendidikan & Kebudayaan (نظام الثقافة والتعليم)
-    Kurikulum yang memisahkan akal daripada iman, menanam keraguan terhadap sejarah Islam, dan mempromosikan falsafah kebendaan yang merosakkan fikrah anak muda.
-  
-  
-    ٧. Sistem Rumahtangga & Kekeluargaan (نظام الأسرة والبيت)
-    Pencerobohan budaya hedonisme yang meretakkan keharmonian suami isteri, pengabaian tarbiah anak-anak, dan kebebasan pergaulan liar tanpa batas aurat.
-  
-  
-    ٨. Akhlak & Perilaku Peribadi Individu (نظام الفرد في سلوكه الخاص)
-    Jiwa manusia dikuasai nafsu syahwat dan sifat mementingkan diri sendiri; melupakan hisab akhirat dan kesucian penyucian jiwa (tazkiyatun nafs).
-  
+  Bahkan roh kepimpinan umum (الروح العام) yang menguasai pemerintah dan rakyat jelata, serta yang membentuk pelbagai مظاهر kehidupan sosial hari ini, telah terpesong jauh daripada paksi petunjuk Ilahi!
 
-Roh umum yang mendominasi kalangan pemerintah mahupun rakyat jelata, serta yang mencorakkan pelbagai dimensi kehidupan kontemporari—keseluruhannya telah jauh hanyut meninggalkan Islam dan ajaran Al-Quran:
-
+  Apakah yang Masih Berbaki daripada Islam?
+  Maka apakah yang masih berbaki daripada Islam dalam realiti hidup umat hari ini?
+  
+    Adakah yang berbaki hanyalah masjid-masjid megah yang tersergam indah, yang hanya diimarahkan oleh orang-orang tua dan fakir miskin, lalu mereka menunaikan di dalamnya beberapa rakaat solat yang lesu, mati kaku tanpa roh, tanpa kehadiran hati dan tanpa membuahkan sebarang kesan dalam kehidupan peribadi mahupun awam mereka?
+    Atau adakah yang berbaki hanyalah hari-hari puasa setahun sekali, yang malangnya telah bertukar menjadi musim kemalasan, cuti rehat, pesta makanan dan minuman berlebihan, dan jarang sekali engkau temui orang yang benar-benar berpuasa menahan diri daripada percakapan lagha, kata-kata keji, dan syahwat perut serta nafsu?
+  
+  
 > **وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ**
 >
-> *"Dan sesungguhnya kebanyakan daripada orang-orang yang bergaul dan bercampur (dalam perkongsian) saling melakukan kezaliman antara satu sama lain, kecuali orang-orang yang beriman serta beramal soleh; dan amat sedikitlah mereka itu."*
+> *"Dan sesungguhnya kebanyakan daripada orang-orang yang bergaul dan bercampur (dalam urusan kehidupan) saling melakukan kezaliman antara satu sama lain, kecuali orang-orang yang beriman serta beramal soleh; dan amat sedikitlah bilangan mereka itu."*
 > — **Surah Ṣād (38): 24**
 
-Kecuali segelintir hamba-hamba Allah yang beriman dan beramal soleh; dan alangkah sedikitnya bilangan mereka di tengah lautan kealpaan ini!
+  
+    Atau adakah yang berbaki hanyalah penampilan luaran yang menipu: biji-biji tasbih yang dibilang, jubah-jubah pakaian, janggut-janggut yang dipelihara, upacara protokol rasmi, dan kata-kata retorik yang tidak meresap ke dalam hati dan tidak memberi sebarang kesan kepada perbaikan jiwa?
+  
+  Adakah ini Islam yang dikehendaki oleh Allah untuk menjadi rahmat-Nya yang teragung dan kurniaan-Nya yang terbesar kepada sekalian alam?!
+  Adakah ini petunjuk junjungan besar Nabi Muhammad ﷺ yang dengannya baginda berhasrat mengeluarkan seluruh manusia daripada kegelapan jahiliah menuju kepada cahaya kebenaran?!
+  Adakah ini perundangan Al-Quran yang merawat segala penyakit umat dan krisis masyarakat, serta meletakkan kaedah yang paling halus dan sistem yang paling bijaksana bagi islah dan kebangkitan tamadun?!
 
 
 ---
 
-### 04. Gelombang Taklid Buta Terhadap Barat (موجة التقليد الغربي)
+### 04. Gelombang Taklid Buta Terhadap Barat (موجة التقليد الأعمى للغرب)
 
 Wahai Ikhwanul Muslimin... Bahkan wahai seluruh umat manusia!
-Adalah menjadi satu kebenaran yang wajib kita akui bahawa satu gelombang kuat yang menghanyutkan dan satu arus deras yang melimpah-ruah telah menakluki akal fikiran dan pandangan hidup umat dalam saat kelalaian zaman, ketika umat Islam terpedaya dengan kemewahan sementara serta tenggelam dalam keseronokan dunia.
-Maka muncullah pelbagai doktrin dan seruan asing, lahirlah pelbagai sistem dan falsafah kebendaan, serta terbinanya tamadun-tamadun sekular yang mencabar kewujudan fikrah Islam dalam jiwa para penganutnya. Gelombang ini menyerang umat Islam di dalam kubu kediaman mereka sendiri, mengepung mereka dari segenap penjuru, mencerobohi negara-negara mereka, rumah-rumah mereka, bilik-bilik tidur mereka, bahkan menawan hati nurani, akal fikiran, dan perasaan mereka.
-Gelombang tersebut dilengkapi dengan segala punca godaan, perhiasan tipuan, kekuasaan, dan pengaruh materialistik yang tidak pernah disaksikan sebelumnya. Akibatnya, ia melanda sebahagian besar negeri Islam dan memperdayakan negara-negara yang dahulunya menjadi tonggak kemegahan tamadun Islam.
-Lalu lahirlah di setiap pelusuk dunia Islam satu generasi kacukan (mukhadhram) yang lebih rapat jiwanya kepada selain Islam. Golongan inilah yang menduduki tampuk kepimpinan pemikiran, rohani, politik, dan pentadbiran; lalu mengheret rakyat jelata secara licik ke arah cara hidup Barat tanpa disedari bahayanya.
-Malah bergema laungan lantang daripada para propagandis idea sekular:
+Adalah menjadi satu kebenaran yang wajib kita akui bahawa satu gelombang kuat yang menghanyutkan dan satu arus deras yang melimpah-ruah telah menakluki akal fikiran dan pandangan hidup umat dalam saat kelalaian zaman, ketika umat Islam terpedaya dengan kemewahan sementara serta tenggelam dalam keseronokan duniawi.
 
-  "Bebaskanlah kami daripada saki-baki Islam dan kesannya! Terimalah bersama-sama kami dengan rela segala tuntutan, bebanan, gaya hidup, dan manifestasi peradaban moden Barat ini! Buanglah sisa-sisa fikrah kuno yang lapuk itu daripada kepala dan jiwa kamu!"
+  Pencerobohan Fikiran dan Kemunculan Generasi Kacukan
+  Maka bangkitlah pelbagai doktrin dan seruan asing, lahirlah pelbagai sistem dan falsafah kebendaan, serta terbinanya tamadun-tamadun sekular yang menyaingi fikrah Islam dalam jiwa para penganutnya. Arus ini menceroboh umat Islam di tanah air mereka sendiri, mengepung mereka dari segenap penjuru, menyelinap masuk ke dalam kota-kota, kampung-kampung, rumahtangga dan kamar tidur mereka, bahkan menawan hati, akal fikiran dan perasaan mereka!
+  Arus ini dilengkapi dengan segala sarana godaan, tarikan nafsu, kekuatan material dan kuasa mencengkam yang tidak pernah dimiliki oleh tamadun sebelumnya. Akibatnya, ia melanda sebahagian besar bangsa-bangsa Islam, memperdayakan negara-negara yang dahulunya menjadi benteng dan mercu tanda peradaban Islam, serta meninggalkan kesan kerosakan yang amat parah pada bahagian yang masih berbaki.
+  Maka lahirlah dalam kalangan umat Islam satu generasi kacukan (*jīl mukhaḍram*) yang lebih cenderung dan lebih hampir kepada nilai-nilai bukan Islam. Golongan inilah yang mendominasi urusan pentadbiran negara, merampas tampuk kepimpinan pemikiran, kerohanian, politik, dan eksekutif. Lalu mereka mengheret rakyat secara membuta-tuli ke arah apa yang mereka ingini dan apa yang mereka tiru daripada penjajah, sedangkan rakyat jelata berada dalam keadaan lalai dan tidak menyedari apakah muslihat jahat yang sedang dirancangkan terhadap mereka!
 
-Maka terjadilah apa yang telah diperingatkan oleh Rasulullah ﷺ dalam sabda baginda yang benar:
-
-> 📜 **[HADIS SAHIH • AMARAN TAKLID BUTA]**
-> **«لَتَتَّبِعُنَّ سَنَنَ مَنْ كَانَ قَبْلَكُمْ حَذْوَ القُذَّةِ بِالقُذَّةِ، حَتَّى لَوْ دَخَلُوا جُحْرَ ضَبٍّ لَدَخَلْتُمُوهُ. قَالُوا: يَا رَسُولَ اللهِ، اليَهُودَ وَالنَّصَارَى؟ قَالَ: فَمَنْ؟»**
->
-> *"Demi sesungguhnya kamu akan mengikut jejak langkah umat sebelum kamu sejengkal demi sejengkal, sehasta demi sehasta, sehinggakan jika mereka masuk ke dalam lubang biawak dhab sekalipun nescaya kamu akan tetap mengikutinya! Para sahabat bertanya: 'Wahai Rasulullah, adakah mereka itu orang Yahudi dan Nasrani?' Baginda menjawab: 'Siapa lagi kalau bukan mereka?' (HR. Al-Bukhari & Muslim)"*
-
-Adakah ini Islam yang dikehendaki oleh Allah untuk menjadi rahmat-Nya yang teragung dan kurniaan-Nya yang terbesar ke atas seluruh alam? Adakah ini syariat Al-Quran yang merawat penyakit-penyakit bangsa dan menyelesaikan krisis umat manusia?
-Islam sama sekali tidak pernah menolak untuk kita menceduk teknologi yang berfaedah dan mengambil hikmah di mana sahaja ia ditemui. Tetapi Islam menolak sekeras-kerasnya sikap meniru secara membuta tuli dalam segala hal terhadap kaum yang langsung tidak berpijak di atas agama Allah, lalu membuang akidah, kewajipan, dan hukum-hakam Islam demi mengejar langkah golongan yang diperdaya dunia dan disesatkan syaitan!
+  Seruan Melepaskan Saki-Baki Islam
+  Maka bergonggonglah suara-suara para pendakwah yang mendokong ideologi asing yang melampau ini seraya berseru:
+  
+    "Bebaskanlah diri kamu daripada segala sisa-sisa Islam dan pengaruhnya! Terimalah bersama-sama kami dengan rela hati segala tuntutan kehidupan moden ini, bebanannya, pemikirannya, serta gaya hidupnya! Buanglah saki-baki idea lapuk daripada kepala dan jiwa kamu! Jangan kamu menjadi orang-orang munafik yang bermuka-muka; melakukan amalan seperti orang Barat tetapi bertutur kata seperti orang Islam!"
+  
+  Adalah menjadi kewajipan kita untuk mengakui dengan jujur bahawa kita telah jauh tersasar daripada petunjuk Islam, prinsip-prinsipnya, dan kaedah-kaedahnya. Islam sama sekali tidak menolak untuk kita mencedok perkara-perkara yang bermanfaat dan mengambil hikmah di mana sahaja ia ditemui; namun Islam menolak sekeras-kerasnya tindakan meniru secara membabi-buta dalam setiap perkara terhadap golongan yang tidak mempunyai sebarang pegangan dengan agama Allah, mencampakkan akidah, kefardhuan, hudud, dan hukum-hakam Islam semata-mata untuk mengejar orang-orang yang telah difitnah oleh dunia dan disesatkan oleh syaitan!
 
 
 ---
 
-### 05. Menilai Hakikat Tamadun Materialistik Barat (هل اطمأنت الجنوب في المضاجع؟)
+### 05. Menilai Hakikat Tamadun Materialistik Barat (تقويم الحضارة الغربية المادية)
 
-Memang benar bahawa ilmu sains telah melangkah maju, teknologi dan rekaan moden telah berkembang pesat, daya akal semakin canggih, kekayaan kebendaan semakin bertimbun, dunia semakin dihiasi perhiasan indah, dan bumi menzahirkan segala khazanah kemewahannya.
-Namun demikian, perhatikanlah dengan mata hati yang tulus terhadap realiti umat manusia di bawah naungan tamadun kebendaan ini:
+Memang benar bahawa ilmu sains telah melangkah maju, teknologi dan rekaan seni telah berkembang pesat, daya pemikiran manusia semakin canggih, kekayaan kebendaan semakin bertimbun-timbun, dunia semakin dihiasi dengan perhiasan megah, dan bumi menzahirkan segala khazanah kemewahannya, sehingga manusia bergelumang dalam kenikmatan hidup yang serba mewah.
+Namun demikian, renungkanlah wahai manusia yang berakal dengan pandangan mata hati yang jujur:
+Adakah segala kemajuan kebendaan ini berjaya membawa kebahagiaan sejati kepada mereka? Adakah ia memberikan jaminan keselamatan hidup bagi mereka, atau menyuntik ketenangan dan kedamaian ke dalam jiwa-jiwa mereka?
 
-> ⚖️ **[RINTIHAN PERADABAN • KEHAMPAN MATERIALISME]**
+> ⚖️ **[RINTIHAN PERADABAN • KEHAMPAAN MATERIALISME BARAT]**
 > **هَلِ اطْمَأَنَّتِ الجُنُوبُ فِي المَضَاجِعِ؟ ۞ هَلْ جَفَّتِ الجُفُونُ مِنَ المَدَامِعِ؟**
 >
-> *"Adakah lambung manusia telah lena tenteram di tempat tidur? ۞ Adakah air mata penderitaan telah kering daripada kelopak mata?"*
+> *"“Adakah lambung-lambung manusia telah lena tenteram di tempat tidur? ۞ Adakah kelopak mata telah kering daripada titisan air mata penderitaan?”"*
 
-Adakah jenayah berjaya dibanteras, dan masyarakat hidup aman daripada ancaman para penjenayah? Adakah ketamakan antarabangsa berjaya disekat, lalu bangsa-bangsa yang lemah berasa damai daripada kerakusan kuasa-kuasa besar yang menjajah?
-Adakah peperangan ganas telah lenyap dari muka bumi, atau adakah senjata-senjata pemusnah massal semakin giat dicipta untuk membakar dunia dan memusnahkan tamadun manusia?
-Jawapannya amat jelas: Tidak sama sekali! Tamadun Barat yang dibanggakan itu kini sedang terhuyung-hayang, merintih kesakitan akibat keruntuhan institusi keluarga, kekeringan jiwa, krisis moral, penyakit kegelisahan jiwa (anxiety), dan kebankrapan rohani. Mereka mencipta mesin-mesin yang hebat, tetapi mereka membunuh jiwa manusia.
-Justeru, adakah wajar bagi umat Islam yang memiliki Al-Quran—petunjuk kebahagiaan hakiki—untuk mencampakkan khazanah wahyu ini demi mengejar bayang-bayang tamadun yang sedang menuju ke jurang kehancurannya sendiri?
+  Tujuh Soalan Retorik Menelanjangi Kebankrapan Rohani Barat
+  
+    Adakah lambung-lambung manusia berasa lena tenteram di tempat tidur mereka, atau mereka sentiasa dicengkam ketakutan, insomnia, dan mimpi ngeri peperangan?
+    Adakah kelopak mata manusia telah kering daripada titisan air mata penderitaan, kesengsaraan, dan kezaliman?
+    Adakah jenayah berjaya dibanteras, dan masyarakat dapat hidup berehat aman daripada ancaman kejahatan para penjenayah?
+    Adakah golongan fakir telah menjadi kaya, dan adakah jutaan perut manusia yang kelaparan di sekeliling dunia berjaya dikenyangkan?
+    Adakah segala tempat hiburan, kelab malam, dan godaan hawa nafsu yang memenuhi segenap ruang udara ini berjaya mengubati hati-hati yang berduka lara dan memberikan ketenteraman hakiki kepada mereka yang kecewa?
+    Adakah bangsa-bangsa di dunia telah mengecap kelazatan ketenangan dan kedamaian, serta berasa aman daripada pencerobohan kuasa imperialis dan kezaliman orang-orang zalim?
+  
+  Sama sekali tidak, wahai sekelian manusia! Tiada satu pun daripada semua ini yang tercapai! Maka apakah lagi kelebihan dan keistimewaan tamadun kebendaan ini berbanding tamadun-tamadun jahiliah yang lain?!
+
+  Falsafah dan Sistem Sains yang Saling Memusnahkan
+  Dan adakah setakat itu sahaja kecacatannya?
+  Tidakkah kita menyaksikan sendiri bagaimana sistem-sistem, ajaran-ajaran, dan falsafah-falsafah kebendaan ini—bahkan dalam teori sains dan angka-angka statistiknya sekalipun—saling bercanggahan, saling merobohkan, dan saling menghancurkan antara satu sama lain? Sehingga akhirnya umat manusia kembali daripada mengharungi pengalaman panjang dan pengorbanan raksasa tersebut dengan rasa kepahitan kegagalan, kehampaan harapan, dan kepedihan kerugian yang tiada tara!
 
 
 ---
 
-### 06. Misi Kami (مـهـمّتنـا)
+### 06. Misi Kami: Dua Misi Asasi & 8 Sistem Kenegaraan (مـهـمّتنـا إجمالاً وتفصيلاً)
 
-Jika demikian hakikatnya, apakah misi dan tugas utama kita, wahai Ikhwanul Muslimin?
+Jika demikian hakikatnya realiti dunia hari ini, maka apakah sebenarnya misi dan tugas utama kita, wahai Ikhwanul Muslimin?
 
-  A. Misi Secara Umum (إِجْمَالًا)
-  Tugas utama kita secara umum ialah: Berdiri teguh membendung gelombang kebatilan tamadun kebendaan, peradaban nafsu dan syahwat yang menghanyutkan bangsa-bangsa Islam, sehingga ia dapat dialihkan daripada tanah air kita dan diselamatkan jiwa rakyat kita daripadanya.
-  Kemudian, mempersembahkan hidayah Islam kepada dunia seluruhnya dan membimbing manusia ke jalan kebenaran yang membawa kebahagiaan dunia dan akhirat:
+  A. Misi Secara Umum (مهمتنا إجمالاً)
+  Tugas utama kita secara umum ialah: Berdiri teguh menghadapi gelombang tamadun kebendaan yang melampau ini, iaitu tamadun yang berteraskan keseronokan nafsu dan syahwat, yang telah menenggelamkan bangsa-bangsa Islam dan mengheret mereka jauh daripada kepimpinan Nabi Muhammad ﷺ serta petunjuk Al-Quranul Karim.
+  Misi kita adalah menarik kembali bangsa kita dan menyelamatkan umat kita daripada cengkaman arus kebinasaan ini, sehinggalah tanah air kita bersih daripada pengaruhnya, dan umat kita kembali berdaulat di bawah naungan syariat Islam. Kita tidak akan berhenti setakat sempadan tanah air kita; sebaliknya kita berazam membawa obor kebenaran ini ke seluruh pelusuk dunia, mengibarkan panji Al-Quran di segenap benua, sehingga seluruh umat manusia dapat diselamatkan daripada kezaliman materialisme menuju kepada keadilan dan kedamaian Islam!
 
-> **لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ ٱلْمُؤْمِنُونَ ۝ بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ ۝**
->
-> *"Bagi Allah jualah hak menetapkan urusan sebelum dan sesudah (berlakunya kemenangan itu). Dan pada hari (kemenangan Rom) itu, orang-orang yang beriman akan bergembira dengan pertolongan Allah. Dia menolong sesiapa yang dikehendaki-Nya, dan Dialah Yang Maha Perkasa lagi Maha Penyayang."*
-> — **Surah Ar-Rūm (30): 4-5**
-
-  B. Misi Secara Terperinci (تَفْصِيلًا)
-  Adapun secara perincian amal, misi kita adalah membina semula tiang-tiang kehidupan umat berasaskan Al-Quran dan Sunnah, bermula di tanah air kita sendiri kemudian meluas ke seluruh dunia Islam:
-
+  B. Misi Secara Terperinci: Rekabentuk Lapan Sistem Negara Islam (مهمتنا تفصيلاً)
+  Adapun secara terperinci, misi kita adalah menegakkan sistem kehidupan yang menyeluruh—bermula di Mesir terlebih dahulu, memandangkan ia berada di barisan hadapan negara-negara umat Islam:
   
-    ١. Sistem Pemerintahan (نظام داخلي للحكم)
-    Sistem pemerintahan dalam negeri yang menegakkan firman Allah Taala:
-    
+  1. Sistem Pemerintahan Dalaman Negara (نظام الحكم الداخلي)
+  Sebuah sistem pemerintahan yang menegakkan kedaulatan hukum Allah dan prinsip keadilan syura, menolak kezaliman diktator dan hawa nafsu sekular:
+  
 > **وَأَنِ ٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَٱحْذَرْهُمْ أَن يَفْتِنُوكَ عَنۢ بَعْضِ مَآ أَنزَلَ ٱللَّهُ إِلَيْكَ ۖ**
 >
-> *"Dan hendaklah engkau menghukum antara mereka menurut apa yang telah diturunkan oleh Allah, dan janganlah engkau mengikut hawa nafsu mereka, serta berwaspadalah terhadap mereka supaya mereka tidak memperdayakanmu daripada sebahagian hukum yang telah diturunkan Allah kepadamu."*
+> *"Dan hendaklah engkau menghukum antara mereka dengan apa yang diturunkan oleh Allah dan janganlah engkau mengikut hawa nafsu mereka, serta berwaspadalah terhadap mereka supaya mereka tidak memesongkan engkau daripada sebahagian apa yang telah diturunkan oleh Allah kepadamu."*
 > — **Surah Al-Mā’idah (5): 49**
 
+  2. Sistem Hubungan Antarabangsa (نظام العلاقات الدولية)
+  Sebuah sistem diplomasi antarabangsa yang memposisikan umat Islam sebagai umat pertengahan yang menjadi saksi kebenaran dan pembimbing keamanan sejagat:
   
-  
-    ٢. Hubungan Antarabangsa (نظام للعلاقات الدولية)
-    Sistem hubungan antarabangsa yang memenuhi matlamat firman Al-Quran:
-    
 > **وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةًۭ وَسَطًۭا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًۭا ۗ**
 >
-> *"Dan demikianlah Kami jadikan kamu (wahai umat Muhammad) satu umat pertengahan (umat pilihan lagi adil) supaya kamu menjadi saksi ke atas seluruh manusia dan Rasulullah (Muhammad) pula menjadi saksi ke atas kamu."*
+> *"Dan demikianlah Kami jadikan kamu (wahai umat Muhammad) satu umat pertengahan (umat pilihan yang adil), supaya kamu menjadi saksi (yang menegakkan kebenaran) ke atas seluruh manusia dan Rasulullah pula menjadi saksi ke atas kamu."*
 > — **Surah Al-Baqarah (2): 143**
 
+  3. Sistem Kehakiman dan Perundangan Amali (نظام القضاء)
+  Sistem mahkamah yang bebas dan berwibawa, yang mencedok perundangannya secara mutlak daripada syariat Islam, di mana setiap muslim tunduk redha kepada ketetapannya:
   
-  
-    ٣. Kehakiman Praktikal (نظام عملي للقضاء)
-    Sistem kehakiman yang bersumberkan secara mutlak daripada firman Allah Taala:
-    
 > **فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًۭا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًۭا ۝**
 >
-> *"Maka demi Tuhanmu! Mereka tidak disifatkan beriman sehinggalah mereka menjadikan engkau hakim terhadap perselisihan yang timbul sesama mereka, kemudian mereka tidak merasa di dalam hati mereka sesuatu keberatan terhadap apa yang telah engkau hukumkan, dan mereka menerima ketetapan itu dengan penyerahan yang sepenuhnya."*
+> *"Maka demi Tuhanmu! Mereka tidak beriman sehingga mereka menjadikan engkau (wahai Muhammad) hakim pemutus dalam apa yang mereka perselisihkan antara mereka, kemudian mereka tidak mendapati dalam hati mereka sebarang keberatan terhadap apa yang telah engkau hukumkan, dan mereka tunduk menerimanya dengan sepenuh penyerahan."*
 > — **Surah An-Nisā’ (4): 65**
 
+  4. Sistem Pertahanan dan Ketenteraan (نظام الدفاع والجندية)
+  Sistem ketenteraan yang gagah dan berdisiplin tinggi, yang merealisasikan matlamat pengerahan tenaga pertahanan umum (*an-nafīrul-‘ām*) untuk menjaga kesucian kedaulatan tanah air:
   
-  
-    ٤. Pertahanan & Ketenteraan (نظام للدفاع والجندية)
-    Sistem ketenteraan yang merealisasikan seruan kerahan umum (an-nafirul ‘amm):
-    
 > **ٱنفِرُوا۟ خِفَافًۭا وَثِقَالًۭا وَجَـٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ ۝**
 >
-> *"Pergilah kamu beramai-ramai (untuk berperang pada jalan Allah), sama ada dengan keadaan ringan (senang) ataupun berat (susah); dan berjihadlah dengan harta benda dan jiwa raga kamu pada jalan Allah. Yang demikian itu adalah amat baik bagi kamu, jika kamu mengetahui."*
+> *"Pergilah kamu beramai-ramai (untuk berperang pada jalan Allah), sama ada dengan keadaan ringan ataupun dengan keadaan berat; dan berjihadlah dengan harta benda dan jiwa raga kamu pada jalan Allah. Yang demikian itu adalah amat baik bagi kamu, jika kamu mengetahui."*
 > — **Surah At-Tawbah (9): 41**
 
+  5. Sistem Ekonomi dan Kewangan Mandiri (نظام المال والاقتصاد)
+  Sistem ekonomi berdikari yang memelihara kekayaan negara dan individu daripada pembaziran dan eksploitasi orang-orang bodoh, menghapuskan riba, dan mengagihkan kekayaan secara adil:
   
-  
-    ٥. Kewangan & Ekonomi Berdikari (نظام اقتصادي استقلالي)
-    Sistem ekonomi mandiri bagi negara dan individu yang berasaskan firman Allah:
-    
-> **وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَـٰمًۭا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًۭا مَّعْرُوفًۭا ۝**
+> **وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَـٰمًۭا**
 >
-> *"Dan janganlah kamu berikan kepada orang-orang yang belum sempurna akalnya akan harta kamu yang dijadikan oleh Allah untuk kamu sebagai pokok kehidupan; dan berilah mereka belanja serta pakaian dari pendapatan harta itu, dan berkatalah kepada mereka dengan perkataan yang baik."*
+> *"Dan janganlah kamu berikan kepada orang-orang yang belum sempurna akalnya akan harta kamu yang Allah jadikan untuk kamu sebagai sendi kehidupan (kelangsungan ekonomi kamu)."*
 > — **Surah An-Nisā’ (4): 5**
 
+  6. Sistem Rumahtangga dan Kekeluargaan (نظام الأسرة والبيت)
+  Sistem kekeluargaan yang mendidik anak lelaki soleh, anak perempuan solehah, dan membentuk rijal pejuang yang beriman, memelihara maruah daripada api neraka:
   
-  
-    ٦. Pendidikan & Kebudayaan (نظام للثقافة والتعليم)
-    Sistem pendidikan yang membasmi kejahilan rohani dan akal, berasaskan wahyu pertama:
-    
-> **ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ ۝ خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ ۝ ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ ۝ ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ ۝ عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ ۝**
+> **يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًۭا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ**
 >
-> *"Bacalah dengan nama Tuhanmu yang menciptakan. Dia telah menciptakan manusia daripada segumpal darah. Bacalah, dan Tuhanmulah Yang Paling Pemurah. Yang mengajar (manusia) dengan perantaraan pena. Dia mengajarkan manusia apa yang tidak diketahuinya."*
-> — **Surah Al-‘Alaq (96): 1-5**
-
-  
-  
-    ٧. Rumahtangga Rabbani (نظام الأسرة والبيت)
-    Sistem kekeluargaan yang mendidik pemuda-pemudi beriman, merealisasikan firman Allah:
-    
-> **يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًۭا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَـٰٓئِكَةٌ غِلَاظٌۭ شِدَادٌۭ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۝**
->
-> *"Wahai orang-orang yang beriman! Peliharalah diri kamu dan keluarga kamu daripada api neraka yang bahan bakarannya adalah manusia dan batu; penjaganya malaikat-malaikat yang keras lagi tegas, yang tidak menderhaka kepada Allah dalam segala apa yang diperintahkan-Nya kepada mereka, dan mereka sentiasa mengerjakan apa yang diperintahkan."*
+> *"Wahai orang-orang yang beriman! Peliharalah diri kamu dan keluarga kamu daripada api neraka yang bahan bakarannya adalah manusia dan batu-batu."*
 > — **Surah At-Taḥrīm (66): 6**
 
-  
-  
-    ٨. Akhlak & Kesucian Individu (نظام للفرد في سلوكه الخاص)
-    Sistem penyucian peribadi yang membawa kepada kejayaan hakiki:
-    
-> **قَدْ أَفْلَحَ مَن زَكَّىٰهَا ۝ وَقَدْ خَابَ مَن دَسَّىٰهَا ۝**
->
-> *"Sesungguhnya berjayalah orang yang menyucikan jiwanya (dengan taat dan iman). Dan sesungguhnya hampalah orang yang mengotorinya (dengan maksiat dan kekufuran)."*
-> — **Surah Asy-Syams (91): 9-10**
+  7. Sistem Pembinaan Sahsiah Peribadi (نظام الفرد في سلوكه الخاص)
+  Membentuk peribadi insan yang merdeka jiwanya, bersih hatinya, mantap akidahnya, dan luhur budi pekertinya mengikut akhlak Nabawi.
 
+  8. Roh Kepimpinan dan Amanah Umum (الروح العام في الأمة)
+  Roh ketuhanan yang menguasai setiap jiwa rakyat dan pemimpin, mengimbangi antara tuntutan akhirat dan keperluan duniawi tanpa melakukan kerosakan:
   
-
-Serta satu roh umum yang mendominasi setiap anggota umat—sama ada pemerintah mahupun rakyat yang dipimpin—yang berpaksikan firman Allah Taala:
-
 > **وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْـَٔاخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا ۖ وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ ۝**
 >
-> *"Dan tuntutlah dengan harta kekayaan yang telah dikurniakan Allah kepadamu akan kebahagiaan hari akhirat, dan janganlah engkau melupakan bahagianmu dari dunia; dan berbuat baiklah (kepada hamba-hamba Allah) sebagaimana Allah berbuat baik kepadamu; dan janganlah engkau melakukan kerosakan di muka bumi; sesungguhnya Allah tidak suka kepada orang-orang yang berbuat kerosakan."*
+> *"Dan tuntutlah dengan apa yang telah dikurniakan oleh Allah kepadamu akan kebahagiaan hari akhirat, dan janganlah engkau melupakan bahagianmu daripada (keperluan) dunia; dan berbuat baiklah (kepada manusia) sebagaimana Allah telah berbuat baik kepadamu, dan janganlah engkau melakukan kerosakan di muka bumi; sesungguhnya Allah tidak suka kepada orang-orang yang berbuat kerosakan."*
 > — **Surah Al-Qaṣaṣ (28): 77**
 
 
 ---
 
-### 07. Rantaian 6 Peringkat Sasaran Kami (مَرَاتِبُ العَمَل)
+### 07. Rantaian 6 Peringkat Sasaran Kami (مَرَاتِبُ أَهْدَافِنَا السِّتَّة)
 
-Secara konkrit, praktikal dan bertahap, apa yang kami kehendaki adalah pembinaan enam mercu tanda kebangkitan peradaban Islam:
+Secara konkrit, praktikal, dan bertahap (*marāḥil ‘amaliyyah*), apa yang kami kehendaki adalah pembinaan Enam Peringkat Sasaran Kebangkitan Peradaban Islam:
 
-  
-    PELAN STRATEGIK HARAKI & RANTAIAN MARATIBUL AMAL
-    Rantaian 6 Peringkat Sasaran Pembinaan Ummah & Tamadun
-    سِلْسِلَةُ مَرَاتِبِ العَمَلِ لِبِنَاءِ الأُمَّةِ وَالحَضَارَةِ الإِسْلَامِيَّة
-  
-  
+  Rantaian Maratibul Amal Ikhwanul Muslimin
+  <ol class="content-list">
     
-      PERINGKAT 01 • إِصْلَاحُ الفَرْد
-      ١. الفَرْدُ المُسْلِم (Individu Muslim)
-      Pembersihan Jiwa & Pembinaan Rijal
-      Pondasi asas kebangkitan umat. Melahirkan peribadi beriman yang kuat fizikalnya, luhur akhlaknya, cerdas fikirannya, mampu berdikari mencari rezeki, lurus akidahnya, dan sahih ibadahnya.
-      
-        Ciri Utama: Akidah salimah, ibadah sahihah, matanatul khuluq, dan mujahadah li nafsihi.
-        Iktibar: Perubahan sistem peradaban bermula daripada transformasi rohani individu.
-      
+      1. Individu Muslim (الفرد المسلم):
+      Iaitu membina keperibadian seorang muslim yang sejahtera akidahnya (*salīmul-‘aqīdah*), sahih ibadahnya (*ṣaḥīḥul-‘ibādah*), mulia akhlaknya (*matīnul-khuluq*), berpengetahuan luas (*muthaqqaful-fikr*), kuat tubuh badannya (*qawiyyul-jism*), mampu berdikari menjana pendapatan (*qādirun ‘alal-kasb*), gigih melawan hawa nafsu (*mujāhidun li-nafsih*), teliti menjaga waktunya (*ḥarīṣun ‘alā waqtih*), tersusun segala urusannya (*munaẓẓamun fī syu’ūnih*), dan bermanfaat kepada orang lain (*nāfi‘un li-ghayrih*).
     
     
-      PERINGKAT 02 • بِنَاءُ البَيْت
-      ٢. البَيْتُ المُسْلِم (Keluarga Muslim)
-      Rumahtangga Mithali & Benteng Generasi
-      Mendirikan keluarga berasaskan nilai syariat, memilih pasangan yang soleh, mendidik anak-anak dengan kasih sayang dan adab Islam, serta memelihara kesucian rumah daripada anasir mungkar.
-      
-        Ciri Utama: Pendidikan anak berasaskan Al-Quran, nafkah halal, dan mawaddah wa rahmah.
-        Iktibar: Keluarga adalah sel asas yang memancarkan kekuatan moral kepada masyarakat.
-      
+      2. Rumahtangga Muslim (البيت المسلم):
+      Membina institusi keluarga yang diasaskan di atas ketakwaan, saling menyayangi, menghormati hak sesama ahli keluarga, mendidik anak-anak dengan adab Islam, serta memelihara suasana rumahtangga daripada pencemaran anasir hiburan yang melalaikan.
     
     
-      PERINGKAT 03 • إِرْشَادُ المُجْتَمَع
-      ٣. الشَّعْبُ المُسْلِم (Masyarakat Muslim)
-      Bimbingan Sosial & Kesedaran Kolektif
-      Membimbing masyarakat agar menghidupkan syiar kebajikan, memerangi kemungkaran, menyebarkan tradisi ilmu, serta menentang kezaliman dan kerosakan moral melalui pendekatan dakwah yang bijaksana.
-      
-        Ciri Utama: Amar makruf nahi mungkar, solidariti sosial, kebajikan marhaen, dan keluhuran budaya.
-        Iktibar: Masyarakat yang sedar akan menjadi benteng pelindung kepada cita-cita islah.
-      
+      3. Masyarakat Muslim (الشعب المسلم):
+      Menyebarkan kesedaran fikrah Islamiah ke segenap lapisan masyarakat, menghidupkan tradisi amar makruf nahi mungkar, memperkukuhkan jalinan ukhuwah, membasmi adat jahiliah dan khurafat, serta menggerakkan institusi kebajikan masyarakat.
     
     
-      PERINGKAT 04 • تَحْرِيرُ الوَطَن
-      ٤. تَحْرِيرُ الوَطَن (Pembebasan Tanah Air)
-      Kemerdekaan Menyeluruh daripada Hegemoni Asing
-      Membebaskan tanah air Islam daripada cengkaman penjajah dan imperialisme—sama ada penjajahan politik, ketenteraan, ekonomi, ataupun penjajahan pemikiran dan kebudayaan.
-      
-        Ciri Utama: Kedaulatan undang-undang sendiri, kemandirian ekonomi, dan maruah bangsa yang merdeka.
-        Iktibar: Tiada kedaulatan syariat tanpa tanah air yang bebas daripada campur tangan musuh.
-      
+      4. Kerajaan Muslim (الحكومة المسلمة):
+      Sebuah pemerintahan yang anggotanya terdiri daripada orang-orang yang beriman, menunaikan solat, melaksanakan hukum syariat Allah, memelihara kemerdekaan dan maruah rakyat, membanteras rasuah, serta menyampaikan amanah dakwah ke peringkat antarabangsa.
     
     
-      PERINGKAT 05 • إِصْلَاحُ الحُكُومَة
-      ٥. الحُكُومَةُ المُسْلِمَة (Kerajaan Islam)
-      Pemerintahan Berperlembagaan Syariah
-      Membina sistem pemerintahan yang berkhidmat kepada rakyat, menjalankan syariat Allah, menegakkan keadilan mutlak, membanteras rasuah, dan menjaga amanah serta keselamatan negara.
-      
-        Ciri Utama: Pemimpin rabbani, tadbir urus telus, syura, dan keadilan sosial sejagat.
-        Iktibar: Kerajaan dalam Islam adalah alat penegak keadilan dan pelindung akidah umat.
-      
+      5. Negara Islam & Penyatuan Khilafah (الدولة الإسلامية ولم شتات المسلمين):
+      Membebaskan setiap jengkal tanah air Islam daripada cengkaman penjajah asing, menyatukan seluruh negara-negara umat Islam di bawah satu kesatuan daulah yang kukuh, mengembalikan kegemilangan mereka, dan memulihkan kembali institusi Khilafah Islamiah yang menjadi simbol perpaduan umat sejagat.
     
     
-      PERINGKAT 06 • أُسْتَاذِيَّةُ العَالَم
-      ٦. الخِلَافَةُ وَأُسْتَاذِيَّةُ العَالَم (Kepimpinan Tamadun)
-      Kesatuan Ummah & Membimbing Peradaban Sejagat
-      Menyatukan seluruh dunia Islam dalam satu kesatuan ummah yang ampuh, mengembalikan kedaulatan yang hilang, serta membawa hidayah Al-Quran sebagai rahmat untuk membebaskan seluruh kemanusiaan.
-      
-        Ciri Utama: Khilafah / persekutuan ummah global, penyebaran rahmat sejagat, dan perdamaian adil.
-        Iktibar: Misi terakhir dakwah adalah menjadi saksi kebenaran dan penyelamat peradaban manusia.
-      
+      6. Kepimpinan Peradaban Dunia (أستاذية العالم):
+      Membawa panji keadilan dan rahmat Islam ke seluruh pelosok bumi, membimbing seluruh umat manusia keluar daripada kegelapan materialisme menuju cahaya hidayah ketuhanan, sebagaimana firman Allah: "Dan Kami tidak mengutuskan engkau (wahai Muhammad) melainkan sebagai rahmat bagi sekalian alam."
     
-  
-
-Inilah matlamat agung yang digariskan oleh Ikhwanul Muslimin. Kami tidak melompat ke anak tangga teratas tanpa melalui anak tangga pertama. Kami membina individu Muslim terlebih dahulu, kemudian daripada individu terbinanya rumahtangga Muslim, daripada rumahtangga terbinanya masyarakat, lalu tanah air dibebaskan, pemerintahan dibimbing dengan syariat, dan akhirnya tertegaklah kepimpinan dunia Islam untuk memancarkan rahmat ke seluruh penjuru bumi.
+  </ol>
 
 
 ---
 
-### 08. Bekalan dan Senjata Kami (عُدَّتُنَا - ‘Uddatunā)
+### 08. Bekalan dan Senjata Kami (عُـدَّتُـنَـا)
 
 Inilah matlamat kami, wahai sekelian manusia... dan inilah manhaj perjuangan kami!
-Maka apakah kelengkapan bekalan kami untuk menjayakan manhaj ini?
+Maka apakah kelengkapan bekalan kami (*‘uddatunā*) untuk merealisasikan manhaj raksasa ini?
+Kelengkapan bekalan kami tidak lain adalah kelengkapan para Salafus Soleh terdahulu; dan senjata yang dengannya pemimpin dan ikutan kita, Nabi Muhammad ﷺ bersama para sahabat baginda yang mulia menakluki dunia, adalah senjata yang sama yang akan kami pikul untuk menakluki dunia sekali lagi!
 
-> 📜 **[MANHAJ SALAF • BEKALAN GENERASI PERTAMA]**
-> **«عُدَّتُنَا هِيَ عُدَّةُ سَلَفِنَا مِنْ قَبْلُ، وَالسِّلَاحُ الَّذِي غَزَا بِهِ زَعِيمُنَا وَقُدْوَتُنَا مُحَمَّدٌ رَسُولُ اللهِ ﷺ وَصَحَابَتُهُ رِضْوَانُ اللهِ عَلَيْهِمْ مَعَهُ دُنْيَا النَّاسِ، مَعَ قِلَّةِ العَدَدِ وَقِلَّةِ المَوْرِدِ وَعَظِيمِ الجُهْدِ.»**
->
-> *"Kelengkapan bekalan kami adalah kelengkapan para salafus soleh terdahulu, dan senjata kami adalah senjata yang dengannya pemimpin dan ikutan kami Nabi Muhammad Rasulullah ﷺ dan para sahabat baginda menakluki dunia manusia, sekalipun dengan bilangan yang sedikit, sumber kebendaan yang terhad, namun dengan pengorbanan usaha yang teramat agung."*
-
-Senjata rohani generasi terdahulu terasaskan kepada dua tunjang agung:
-
-  I. Tunjang Pertama: Iman yang Mendalam (الإِيمَانُ العَمِيق)
-  Generasi awal sahabat beriman dengan sedalam-dalam keimanan, sekuat-kuatnya, sesuci-sucinya dan seabadinya:
+  Enam Rukun Keimanan Haraki Generasi Perintis
+  Generasi awal sahabat telah beriman dengan sedalam-dalam keimanan, sekuat-kuatnya, sesuci-sucinya, dan sekekal-kekalnya:
   
-    Beriman kepada Allah, pertolongan dan sokongan-Nya:
-      
-> **إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ ۝**
+    1. Beriman kepada Allah, Pertolongan-Nya dan Sokongan-Nya:
+  
+  
+> **إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ**
 >
-> *"Jika Allah menolong kamu, maka tiada sesiapa pun yang dapat mengalahkan kamu; dan jika Dia membiarkan kamu (tanpa pertolongan), maka siapakah lagi yang dapat menolong kamu sesudah itu? Dan kepada Allah jualah hendaknya orang-orang yang beriman berserah diri."*
+> *"Jika Allah menolong kamu, maka tiada sesiapa pun yang dapat mengalahkan kamu; dan jika Dia mengecewakan kamu, maka siapakah lagi yang dapat menolong kamu sesudah itu?"*
 > — **Surah Āli ‘Imrān (3): 160**
 
-    
-    Beriman kepada Rasulullah ﷺ, kebenaran dan kepimpinan baginda:
-      
+  
+    2. Beriman kepada Rasulullah ﷺ, Kejujurannya dan Kepimpinannya:
+  
+  
 > **لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًۭا ۝**
 >
-> *"Demi sesungguhnya, adalah bagi kamu pada diri Rasulullah itu contoh ikutan yang amat baik, iaitu bagi orang yang sentiasa mengharapkan (keredaan) Allah dan (balasan baik) hari akhirat, serta dia pula banyak menyebut dan mengingati Allah."*
+> *"Demi sesungguhnya, adalah bagi kamu pada diri Rasulullah itu contoh ikutan yang amat mulia, iaitu bagi orang yang sentiasa mengharapkan (keredaan) Allah dan (balasan baik) hari akhirat, serta dia banyak mengingati Allah."*
 > — **Surah Al-Aḥzāb (33): 21**
 
-    
-    Beriman kepada Manhaj Al-Quran dan kesesuaiannya sepanjang zaman:
-      
-> **قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌۭ وَكِتَـٰبٌۭ مُّبِينٌۭ ۝ يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَـٰمِ وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِهِۦ وَيَهْدِيهِمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ ۝**
+  
+    3. Beriman kepada Manhaj Al-Quran, Keistimewaannya dan Kesesuaiannya:
+  
+  
+> **قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌۭ وَكِتَـٰبٌۭ مُّبِينٌۭ ۝ يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَـٰمِ**
 >
-> *"Sesungguhnya telah datang kepada kamu dari Allah cahaya (Nabi Muhammad ﷺ) dan Kitab yang terang nyata (Al-Quran). Dengannya Allah memimpin sesiapa yang menurut keredaan-Nya ke arah jalan-jalan keselamatan, dan mengeluarkan mereka dari kegelapan (kufur) kepada cahaya (iman) dengan izin-Nya, dan memimpin mereka ke jalan yang lurus."*
-> — **Surah Al-Mā’idah (5): 15-16**
+> *"Sesungguhnya telah datang kepada kamu cahaya (kebenaran) daripada Allah dan sebuah Kitab yang menerangkan (Al-Quran); dengannya Allah memimpin sesiapa yang mengikuti keredaan-Nya ke jalan-jalan keselamatan."*
+> — **Surah Al-Mā’idah (5): 15–16**
 
-    
-    Beriman kepada Persaudaraan Islam (Ukhuwwah) dan kesuciannya:
-      
-> **إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌۭ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ ۝**
+  
+    4. Beriman kepada Persaudaraan Islam (*Ukhuwwah*), Hak-haknya dan Kesuciannya:
+  
+  
+> **إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌۭ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ**
 >
-> *"Sebenarnya orang-orang yang beriman itu adalah bersaudara, maka damaikanlah antara dua saudara kamu (yang bertelagah) itu; dan bertakwalah kepada Allah supaya kamu beroleh rahmat."*
+> *"Sesungguhnya orang-orang yang beriman itu adalah bersaudara, maka damaikanlah antara dua saudara kamu itu."*
 > — **Surah Al-Ḥujurāt (49): 10**
 
-    
-    Beriman kepada Balasan Akhirat dan keagungan ganjarannya:
-      
-> **ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌۭ وَلَا نَصَبٌۭ وَلَا مَخْمَصَةٌۭ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًۭا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّۢ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌۭ صَـٰلِحٌ ۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ ۝**
+  
+    5. Beriman kepada Ganjaran Akhirat yang Maha Agung dan Sempurna:
+  
+  
+> **ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌۭ وَلَا نَصَبٌۭ وَلَا مَخْمَصَةٌۭ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًۭا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّۢ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌۭ صَـٰلِحٌ ۚ**
 >
-> *"Yang demikian itu kerana sesungguhnya tidak menimpa mereka kehausan, kepenatan, dan kelaparan pada jalan Allah; dan mereka tidak melangkah sesuatu tempat yang mendatangkan kemarahan orang-orang kafir; dan mereka tidak ditimpa oleh musuh sesuatu bencana, melainkan semuanya ditulis bagi mereka dengan pahala amal yang soleh. Sesungguhnya Allah tidak menghilangkan pahala orang-orang yang berbuat kebajikan."*
+> *"Yang demikian itu kerana sesungguhnya tidak menimpa mereka sebarang dahaga, dan tidak juga sebarang kepenatan, dan tidak juga kelaparan pada jalan Allah, dan tidak mereka memijak sesuatu tempat yang menimbulkan kemarahan orang-orang kafir, dan tidak mereka menderita sesuatu bencana daripada musuh, melainkan dituliskan bagi mereka dengannya satu amal kebajikan yang soleh."*
 > — **Surah At-Tawbah (9): 120**
 
-    
   
-  Mereka mendengar penyeru memanggil kepada keimanan lalu mereka beriman tanpa ragu-ragu. Dan kami memohon kepada Allah agar menjadikan iman ini dicintai oleh hati-hati kami dan dihiasi dalam jiwa kami sebagaimana ia pernah dicintai dan dihiasi dalam hati generasi sahabat r.a. terdahulu... Maka keimanan inilah bekalan pertama kami!
-
-  II. Tunjang Kedua: Jihad & Pengorbanan Total (الجِهَادُ وَالتَّضْحِيَة)
-  Generasi sahabat mengetahui dengan sepenuh keyakinan bahawa dakwah ini tidak akan beroleh kemenangan melainkan melalui jihad, pengorbanan, pemberian tanpa berkira, serta mempersembahkan jiwa raga dan harta benda. Maka mereka bersegera mempersembahkan jiwa dan harta mereka demi meninggikan kalimah Allah:
+    6. Beriman kepada Peranan Jiwa Mereka Sendiri: Bahawa mereka adalah kelompok jemaah yang telah terpilih oleh takdir Ilahi untuk menyelamatkan seluruh umat manusia, dan Allah telah mencatatkan kemuliaan agung tersebut bagi mereka!
   
-> **قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَـٰرَةٌۭ تَخْشَوْنَ كَسَادَهَا وَمَسَـٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍۢ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ ۝**
+
+  Tiga Bukti Amali Pengorbanan Para Sahabat
+  Mereka mendengar seruan penyeru memanggil kepada keimanan lalu mereka segera menyahutnya dengan penuh keimanan. Dan mereka mengetahui dengan seyakin-yakinnya bahawa dakwah ini tidak akan menang melainkan dengan jihad, pengorbanan, mencurahkan segala-galanya, dan mendahulukan keselamatan akidah mengatasi keselamatan nyawa dan harta:
+  
+    Seorang daripada mereka memeluk kematian sambil melaungkan penuh gembira: "Aku berlari menuju kepada Allah tanpa membawa sebarang bekalan dunia!"
+    Seorang daripada mereka menyumbangkan seluruh harta bendanya seraya berkata: "Aku tinggalkan untuk ahli keluargaku Allah dan Rasul-Nya!"
+    Dan seorang lagi daripada mereka mara gagah tatkala pedang musuh terhunus di lehernya seraya bersyair: "Dan aku tidak peduli tatkala aku dibunuh gugur sebagai seorang muslim, di atas lambung mana jua aku tersungkur rebah pada jalan Allah!"
+  
+  Demikianlah keperibadian mereka: kejujuran dalam jihad, keagungan dalam pengorbanan, dan kemurahan dalam sumbangan bakti. Dan demikianlah pula kami berusaha membentuk diri kami... Maka jihad adalah sebahagian daripada bekalan senjata kami!
+
+> **وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ ۝**
 >
-> *"Katakanlah (wahai Muhammad): 'Jika bapa-bapa kamu, anak-anak kamu, saudara-mara kamu, isteri-isteri (atau suami-suami) kamu, kaum keluarga kamu, harta benda yang kamu usahakan, perniagaan yang kamu bimbangi kerugiannya, dan rumah-rumah tempat tinggal yang kamu sukai—(jika semuanya itu) menjadi perkara-perkara yang kamu cintai lebih daripada Allah dan Rasul-Nya dan daripada berjihad pada jalan-Nya, maka tunggulah sehingga Allah mendatangkan ketetapan-Nya (azab seksa-Nya); kerana Allah tidak memberi petunjuk kepada kaum yang fasik.'"*
-> — **Surah At-Tawbah (9): 24**
+> *"Dan sesungguhnya Allah pasti menolong sesiapa yang menolong (agama)-Nya; sesungguhnya Allah adalah Maha Kuat, lagi Maha Perkasa."*
+> — **Surah Al-Ḥajj (22): 40**
 
-Dua teladan agung generasi sahabat mempamerkan kemuncak pengorbanan ini:
-
-> 📜 **[ATSAR SAHABAT • PENGORBANAN TOTAL MENUJU SYAHID]**
-> **«رَكْضًا إِلَى اللهِ بِغَيْرِ زَادِ ... إِلَّا التُّقَى وَعَمَلَ المَعَادِ»**
->
-> *"Mendakap kematian sambil melaungkan dengan penuh kerinduan: 'Bersegera berlari menuju kepada Allah tanpa sebarang bekalan... melainkan takwa dan amalan untuk hari akhirat!'"*
-
-> 📜 **[ATSAR SAHABAT • INFAQ MUTLAK KELUARGA RABBANI]**
-> **«تَرَكْتُ لَهُمُ اللهَ وَرَسُولَهُ.»**
->
-> *"Menyerahkan seluruh harta bendanya untuk perjuangan sambil berkata dengan tulus: 'Aku tinggalkan untuk ahli keluargaku Allah dan Rasul-Nya!'"*
-
-Demikianlah generasi terdahulu: kebenaran dalam berjihad, keagungan dalam pengorbanan, dan kemurahan dalam berinfak. Demikianlah jua yang kami usahakan untuk menjadi seumpama mereka... Maka jihad adalah kelengkapan bekalan kami!
-Dan sesudah kelengkapan iman dan jihad ini, kami sentiasa menaruh keyakinan yang tidak berbelah-bahagi terhadap janji pertolongan Allah Taala:
-
-> **وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ ۝ ٱلَّذِينَ إِن مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ أَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ وَأَمَرُوا۟ بِٱلْمَعْرُوفِ وَنَهَوْا۟ عَنِ ٱلْمُنكَرِ ۗ وَلِلَّهِ عَـٰقِبَةُ ٱلْأُمُورِ ۝**
->
-> *"Dan demi sesungguhnya, Allah pasti menolong sesiapa yang menolong agama-Nya; sesungguhnya Allah Maha Kuat lagi Maha Perkasa. Iaitu mereka (umat Islam) yang jika Kami berikan kekuasaan dan keteguhan di bumi, mereka mendirikan solat, menunaikan zakat, menyuruh berbuat kebaikan serta melarang daripada perkara yang mungkar. Dan bagi Allah jualah kesudahan segala urusan."*
-> — **Surah Al-Ḥajj (22): 40-41**
+Dan sesudah kesemua bekalan ini, kami amat yakin dan tenang dengan janji pertolongan Allah; kerana Allah tidak sekali-kali memungkiri janji-Nya!
 
 
 ---
 
 ### 09. Antara Khayalan dan Hakikat (بين الخيال و الحقيقة)
 
-Mereka yang mendengar seruan ini pasti akan berkata:
+Mereka yang mendengar seruan ini pasti akan berkata dalam keraguan dan sinis: "Ini adalah khayalan semata-mata! Ini adalah igauan angan-angan kosong dan ketaksuban yang memperdayakan! Bagaimanakah mungkin segolongan manusia yang tidak memiliki apa-apa senjata kebendaan melainkan keimanan dan keazaman jihad mampu menentang kuasa-kuasa raksasa dunia yang bersekongkol menentang mereka, sedangkan kuasa-kuasa itu memiliki kekayaan wang, kelengkapan senjata moden, perancangan diplomasi, dan bala tentera yang perkasa?!"
 
-  "Ini adalah khayalan semata-mata! Ini adalah igauan angan-angan kosong dan ketaksuban yang memperdayakan! Bagaimanakah mungkin mereka yang tidak memiliki apa-apa senjata kebendaan melainkan sekadar iman dan jihad dapat menentang kuasa-kuasa raksasa dunia yang bersekongkol, bersenjatakan pelbagai teknologi pemusnah canggih, sedang umat Islam berada di antara kuku dan taring singa imperialis?"
+  Iktibar Sejarah Perintis: Mukjizat Keimanan Menundukkan Empayar
+  Adapun kami, maka kami menjawab dengan penuh ketenangan: Bahawa sesungguhnya nenek moyang kita para Salafus Soleh yang telah membuka pelusuk dunia dan diteguhkan kedaulatan mereka oleh Allah di muka bumi, pada peringkat awalnya sama sekali tidak memiliki bilangan tentera yang lebih ramai daripada musuh mereka, dan tidak mempunyai kelengkapan senjata yang lebih canggih daripada kuasa-kuasa besar zaman mereka!
+  Ingatlah kembali peristiwa hari di mana Baginda Rasulullah ﷺ menjanjikan kepada Surāqah bin Mālik gelang emas Maharaja Kisra Parsi; pada saat itu Baginda hanyalah seorang musafir yang berhijrah menyelamatkan diri daripada ancaman pembunuhan musyrikin Quraisy, tiada sesiapa bersama baginda melainkan Allah dan sahabat setianya Abu Bakar As-Siddiq RA!
+  Ingatlah kembali hari di mana Baginda Rasulullah ﷺ melaungkan berita gembira kemenangan ke atas istana-istana putih Rom tatkala memecahkan batu besar dalam Perang Khandaq; pada saat itu kaum muslimin sedang dikepung rapat oleh gabungan tentera Ahzab dari segenap penjuru, perut mereka diikat dengan batu kerana kelaparan, dan ketakutan mencengkam sehingga hati sampai ke kerongkong!
+  Lalu apakah yang berlaku sesudah itu...?!
+  Yang berlaku adalah: Telinga zaman akhirnya tunduk mendengar seruan dakwah Rasulullah ﷺ, ayat-ayat Al-Quran bergema megah di bibir peradaban dunia, fajar petunjuk Islam menyinari timur dan barat, empayar Parsi dan Rom tumbang di hadapan kaki pahlawan-pahlawan Islam, dan janji Rasulullah ﷺ menjadi kenyataan yang disaksikan oleh sejarah!
 
-Ramai orang akan berkata demikian, dan barangkali mereka mempunyai sedikit alasan untuk berfikir sedemikian rupa kerana mereka telah berputus asa terhadap diri mereka sendiri, dan berputus asa daripada pergantungan kepada Allah Yang Maha Perkasa lagi Maha Kuasa!
-Adapun kami, kami menegaskan dengan penuh keyakinan: Ini adalah hakikat kebenaran yang kami imani dan kami amalkan! Kami membaca firman Allah Taala:
-
-> **وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ ۖ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ ٱللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا ۝**
+> **وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَيَسْتَخْلِفَنَّهُمْ فِى ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى ٱرْتَضَىٰ لَهُمْ**
 >
-> *"Dan janganlah kamu berasa lemah dalam mengejar musuh kamu itu. Jika kamu menderita kesakitan (luka dan letih), maka sesungguhnya mereka pun menderita kesakitan seperti kamu; sedang kamu mengharapkan daripada Allah (pahala dan keredaan-Nya) apa yang mereka tidak harapkan. Dan adalah Allah Maha Mengetahui lagi Maha Bijaksana."*
-> — **Surah An-Nisā’ (4): 104**
+> *"Allah menjanjikan orang-orang yang beriman dan beramal soleh antara kamu, bahawa Dia sesungguhnya akan menjadikan mereka khalifah yang berkuasa di bumi, sebagaimana Dia telah menjadikan orang-orang yang sebelum mereka berkuasa; dan Dia sesungguhnya akan menegakkan bagi mereka agama mereka yang telah diredai-Nya untuk mereka."*
+> — **Surah An-Nūr (24): 55**
 
-Dan sesungguhnya mereka yang telah membuka segenap pelusuk dunia dan diteguhkan kedudukan mereka di bumi oleh Allah—daripada kalangan salafus soleh terdahulu—tidak pernah memiliki bilangan tentera yang lebih ramai berbanding musuh mereka, dan tidak pernah memiliki persenjataan yang lebih canggih. Namun mereka memiliki iman yang mengatasi segala kekuatan kebendaan!
-Ingatlah kembali peristiwa Perang Ahzab (Khandaq), ketika seluruh kabilah Arab bersekongkol mengepung kota Madinah sehingga hati para sahabat berdegup kencang ketakutan:
-
-> **إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠ ۝**
->
-> *"Masa itu ialah masa musuh datang menyerang kamu dari sebelah atas kamu dan dari sebelah bawah kamu (dari lembah), dan masa pemandangan mata menjadi liar (kerana ketakutan) serta hati berdegup kencang hingga terasa sampai ke kerongkong, dan kamu menyangka terhadap Allah dengan berbagai-bagai sangkaan."*
-> — **Surah Al-Aḥzāb (33): 10**
-
-Pada saat getir itulah, Rasulullah ﷺ memukul batu besar di parit Khandaq dan mengisytiharkan khabar gembira kemenangan pembukaan empayar besar dunia:
-
-> 📜 **[HADIS SAHIH • BASYARAH KEMENANGAN DI TENGAH KEPUNGAN]**
-> **«اللهُ أَكْبَرُ! أُعْطِيتُ مَفَاتِيحَ الشَّامِ، وَاللهِ إِنِّي لَأُبْصِرُ قُصُورَهَا الحُمْرَ السَّاعَةَ... اللهُ أَكْبَرُ! أُعْطِيتُ مَفَاتِيحَ فَارِسَ، وَاللهِ إِنِّي لَأُبْصِرُ قَصْرَ المَدَائِنِ الأَبْيَضَ... اللهُ أَكْبَرُ! أُعْطِيتُ مَفَاتِيحَ اليَمَنِ...»**
->
-> *"Allah Maha Besar! Telah diberikan kepadaku kunci-kunci negeri Syam, demi Allah sesungguhnya aku sedang melihat istana-istananya yang merah sekarang ini... Allah Maha Besar! Telah diberikan kepadaku kunci-kunci negeri Parsi, demi Allah sesungguhnya aku sedang melihat istana putih al-Mada'in sekarang ini... Allah Maha Besar! Telah diberikan kepadaku kunci-kunci negeri Yaman..."*
-
-Dan apakah yang berlaku selepas itu? Sejarah menyaksikan bahawa masa mendengar seruan Rasulullah ﷺ, dan firman Allah dimenangkan dengan gilang-gemilang:
-
-> **وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ بِغَيْظِهِمْ لَمْ يَنَالُوا۟ خَيْرًۭا ۚ وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ ۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًۭا ۝ وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَـٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ فَرِيقًۭا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًۭا ۝ وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًۭا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًۭا ۝**
->
-> *"Dan Allah telah menghalau orang-orang yang kafir itu berundur dengan keadaan mereka marah dan geram, mereka tidak mendapat sebarang keuntungan; dan Allah menyelamatkan orang-orang yang beriman daripada bahaya perang. Dan adalah Allah Maha Kuat lagi Maha Perkasa. Dan Dia menurunkan orang-orang yang membantu mereka dari Ahli Kitab dari kubu-kubu pertahanan mereka, serta mencampakkan ketakutan ke dalam hati mereka; sebahagian mereka kamu bunuh dan sebahagian lagi kamu tawan. Dan Dia mewariskan kepada kamu bumi mereka, rumah-rumah kediaman mereka, harta benda mereka, serta tanah yang belum pernah kamu jejak. Dan adalah Allah Maha Kuasa atas setiap sesuatu."*
-> — **Surah Al-Aḥzāb (33): 25-27**
-
-Kami pada hari ini mengambil kelengkapan bekalan yang sama, dan kami pasti akan beroleh kemenangan sebagaimana para salafus soleh menang semalam! Dan tiadalah kemenangan itu melainkan daripada sisi Allah Yang Maha Perkasa lagi Maha Bijaksana:
-
-> **وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسْتُضْعِفُوا۟ فِى ٱلْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةًۭ وَنَجْعَلَهُمُ ٱلْوَٰرِثِينَ ۝ وَنُمَكِّنَ لَهُمْ فِى ٱلْأَرْضِ وَنُرِىَ فِرْعَوْنَ وَهَـٰمَـٰنَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا۟ يَحْذَرُونَ ۝**
->
-> *"Dan Kami hendak memberi kurnia kepada orang-orang yang tertindas di bumi itu, dan hendak menjadikan mereka pemimpin-pemimpin serta menjadikan mereka orang-orang yang mewarisi (bumi). Dan Kami hendak meneguhkan kedudukan mereka di bumi, serta memperlihatkan kepada Firaun dan Haman beserta tentera mereka apa yang sentiasa mereka takuti daripada golongan yang tertindas itu."*
-> — **Surah Al-Qaṣaṣ (28): 5-6**
-
-> **فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ ۝**
->
-> *"Oleh itu bersabarlah (wahai Muhammad)! Sesungguhnya janji Allah itu adalah benar; dan janganlah orang-orang yang tidak meyakini (kebenaran hari akhirat) itu menggoyahkan ketetapan hatimu."*
-> — **Surah Ar-Rūm (30): 60**
+Maka pada hari ini, wahai sekelian manusia, kami melengkapkan diri kami dengan kelengkapan bekalan yang sama yang pernah dipikul oleh para pendahulu kami; dan kami pasti akan beroleh kemenangan sebagaimana mereka telah beroleh kemenangan pada masa yang lalu; dan tiadalah kemenangan itu melainkan daripada sisi Allah Yang Maha Perkasa lagi Maha Bijaksana!
 
 
 ---
 
 ### 10. Andai Kita Mempunyai Kerajaan Islam yang Sejati (لو كانت لنا حكومة)
 
-Kalaulah kita memiliki sebuah kerajaan Islam yang benar-benar menghayati roh Islam, jujur dalam keimanan, serta bebas merdeka dalam pemikiran dan perlaksanaan; sebuah kerajaan yang mengetahui betapa agungnya tugas dakwah Islamiyah di persada antarabangsa:
+Kalaulah kita memiliki sebuah kerajaan Islam yang benar-benar menghayati roh Islam, jujur dalam keimanan, serta bebas merdeka dalam pemikiran dan perlaksanaan; sebuah kerajaan yang menyedari betapa agungnya tugas dakwah Islamiyah di persada antarabangsa:
 
-  Nescaya kerajaan tersebut akan memimpin sekalian negara ke arah hidayah Islam, menyampaikan mesej kebenaran ini kepada bangsa-bangsa dunia, dan menggunakan segala jentera diplomasi, penerbitan, penyiaran, serta perutusan antarabangsa demi menegakkan kalimah Allah di muka bumi.
+  Nescaya kerajaan tersebut akan memimpin sekalian negara ke arah hidayah Islam, menyampaikan mesej kebenaran ini kepada bangsa-bangsa dunia, dan menggunakan segala jentera diplomasi, penerbitan, penyiaran, serta perutusan antarabangsa demi menegakkan kalimah Allah di muka bumi!
 
-Namun realitinya, kita melihat kuasa-kuasa dunia saling berlumba mempropagandakan ideologi batil mereka (komunisme, kapitalisme, fasisme), membelanjakan jutaan wang dan mengerahkan ribuan jurucakap demi menyebarkan kesesatan mereka:
-Sebaliknya, kita tidak menemukan sebuah kerajaan Islam yang benar-benar bangkit melaksanakan kewajipan berdakwah kepada Islam—agama yang menghimpunkan segala kebaikan dan menolak segala keburukan sistem-sistem dunia:
-
+  Keanehan Dunia: Ideologi Batil Mempunyai Negara Penaja
+  Alangkah anehnya realiti dunia hari ini!
+  Kita melihat ideologi Komunisme mempunyai sebuah negara kuasa besar (Kesatuan Soviet) yang melaungkannya, berdakwah kepadanya, membelanjakan jutaan wang pada jalannya, memaksa rakyat mengikutinya, dan mengerahkan segala jentera negaranya demi mempropagandakannya ke sekeliling dunia!
+  Begitu juga ideologi Fasisme dan Kapitalisme mempunyai negara-negara penaja yang sanggup berperang dan berhabis harta demi mempertahankan kepentingannya!
+  Namun sebaliknya, kita tidak menemukan sebuah kerajaan Islam pun yang bangkit menunaikan kewajipan berdakwah kepada Islam—sebuah agama yang telah menghimpunkan segala kebaikan dan menolak segala keburukan sistem-sistem dunia tersebut!
+  
 > **وَلْتَكُن مِّنكُمْ أُمَّةٌۭ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ ۝**
 >
 > *"Dan hendaklah ada antara kamu satu puak yang menyeru (berdakwah) kepada kebajikan, dan menyuruh berbuat segala perkara yang baik, serta melarang daripada segala perkara yang mungkar; dan mereka yang bersifat demikian ialah orang-orang yang berjaya."*
 > — **Surah Āli ‘Imrān (3): 104**
 
-Kami telah pun mempersembahkan cita-cita dan memorandum ini kepada ramai pemimpin dan penguasa di negara kita. Namun adalah sesuatu yang lumrah apabila seruan ini tidak membuahkan sebarang hasil amali; kerana kaum yang telah kehilangan nilai Islam dalam jiwa mereka, dalam rumahtangga mereka, dan dalam urusan peribadi serta awam mereka—adalah teramat lemah untuk melimpahkan nilai Islam kepada orang lain!
-
-  فَاقِدُ الشَّيْءِ لَا يُعْطِيهِ — "Orang yang tidak memiliki sesuatu tidak akan mampu memberikannya kepada orang lain!"
-
-Justeru, ini bukanlah tugas golongan pemerintah yang telah terikat dengan kepentingan sekular; sebaliknya ini adalah tugas generasi baharu yang sedang dibina ini!
-Maka elokkanlah dakwah kamu kepada mereka, bersungguh-sungguhlah membentuk peribadi mereka, dan ajarkanlah mereka:
-
-  Kemerdekaan jiwa dan hati nurani (استقلال النفس والقلب).
-  Kemerdekaan akal dan pemikiran (استقلال الفكر والعقل).
-  Kemerdekaan jihad dan amal bakti (استقلال الجهاد والعمل).
-
-Penuhilah roh mereka yang berkobar-kobar dengan keagungan Islam dan pesona Al-Quran, serta gerakkanlah mereka di bawah panji Nabi Muhammad ﷺ; nescaya dalam waktu terdekat kamu akan menyaksikan lahirnya daripada kalangan mereka pemimpin Muslim sejati yang menundukkan nafsunya sendiri dan membahagiakan seluruh umat manusia!
+  Mengapa Para Pemimpin Kita Gagal Memikul Amanah Ini?
+  Namun bagaimanakah mungkin para pemerintah kita mampu memikul tugas suci ini? Sedangkan mereka semua telah dididik dan dibesarkan dalam pangkuan orang-orang asing penjajah, tunduk kepada pemikiran mereka, mengekor tapak kaki mereka, dan terpesong daripada petunjuk agama mereka sendiri!
+  Kami telah pun mengemukakan cita-cita dan memorandum ini kepada ramai pemimpin dan penguasa di Mesir. Namun adalah sesuatu yang lumrah apabila seruan ini tidak membuahkan sebarang kesan amali; kerana kaum yang telah kehilangan nilai Islam dalam jiwa mereka—adalah teramat mustahil untuk memberikan nilai Islam itu kepada orang lain! (*Fāqidush-syai’ lā yu‘ṭīh*)
+  Justeru, ini bukan lagi tugas golongan pemerintah yang telah terikat dengan kepentingan sekular; sebaliknya ini adalah tugas generasi baharu yang sedang dibina oleh dakwah Ikhwanul Muslimin ini!
 
 
 ---
 
 ### 11. Hakikat dan Identiti Fikrah Kami (طبيعة فكرتنـا)
 
-Wahai Ikhwanul Muslimin... Bahkan wahai sekelian manusia!
+Wahai Ikhwanul Muslimin... Bahkan wahai seluruh umat manusia!
 Fahamilah hakikat identiti dakwah kamu ini dengan sejelas-jelasnya:
 
+  Empat Penafian Terhadap Label Sempit
   
     Kami bukanlah sebuah parti politik kepartian (لسنا حزباً سياسياً), walaupun siasah berlandaskan kaedah-kaedah Islam adalah intipati fikrah kami.
-    Kami bukanlah persatuan kebajikan biasa (ولسنا جمعية خيرية), walaupun amal kebajikan dan bantuan marhaen adalah matlamat agung kami.
-    Kami bukanlah sebuah kelab sukan rekreasi (ولسنا نادياً رياضياً), walaupun kesihatan jasmani dan kekuatan fizikal adalah sebahagian daripada wasilah kami.
+    Kami bukanlah sebuah persatuan kebajikan biasa (ولسنا جمعية خيرية), walaupun amal kebajikan dan bantuan islah masyarakat adalah matlamat agung kami.
+    Kami bukanlah kelab-kelab sukan jasmani semata-mata (ولسنا فرقاً رياضية), walaupun sukan fizikal dan pembinaan ketahanan rohani adalah antara wasilah terpenting kami.
+    Kami bukanlah mana-mana entiti daripada pertubuhan-pertubuhan ini (لسنا شيئاً من هذه التشكيلات); kerana pertubuhan-pertubuhan tersebut semuanya diwujudkan bagi matlamat setempat yang sempit untuk tempoh masa tertentu, bahkan kadangkala ia ditubuhkan semata-mata kerana dorongan keinginan untuk menubuhkan pertubuhan dan berhias dengan gelaran-gelaran jawatan pentadbiran di dalamnya!
   
 
-Maka apakah hakikat sebenar fikrah kami? Sesungguhnya kami adalah Fikrah dan Akidah, Nizam dan Manhaj:
+  Pengisytiharan Identiti Rabbani: Fikrah, Akidah, Nizam dan Manhaj
+  Tetapi kami—wahai sekelian manusia—adalah:
+  
+    SATU FIKRAH DAN SATU AKIDAH, SATU SISTEM DAN SATU MANHAJ (فكرة وعقيدة ، ونظام ومنهاج)!
+    Ia adalah manhaj yang tidak dibataskan oleh sempadan geografi bumi, tidak disempitkan oleh warna kulit atau keturunan bangsa, tidak dihalang oleh sebarang dinding pemisah politik, dan perjuangannya tidak akan berhenti sehinggalah Allah mewarisi bumi ini dan sekalian makhluk di atasnya; kerana sesungguhnya ia adalah Sistem Perundangan Rabbul ‘Alamin, dan Manhaj Rasul-Nya yang Terpercaya!
+  
 
-  Ia adalah fikrah yang tidak dibataskan oleh sempadan geografi bumi, dan tidak disempitkan oleh fahaman kebangsaan sempit. Ia merangkumi setiap inci tanah air yang di dalamnya ada orang beriman yang bersaksi bahawa: Lā ilāha illallāh, Muḥammadur Rasūlullāh.
-
-Kita ini adalah pewaris risalah Rasulullah ﷺ:
-
-> 📜 **[WARISAN RISALAH • PEMBAWA PANJI RASULULLAH ﷺ]**
-> **«نَحْنُ أَيُّهَا النَّاسُ ـ وَلَا فَخْرَ ـ أَصْحَابُ رَسُولِ اللهِ، وَحَمَلَةُ رَايَتِهِ مِنْ بَعْدِهِ، وَرَافِعُو لِوَائِهِ كَمَا رَفَعُوهُ، وَنَاشِرُو لِوَائِهِ كَمَا نَشَرُوهُ، وَحَافِظُو قُرْآنِهِ كَمَا حَفِظُوهُ، وَمُبَلِّغُو دَعْوَتِهِ كَمَا بَلَّغُوهُ.»**
+> 📜 **[WARISAN RISALAH • KAMI ADALAH PENERUS PANJI RASULULLAH ﷺ]**
+> **نَحْنُ أَيُّهَا النَّاسُ ـ وَلَا فَخْرَ ـ أَصْحَابُ رَسُولِ اللهِ، وَحَمَلَةُ رَايَتِهِ مِنْ بَعْدِهِ، وَرَافِعُو لِوَائِهِ كَمَا رَفَعُوهُ، وَنَاشِرُو لِوَائِهِ كَمَا نَشَرُوهُ، وَحَافِظُو قُرْآنِهِ كَمَا حَفِظُوهُ، وَمُبَلِّغُو دَعْوَتِهِ كَمَا بَلَّغُوهُ.**
 >
-> *"Wahai sekelian manusia, kita ini—tanpa bermegah diri—adalah penerus sahabat Rasulullah ﷺ, pembawa panji baginda sesudahnya, penegak benderanya sebagaimana mereka menegakkannya, penyebar ajarannya sebagaimana mereka menyebarkannya, pemelihara Al-Quran sebagaimana mereka memeliharanya, dan penyampai dakwahnya sebagaimana mereka menyampaikannya!"*
-
-Dan yakinlah bahawa fajar kebenaran pasti akan menyingsing:
+> *"Wahai sekelian manusia, kita ini—tanpa bermegah diri—adalah penerus sahabat Rasulullah ﷺ, pembawa panji baginda sesudahnya, penegak benderanya sebagaimana mereka menegakkannya, penyebar risalahnya sebagaimana mereka menyebarkannya, pemelihara Al-Quran sebagaimana mereka memeliharanya, dan pembawa khabar gembira dakwahnya sebagaimana mereka menyampaikannya, serta rahmat Allah bagi sekalian alam!"*
 
 > **وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ ۝**
 >
@@ -549,210 +407,33 @@ Dan yakinlah bahawa fajar kebenaran pasti akan menyingsing:
 
 ---
 
-### 12. Khatimah Haraki: Seruan Keteguhan Langkah (خاتمة حركية)
+### 12. Khatimah Haraki: Seruan Keteguhan Langkah & Bai‘ah Perjuangan (خاتمة حركية)
 
 Wahai Ikhwanul Muslimin...
-Inilah darjat kedudukan dakwah kamu! Maka janganlah kamu merendahkan nilai diri kamu sehingga kamu mengukur dakwah kamu dengan gerakan-gerakan politik yang mengejar jawatan, atau kamu menyamakan matlamat agung kamu dengan pertubuhan-pertubuhan kebajikan yang terhad ruang lingkupnya.
-Kamu telah berdakwah dan telah berjihad. Dan sesungguhnya kamu telah melihat buah daripada usaha kerdil ini: suara-suara yang melaungkan kepimpinan Rasulullah ﷺ, tuntutan pelaksanaan Al-Quran, kewajipan bangkit beramal, keikhlasan niat semata-mata kerana Allah, titisan darah yang mengalir daripada para pemuda yang suci pada jalan Allah, dan kerinduan yang jujur untuk meraih syahid fi sabilillah.
-Ini adalah kejayaan yang melangkaui apa yang kamu sangkakan! Maka teruskanlah usaha gigih kamu, dan teruskanlah beramal:
+Inilah kedudukan martabat kamu yang mulia! Maka janganlah sesekali kamu merendahkan nilai diri kamu, lalu kamu menyamakan diri kamu dengan gerakan-gerakan lain, atau kamu menempuh dalam dakwah kamu jalan selain daripada jalan orang-orang yang beriman, atau kamu membandingkan antara dakwah kamu—yang mengambil cahayanya daripada cahaya Allah dan manhajnya daripada Sunnah Rasul-Nya—dengan dakwah-dakwah lain yang dicipta kerana tuntutan darurat sementara dan dilenyapkan oleh peredaran masa dan peristiwa!
 
+  Buah Hasil Pengorbanan Pemuda
+  Sesungguhnya kamu telah menyeru dan kamu telah berjihad; dan kamu telah menyaksikan sendiri buah hasil daripada usaha yang sedikit ini: suara-suara yang melaungkan kepimpinan Rasulullah ﷺ dan kedaulatan sistem Al-Quran, kewajipan bangkit beramal, penyucian matlamat semata-mata kerana Allah, titisan darah yang mengalir daripada para pemuda yang suci mulia pada jalan Allah, serta keinginan yang benar-benar jujur untuk mati syahid di jalan Allah!
+  Dan ini adalah kejayaan yang melangkaui apa yang kamu jangkakan! Maka teruskanlah usaha gigih kamu, dan beramallah dengan bersungguh-sungguh:
+  
 > **فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَـٰلَكُمْ ۝**
 >
-> *"Oleh itu, janganlah kamu berasa lemah dan janganlah kamu mengajak kepada perdamaian (yang menghina) padahal kamulah orang-orang yang paling tinggi (mengatasi musuh), dan Allah sentiasa bersama kamu, serta Dia sekali-kali tidak akan mengurangkan pahala amal-amal kamu."*
+> *"Oleh itu janganlah kamu berasa lemah (dalam perjuangan) dan janganlah kamu mengajak berdamai (dalam keadaan yang menghinakan), padahal kamulah orang-orang yang paling tinggi (martabatnya), dan Allah sentiasa bersama-sama kamu, dan Dia tidak sekali-kali akan mengurangi (pahala) amal-amal kamu."*
 > — **Surah Muḥammad (47): 35**
 
-Maka ketahuilah kedudukan saf dalam perjuangan ini:
+  Tiga Golongan Manusia Berhadapan Dakwah Ikhwan
+  
+    Sesiapa yang mengikuti langkah kami pada saat ini: Maka sesungguhnya dia telah beroleh kemuliaan mendahului di saf hadapan (*fa-qad fāza bis-sabq*).
+    Sesiapa yang masih berlengah daripada kalangan mereka yang ikhlas pada hari ini: Maka dia pasti akan menyusul bersama kami pada hari esok, dan kelebihan tetap menjadi milik mereka yang mendahului.
+    Manakala sesiapa yang berpaling daripada dakwah kami: Sama ada kerana memandang remeh, memperlekeh, menganggapnya kerdil, atau kerana berputus asa daripada kemenangannya; maka masa yang berlalu pasti akan membuktikan kepadanya kesilapannya yang amat besar! Dan Allah pasti mencampakkan kebenaran kami ke atas kebatilannya lalu melenyapkannya, maka tiba-tiba kebatilan itu lenyap musnah!
+  
 
-  Sesiapa yang mengikut jejak langkah kami sekarang, sesungguhnya dia telah beroleh keutamaan mendahului (al-faḍl bis-sabq).
-  Sesiapa daripada kalangan orang-orang yang ikhlas berlengah hari ini, nescaya dia akan menyusul kami esok hari; dan kelebihan tetap menjadi hak mereka yang mendahului.
-  Manakala sesiapa yang berpaling daripada dakwah kami—sama ada kerana memandang remeh, mengejek, memperkecilkan potensinya, atau kerana berputus asa terhadap kemenangannya—nescaya masa dan sejarah akan membuktikan kesilapannya yang amat besar; dan Allah pasti mencampakkan kebenaran kami ke atas kebatilannya lalu melenyapkannya!
-
-Teguhkanlah langkah kamu, satukanlah saf kamu, dan berpegang-teguhlah di atas jalan yang satu ini:
-
+  Seruan Terakhir & Bai‘ah Menuju Siratul Mustaqim
+  Maka marilah menuju kepada kami, wahai orang-orang yang beriman yang gigih beramal, dan wahai para mujahid yang berjiwa ikhlas! Kerana di sinilah jalan yang lurus dan landasan yang tepat; maka janganlah kamu memecah-belahkan tenaga dan mensia-siakan usaha!
+  
 > **وَأَنَّ هَـٰذَا صِرَٰطِى مُسْتَقِيمًۭا فَٱتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِۦ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَتَّقُونَ ۝**
 >
-> *"Dan bahawa sesungguhnya inilah jalan-Ku yang lurus, maka hendaklah kamu menurutnya; dan janganlah kamu menurut jalan-jalan (yang lain), kerana jalan-jalan itu akan mencerai-beraikan kamu dari jalan Allah. Yang demikian itulah diperintahkan Allah kepada kamu supaya kamu bertakwa."*
+> *"Dan bahawa sesungguhnya inilah jalan-Ku (agama Islam) yang betul lurus, maka hendaklah kamu mengikutinya; dan janganlah kamu mengikut jalan-jalan yang lain (selain Islam), kerana jalan-jalan itu akan mencerai-beraikan kamu daripada jalan-Nya. Yang demikian itu diperintahkan oleh Allah kepada kamu supaya kamu bertakwa."*
 > — **Surah Al-An‘ām (6): 153**
 
-Al-Akh Al-Mursyid Al-Imam Asy-Syahid Hasan al-Banna
-Pengasas & Mursyidul ‘Amm Pertama Gerakan Ikhwanul Muslimin
-
----
-
-## 25 MUTIARA KATA EMAS RISALAH MUHIMMATUNĀ
-
-### Q01: SIFAT DAKWAH • KEKUATAN ROHANI
-> **هَادِئَةٌ... لَكِنَّهَا أَقْوَى مِنَ الزَّوَابِعِ العَاصِفَةِ... مُتَوَاضِعَةٌ... لَكِنَّهَا أَعَزُّ مِنَ الشُّمِّ الرَّوَاسِي.**
->
-> *"Dakwah kami bergerak tenang, namun ia lebih perkasa daripada taufan yang menggoncang. Ia merendah diri, namun lebih mulia dan teguh daripada puncak gunung ganang."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 1: Mukadimah)*)
-
-### Q02: KEIKHLASAN • KELUASAN CAKUPAN
-> **مَحْدُودَةٌ... لَكِنَّهَا أَوْسَعُ مِنْ حُدُودِ هَذِهِ الأَقْطَارِ الأَرْضِيَّةِ جَمِيعًا... خَالِيَةٌ مِنَ المَظَاهِرِ وَالبَهْرَجِ الكَاذِبِ، وَلَكِنَّهَا مَحْفُوفَةٌ بِجَلَالِ الحَقِّ، وَرَوْعَةِ الوَحْيِ، وَرِعَايَةِ اللهِ.**
->
-> *"Dakwah ini terbatas ruang zahirnya, namun ia melangkaui seluruh sempadan benua dunia. Ia bebas daripada kepura-puraan hiasan palsu, tetapi dinaungi keagungan kebenaran, keindahan wahyu, dan pemeliharaan Allah."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 1: Mukadimah)*)
-
-### Q03: SERUAN BANGKIT • MENELUSURI SERUAN AWAL
-> **اِسْمَعُوهَا صَرِيحَةً دَاوِيَةً، يُجَلْجِلُ بِهَا صَوْتُ الدَّاعِي الأَوَّلِ مِنْ بَعْدُ كَمَا جَلْجَلَ بِهَا مِنْ قَبْلُ: ﴿يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ ۝ قُمْ فَأَنذِرْ ۝ وَرَبَّكَ فَكَبِّرْ﴾.**
->
-> *"Dengarlah seruan ini secara terang lagi bergema, dilaungkan oleh pendakwah pertama pada zaman ini sebagaimana ia pernah dilaungkan pada zaman Rasulullah: 'Wahai orang yang berselimut! Bangunlah serta berilah peringatan!'"*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 2: Di Bawah Sinar Seruan Pertama)*)
-
-### Q04: HAKIKAT KETERASINGAN • KEPALSUAN SISTEM MODEN
-> **كُونُوا صُرَحَاءَ فِي الجَوَابِ، وَسَتَرَوْنَ الحَقِيقَةَ وَاضِحَةً أَمَامَكُمْ: كُلُّ النُّظُمِ الَّتِي تَسِيرُونَ عَلَيْهَا فِي شُؤُونِكُمُ الحَيَوِيَّةِ نُظُمٌ تَقْلِيدِيَّةٌ بَحْتَةٌ لَا تَتَّصِلُ بِالإِسْلَامِ، وَلَا تَسْتَمِدُّ مِنْهُ وَلَا تَعْتَمِدُ عَلَيْهِ.**
->
-> *"Bersikap jujurlah dalam menjawab, nescaya kamu akan melihat hakikat yang nyata di hadapan kamu: Semua sistem yang kamu ikuti dalam urusan hidup kamu adalah sistem taklid buta semata-mata yang terputus daripada Islam, tidak bersumberkan daripadanya, dan tidak berlandaskannya."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 3: Di Manakah Kita daripada Ajaran Islam?)*)
-
-### Q05: PEMIKIRAN SEKULAR • KETERPISAHAN JIWA DARI WAHYU
-> **الرُّوحُ العَامُّ الَّذِي يُهَيْمِنُ عَلَى الحَاكِمِينَ وَالمَحْكُومِينَ، وَيُشَكِّلُ مَظَاهِرَ الحَيَاةِ عَلَى اخْتِلَافِهَا، كُلُّ ذَلِكَ بَعِيدٌ عَنِ الإِسْلَامِ وَتَعَالِيمِ الإِسْلَامِ.**
->
-> *"Roh umum yang mendominasi para pemerintah dan rakyat jelata, serta yang mencorakkan pelbagai manifestasi kehidupan semasa, keseluruhannya berada jauh terasing daripada Islam dan ajaran-ajarannya yang suci."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 3: Di Manakah Kita daripada Ajaran Islam?)*)
-
-### Q06: RAHMAT SEJAGAT • PANGGILAN MUHASABAH
-> **أَهَذَا هُوَ الإِسْلَامُ الَّذِي أَرَادَهُ اللهُ أَنْ يَكُونَ رَحْمَتَهُ العُظْمَى، وَمِنَّتَهُ الكُبْرَى عَلَى العَالَمِينَ؟**
->
-> *"Adakah ini Islam yang dikehendaki oleh Allah untuk menjadi rahmat-Nya yang teragung dan kurniaan-Nya yang terbesar ke atas sekalian alam?"*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 4: Gelombang Taklid Buta Terhadap Barat)*)
-
-### Q07: TASYRI' QURANI • PENAWAR PENYAKIT UMMAH
-> **أَهَذَا هُوَ تَشْرِيعُ القُرْآنِ الَّذِي عَالَجَ أَدْوَاءَ الأُمَمِ وَمُشْكِلَاتِ الشُّعُوبِ، وَوَضَعَ لِلإِصْلَاحِ أَدَقَّ القَوَاعِدِ وَأَرْسَخَ الأُصُولِ؟**
->
-> *"Adakah ini syariat Al-Quran yang merawat penyakit-penyakit bangsa dan menyelesaikan krisis umat manusia, serta menetapkan kaedah-kaedah islah yang paling terperinci dan asas-asas yang paling kukuh?"*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 4: Gelombang Taklid Buta Terhadap Barat)*)
-
-### Q08: HIKMAH VS TAKLID • KEMERDEKAAN AKIDAH
-> **الإِسْلَامُ لَا يَأْبَى أَنْ نَقْتَبِسَ النَّافِعَ وَأَنْ نَأْخُذَ الحِكْمَةَ أَنَّى وَجَدْنَاهَا، وَلَكِنَّهُ يَأْبَى كُلَّ الإِبَاءِ أَنْ نَتَشَبَّهَ فِي كُلِّ شَيْءٍ بِمَنْ لَيْسُوا مِنْ دِينِ اللهِ عَلَى شَيْءٍ.**
->
-> *"Islam tidak pernah menolak untuk kita menceduk perkara yang bermanfaat dan mengambil hikmah di mana jua ia ditemui. Namun Islam menolak sekeras-kerasnya sikap meniru secara membuta-tuli dalam segala hal terhadap mereka yang langsung tidak berpegang kepada agama Allah."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 4: Gelombang Taklid Buta Terhadap Barat)*)
-
-### Q09: INTEGRITI DAKWAH • MENOLAK KEMUNAFIKAN BUDAYA
-> **لَا تَكُونُوا مُخَادِعِينَ مُنَافِقِينَ مُعَانِدِينَ، تَعْمَلُونَ عَمَلَ الغَرْبِيِّينَ وَتَقُولُونَ قَوْلَ المُسْلِمِينَ!**
->
-> *"Janganlah kamu menjadi golongan yang memperdaya, munafik dan degil: kamu beramal dengan amalan orang-orang Barat, tetapi kamu melafazkan kata-kata orang Islam!"*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 4: Gelombang Taklid Buta Terhadap Barat)*)
-
-### Q10: KRISIS TAMADUN MODEN • KERINGNYA AIR MATA KELAPARAN
-> **هَلِ اطْمَأَنَّتِ الجُنُوبُ فِي المَضَاجِعِ؟ هَلْ جَفَّتِ الجُفُونُ مِنَ المَدَامِعِ؟ هَلْ حُورِبَتِ الجَرِيمَةُ، وَاسْتَرَاحَ المُجْتَمَعُ مِنْ شُرُورِ المُجْرِمِينَ؟**
->
-> *"Adakah lambakan kebendaan moden berjaya mententeramkan lambung manusia di tempat tidur? Adakah air mata telah kering daripada kelopak mata yang menangis derita? Adakah jenayah berjaya diperangi dan masyarakat berasa aman daripada kejahatan penjenayah?"*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 5: Menilai Hakikat Tamadun Materialistik Barat)*)
-
-### Q11: KEHANCURAN MORAL • KERUNTUHAN KELUARGA
-> **إِنَّ المَدَنِيَّةَ الغَرْبِيَّةَ بِمَا اشْتَمَلَتْ عَلَيْهِ مِنْ زَهْوٍ وَقُوَّةٍ تَتَأَوَّهُ اليَوْمَ مِنْ تَفَكُّكِ الأُسْرَةِ، وَشَقَاءِ النُّفُوسِ، وَتَتَرَقَّبُ الشَّرَّ المَسْتُورَ.**
->
-> *"Tamadun Barat yang dibanggakan itu kini merintih kesakitan akibat keruntuhan rumah tangga, krisis moral, penyakit rohani, dan api perang dunia yang bersedia membakar segala-galanya."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 5: Menilai Hakikat Tamadun Materialistik Barat)*)
-
-### Q12: MISI SEJAGAT • MEMBENTENG ARUS KEBENDAAN
-> **مُهِمَّتُنَا إِجْمَالًا أَنْ نَقِفَ فِي وَجْهِ هَذِهِ المَوْجَةِ الطَّاغِيَةِ مِنْ مَدَنِيَّةِ المَادَّةِ، وَحَضَارَاتِ المُتَعِ وَالشَّهَوَاتِ الَّتِي جَرَفَتِ الشُّعُوبَ الإِسْلَامِيَّةَ.**
->
-> *"Tugas utama kita secara umum ialah berdiri teguh membendung gelombang tamadun kebendaan dan peradaban syahwat yang menghanyutkan bangsa-bangsa Islam, lalu mengembalikan umat kepada hidayah Al-Quran."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 6: Misi Kami)*)
-
-### Q13: KEBEBASAN MUTLAK • MENYAMBUNG HATI KE WAHYU
-> **أَنْ نَرُدَّ لِلْمُسْلِمِينَ حُرِّيَّتَهُمْ وَاسْتِقْلَالَهُمْ، وَأَنْ نَصِلَ بَيْنَ قُلُوبِهِمْ وَبَيْنَ كِتَابِ رَبِّهِمْ وَسُنَّةِ نَبِيِّهِمْ.**
->
-> *"Misi kami adalah mengembalikan kemerdekaan dan kebebasan umat Islam, serta menghubungkan semula hati sanubari mereka dengan Kitab Tuhan mereka dan Sunnah Nabi mereka."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 6: Misi Kami)*)
-
-### Q14: KEDAULATAN ISLAM • MATLAMAT PENUBUHAN NEGARA
-> **وَالدَّوْلَةُ الَّتِي تَقُودُ الدُّوَلَ الإِسْلَامِيَّةَ، وَتَضُمُّ شَتَاتَ المُسْلِمِينَ، وَتَسْتَعِيدُ مَجْدَهُمْ، وَتَرُدَّ عَلَيْهِمْ أَرْضَهُمُ المَفْقُودَةَ وَأَوْطَانَهُمُ المَسْلُوبَةَ، ثُمَّ تَحْمِلَ عَلَمَ الجِهَادِ وَلِوَاءَ الدَّعْوَةِ إِلَى اللهِ.**
->
-> *"Kami menghendaki negara yang memimpin sekalian negara Islam, menyatukan perpecahan umat, mengembalikan kegemilangan mereka, menuntut semula tanah air yang dirampas, lalu menjulang panji dakwah dan jihad demi membahagiakan dunia dengan ajaran Islam."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 7: Rantaian 6 Peringkat Sasaran Kami)*)
-
-### Q15: BEKALAN HAKIKI • SENJATA PARA ANBIYA'
-> **عُدَّتُنَا هِيَ عُدَّةُ سَلَفِنَا مِنْ قَبْلُ، وَالسِّلَاحُ الَّذِي غَزَا بِهِ زَعِيمُنَا وَقُدْوَتُنَا مُحَمَّدٌ رَسُولُ اللهِ ﷺ وَصَحَابَتُهُ مَعَهُ العَالَمَ.**
->
-> *"Kelengkapan bekalan kami adalah kelengkapan para salafus soleh terdahulu, dan senjata kami adalah senjata yang dengannya pemimpin dan ikutan kami Nabi Muhammad ﷺ dan para sahabat baginda menakluki dunia."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 8: Bekalan dan Senjata Kami)*)
-
-### Q16: IMAN MENDALAM • TONGGAK PERTAMA ‘UDDATUNA
-> **لَقَدْ آمَنُوا أَعْمَقَ الإِيمَانِ وَأَقْوَاهُ وَأَقْدَسَهُ وَأَخْلَدَهُ... فَالإِيمَانُ أَوَّلُ عُدَّتِنَا.**
->
-> *"Para sahabat beriman dengan sedalam-dalam iman, sekuat-kuatnya, sesuci-sucinya dan seabadinya kepada Allah, kepada Rasul-Nya, kepada Al-Quran, dan kepada janji akhirat... Maka iman yang mendalam inilah bekalan pertama kami."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 8: Bekalan dan Senjata Kami)*)
-
-### Q17: UKHUWWAH ISLAMIYYAH • IKATAN HATI SUCI
-> **آمَنُوا بِالإِخَاءِ وَحُقُوقِهِ وَقُدْسِيَّتِهِ، وَرَأَوُا الفُرْقَةَ كُفْرًا وَالشِّقَاقَ عَذَابًا.**
->
-> *"Mereka mengimani persaudaraan seagama, hak-haknya dan kesuciannya. Mereka memandang perpecahan sebagai kekufuran dan perselisihan sebagai azab kebinasaan."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 8: Bekalan dan Senjata Kami)*)
-
-### Q18: JIHAD & PENGORBANAN • JALAN KEMENANGAN
-> **عَلِمُوا أَنَّ دَعْوَتَهُمْ لَا تَنْتَصِرُ إِلَّا بِالجِهَادِ، وَالتَّضْحِيَةِ وَالبَذْلِ وَتَقْدِيمِ النَّفْسِ وَالمَالِ... فَالجِهَادُ مِنْ عُدَّتِنَا كَذَلِكَ.**
->
-> *"Mereka meyakini dengan seyakin-yakinnya bahawa dakwah ini tidak akan menang melainkan dengan jihad, pengorbanan, pemberian tanpa berkira, serta mempersembahkan jiwa raga dan harta benda... Maka jihad adalah kelengkapan bekalan kami."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 8: Bekalan dan Senjata Kami)*)
-
-### Q19: MENEPIS SKEPTISISME • HAKIKAT BUKAN KHAYALAN
-> **سَيَقُولُ الَّذِينَ يَسْمَعُونَ هَذَا إِنَّهُ الخَيَالُ بِعَيْنِهِ وَإِنَّهُ الوَهْمُ... أَمَّا نَحْنُ فَنَقُولُ إِنَّهَا الحَقِيقَةُ الَّتِي نُؤْمِنُ بِهَا وَنَعْمَلُ لَهَا.**
->
-> *"Mereka yang mendengar seruan ini akan berkata: 'Ini adalah khayalan, angan-angan dan ketaksuban!' Adapun kami menegaskan: Ini adalah hakikat kebenaran yang kami imani dan kami amalkan!"*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 9: Antara Khayalan dan Hakikat)*)
-
-### Q20: KEPIMPINAN AMANAH • SYARAT DAKWAH KERAJAAN
-> **فَإِنَّ قَوْمًا فَقَدُوا الإِسْلَامَ فِي أَنْفُسِهِمْ وَبُيُوتِهِمْ وَشُؤُونِهِمُ الخَاصَّةِ وَالعَامَّةِ لَأَعْجَزُ مِنْ أَنْ يُفِيضُوهُ عَلَى غَيْرِهِمْ، وَفَاقِدُ الشَّيْءِ لَا يُعْطِيهِ.**
->
-> *"Kaum yang telah kehilangan nilai Islam dalam peribadi, rumahtangga, dan urusan peribadi serta awam mereka adalah teramat lemah untuk melimpahkan nilai Islam kepada orang lain; kerana orang yang tidak memiliki sesuatu tidak akan mampu memberikannya!"*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 10: Andai Kita Mempunyai Kerajaan Islam)*)
-
-### Q21: TARBIAH GENERASI • MEMBINA KEPIMPINAN RABBANI
-> **وَلَكِنَّهَا مُهِمَّةُ هَذَا النَّشْءِ الجَدِيدِ، فَأَحْسِنُوا دَعْوَتَهُ، وَجِدُّوا فِي تَكْوِينِهِ، وَعَلِّمُوهُ اسْتِقْلَالَ النَّفْسِ وَالقَلْبِ، وَاسْتِقْلَالَ الفِكْرِ وَالعَقْلِ... وَسَتَرَوْنَ مِنْهُ فِي القَرِيبِ الحَاكِمَ المُسْلِمَ الَّذِي يُجَاهِدُ نَفْسَهُ وَيُسْعِدُ غَيْرَهُ.**
->
-> *"Ini adalah tugas generasi baharu ini! Maka elokkanlah dakwah kamu kepada mereka, bersungguh-sungguhlah membentuk peribadi mereka, ajarkanlah mereka kemerdekaan jiwa, kemerdekaan fikiran, dan kemerdekaan jihad. Nescaya kamu akan menyaksikan lahirnya pemimpin Muslim yang menundukkan nafsunya dan membahagiakan orang lain."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 10: Andai Kita Mempunyai Kerajaan Islam)*)
-
-### Q22: IDENTITI GERAKAN • BUKAN PARTI POLITIK SEMPIT
-> **لَسْنَا حِزْبًا سِيَاسِيًّا، وَإِنْ كَانَتِ السِّيَاسَةُ عَلَى قَوَاعِدِ الإِسْلَامِ مِنْ صَمِيمِ فِكْرَتِنَا... وَلَسْنَا جَمْعِيَّةً خَيْرِيَّةً، وَإِنْ كَانَ عَمَلُ الخَيْرِ مِنْ أَعْظَمِ مَقَاصِدِنَا... إِنَّمَا نَحْنُ فِكْرَةٌ وَعَقِيدَةٌ، وَنِظَامٌ وَمِنْهَاجٌ.**
->
-> *"Kami bukanlah sebuah parti politik kepartian, walaupun siasah berlandaskan kaedah-kaedah Islam adalah intipati fikrah kami. Kami juga bukan persatuan kebajikan biasa, walaupun kerja kebajikan adalah matlamat teragung kami. Kami adalah Fikrah dan Akidah, Sistem dan Manhaj yang merangkumi seluruh urusan dunia dan akhirat."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 11: Hakikat dan Identiti Fikrah Kami)*)
-
-### Q23: WARISAN NUBUWWAH • PEMBAWA PANJI RASULULLAH ﷺ
-> **نَحْنُ أَيُّهَا النَّاسُ ـ وَلَا فَخْرَ ـ أَصْحَابُ رَسُولِ اللهِ، وَحَمَلَةُ رَايَتِهِ مِنْ بَعْدِهِ، وَرَافِعُو لِوَائِهِ كَمَا رَفَعُوهُ.**
->
-> *"Wahai sekelian manusia, kita ini—tanpa berbangga diri—adalah penerus para sahabat Rasulullah ﷺ, pembawa panji baginda sesudahnya, dan pengibar benderanya sebagaimana mereka mengibarkannya."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 11: Hakikat dan Identiti Fikrah Kami)*)
-
-### Q24: KEPERCAYAAN AMAL • KETEGASAN SAF
-> **فَمَنْ تَبِعَنَا الآنَ فَقَدْ فَازَ بِالسَّبْقِ، وَمَنْ تَقَاعَدَ عَنَّا مِنَ المُخْلِصِينَ اليَوْمَ فَسَيَلْحَقُ بِنَا غَدًا، وَلِلسَّابِقِ عَلَيْهِ الفَضْلُ.**
->
-> *"Barangsiapa yang mengikut jejak langkah kami sekarang, sesungguhnya dia telah beroleh keutamaan mendahului. Sesiapa daripada orang yang ikhlas berlengah hari ini, nescaya dia akan menyusul kami esok hari, dan kelebihan tetap menjadi milik mereka yang mendahului."*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 12: Khatimah Haraki)*)
-
-### Q25: HUKUM SEJARAH • KEBATILAN PASTI LEBUR
-> **وَمَنْ رَغِبَ عَنْ دَعْوَتِنَا زَهَادَةً أَوْ سُخْرِيَةً... فَسَتُثْبِتُ لَهُ الأَيَّامُ عَظِيمَ خَطَئِهِ، وَسَيَقْذِفُ اللهُ بِحَقِّنَا عَلَى بَاطِلِهِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ.**
->
-> *"Barangsiapa yang berpaling daripada dakwah kami kerana memandang remeh, mengejek atau berputus asa daripada kemenangannya, masa akan membuktikan kesilapannya yang amat besar, dan Allah pasti mencampakkan kebenaran kami ke atas kebatilannya lalu melenyapkannya!"*
->
-> — **Al-Imam Hasan al-Banna** (*Risalah Muhimmatunā (Fasal 12: Khatimah Haraki)*)
-
+ـ حسن البنا (Ḥasan al-Bannā)
