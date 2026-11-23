@@ -675,7 +675,7 @@ Maka puak yang manakah antara dua golongan ini yang lebih baik kedudukannya dan 
 Dan sesungguhnya Al-Quran telah membentangkan di hadapan kita satu model agung sunnatullah dalam pembentukan sesuatu bangsa yang bangkit daripada lembah kelemahan menuju kemuncak kemuliaan, iaitu kisah pembinaan umat melalui sirah Nabi Musa a.s. dan Bani Israel, yang merangkumi lima fasa bersejarah:
 
   Fasa Pertama: Kelemahan & Penindasan (الضعف)
-  Al-Quran memaparkan kepada kita permulaan kisah ini ketika bangsa Bani Israel berada dalam keadaan teramat lemah, ditindas dan dihinakan di bawah kezaliman Firaun yang sombong:
+  Kini kita berada di hadapan sosok seorang penguasa kuku besi (jabbār) yang sombong takbur, yang memperhambakan hamba-hamba Allah, menindas mereka, serta menjadikan mereka khadam, pelayan, hamba abdi, dan orang suruhan; berdepan dengan sebuah bangsa mulia lagi terbilang yang telah diperhambakan oleh diktator yang zalim itu. Kemudian, Allah Tabāraka wa Ta‘ālā berkehendak untuk mengembalikan semula kepada bangsa yang mulia ini kebebasan mereka yang telah dirampas, maruah kemuliaan mereka yang telah dicabuli, kegemilangan mereka yang telah lenyap, serta keagungan mereka yang telah pupus. Maka pancaran sulung fajar kebebasan bangsa ini bermula dengan terbitnya matahari pemimpin agungnya (Musa) ke alam wujud sebagai seorang bayi yang menyusu:
   
 > **إِنَّ فِرْعَوْنَ عَلَا فِى ٱلْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًۭا يَسْتَضْعِفُ طَآئِفَةًۭ مِّنْهُمْ يُذَبِّحُ أَبْنَآءَهُمْ وَيَسْتَحْىِۦ نِسَآءَهُمْ ۚ إِنَّهُۥ كَانَ مِنَ ٱلْمُفْسِدِينَ ۝**
 >
