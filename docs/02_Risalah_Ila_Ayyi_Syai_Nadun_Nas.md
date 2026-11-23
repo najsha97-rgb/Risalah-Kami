@@ -487,9 +487,21 @@ Dan sesungguhnya Al-Quran telah menyingkap makna yang mendalam ini dalam banyak 
 
 ### 25. Manhaj yang Jelas dan Syumul (المنهاج الواضح - Al-Minhājul-Wāḍiḥ)
 
-Berasaskan kefahaman yang mendalam inilah manhaj Ikhwanul Muslimin menjadi amat jelas dan terang nyata di hadapan mata mereka. Mereka tidak meraba-raba dalam kegelapan, tidak teragak-agak dalam melangkah, dan tidak terperangkap dalam percanggahan ideologi.
-Manhaj kami adalah Al-Quran yang syumul—kitab suci yang menghimpunkan segala urusan dunia dan akhirat, menyatukan antara akidah dengan syariat, antara ibadah dengan muamalat, dan antara akhlak peribadi dengan undang-undang ketamadunan.
-Kami menolak sekeras-kerasnya fahaman sekularisme sempit yang cuba memisahkan agama daripada pentadbiran kehidupan, politik kenegaraan, perundangan, dan ekonomi. Bagi kami, Islam adalah risalah yang merangkumi setiap hembusan nafas kehidupan manusia.
+Ikhwanul Muslimin meyakini bahawa Allah Tabāraka wa Ta‘ālā tatkala menurunkan Al-Quran, memerintahkan hamba-hamba-Nya supaya mengikut Nabi Muhammad ﷺ, dan meredai Islam sebagai agama bagi mereka—Dia telah meletakkan di dalam agama yang lurus ini segala dasar dan asas yang diperlukan bagi kelangsungan hidup umat-umat manusia, kebangkitan mereka, serta kebahagiaan mereka. Hal ini bertepatan dengan firman Allah Tabāraka wa Ta‘ālā:
+
+> **ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَـٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَـٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَـٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ ۝**
+>
+> *"Iaitu orang-orang yang mengikut Rasul, Nabi yang ummi (yang tidak tahu membaca dan menulis), yang mereka dapati termaktub di sisi mereka di dalam Taurat dan Injil; dia menyuruh mereka dengan perkara-perkara yang makruf (kebaikan) dan melarang mereka daripada perkara-perkara yang mungkar; serta dia menghalalkan bagi mereka segala benda yang baik dan mengharamkan ke atas mereka segala benda yang buruk (keji); dan dia melepaskan daripada mereka beban-beban yang berat dan belenggu-belenggu yang ada pada mereka."*
+> — **Surah Al-A‘rāf (7): 157**
+
+Dan ia juga bertepatan dengan sabda Rasulullah ﷺ dalam hadis yang mulia yang mafhumnya:
+
+> 📜 **[MUTIARA HADIS • KESEMPURNAAN BIMBINGAN NABAWI]**
+> **«وَاللهِ مَا تَرَكْتُ مِنْ شَرٍّ إِلَّا وَنَهَيْتُكُمْ عَنْهُ»**
+>
+> *"Demi Allah, tidaklah aku meninggalkan sesuatu keburukan melainkan aku telah melarang kamu daripadanya."*
+
+Dan sekiranya engkau meneliti sedalam-dalamnya ajaran Islam, pasti engkau akan mendapati bahawa ia telah meletakkan kaedah-kaedah yang paling sahih, sistem-sistem yang paling serasi, dan undang-undang yang paling jitu bagi segenap aspek kehidupan: bermula daripada kehidupan individu (lelaki mahupun wanita), kehidupan keluarga dalam pembentukan mahupun pembubarannya, sehinggalah kehidupan bangsa-bangsa dalam proses kelahiran, kekuatan, mahupun keruntuhannya; serta menguraikan segala simpulan pemikiran yang membingungkan para reformis dan pembaharu dunia.
 Isu-isu antarabangsa moden seperti globalisme, kebangsaan, sosialisme, kapitalisme, pembahagian kekayaan yang adil, imbangan antara pengeluar dengan pengguna, serta segala wacana falsafah yang membingungkan para pemikir dunia hari ini—sesungguhnya kami meyakini bahawa Islam telah menyelami sedalam-dalamnya intipati isu-isu tersebut, dan telah menetapkan sistem peradaban yang menjamin umat manusia meraih segala kebaikan dan keadilan, serta terselamat daripada segala malapetaka dan kehancuran!
 Dan bukanlah ini tempatnya untuk menghuraikan segala perincian tersebut dalam risalah yang ringkas ini; kerana tujuan kami di sini adalah menegaskan apa yang kami imani dan menjelaskan kepada manusia asas apa yang kami serukan kepada mereka. Dan kami memiliki kesempatan-kesempatan lain untuk menghuraikan setiap perincian manhaj ini secara tuntas.
 
