@@ -654,8 +654,8 @@ Bagi menolak keputusasaan ini, saya kemukakan dua sudut pandang yang positif:
   Demikianlah buktinya dalam lipatan sejarah silam. Manakala dalam sejarah moden pula, terdapat teladan-teladan yang paling mempesonakan tentang hakikat ini: Siapakah yang pernah menyangka bahawa Raja Abdul Aziz Al Saud—tatkala keluarganya dibuang negeri, sanak saudaranya dihalau terlunta-lunta, dan takhta kerajaannya dirampas—mampu merebut kembali kerajaan ini hanya dengan berbekalkan dua puluh lebih orang lelaki sahaja, kemudian selepas itu beliau bangkit menjadi salah satu lambang harapan dunia Islam dalam mengembalikan kegemilangan dan menghidupkan kesatuannya?!
   Dan siapakah yang pernah mempercayai bahawa pekerja Jerman itu (Hitler) mampu mencapai tahap pengaruh kekuasaan yang sedemikian hebat dan merealisasikan matlamatnya daripada titik ketiadaan?!
 
-Dan kemudiannya, terdapat dua prinsip utama yang mengarahkan hati pejuang yang gigih kepada amal yang benar:
-
+  Adakah Di Sana Jalan Lain? (هل هناك طريق أخرى؟)
+  Dan kemudiannya, terdapat dua prinsip utama yang mengarahkan hati pejuang yang gigih kepada amal yang benar:
   Pertama: Bahawa jalan ini, walau sepanjang mana sekalipun, tiada jalan lain selainnya dalam membina kebangkitan yang sejati. Dan pengalaman sejarah telah membuktikan kebenaran sunnah ini!
   Kedua (Tanggungjawab Kewajipan Didahulukan - الواجب أولاً): Bahawa seorang pejuang beramal kerana menunaikan kewajipan terlebih dahulu, kemudian mengharapkan pahala ganjaran akhirat kedua, dan barulah menantikan kemanfaatan hasil di dunia ketiga. Sekiranya dia telah beramal, maka dia pasti telah menyempurnakan kewajipannya dan beroleh pahala Allah tanpa sebarang keraguan—apabila cukup syarat-syaratnya.
   Adapun hasil natijah, urusannya terserah kepada Allah. Barangkali datang peluang yang tidak disangka-sangka yang menjadikan amalannya membuahkan hasil yang paling berkat. Sebaliknya, sekiranya dia berpangku tangan daripada beramal, dia pasti menanggung dosa kecuaian, terlepas pahala jihad, dan diharamkan daripada sebarang manfaat!
