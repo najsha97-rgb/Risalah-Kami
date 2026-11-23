@@ -9,392 +9,453 @@
 
 ### 1. Pertanyaan Skeptikal & Tipologi Penyoal (سؤال مهم .. وأصناف سائليه)
 
-Setiap kali para pendakwah mengajak masyarakat menyokong jemaah Ikhwanul Muslimin yang bekerja siang dan malam semata-mata kerana Allah, seringkali muncul pertanyaan sinis:
-""Adakah jemaah ini sebuah jemaah yang praktikal? Dan adakah ahli-ahlinya golongan yang benar-benar beramal secara praktikal (*qawmun ‘amaliyyūn*)?""
-Orang yang mengemukakan soalan ini terbahagi kepada beberapa kategori:
-1. Golongan Sinis dan Pengejek (متهكم مستهتر)
-Golongan Sinis dan Pengejek: Tidak peduli melainkan kepentingan peribadinya; bertanya sekadar untuk memperlekehkan usaha dakwah dan para reformis.
-2. Golongan yang Lalai (شخص غافل)
-Golongan yang Lalai (*Ghafil*): Tiada matlamat, tiada wasilah, tiada pemikiran, dan tiada pegangan akidah.
-3. Golongan Pencinta Retorik dan Bunga Bahasa (مغرم بتشقيق الكلام)
-Golongan Ahli Retorik Kosong: Gemar berfalsafah, menyusun kata-kata muluk dan istilah bombastik agar disangka alim, tetapi apabila diajak beramal, mereka berdalih dan melarikan diri.
-4. Golongan Pencari Alasan Melepaskan Diri (محاول تعجيز)
-Golongan yang Mencari Alasan untuk Bermalas-malasan: Bertanya soalan yang melemahkan semata-mata untuk menjustifikasikan sikap duduk diam tanpa berbuat apa-apa.
-Terhadap empat golongan ini, kami hanya mengucapkan: "Salāmun ‘alaikum, kami tidak mencari orang-orang yang jahil." Bukan untuk mereka kami menulis naskhah ini.
-Namun, ada Golongan Kelima yang Amat Berharga:
+Bismillāhir-Raḥmānir-Raḥīm.
+Dalam risalah yang lalu, (Ilā Ayyi Syai’in Nad‘un-Nās? / Kepada Apakah Kita Menyeru Manusia?), kami telah menjawab tuntas satu persoalan yang sering berlegar di bibir kebanyakan manusia. Mereka sentiasa bertanya setiap kali diseru untuk menyokong jemaah Ikhwanul Muslimin: “Kepada apakah sebenarnya Ikhwanul Muslimin menyeru manusia?” Dan saya berkeyakinan bahawa saya telah memperjelaskan prinsip-prinsip dakwah ini sehingga jawapannya terpampang terang benderang tanpa sebarang kekaburan mahupun keraguan. Saya telah menggariskan prinsip-prinsip tersebut secara umum pada permulaan kata, lalu memperincikannya pada fasal-fasal yang menyusul, sehingga tiada lagi alasan bagi sesiapa yang benar-benar ingin mengenali hakikat dakwah Ikhwan secara menyeluruh mahupun terperinci.
 
-> ⚖️ **[SYAIR KEBERANIAN PENGECUT DI MEDAN SUNYI]**
-> **وَإِذَا مَا خَلَا الجَبَانُ بِأَرْضٍ ۞ طَلَبَ الطَّعْنَ وَحْدَهُ وَالنِّزَالَا**
+  Persoalan Penting dan Golongan yang Menyoalnya (سؤال مهم .. وأصناف سائليه)
+  Kini masih berbaki satu persoalan lain yang amat kerap bermain di lidah masyarakat setiap kali diseru oleh para pendakwah untuk menyokong dan mendokong jemaah ini—sebuah jemaah yang gigih membanting tulang beramal siang dan malam, tanpa mengharapkan sebarang balasan mahupun ucapan terima kasih daripada sesiapa, semata-mata beramal ikhlas kerana Allah, dan tidak bersandar dalam setiap langkahnya melainkan kepada pertolongan dan kemenangan-Nya, kerana tiadalah kemenangan itu melainkan daripada sisi Allah semata-mata. Slogan setiap pejuang di kalangan mereka sentiasa bergemerlapan: "Aku tidak bertujuan melainkan untuk melakukan islah (pembaikan) sedaya upayaku; dan tiadalah taufik bagiku melainkan dengan pertolongan Allah; kepada-Nya aku bertawakal dan kepada-Nya aku kembali."
+  Persoalan lain yang sering dilontarkan oleh orang yang engkau seru—kebanyakannya dalam nada meremehkan dan berpaling—adalah:
+  "Adakah jemaah ini sebuah jemaah yang benar-benar beramal secara praktikal (جماعة عملية)? Dan adakah anggota-anggotanya terdiri daripada orang-orang yang beramal secara nyata (قوم عمليون)?"
+
+Dan penyoal yang melemparkan pertanyaan ini sebenarnya tergolong dalam beberapa kelompok manusia:
+
+  Kelompok Pertama: Individu yang bersikap sinis, mengejek dan tidak mempedulikan melainkan kepentingan peribadinya sendiri semata-mata. Dia tidak berniat apa-apa ketika melontarkan soalan ini melainkan untuk memperlekehkan jemaah, mencemuh seruan dakwah, mempermainkan prinsip, dan merendah-rendahkan para muslihin; kerana baginya tiada pegangan agama melainkan manfaat dirinya sendiri, dan dia tidak mempedulikan urusan umat melainkan sejauh mana dia dapat mengeksploitasi mereka untuk keuntungannya semata-mata.
+  Kelompok Kedua: Individu yang lalai (*ghāfil*) terhadap dirinya sendiri dan terhadap seluruh manusia. Hidupnya hampa tanpa matlamat, tanpa wasilah, tanpa pemikiran asas, dan tanpa akidah pegangan hidup.
+  Kelompok Ketiga: Individu yang gemar bermegah dengan retorik kata-kata kosong, menghiasi ayat-ayat perbualan dengan istilah-istilah muluk dan bombastik agar para pendengar menganggapnya seorang sarjana terpelajar dan manusia menyangka dia memiliki kedudukan ilmu yang hebat, padahal hakikatnya dia tidak memiliki apa-apa ilmu yang bermanfaat! Dia ingin menyuntik tanggapan ke dalam benakmu kononnya dia amat mencintai amal kebajikan dan kononnya tiada apa yang menghalangnya daripada turun beramal melainkan kerana dia belum menemui jalan praktikal yang ampuh menuju kepadanya. Padahal hatinya sedar akan kepalsuan dakwaannya itu; dia sengaja menjadikannya topeng bagi menutup kelemahan jiwa, ketakutan, sifat mementingkan diri sendiri, dan sikap egoistiknya.
+  Kelompok Keempat: Individu yang sengaja berusaha mematahkan hujah pendakwah yang mengajaknya, semata-mata untuk menjadikan kegagalan pendakwah menjawab persoalan itu sebagai alasan untuk terus duduk berpangku tangan, membenarkan kemalasan dan kelalaiannya, serta mencari helah untuk melepaskan diri daripada memikul tanggungjawab amal jamaie bersama umat.
+
+Bukti nyata bagi kesemua empat golongan ini ialah: apabila engkau mengejutkan mereka dengan membentangkan jalan praktikal yang jelas, menerangkan kepada mereka manhaj kerja yang membuahkan hasil, serta memimpin pandangan, pendengaran, akal fikiran dan tangan mereka menuju ke jalan yang lurus, mereka segera menggelengkan kepala kehairanan, termanggu-manggu dalam kebuntuan, dan jatuh terpinga-pinga tidak berdaya! Maka terserlah serta-merta kegoyahan, keraguan dan kegelisahan pada tutur kata, gerak-geri, dan tingkah laku mereka. Mereka mula mereka-reka pelbagai alasan lapuk, menangguh-nangguhkan komitmen kononnya menunggu waktu lapang, dan cuba melepaskan diri daripadamu dengan bermacam-macam helah helang—setelah mereka memenatkanmu dengan pelbagai bantahan berlarutan dan melelahkanmu dalam perdebatan kosong yang tidak berkesudahan. Akhirnya engkau menyaksikan mereka berpaling seraya menyombongkan diri!
+
+Perumpamaan mereka ini tidak ubah seperti sebuah kisah yang diceritakan: kononnya seorang lelaki telah menyediakan pedang yang tajam berkilat, tombak yang runcing, perisai dan senjata lengkap, lalu setiap malam dia memandang kagum kepada kelengkapan perangnya sambil berangan-angan bahawa tiada seorang pahlawan pun yang mampu menandingi keberaniannya. Namun apabila musuh benar-benar mara ke medan dan debu pertempuran berkepul ke udara, dia lari lintang-pukang mencampakkan senjatanya ke bumi! Sebagaimana bait syair menyebutkan:
+
+> ⚖️ **[SYAIR SIKAP PENYEBUT DALIH & PENGCUT]**
+> **وَإِذَا مَا خَلَا الجَبَانُ بِأَرْضٍ ۞ طَلَبَ الطَّعْنَ وَحْدَهُ وَالنِّزَالَا**
 >
-> *"Dan apabila si pengecut bersendirian di bumi yang sunyi,Dia berlagak menuntut pertempuran dan mencabar lawan seorang diri."*
+> *"“Dan apabila sang pengecut bersendirian di padang yang sunyi,Dia berpura-pura menuntut tikaman pedang dan mencabar pertarungan gagah sendirian!”"*
 
-Iaitu individu yang berjiwa ikhlas, hatinya dipenuhi ghirah cemburu terhadap kemuliaan Islam, mendambakan medan amal yang produktif, namun belum menemui wadah yang memuaskan jiwanya. Untuk golongan permata inilah kami menulis risalah ini!
+Bahkan keadaan mereka tepat sebagaimana yang digambarkan oleh Allah Tabāraka wa Ta‘ālā dalam firman-Nya:
 
-> **۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا ۝١٨ أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلْخَيْرِ ۚ أُو۟لَـٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَـٰلَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًۭا ۝١٩**
+> **وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ ۚ قُلْ مُوتُوا۟ بِغَيْظِكُمْ ۗ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ ۝**
 >
-> *"Sesungguhnya Allah mengetahui orang-orang yang menghalang-halangi di antara kamu, dan orang-orang yang berkata kepada saudara-saudaranya: Marilah bersama-sama kami... Dan apabila hilang perasaan takut itu, mereka mencerca kamu dengan lidah yang tajam, sedang mereka tamak haloba kepada kebaikan. Mereka itulah orang-orang yang tidak beriman, lalu Allah menggugurkan amal-amal mereka..."*
-> — **Surah al-Aḥzāb: 18–19**
+> *"Dan apabila mereka bertemu dengan kamu, mereka berkata: 'Kami telah beriman'; dan apabila mereka berkumpul sesama sendiri, mereka menggigit hujung jari kerana sangat marah terhadap kamu. Katakanlah (kepada mereka): 'Matilah kamu bersama kemarahan kamu itu!' Sesungguhnya Allah Maha Mengetahui akan segala (rahsia) yang ada di dalam dada."*
+> — **Surah Āli ‘Imrān (3): 119**
+
+Maka keempat-empat golongan manusia ini sama sekali tidak membimbangkan kami dan kami tidak membuang masa melayan kerenah mereka. Cukuplah kami mengucapkan kepada mereka firman Allah: "Kesejahteraan ke atas kamu, kami tidak mencari pergaulan orang-orang yang jahil."
+
+  Golongan Berjiwa Ikhlas yang Amat Berharga
+  Namun, di sana terdapat satu kelompok manusia yang lain: bilangannya sedikit tetapi sumbangan amalnya amat luar biasa; kehadiran mereka jarang ditemui tetapi amat diberkati dan bertuah. Individu daripada golongan inilah yang melontarkan soalan ini kepadamu apabila engkau mengajaknya bersama-sama menyokong dakwah, bukan kerana memperlekeh, tetapi didorong oleh ghirah (cemburu suci terhadap agama) dan keikhlasan yang mendalam! Hatinya dipenuhi rasa cemburu melihat kemuliaan Islam terinjak; dia adalah seorang pejuang yang gigih beramal dan mendambakan jalan amal yang membuahkan hasil agar dia dapat terjun ke dalamnya dengan penuh keberanian. Dia seorang mujahid, namun pandangannya tercari-cari medan yang benar-benar dapat menzahirkan kepahlawanan sejati. Dia telah lama memerhatikan gelagat manusia, mengkaji pelbagai pertubuhan, dan mengamati banyak persatuan, namun belum menemui apa yang dapat memuaskan dahaga jiwanya, menenangkan kegelisahan sanubarinya, menyejukkan gejolak perasaannya, dan memuaskan kesedaran dhamir nuraninya. Seandainya dia menemui jalan itu, nescaya dialah orang pertama yang berdiri di saf hadapan, kekuatannya di medan perjuangan menyamai seribu orang pejuang biasa, dan dialah sang juara yang memecut mendahului di gelanggang para pekerja dakwah!
+  Kepada kelompok insan mulia dan berjiwa bersih inilah saya arahkan bicara dalam risalah ini, dan dengannyalah saya bertukar fikiran serta berkongsi harapan. Penawar hati saya adalah kerana Ikhwanul Muslimin amat menyayangi orang-orang yang ikhlas ini dan amat mendambakan kehadiran mereka, bersedia menundukkan sayap kelembutan dan persaudaraan kepada mereka, serta membuka seluas-luasnya ruang hati dan minda untuk bekerjasama demi menegakkan agama Allah.
 
 
 ---
 
 ### 2. Wahai Jiwa-Jiwa yang Ikhlas Bersemangat! (للغيورين من أبناء الإسلام)
 
-Kepada anda kami katakan: Daripada anda sekadar berdiri di luar sambil bertanya: "Adakah mereka ini praktikal?", bukankah lebih wajar anda melangkah masuk menyertai saf dan bekerja bersama-sama mereka? Jika anda melihat kebaikan, sokonglah ia; dan jika anda melihat kelemahan, perbetulkanlah ia dengan kekuatan fikiran dan peribadi anda!
-Sesungguhnya jemaah itu terbentuk daripada individu-individu yang bergabung. Sekiranya setiap individu hanya menunggu orang lain bertindak sambil bertanya: "Di manakah jemaah?", maka siapakah yang akan membina jemaah itu?
+Kepada saudara yang ikhlas dan berjiwa sensitif terhadap maruah Islam inilah saya tujukan ucapan ini pada peringkat awal. Saya berkata kepadanya: Saya amat memahami perasaan yang bergolak dalam hatimu, dan saya amat mengerti rasa putus asa yang mencengkam jiwamu apabila engkau berinteraksi dengan manusia dan pertubuhan-pertubuhan yang ada. Engkau mungkin melihat dirimu seumpama penyair yang melantunkan keluh-kesah:
 
-> **إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ ۝٥٦**
+> ⚖️ **[KECENDERUNGAN MENYENDIRI KERANA UJIAN SAHABAT]**
+> **وَزُهْدِي فِي النَّاسِ مَعْرِفَتِي بِهِمْ ۞ وَطُولُ اخْتِبَارِي صَاحِبًا بَعْدَ صَاحِبِفَلَمْ تُرِنِي الأَيَّامُ خِلًّا تَسُرُّنِي ۞ مَبَادِيهِ إِلَّا سَاءَنِي فِي العَوَاقِبِ**
 >
-> *"Sesungguhnya engkau (wahai Muhammad) tidak dapat memberi petunjuk kepada sesiapa yang engkau kasihi (supaya ia menerima Islam), tetapi Allah jualah yang memberi petunjuk kepada sesiapa yang dikehendaki-Nya; dan Dia lebih mengetahui akan orang-orang yang mahu menerima petunjuk."*
-> — **Surah al-Qaṣaṣ: 56**
+> *"“Dan sikap zuhudku daripada manusia berpunca daripada pengenalanku terhadap hakikat mereka,Dan lamanya pengalamanku menguji sahabat demi sahabat silih berganti;Maka hari-hari yang berlalu tidak pernah memperlihatkan kepadaku seorang sahabat yang menggembirakan pada permulaannya,Melainkan akhirnya dia menyakitkan hatiku pada kesudahan urusannya!”"*
 
-Sikap bertawakal palsu (tawākul) dan melempar beban kepada orang lain inilah punca kelemahan umat kita.
+Keadaan seperti saudaraku ini amat banyak kami temui dalam kalangan saudara-saudara kita yang mulia dan ikhlas. Namun demikian, izinkan saya membisikkan beberapa renungan jujur ke dalam sanubarinya:
 
-> ⚖️ **[SYAIR UJIAN MEMAHAMI HAKIKAT MANUSIA]**
-> **وَزُهْدِي فِي النَّاسِ مَعْرِفَتِي بِهِمْ ۞ وَطُولُ اخْتِبَارِي صَاحِبًا بَعْدَ صَاحِبِفَلَمْ تُرِنِي الأَيَّامُ خِلًّا تَسُرُّنِي ۞ مَبَادِيهِ إِلَّا سَاءَنِي فِي العَوَاقِبِ**
+  1. Masuklah Sendiri ke Dalam Gelanggang, Jangan Sekadar Menjadi Penonton Luar
+  Tidakkah saudaraku yang budiman berpandangan bersama kami bahawa tindakan yang lebih wajar dan utama—daripada kita sekadar berdiri di luar melontarkan pertanyaan skeptikal ini—adalah kita melangkah masuk ke dalam jemaah, beramal bersama-sama para pekerja dakwah, dan menghulurkan timba kita bersama timba-timba mereka untuk menimba telaga kebajikan? Sekiranya kita mendapati kebaikan dan ketulusan, itulah matlamat yang kita impikan; dan sekiranya kita mendapati sebaliknya, jalan untuk berundur dan memisahkan diri terbentang luas dan terang!
+  Lebih-lebih lagi apabila pintu jemaah ini terbuka seluas-luasnya bagi sesiapa sahaja yang ingin masuk atau keluar, dan segala tindak-tanduk serta operasi jemaah dijalankan secara terbuka, telus di bawah sinaran matahari, tiada sebarang rahsia yang disembunyikan dan tiada agenda gelap di sebaliknya.
+  Orang-orang terdahulu pernah menceritakan perihal para ahli nahu (tatabahasa Arab) yang berbalah sesama mereka mengenai jumlah bait syair dalam kitab Alfiyyah Ibn Mālik. Perbalahan tersebut mencetuskan perdebatan hangat dan sengit yang tidak membawa kepada sebarang penyelesaian; sehinggalah seorang yang bijaksana tampil membawa senaskhah kitab Alfiyyah tersebut lalu meletakkannya di hadapan mereka seraya berkata: "Nah, inilah dia naskhahnya, hitunglah sendiri bait-baitnya dan bersetujulah!" Maka tindakan praktikal itu serta-merta meleraikan pertikaian dan menghentikan perdebatan kosong!
+
+  2. Mengikis Ilusi Pemikiran: Hakikat Jemaah dan Individu (خدعة عقلية في مفهوم الجماعة)
+  Tidakkah saudaraku melihat bersama kami bahawa sesungguhnya jemaah itu tidak lain hanyalah himpunan individu-individu yang bergabung tenaga? Maka sekiranya setiap individu berdiri di luar sambil bertanya: "Mana dia jemaah yang praktikal?", maka di manakah lagi wujudnya jemaah itu?!
+  Ini adalah satu ilusi pemikiran dan tipu daya akal (*khid‘ah ‘aqliyyah*) yang sering memerangkap ramai orang. Perhatikanlah: sekiranya engkau ingin mentakrifkan sebuah kerusi, engkau akan berkata: Kerusi adalah sebuah jasad yang terbentuk daripada tempat duduk, penyandar, dan empat batang kaki. Namun tidakkah engkau sedar bahawa memisahkan konsep kerusi daripada komponen-komponennya adalah satu ilusi? Adakah kerusi itu wujud sebagai jasad yang asing di luar ketiga-tiga komponen tersebut? Jika engkau lucutkan kerusi itu daripada kaki-kakinya, tempat duduknya, dan penyandarnya, adakah masih berbaki suatu jasad atau entiti fizikal yang boleh engkau gelar sebagai kerusi, apatah lagi untuk menyifatkannya dengan sifat-sifat yang lain?
+  Begitulah keadaannya manusia menipu diri mereka sendiri dalam isu hubungan antara jemaah dan individu! Mereka menyangka bahawa jemaah adalah suatu entiti ajaib yang wujud berasingan di angkasa, manakala individu adalah perkara lain. Padahal hakikatnya jemaah itu tidak lain melainkan individu-individu yang bersatu hati, dan individu-individu itulah batu-bata asas yang menyusun bangunan jemaah tersebut!
+  Maka apabila batu-bata ini bertempiaran dan enggan melekat, lalu setiap individu hanya menunggu dan bertanya: "Di manakah jemaah?", maka di manakah jemaah itu akan wujud? Siapakah sebenarnya penyoal dan siapakah yang disoal?!
+  Sesungguhnya yang mencampakkan kita ke dalam lembah kebinasaan ini adalah penyakit mentaliti tawakkul (sikap lepas tangan dan menolak beban ke atas bahu orang lain). Kita terbiasa menyerahkan seluruh bebanan yang berat kepada seorang individu sahaja, atau setiap kita menolak tanggungjawab ke atas bahu saudaranya; akibatnya urusan kebangkitan umat terus terabai, terumbang-ambing tanpa kepastian, dan tiada sesiapa pun yang bangkit memikulnya!
+  Maka di sini saya berterus-terang kepada seluruh anak-anak Islam yang berjiwa ikhlas: Bahawa setiap jemaah Islamiah pada zaman ini amat memerlukan—dengan keperluan yang paling mendesak—individu pejuang yang berfikir dan beramal secara produktif (*al-fardul-‘āmilul-mufakkir*), iaitu anasir yang berani, cekal, dan melahirkan hasil kerja nyata. Maka haramlah ke atas mana-mana individu yang merasai dalam dirinya kelayakan ini untuk terlewat daripada menyahut seruan dakwah walau seminit pun!
+
+  3. Islah dari Dalam & Mencontohi Teladan Kepimpinan Nabawi
+  Tidakkah saudaraku—semoga Allah mengukuhkannya dan mengukuhkan agama dengannya—melihat bahawa kewajipannya adalah melangkah masuk ke dalam jemaah yang menyerunya? Sekiranya dia mendapatinya telah beramal secara praktikal sebagaimana yang diharapkannya, sejuklah matanya dan gembiralah jiwanya. Dan sekiranya dia mendapati terdapat kekurangan, dia dapat memimpin jemaah tersebut dengan kejelasan keperibadiannya dan kekuatan pengaruhnya ke arah wasilah-wasilah amal yang wajib ditegakkan! Sekiranya usahanya belum berjaya sepenuhnya, sekurang-kurangnya dia telah melepaskan tanggungjawab di hadapan Tuhannya dan di hadapan dhamirnya, dan moga-moga mereka beroleh ketakwaan.
+  Lebih-lebih lagi apabila para pendakwah yang memanggilnya adalah golongan yang amat menyedari bahawa di atas setiap orang yang berilmu ada lagi Yang Maha Mengetahui, dan setiap orang yang mempunyai pandangan berhak mengemukakan pandangannya. Bahkan Baginda Rasulullah ﷺ—manusia yang paling tepat pandangannya, paling matang pemikirannya, dan paling agung akal budinya—pernah menerima pandangan Al-Ḥubāb bin al-Mundhir dalam Perang Badar dan menerima cadangan Salman al-Farisi dalam Perang Khandaq. Maka para pendakwah Ikhwan sentiasa berlapang dada dan bergembira dengan setiap insan yang membimbing fikrah mereka ke arah wasilah-wasilah amal yang benar!
+
+  4. Bahaya Berputus Asa: Iktibar Dua Tamsil Pemburu & Itik Air
+  Tidakkah saudaraku yang ikhlas melihat bahawa sekiranya dia pernah mengalami kegagalan sekali, dua kali, atau berkali-kali dalam percubaannya yang lalu bersama pertubuhan lain, hal itu sama sekali tidak wajar menjadikannya berputus asa? Menjadi kewajipannya untuk mengulangi percubaan berkali-kali sehinggalah dia berjaya mencapai cita-citanya dan menemui sasarannya; kerana sesungguhnya jika dia berputus asa, dia akan kehilangan kebaikan yang amat besar!
+  Kisah ini seumpama apa yang diceritakan: kononnya seorang nelayan telah berjaya menangkap seekor ikan yang besar. Tiba-tiba dia melihat di dasar air seketul kulit kerang yang disangkanya mengandungi sebutir mutiara berharga. Maka dia mencampakkan ikan yang telah berada di tangannya lalu menyelam mengambil kulit kerang tersebut. Apabila dibukanya, kerang itu kosong tiada mutiara, lalu dia menyesali kecuaiannya. Tidak lama kemudian dia menangkap seekor anak ikan kecil, lalu terpandang pula sebutir mutiara yang sebenar di dalam air, namun dia menyangkanya hanyalah kulit kerang kosong yang menipu. Maka dia mengabaikan mutiara itu dan berpada dengan anak ikan kecilnya, lalu terlepaslah daripadanya limpahan kekayaan yang amat bernilai!
+  Atau seumpama kisah seekor itik di sebuah kolam: ia melihat bayang-bayang di dalam air lalu menyangkanya seekor ikan. Maka ia menjunamkan paruhnya berkali-kali untuk menangkapnya sehinggalah ia keletihan dan meninggalkannya dalam keadaan marah dan kecewa. Selepas itu, seekor ikan yang sebenar berenang melintas di hadapannya, tetapi itik itu menyangkanya hanyalah bayang-bayang ilusi yang menipu lalu ia membiarkannya pergi. Akibatnya ia terlepas peluang keemasan dan rugi daripada memperolehi makanan yang dihajatinya!
+
+> **أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ ۝**
 >
-> *"Kezuhudanku terhadap manusia lahir daripada pengetahuanku tentang hakikat mereka,Dan pengalaman panjangku menguji sahabat demi sahabat;Maka masa tidak pernah memperlihatkanku seorang teman yang menggembirakanku pada awalnya,Melainkan dia mengecewakanku pada kesudahan akhirnya."*
+> *"Maka adakah orang yang berjalan teraba-raba terjerumus di atas mukanya lebih mendapat hidayah petunjuk, ataukah orang yang berjalan tegak tegap di atas jalan yang lurus?"*
+> — **Surah Al-Mulk (67): 22**
 
-> ⚖️ **[SYAIR KEBERANIAN MENGEMBARA BERSAMA BURUNG HELANG]**
-> **إِذَا أَنْكَرَتْنِي بَلْدَةٌ أَوْ نَكِرْتُهَا ۞ خَرَجْتُ مَعَ البَازِي عَلَى سَوَادِ**
->
-> *"Apabila sesebuah negeri mengingkariku atau aku mengingkari keadaannya,Aku keluar mengembara membelah kegelapan malam bersama burung helang pemangsa."*
+Inilah nota-nota peringatan jujur yang kami bentangkan di hadapan anak-anak Islam yang ikhlas bersemangat yang mendambakan amal untuk Islam; dan kami berkeyakinan ia amat wajar diberi pertimbangan yang mendalam.
+Kami menyeru mereka dengan seruan Ikhwanul Muslimin: Hendaklah mereka mencuba dan tidak berpangku tangan; hendaklah mereka berpadu tenaga—sekiranya mereka melihat kebaikan maka sokonglah ia, dan sekiranya mereka melihat kebengkokan maka luruskanlah ia! Jangan sesekali pengalaman lalu yang pahit menjadi dinding penghalang antara diri mereka dengan kemaraan ke hadapan. Kami menaruh harapan yang tinggi bahawa mereka akan menyaksikan dalam diri Ikhwan apa yang menyejukkan pandangan mata mereka, insya-Allah Ta‘ālā; dan kami akan merumuskan sebahagian daripada bukti amali tersebut dalam fasal-fasal yang menyusul.
 
 
 ---
 
 ### 3. Institusi dan Projek Nyata di Lapangan (مؤسسـات ومشـاريع)
 
-Jika ukuran "praktikal" pada pandangan sesetengah pihak adalah penubuhan institusi kebajikan dan projek fizikal yang memberi manfaat kepada masyarakat, maka timbanglah Ikhwanul Muslimin dengan neraca tersebut:
-Penyebaran ke Lebih 50 Bandar di Mesir: Hampir di setiap cawangan didirikan projek kebajikan yang berfaedah.
-1. Bidang Pendidikan dan Pengajaran (التعليم والتثقيف)
-Institusi Pendidikan & Dakwah:
-- Di Ismailia: Masjid Ikhwan, Kelab Belia Ikhwan, Institut Hira' untuk lelaki, dan Sekolah Ummul Mukminin untuk wanita.
-2. Bidang Kebajikan Sosial dan Kesihatan (الخدمات الاجتماعية والصحية)
-- Di Shubrakhit: Masjid, kelab, institut pendidikan, dan pusat latihan vokasional pertukangan untuk melatih pemuda bekerja sendiri.
-- Di Mahmudiyyah: Pusat tenunan kain dan permaidani di samping maahad tahfiz Al-Quran.
-3. Bidang Ekonomi dan Perusahaan (المشروعات الاقتصادية)
-Penyelesaian Pertikaian Masyarakat (*Liwā’ al-Muṣālaḥāt*): Jawatankuasa sukarela yang mendamaikan persengketaan keluarga dan individu yang telah buntu di mahkamah bertahun-tahun.
-Jawatankuasa Sedekah & Kebajikan: Menyantuni golongan fakir miskin pada musim perayaan dan melindungi mereka daripada perangkap dakyah mubaligh Kristian (misionari) yang mengeksploitasi kemiskinan.
-Kesihatan Awam & Pembangunan Desa: Membina klinik bergerak, membersihkan jalan-jalan kampung, membaiki masjid, dan menyinari lorong-lorong desa.
-4. Pemeliharaan Rumah Ibadah (عمارة المساجد)
-Media & Percetakan: Menubuhkan akhbar mingguan *Jarīdah al-Ikhwān al-Muslimīn* dan Percetakan Mandiri Ikhwan di Kaherah tanpa bantuan dana asing!
-Kisah Teladan Pengorbanan: Basikal Tukang Besi Ismailia
-Tatkala pembinaan Masjid Ismailia memerlukan dana, seorang tukang besi miskin berjanji menyumbang sebanyak satu setengah paun (jumlah yang amat besar baginya). Oleh kerana tidak mampu meminjam wang, dia menjual basikalnya—satu-satunya kenderaan yang digunakan untuk berulang-alik sejauh 6 kilometer ke tempat kerja setiap hari! Akibatnya, dia terpaksa berjalan kaki sehingga sering terlambat ke majlis pengajian.
-Apabila rahsianya diketahui, pimpinan dan anggota jemaah memuliakan keikhlasannya, menerima sumbangannya, dan berpakat membelikan sebuah basikal baharu yang lebih baik untuknya sebagai kenangan atas kesetiaan dan pengorbanannya!
+Ramai di kalangan saudara-saudara kita berpandangan bahawa sesebuah jemaah yang praktikal (جماعة عملية) adalah jemaah yang mendirikan projek-projek kebajikan awam yang bermanfaat dan meninggalkan di pusat operasinya monumen institusi-institusi kebajikan yang kekal berfaedah. Maka kami akan melayan neraca pandangan mereka ini dalam perbincangan ini, dan kita akan menimbang kedudukan jemaah Ikhwanul Muslimin mengikut neraca ukuran tersebut. Namun demikian, dalam fasal-fasal yang menyusul nanti—insya-Allah Ta‘ālā—kami mempunyai satu lagi neraca penilaian yang berbeza untuk menimbang gerak kerja jemaah kami dan menilai usaha-usaha praktikal; suatu neraca yang dalam bab kebangkitan umat merupakan neraca yang jauh lebih tepat penilaiannya dan lebih mendalam pengungkapannya daripada neraca fizikal hari ini; dan kepada kedua-duanya Allah menjanjikan balasan kebaikan.
 
-  Kemandirian Mutlak & Kesucian Dana Dakwah (استقلال الدعوة ونزاهة المال)
-  Dan barangkali kamu akan berasa amat kagum apabila mengetahui bahawa jemaah Ikhwanul Muslimin yang telah mendirikan projek-projek besar ini tidak pernah walau sehari menerima sebarang bantuan kewangan daripada pihak kerajaan, tidak daripada mana-mana pertubuhan, tidak daripada mana-mana tokoh pembesar, dan tidak daripada mana-mana jutawan hartawan!
-  Sesungguhnya manusia banyak bercakap kosong dan membuat pelbagai tohmahan sangkaan liar—sedang sebahagian sangkaan itu adalah dosa—dan mereka memperkatakan perkara yang mereka tiada ilmu mengenainya.
-  Bahkan kamu akan bertambah takjub apabila mengetahui bahawa yuran penyertaan kewangan dalam Ikhwanul Muslimin adalah secara sukarela, bukannya secara paksaan! Sesungguhnya para pejuang dakwah ini miskin harta tetapi berjiwa mulia dan dermawan! Mereka memiliki harta yang sedikit, tetapi memiliki kelapangan jiwa yang pemurah, maka mereka menginfakkan apa yang sedikit itu dengan penuh keikhlasan demi mencari keredaan Allah.
-  Inilah sehelai lembaran daripada lembaran-lembaran jihad amali Ikhwanul Muslimin yang kami persembahkan kepada mereka yang menuntut untuk melihat kerja-kerja nyata... Dan para Ikhwan sentiasa gigih berusaha agar lembaran ini berkembang menjadi berhelai-helai lembaran yang daripadanya terhimpun—dengan izin Allah—kitab kebangkitan dunia Islam moden!
+  Pengembangan Cawangan dan Institusi Asas Ikhwan
+  Fikrah Ikhwanul Muslimin telah berkembang dan bertapak kukuh di lebih daripada lima puluh buah bandar dan mukim di seluruh bumi Mesir. Dan hampir di setiap bandar tersebut, Ikhwan telah menegakkan projek yang berfaedah atau institusi yang memberi manfaat nyata kepada masyarakat:
+  
+    Di Ismailia: Ikhwan telah mengasaskan Masjid Ikhwanul Muslimin, Kelab Ikhwanul Muslimin, Institut Hira' Islamiah bagi pendidikan kanak-kanak lelaki (*Ma‘had Ḥirā’*), serta Sekolah Ummul Mukminin bagi mendidik anak-anak perempuan.
+    Di Syubrakhit: Ikhwan juga telah membina Masjid Ikhwan, Kelab Ikhwan, Institut Hira', dan mendirikan di sebelah bangunan megah tersebut sebuah Pusat Latihan Pertukangan dan Perindustrian (*Dār aṣ-Ṣinā‘ah*) di mana para pelajar institut yang tidak berpeluang melanjutkan pelajaran akademik dapat mempelajari kemahiran pertukangan. Jemaah berhasrat membimbing mereka menempuh alam pekerjaan praktikal dengan melahirkan generasi tukang yang berpendidikan dan tenaga pekerja yang berakhlak mulia.
+    Di Mahmudiyyah al-Buhairah: Ikhwan telah mendirikan pusat tenunan kain dan permaidani bersebelahan dengan Institut Tahfiz Al-Quran di premis Kelab Ikhwanul Muslimin yang luas selesa.
+    Di Manzalah Daqahliyyah: Sebuah Institut Tahfiz Al-Quran telah didirikan dan telah menzahirkan buah hasilnya yang manis walaupun baru beroperasi dalam tempoh yang singkat, di mana ia telah melahirkan para penghafaz Al-Quran yang mantap dan mutqin.
+  
+  Katakanlah perkara yang serupa atau seumpamanya—tanpa perlu mengulangi senarai yang panjang lebar—pada setiap cawangan daripada cawangan-cawangan Ikhwanul Muslimin yang tersebar di segenap pelosok Mesir, dari Edfu di selatan hingga ke Iskandariah di pesisir utara!
+
+  Jawatankuasa Khidmat Kemasyarakatan Lapangan
+  Di samping institusi fizikal, di kebanyakan cawangan Ikhwanul Muslimin, engkau akan menemui jawatankuasa-jawatankuasa kerja sukarela yang beroperasi menyentuh denyut nadi rakyat:
+  
+    Jawatankuasa Pendamaian dan Sulh: Sukarelawan yang turun mendamaikan pertikaian antara individu dan keluarga-keluarga yang bermusuhan, di mana Allah telah mengalirkan banyak kebaikan melalui usaha mereka dan meleraikan krisis rumit yang telah bertahun-tahun tergantung di mahkamah.
+    Jawatankuasa Sedekah dan Kebajikan: Bertanggungjawab menziarahi orang-orang miskin, daif, dan keluarga yang melarat pada musim-musim perayaan dan hari-hari biasa. Jawatankuasa ini berusaha menyempurnakan kewajipan membela kebajikan mereka di satu pihak, dan pada masa yang sama membentengi akidah mereka daripada terjahan serigala mubaligh Kristian penjajah yang mengeksploitasi kemiskinan umat.
+    Jawatankuasa Dakwah dan Peringatan: Bergerak menyampaikan bimbingan dan tazkirah di tempat-tempat yang lazimnya tidak pernah terfikir diadakan majlis nasihat agama, seperti di kedai-kedai kopi, kelab-kelab awam, majlis perkahwinan, dan majlis takziah.
+    Jawatankuasa Kemudahan Awam Luar Bandar: Khususnya di kawasan desa, jawatankuasa sukarela ini turun memantau dan membaiki kemudahan asas kampung: membaik pulih masjid, membersihkan jalan raya, memasang lampu penerangan lorong, serta mengusahakan klinik-klinik perubatan bergerak—dan segala usaha yang mendatangkan kemaslahatan dunia dan agama bagi penduduk kampung.
+    Jawatankuasa Pembenterasan Khurafat dan Adat Jahiliah: Memerangi amalan bidaah yang rosak dan kejahilan yang berleluasa di kawasan pedalaman yang jauh daripada sumber ilmu, seperti upacara pemujaan zar dan seumpamanya. Di samping itu, mereka menghidupkan sunnah dan kewajipan fardhu yang telah dilupakan masyarakat melalui amal praktikal, bukannya sekadar teori lisan: seperti mengumpulkan zakat biji-bijian di gudang khas dan mengagihkannya secara teratur kepada yang berhak tanpa pilih kasih, sebagaimana yang dilaksanakan dengan jayanya oleh Ikhwan di cawangan Birinbal al-Qadimah!
+  
+
+  Bahagian Akhawat Muslimat & Penerbitan Media Haraki
+  Dan di sana terdapat bahagian-bahagian khas bagi Akhawat Muslimat (Wanita Ikhwan) yang menyelia urusan pentadbiran dan pendidikan di sekolah-sekolah anak perempuan, mengasaskan persatuan-persatuan wanita berlandaskan adab Islam, serta membentuk generasi ibu solehah yang menjadi madrasah pertama pembinaan umat.
+  Dan di sana terdapat Bahagian Penerbitan dan Percetakan Ikhwanul Muslimin yang menguruskan percetakan akhbar mingguan Majallah Al-Ikhwān Al-Muslimūn, menerbitkan risalah-risalah dakwah ilmiah, dan menyebarkan risalah-risalah bimbingan fardhu ke seluruh pelusuk rantau Islam.
+  Sekiranya kita ingin menghitung secara terperinci setiap projek, institusi, sekolah, kelab, dan jawatankuasa kerja yang telah diasaskan oleh Ikhwanul Muslimin, nescaya perbincangan ini akan berlarutan panjang dan ruang risalah ini tidak akan mencukupi. Namun cukuplah dengan apa yang telah kami sebutkan sebagai bukti yang nyata bagi orang yang menilai neraca amali berasaskan projek fizikal.
+  Maka adakah orang yang melihat himpunan projek institusi dan khidmat kemasyarakatan yang luas ini masih tergamak berkata dalam keraguan: "Adakah Ikhwanul Muslimin ini sebuah jemaah yang praktikal?!"
 
 
 ---
 
-### 4. Hakikat Sebenar: Pembinaan Rijal (إعــداد الرجـال)
+### 4. Hakikat Sebenar: Pembinaan Rijal (إعــداد الرجــال)
 
-Walaupun institusi batu bata fizikal itu penting, namun bagi umat yang ingin bangkit membina masa depan yang berdaulat, terdapat satu binaan yang jauh lebih asasi dan lebih mendesak:
+Dalam fasal yang lalu, saya telah menghuraikan sebahagian daripada institusi, bangunan, dan projek-projek fizikal yang telah diasaskan oleh Ikhwanul Muslimin. Dan saya telah menyatakan bahawa kami membentangkannya semata-mata untuk melayan neraca penilaian sebahagian manusia yang mengukur kejayaan sesebuah gerakan hanya berdasarkan batu-bata bangunan dan binaan konkrit.
+Namun pada hari ini, saya ingin menegaskan satu hakikat yang jauh lebih asasi dan agung di sisi pertimbangan Islam:
 
-  
-    HAKIKAT PROJEK AMALI TERAGUNG
-    Empat Tonggak Kebangkitan: Antara Pembinaan Fizikal & Tarbiah Rijal
-    أَرْبَعُ دَعَائِمَ لِلْمَشَارِيعِ العَمَلِيَّةِ وَإِعْدَادِ الرِّجَال
-  
-  
-    
-      TONGGAK 01 • مَرْكَزُ التَّرْبِيَة
-      ١. إِعْدَادُ الرِّجَال (Tarbiah Rijal)
-      Pembinaan Sahsiah & Rohani Duat
-      Projek teragung yang menjadi rahsia hayat sesuatu bangsa. Membina jiwa rijal yang memiliki keimanan kental, integriti, keberanian, dan kesanggupan berkorban. Tanpa rijal, binaan fizikal hanyalah debu berterbangan.
-      
-        Fokus: Qiamullail, tazkiyatun nafs, pemantapan akidah, dan ukhuwwah.
-        Iktibar: Kekuatan bangsa diukur melalui kesuburannya melahirkan tokoh beriman.
-      
-    
-    
-      TONGGAK 02 • التَّعْلِيمُ وَالتَّثْقِيف
-      ٢. المُؤَسَّسَاتُ التَّعْلِيمِيَّة (Pendidikan)
-      Sekolah Rakyat & Madrasah Generasi
-      Mendirikan institusi pendidikan holistik seperti Madrasah Hira' dan Madrasah Ummahatul Mukminin bagi mendidik anak-anak dengan gabungan ilmu syarak dan kemahiran moden.
-      
-        Fokus: Kurikulum Islam bersepadu, pemeliharaan fitrah kanak-kanak, dan tarbiah wanita.
-        Iktibar: Membentengi generasi muda daripada jarum sekularisme dan perosak moral.
-      
-    
-    
-      TONGGAK 03 • الخِدْمَاتُ الاجْتِمَاعِيَّة
-      ٣. الرِّعَايَةُ وَالصِّحَّة (Kebajikan & Kesihatan)
-      Dispensari, Hospital & Khidmat Ummah
-      Menubuhkan pusat rawatan kesihatan, dispensari ubat percuma, kelab belia, dan badan kebajikan bagi merawat orang sakit dan membantu golongan marhaen yang memerlukan.
-      
-        Fokus: Khidmat kesihatan berkualiti, pembelaan anak yatim, dan sukan sihat.
-        Iktibar: Dakwah Islamiah menyantuni keperluan jasad sebagaimana ia merawat roh.
-      
-    
-    
-      TONGGAK 04 • الاسْتِقْلَالُ الاقْتِصَادِي
-      ٤. المَشَارِيعُ الاقْتِصَادِيَّة (Ekonomi Mandiri)
-      Syarikat Perniagaan & Industri Tempatan
-      Mengasaskan syarikat perusahaan tenunan, kilang percetakan, dan syarikat perdagangan berasaskan saham pekerja demi membebaskan ekonomi umat daripada monopoli asing.
-      
-        Fokus: Dana patuh syariah, pengagihan keuntungan adil, dan pembiayaan mandiri dakwah.
-        Iktibar: Kedaulatan politik dan kemerdekaan dakwah bermula daripada kemandirian ekonomi.
-      
-    
-  
+  Membina Insan Mendahului Membina Binaan (بناء الرجال قبل بناء الصروح)
+  Sesungguhnya Ikhwanul Muslimin memandang bahawa pembinaan rijal (mendidik dan membentuk keperibadian insan pejuang), melahirkan kebangkitan jiwa, membina generasi pemuda yang memiliki akidah yang teguh, akhlak yang luhur, dan fizikal yang gagah perkasa, adalah seribu kali lebih mulia, lebih aula, dan lebih utama daripada semata-mata membina tembok-tembok bangunan, mendirikan kilang-kilang, atau menubuhkan syarikat-syarikat perniagaan!
+  Apakah gunanya bangunan yang tersergam indah sekiranya jiwa-jiwa yang mendiaminya telah mati, runtuh maruahnya, dan tunduk menjadi hamba kepada hawa nafsu dan penjajah? Apakah gunanya kekayaan yang melimpah-ruah sekiranya umat tidak memiliki pahlawan-pahlawan yang sanggup berkorban darah dan nyawa untuk mempertahankan maruah tanah air dan kedaulatan agamanya?
+  Sesungguhnya bangsa-bangsa tidak bangkit dengan kemegahan batu-bata, tetapi bangsa-bangsa bangkit dengan keteguhan iman, kebesaran cita-cita, dan keluhuran jiwa anak-anak watannya!
 
-Iaitu Membina Jiwa Manusia (*Binā’ an-Nufūs*) dan Mencetak Rijal yang Sejati (*I‘dād ar-Rijāl*).
-Bangunan-bangunan batu tidak dapat melahirkan lelaki pejuang; sebaliknya lelaki pejuanglah yang membina bangunan, menegakkan keadilan, dan memimpin peradaban! Sejarah membuktikan bahawa seorang tokoh lelaki yang berjiwa besar mampu membina satu bangsa, manakala pemimpin yang rosak mampu meruntuhkannya.
-Keadaan pemuda kita hari ini amat menyedihkan: sebahagian besar mereka hanya mengejar pakaian mewah, makanan enak, jawatan empuk, dan gelaran kosong walaupun terpaksa menggadaikan maruah dan kemerdekaan jiwa mereka di hadapan para pembesar.
-Justeru, matlamat utama Ikhwanul Muslimin adalah Tarbiah yang Sahih (*at-Tarbiyah aṣ-Ṣaḥīḥah*): mencetak jiwa umat dengan akhlak kejantanan yang benar (khuluq ar-rujūlah aṣ-ṣaḥīḥah).
+  Bedah Siasat Penyakit Sosial dan Keruntuhan Jiwa Generasi Muda
+  Marilah kita melihat dengan mata hati yang jujur kepada realiti umat kita hari ini. Sesungguhnya keadaan umat yang berhadapan dengan kewajipan-kewajipan raksasa seperti yang kita hadapi sekarang sama sekali tidak akan dapat diselamatkan dengan ubat penenang sementara (*al-musakkināt*), dan tidak akan terbela dengan sekadar bersandar kepada khayalan angan-angan kosong!
+  Sebaliknya, umat ini wajib mempersiapkan dirinya untuk mengharungi perjuangan yang panjang lagi getir, serta pertembungan yang sengit dan dahsyat (*kifāḥ ṭawīl ‘anīf wa ṣirā‘ qawiy syadīd*):
+  
+    Pertembungan antara kebenaran (*al-ḥaqq*) melawan kebatilan (*al-bāṭil*).
+    Pertembungan antara perkara yang memberi manfaat melawan anasir yang merosakkan.
+    Pertembungan antara pemilik hak yang sah melawan perampas yang zalim.
+    Pertembungan antara pejalan di atas jalan yang lurus melawan pengkhianat yang menyimpang.
+    Pertembungan antara pejuang yang ikhlas lagi cemburu terhadap maruah agama melawan pendusta yang bertopengkan kepalsuan!
+  
+  Dan umat ini wajib menyedari bahawa jihad itu berakar daripada perkataan *al-juhd* (penat lelah, keletihan dan pengorbanan berterusan). Tiada kerehatan dalam jihad sehinggalah peperangan meletakkan senjatanya, dan tatkala fajar subuh menyingsing barulah para musafir memuji kepayahan perjalanan malam!
+  Dan tiada kelengkapan bekalan bagi umat di jalan yang sunyi dan menggentarkan ini melainkan jiwa yang beriman, keazaman yang padu lagi benar, kemurahan hati berkorban apa sahaja, serta keberanian meluru mara tatkala berlakunya malapetaka besar. Tanpa bekalan ini, umat pasti akan tewas dalam urusannya dan kegagalan pasti menjadi teman setia anak-anak watannya!
+
+  Kritikan Pedas Terhadap Mentaliti Belia Yang Lembik & Mengejar Jawatan
+  Walaupun keadaan genting kita adalah sebagaimana yang engkau ketahui... namun malangnya jiwa-jiwa kita hari ini sebahagian besarnya masih merupakan jiwa-jiwa yang lembik, rapuh, bermewah-mewah, dan terlalu dimanjakan—jiwa yang pipinya luka hanya kerana hembusan angin sepoi-sepoi bahasa dan hujung jarinya berdarah hanya kerana menyentuh kain sutera yang halus!
+  Anak-anak muda kita—lelaki dan perempuan—yang kononnya menjadi bekalan masa hadapan dan sandaran harapan umat, malangnya sebahagian besar nasib dan cita-cita hidup mereka masih berlegar di sekitar penampilan luaran yang mewah, hidangan makanan yang lazat, pakaian fesyen yang anggun bergaya, kenderaan mewah yang megah, jawatan rasmi yang dipandang tinggi, atau gelaran kosong yang tiada isi—walaupun untuk membeli semua itu mereka terpaksa menggadaikan kemerdekaan diri, membelanjakan maruah kehormatan, dan mensia-siakan hak bangsanya!
+  Pernahkah engkau melihat wahai saudaraku, anak-anak muda yang wajah mereka memancarkan tanda-tanda ketangkasan belia dan gerak-geri mereka menzahirkan kecergasan tenaga muda, namun mereka sanggup merendah-rendahkan diri berasak-asak menangis di pintu-pintu pejabat ketua jabatan dan kementerian dengan membawa surat-surat permohonan jawatan di tangan mereka? Tidakkah engkau melihat mereka merayu-rayu kepada orang kecil dan orang besar, mengharapkan ihsan orang hina mahupun pembesar, bahkan sanggup menggunakan orang tengah daripada kalangan budak pejabat dan penjaga pintu kementerian semata-mata untuk meluluskan hajat jawatan mereka?
+  Apakah engkau menyangka—wahai pembaca yang budiman—bahawa pemuda seperti ini, sekiranya nasib menyebelahinya lalu dia diterima memegang salah satu jawatan kerajaan tersebut, dia akan pernah terfikir pada suatu hari nanti untuk melepaskan jawatan itu demi mempertahankan maruah atau memelihara kehormatan bangsanya, sekalipun dia diherdik, dihina, dan diazab dengan seburuk-buruk penghinaan?!
+
+  Matlamat Utama Ikhwan: Tarbiyyah Sahihah
+  Sesungguhnya jiwa-jiwa kita pada hari ini berada dalam keperluan yang amat mendesak kepada rawatan pembedahan yang besar, penilaian semula yang menyeluruh, dan pembaikan tuntas yang merawat perasaan yang telah mati kaku, akhlak yang telah reput binasa, dan penyakit bakhil yang berakar umbi.
+  Cita-cita raksasa yang berlegar di dalam minda para muslihin daripada kalangan tokoh-tokoh umat ini, serta suasana genting mencengkam yang sedang kita lalui, menuntut kita secara tegas agar memperbaharui jiwa-jiwa kita dan membina semula roh-roh kita dengan suatu binaan yang berbeza daripada binaan lapuk yang telah dihauskan oleh masa, dirobek oleh peristiwa zaman, dan dilenyapkan oleh peredaran hari segala daya ketahanan dan kekuatannya. Tanpa kekuatan rohani dan pembaharuan jiwa ini, mustahil kita mampu melangkah maju ke hadapan walau satu langkah!
+  Maka sekiranya engkau telah memahami hakikat ini, dan engkau bersetuju bersama saya bahawa neraca ini adalah neraca yang paling tepat dan paling halus dalam kebangkitan umat dan bangsa, maka ketahuilah bahawa matlamat pertama yang dituju oleh pertubuhan-pertubuhan Ikhwanul Muslimin adalah: PENDIDIKAN YANG BENAR (*At-Tarbiyyah Aṣ-Ṣaḥīḥah*).
+  Iaitu mentarbiah umat di atas landasan jiwa yang mulia dan akhlak yang luhur tinggi, serta membangkitkan kesedaran hidup yang memandu bangsa-bangsa untuk mempertahankan maruahnya, bersungguh-sungguh mengembalikan kegemilangannya, dan sanggup menanggung segala kepayahan serta keperitan demi mencapai matlamat agung!
+  Dan engkau mungkin bertanya selepas ini: "Apakah wasilah-wasilah praktikal yang diambil oleh Ikhwanul Muslimin untuk memperbaharui jiwa dan meluruskan akhlak ini? Dan adakah Ikhwan telah menguji wasilah-wasilah tersebut di lapangan? Serta sejauh manakah kejayaan eksperimen amali mereka?" Maka temu janji kita untuk menghuraikannya adalah dalam fasal-fasal yang menyusul, insya-Allah Ta‘ālā.
 
 
 ---
 
 ### 5. Penetapan Wasilah: Keunggulan Agama (تحديد الوسيلة واعتماد المبدأ)
 
-Sebahagian pihak memilih kaedah sains dan kebudayaan, ada yang memilih sastera dan seni, ada yang memilih kaedah kepartian politik, dan ada yang memilih sukan jasmani.
-Ikhwanul Muslimin meneliti segala wasilah dan jalan pembaharuan yang ada, lalu mereka mendapati bahawa tiada jalan yang lebih dekat, lebih berkesan, dan lebih utuh melainkan Fikrah Agama (Al-Fikrah ad-Dīniyyah). Agama adalah penawar hakiki yang memulihkan penyakit masyarakat melalui dimensi-dimensi agung:
-1. Menghidupkan Pengawasan Nurani (إحياء الضمير)
-Agama yang menghidupkan nurani, membangkitkan kepekaan jiwa, dan menyedarkan hati nurani; meletakkan pada setiap jiwa pengawas batin daripada dirinya sendiri yang tidak pernah lalai dan tidak pernah tidur.
+Engkau telah mengetahui—wahai pembaca yang budiman—bahawa Ikhwanul Muslimin meletakkan matlamat pertama mereka kepada pentarbiyahan jiwa, pembaharuan roh, pemerkasaan akhlak, dan penanaman sifat kelakian sejati (*ar-rujūlah aṣ-ṣaḥīḥah*) ke dalam sanubari umat. Dan mereka berkeyakinan padu bahawa inilah asas pertama yang di atasnyalah terbina kebangkitan tamadun umat dan bangsa.
+Maka Ikhwan telah meneliti segala wasilah dan jalan untuk mencapai matlamat pembinaan jiwa ini; lalu mereka tidak menemui suatu wasilah yang lebih dekat, lebih berkesan, dan lebih membuahkan hasil melainkan dengan berpegang teguh kepada tali agama (*Al-Istimsāk bi-Ahdābid-Dīn*)!
 
-> **أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ ۝٨٠**
+  Keunggulan Mutlak Agama Membimbing Jiwa Insan
+  Agama yang bagaimanakah yang dimaksudkan? Iaitu:
+  
+    Agama yang menghidupkan dhamir (suara hati), menyedarkan perasaan, dan mengejutkan hati nurani daripada lena. Ia meletakkan pada setiap jiwa seorang pengawas rapi yang tidak pernah lalai, seorang penjaga yang tidak pernah alpa, dan seorang saksi yang tidak pernah bermuka-muka, tidak pilih kasih, tidak sesat, dan tidak pernah lupa. Pengawas ini sentiasa mendampingi insan ketika pagi dan petang, ketika di khalayak ramai mahupun tatkala bersendirian, memerhatikannya pada setiap masa dan mengawasinya di setiap tempat; ia menolak jiwa dengan sekuat-kuatnya menuju ke arah kebajikan dan mencegahnya daripada maksiat secara tegas, menjauhkannya daripada jalan kebinasaan dan memperlihatkan kepadanya perbezaan antara jalan kebaikan dan kejahatan:
+  
+  
+> **أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ ۝**
 >
-> *"Patutkah mereka menyangka bahawa Kami tidak mendengar apa yang mereka sembunyikan (di dalam hati) dan apa yang mereka bincangkan sesama sendiri? Benar (Kami mendengar), dan utusan-utusan Kami (malaikat) yang ada di sisi mereka sentiasa menulisnya."*
-> — **Surah az-Zukhruf: 80**
+> *"Patutkah mereka menyangka bahawa Kami tidak mendengar apa yang mereka sembunyikan (dalam hati) dan apa yang mereka bincangkan secara rahsia? (Bahkan Kami mendengarnya), dan utusan-utusan Kami (malaikat) yang menjaga mereka sentiasa menulisnya."*
+> — **Surah Az-Zukhruf (43): 80**
 
-2. Menghimpunkan Segala Keutamaan Akhlak (جماع الفضائل)
-Agama yang memadukan segenap cabang kebaikan dan budi pekerti luhur, menjadikan bagi setiap amal kebajikan ganjaran yang melimpah ruah di sisi Tuhan.
-
-> **قَدْ أَفْلَحَ مَن زَكَّىٰهَا ۝٩ وَقَدْ خَابَ مَن دَسَّىٰهَا ۝١٠**
+  
+    Agama yang menghimpunkan segala keutamaan akhlak yang berselerak, mengikat kemuliaan pekerti, menjadikan bagi setiap kebajikan itu ganjaran dan bagi setiap amalan mulia itu timbangan setimpal, serta menyeru kepada penyucian jiwa (*tazkiyatun-nufūs*), mengangkat darjatnya, dan membersihkan roh:
+  
+  
+> **قَدْ أَفْلَحَ مَن زَكَّىٰهَا ۝ وَقَدْ خَابَ مَن دَسَّىٰهَا ۝**
 >
-> *"Sesungguhnya berjayalah orang yang membersihkan jiwanya, dan sesungguhnya hampalah orang yang mengotorinya."*
-> — **Surah asy-Syams: 9–10**
+> *"Sesungguhnya berjayalah orang yang membersihkan jiwanya; Dan sesungguhnya rugilah orang yang mengotorinya."*
+> — **Surah Asy-Syams (91): 9–10**
 
-3. Menyeru Pengorbanan Total di Jalan Kebenaran (التضحية في سبيل الحق)
-Agama yang menyeru kepada pengorbanan di jalan kebenaran dan penyerahan jiwa dalam membimbing manusia, menjanjikan kehidupan abadi yang mulia bagi para syuhada.
-
-> **وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ ۝١٦٩**
+  
+    Agama yang menyeru kepada pengorbanan di jalan kebenaran, dan meleburkan kepentingan diri demi membimbing makhluk; ia menjamin bagi sesiapa yang berbuat demikian setinggi-tinggi ganjaran pahala, dan menyediakan bagi yang menempuh jalan ini sebaik-baik balasan. Ia menilai amalan kebajikan walau sekecil mana pun dan menimbang kejahatan walau sekecil zarah. Ia menukarkan kefanaan di jalan kebenaran menjadi keabadian yang hakiki, dan mengubah kematian di medan jihad menjadi kehidupan yang kekal berdaulat di sisi Ilahi:
+  
+  
+> **وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ ۝**
 >
-> *"Dan jangan sekali-kali kamu menyangka bahawa orang-orang yang terbunuh (gugur syahid) pada jalan Allah itu mati; (bahkan mereka tidak mati) sebaliknya mereka hidup di sisi Tuhan mereka dengan mendapat rezeki."*
-> — **Surah Āli ‘Imrān: 169**
+> *"Dan jangan sekali-kali engkau menyangka orang-orang yang terbunuh (gugur syahid) pada jalan Allah itu mati; (mereka tidak mati) bahkan mereka adalah hidup di sisi Tuhan mereka dengan mendapat rezeki."*
+> — **Surah Āli ‘Imrān (3): 169**
 
-4. Menukarkan Kesenangan Fana dengan Syurga Kekal (شراء الدار الباقية)
-Agama yang membeli daripada insan segala habuan keduniaan dan perhiasan kebendaan yang fana ini dengan kebahagiaan abadi yang memenuhi jiwa dan melapangkan dada.
-
-> **مَا عِندَكُمْ يَنفَدُ ۖ وَمَا عِندَ ٱللَّهِ بَاقٍۢ ۗ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ ۝٩٦**
+  
+    Agama yang membeli daripada insan matlamat-matlamat duniawi yang fana ini dan penampilan-penampilan kebendaan yang sementara, lalu menggantikannya dengan kebahagiaan yang melimpah ruah ke dalam jiwanya dan ketenangan yang menyejukkan sanubarinya daripada limpah kurnia Allah, rahmat-Nya, keredaan-Nya, dan kecintaan-Nya:
+  
+  
+> **مَا عِندَكُمْ يَنفَدُ ۖ وَمَا عِندَ ٱللَّهِ بَاقٍۢ ۗ**
 >
-> *"Apa yang ada di sisi kamu akan lenyap (musnah), dan apa yang ada di sisi Allah adalah kekal; dan sesungguhnya Kami akan membalas orang-orang yang sabar dengan ganjaran yang lebih baik daripada apa yang mereka telah kerjakan."*
-> — **Surah an-Naḥl: 96**
+> *"Apa yang ada di sisi kamu akan lenyap habis, dan apa yang ada di sisi Allah adalah kekal abadi."*
+> — **Surah An-Naḥl (16): 96**
 
-Namun Ikhwanul Muslimin mendapati bahawa wasilah paling berkesan untuk mendidik jiwa manusia adalah Agama (Ad-Dīn). Agama menyalakan nurani, meletakkan pengawas ghaib dalam setiap jiwa yang tidak pernah tidur, menyatukan hati, dan menuntut pengorbanan demi kebenaran. Di atas asas inilah digubal Akidah Ikhwanul Muslimin yang bersumber terus daripada Al-Quran dan As-Sunnah.
+  Agama Bersatu Rapi dengan Fitrah Manusiawi
+  Agama yang menghimpunkan segala keagungan ini, kemudian ia menyapa fitrah manusiawi dengan penuh kelembutan, bercampur mesra dengan lubuk hati, dan berpadu sebati dengan jiwa; maka jiwa bersatu dengannya dan ia bersatu dengan jiwa. Ia meresap ke dalam zarah-zarah roh dan berjalan seiringan dengan akal fikiran yang sihat, tidak sekali-kali menyimpang daripadanya dan akal tidak menolaknya.
+  Maka si peladang di ladangnya berasa tenang dan gembira dengannya, si tukang di kilangnya berasa bahagia bersamanya, anak kecil di madrasahnya memahaminya dengan mudah, sang ilmuwan ulung menikmati kelazatan dan kemanisannya dalam penyelidikan ilmiahnya, dan sang ahli falsafah mencapai ketinggian hikmah dalam renungan tadabburnya!
+  Pernahkah engkau melihat di muka bumi ini suatu kekuasaan ke atas jiwa manusia yang lebih agung daripada kekuasaan agama? Pernahkah engkau menyaksikan dalam sejarah tamadun manusia suatu pengaruh yang lebih mendalam dalam kehidupan bangsa dan umat melebihi pengaruh agama? Dan adakah engkau pernah melihat pengaruh para failasuf dan ilmuwan mampu menandingi pengaruh mendalam yang ditinggalkan oleh para Rasul dan Anbiya' AS?
+  Tidak sekali-kali, demi Allah! Kerana sesungguhnya agama adalah cetusan cahaya daripada roh Ilahi yang mengalir ke dalam zarah-zarah jiwa ini dan fitrahnya; ia menerangi kegelapannya, menyinari sanubarinya dengan petunjuk Tuhan, dan membimbing langkahnya menuju kebahagiaan dunia dan akhirat!
 
-> **قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَـٰرَةٌۭ تَخْشَوْنَ كَسَادَهَا وَمَسَـٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍۢ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ ۝٢٤**
->
-> *"Katakanlah (wahai Muhammad): Jika bapa-bapa kamu, anak-anak kamu, saudara-saudara kamu, isteri-isteri kamu, kaum keluarga kamu, harta kekayaan yang kamu usahakan, perniagaan yang kamu bimbangi kerugiannya, dan rumah-rumah tempat tinggal yang kamu sukai—(jika semuanya itu) menjadi perkara-perkara yang kamu cintai lebih daripada Allah dan Rasul-Nya dan daripada berjihad pada jalan-Nya, maka tunggulah sehingga Allah mendatangkan ketetapan-Nya..."*
-> — **Surah at-Tawbah: 24**
+  Ikhwanul Muslimin Memilih Wasilah Rabbani
+  Maka apabila Ikhwanul Muslimin telah memahami hakikat yang agung ini, mereka tidak ragu-ragu walau sekelip mata untuk menetapkan agama Islam sebagai satu-satunya wasilah asasi untuk mentarbiah generasi, membina semula jiwa umat, dan menggerakkan kebangkitan tamadun.
+  Mereka tidak meniru falsafah kebendaan Barat yang tandus, tidak meminjam teori-teori sosiologi ciptaan manusia yang pincang, dan tidak mengekori slogan-slogan sekular yang mengasingkan agama daripada pentas kehidupan. Sebaliknya, mereka kembali kepada mata air wahyu yang murni—kepada Al-Quran dan As-Sunnah—sebagai manhaj pembinaan jiwa yang telah terbukti berjaya melahirkan generasi terbaik dalam sejarah umat manusia!
+  Dan dalam fasal yang seterusnya, kita akan melihat bagaimana Ikhwanul Muslimin memulakan langkah praktikal mereka dengan wasilah pertama daripada wasilah-wasilah agama ini: iaitu KEDUDUKAN SOLAT dalam pembinaan rijal dan jemaah.
 
 
 ---
 
 ### 6. Kedudukan Solat Khusyuk (منزلة الصــلاة)
 
-Solat dalam Islam adalah laksana kepala bagi jasad. Ia bukan sekadar pergerakan mekanikal tanpa roh. Solat yang hakiki adalah penyejuk mata, kerehatan sanubari, dan jambatan kerohanian antara hamba dengan Tuhannya.
-Umat Islam terbahagi dalam menyikapi solat:
+Maka apabila Ikhwanul Muslimin telah memilih agama Islam sebagai wasilah asasi untuk mentarbiah dan memperbaharui jiwa umat, perkara pertama yang mereka hadapkan pandangan mereka kepadanya adalah: KEDUDUKAN SOLAT (منزلة الصلاة).
+Ikhwanul Muslimin memandang solat bukan sekadar pergerakan anggota badan yang kaku, bukan senaman fizikal yang hampa, dan bukan adat kebiasaan turun-temurun yang dilakukan tanpa kehadiran hati. Sebaliknya, solat di sisi Ikhwan adalah mikraj rohani (*mi‘rāj ar-rūḥ*), stesen pembekalan tenaga ketuhanan, dan madrasah harian pembinaan disiplin insan pejuang!
 
-> **إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍۢ وَعُيُونٍ ۝١٥ ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ ۝١٦ كَانُوا۟ قَلِيلًۭا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ ۝١٧ وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ ۝١٨**
+  Hakikat Solat Yang Membentuk Peribadi Rabbani
+  Solat yang bagaimanakah yang difahami dan ditegakkan oleh Ikhwan? Iaitu:
+  
+    Solat yang di dalamnya hati hadir tunduk menghadap Rabbul Jalil, melupakan sejenak segala hiruk-pikuk keduniaan yang menipu, dan merendahkan dahi sujud di atas debu bumi di hadapan Maha Pencipta sekalian alam:
+  
+  
+> **قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ ۝ ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ ۝**
 >
-> *"Sesungguhnya orang-orang yang bertakwa adalah berada di dalam taman-taman syurga dan matair-matair... Mereka sentiasa mengambil sedikit sahaja masa daripada waktu malam untuk mereka tidur, dan pada waktu-waktu sahur pula mereka memohon ampun."*
-> — **Surah aż-Żāriyāt: 15–18**
+> *"Sesungguhnya berjayalah orang-orang yang beriman; Iaitu mereka yang khusyuk dalam solat mereka."*
+> — **Surah Al-Mu’minūn (23): 1–2**
 
-> ⚖️ **[SYAIR KERINDUAN MUNAJAT MALAM]**
-> **سَهَرُ العُيُونِ لِغَيْرِ وَجْهِكَ ضَائِعٌ ۞ وَبُكَاؤُهُنَّ لِغَيْرِ فَقْدِكَ بَاطِلُ**
+  
+    Solat yang membuahkan kesan pembersihan moral dalam kehidupan seharian, mencabut sifat sombong, riak, dengki, dan mencegah pelakunya daripada terjerumus ke dalam lembah maksiat dan kezaliman:
+  
+  
+> **إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ ۗ**
 >
-> *"Berjaganya mata bukan kerana mencari keredhaan-Mu adalah satu kerugian,Dan tangisan air mata bukan kerana merindui-Mu adalah sia-sia belaka."*
+> *"Sesungguhnya solat itu mencegah daripada perbuatan keji dan mungkar; dan sesungguhnya mengingati Allah adalah lebih besar (faedahnya dan keutamaannya)."*
+> — **Surah Al-‘Ankabūt (29): 45**
 
-> **فَلَا تَعْلَمُ نَفْسٌۭ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍۢ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ ۝١٧**
+  
+    Solat yang menjadi perisai dan kubu pertahanan tatkala jiwa diserang kegelisahan, kepayahan hidup, dan keperitan menempuh ranjau perjuangan:
+  
+  
+> **وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ ۝**
 >
-> *"Maka tidak ada seseorang pun yang mengetahui satu persatu perkara-perkara yang membahagiakan, yang disembunyikan untuk mereka (daripada syurga), sebagai balasan bagi amal-amal soleh yang mereka telah kerjakan."*
-> — **Surah as-Sajdah: 17**
+> *"Dan mintalah pertolongan (kepada Allah) dengan jalan sabar dan solat; dan sesungguhnya solat itu amat berat, melainkan kepada orang-orang yang khusyuk."*
+> — **Surah Al-Baqarah (2): 45**
 
-Ada yang meninggalkannya dan memperlekehkannya.
-Majoriti menunaikannya secara rutin mekanikal yang kaku tanpa tadabbur dan khusyuk.
+  Menghidupkan Solat Berjemaah di Cawangan Ikhwan
+  Oleh yang demikian, engkau akan menyaksikan di setiap cawangan Ikhwanul Muslimin—daripada ibu pejabat agung hinggalah ke ranting-ranting yang paling terpencil di ceruk kampung—perkara pertama yang mereka bina dan imarahkan adalah Masjid dan Musolla.
+  Para pendakwah Ikhwan mendisiplinkan diri dan anggota mereka untuk memelihara solat fardhu secara berjemaah pada awal waktu. Mereka memandang bahawa saf-saf solat berjemaah yang tersusun rapi—di mana bahu bertemu bahu, kaki bertemu kaki, tanpa membezakan antara orang kaya dan orang miskin, antara pemimpin dan rakyat jelata—adalah gambaran praktikal yang paling agung bagi kesatuan umat Islam!
+  Di sanalah mereka belajar erti ketaatan mutlak kepada kepimpinan yang adil (*ita‘atul-imam*); selagi mana imam itu berdiri tegak di atas landasan hukum Allah, seluruh makmum wajib tunduk dan patuh mengikutinya. Namun sekiranya imam itu terlupa atau tersilap dalam bacaan atau perbuatan, setiap makmum berhak dan berkewajipan untuk menegurnya dengan ucapan "Subḥānallāh!" secara tertib dan beradab!
 
-> **قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ ۝١ ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ ۝٢**
+> ⚖️ **[SYAIR KEKHUSYUKAN DAN PENYERAHAN JIWA DALAM SOLAT]**
+> **إِذَا مَا قُمْتَ فِي المِحْرَابِ فَارْهَبْ ۞ جَلَالَ اللهِ وَاخْشَعْ فِي المَقَامِوَسَلْهُ العَفْوَ عَنْ زَلَلٍ وَخَوْفٍ ۞ فَإِنَّ العَفْوَ مَطْلَبُ كُلِّ سَامِي**
 >
-> *"Sesungguhnya berjayalah orang-orang yang beriman, iaitu mereka yang khusyuk dalam solatnya."*
-> — **Surah al-Mu’minūn: 1–2**
+> *"“Apabila engkau berdiri di mihrab ibadah, maka rasailah kegerunanTerhadap keagungan Allah dan khusyuklah pada kedudukanmu yang mulia;Dan pohonlah keampunan-Nya daripada keterlanjuran dan rasa takut,Kerana sesungguhnya keampunan Ilahi adalah matlamat setiap jiwa yang luhur!”"*
 
-Hanya segelintir yang menunaikannya dengan penuh perasaan ihsan, menghayati keagungan Ilahi, dan bangun bermunajat pada waktu malam (*Qiyāmullail*).
-
-> **يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ ۝١٥٣**
->
-> *"Wahai orang-orang yang beriman! Mintalah pertolongan (kepada Allah) dengan bersabar dan dengan mendirikan solat; sesungguhnya Allah menyertai orang-orang yang sabar."*
-> — **Surah al-Baqarah: 153**
-
-Langkah praktikal pertama Ikhwanul Muslimin adalah memperelokkan solat (*iḥsān aṣ-ṣalāh*) agar ia benar-benar mencegah daripada perbuatan keji dan mungkar.
+  Qiamullail & Hubungan Hati dengan Langit
+  Bukan sekadar solat fardhu lima waktu, bahkan Ikhwanul Muslimin mendidik para anggota mereka untuk menghidupkan malam-malam mereka dengan Qiamullail (Solat Malam), merintih di hadapan Ilahi tatkala mata manusia lain sedang lena dibuai mimpi.
+  Mereka meyakini dengan penuh keimanan bahawa tiada bekalan yang lebih ampuh untuk menanggung bebanan dakwah yang berat dan menentang kezaliman thaghut di muka bumi melainkan dengan bermunajat kepada Allah pada keheningan sepertiga malam terakhir, memohon keampunan, petunjuk, dan ketabahan hati.
+  Maka adakah orang yang melihat sebuah jemaah mendidik ribuan pemudanya menjaga solat lima waktu secara berjemaah, menghidupkan masjid-masjid yang dahulunya sunyi sepi, dan bangun bertahajud di tengah malam, masih ragu-ragu untuk mengakui bahawa mereka adalah golongan yang beramal secara praktikal?!
 
 
 ---
 
 ### 7. Kewajipan Zakat dan Model Birinbal al-Qadimah (الــزكاة)
 
-Jika solat membersihkan jiwa, maka zakat membersihkan harta dan punca pendapatan. Keengganan membayar zakat adalah punca tercetusnya permusuhan kelas, jenayah kemiskinan, dan keruntuhan ekonomi.
-Ikhwanul Muslimin telah membuktikan amalan zakat berorganisasi yang telus di cawangan Birinbal al-Qadimah (Wilayah Daqahliyyah) melalui Sistem 5 Jawatankuasa:
+Selepas kewajipan solat yang membina hubungan vertikal antara hamba dengan Tuhannya, rukun Islam kedua yang diberi penumpuan amali oleh Ikhwanul Muslimin adalah: KEWAJIPAN ZAKAT (الزكاة).
+Zakat di sisi Islam adalah sistem jaminan sosial (*at-takāful al-ijtimā‘ī*) yang paling adil dan sempurna yang pernah disaksikan oleh peradaban manusia. Ia bukan sekadar derma sukarela atau belas kasihan peribadi yang bergantung kepada mood si kaya, tetapi ia adalah hak fardhu yang diwajibkan oleh Allah ke atas harta orang-orang berada untuk diserahkan kepada lapan asnaf yang telah dimaktubkan dalam Al-Quran:
 
-> 📜 **[ATSAR SAHIH KETEGASAN KHALIFAH ABU BAKAR RA (HR. AL-BUKHARI)]**
-> **«وَاللَّهِ لَوْ مَنَعُونِي عِقَالًا كَانُوا يُؤَدُّونَهُ إِلَى رَسُولِ اللَّهِ ﷺ لَقَاتَلْتُهُمْ عَلَى مَنْعِهِ»**
+> **۞ إِنَّمَا ٱلصَّدَقَـٰتُ لِلْفُقَرَآءِ وَٱلْمَسَـٰكِينِ وَٱلْعَـٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَـٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةًۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ ۝**
 >
-> *"Demi Allah! Sekiranya mereka enggan menyerahkan kepadaku walau seutas tali pengikat unta yang pernah mereka serahkan kepada Rasulullah ﷺ, nescaya aku akan memerangi mereka kerananya!"*
+> *"Sesungguhnya sedekah-sedekah (zakat) itu hanyalah untuk orang-orang fakir, dan orang-orang miskin, dan amil-amil yang menguruskannya, dan orang-orang mualaf yang dijinakkan hatinya, dan untuk (memerdekakan) hamba-hamba abdi, dan orang-orang yang berhutang, dan untuk (dibelanjakan pada) jalan Allah, dan orang-orang musafir (yang terputus bekalan) dalam perjalanan. (Ketetapan yang demikian itu ialah) sebagai satu ketetapan fardhu daripada Allah; dan (ingatlah) Allah Maha Mengetahui, lagi Maha Bijaksana."*
+> — **Surah At-Tawbah (9): 60**
 
-*Jawatankuasa Bancian:* Menyenaraikan golongan asnaf yang berhak secara rahsia tanpa menjatuhkan maruah mereka.
-
-> **وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍۢ ۝٣٤**
+> 📜 **[MUTIARA HADIS • KEWAJIPAN ZAKAT DI AMBIL DARIPADA ORANG KAYA]**
+> **تُؤْخَذُ مِنْ أَغْنِيَائِهِمْ وَتُرَدُّ عَلَى فُقَرَائِهِمْ**
 >
-> *"Dan orang-orang yang menyimpan emas dan perak serta tidak membelanjakannya pada jalan Allah, maka khabarkanlah kepada mereka dengan (balasan) azab yang pedih."*
-> — **Surah at-Tawbah: 34**
+> *"Zakat itu diambil daripada kalangan orang-orang kaya mereka, lalu diagihkan kembali kepada kalangan orang-orang fakir miskin mereka."*
 
-*Jawatankuasa Semakan:* Memeriksa dan menentusahkan ketepatan senarai asnaf.
-Pengalaman Praktikal: Kejayaan Model Zakat Birinbal al-Qadimah (برمبال القديمة)
-*Jawatankuasa Penetapan Kadar:* Menentukan kadar bantuan yang adil mengikut keperluan sebenar setiap keluarga.
-*Jawatankuasa Pengesahan Akhir:* Menyemak semula dan meluluskan pengagihan.
+  Empat Halangan Sosiologi Pengurusan Zakat di Zaman Moden
+  Apabila Ikhwanul Muslimin berhasrat untuk menghidupkan semula institusi kutipan dan pengagihan zakat secara teratur dan berpusat di peringkat masyarakat, saya sejujurnya amat diselubungi rasa bimbang dan genting terhadap kemungkinan berlakunya perpecahan perpaduan dan retaknya muafakat. Kerana di dalam masyarakat umat Islam hari ini, terdapat sifat-sifat buruk yang sering menghalang mereka daripada bersatu dalam projek kebajikan sebegini—lebih-lebih lagi apabila ia menyentuh urusan wang dan harta kebendaan!
+  Saya amat bimbang terhadap empat kekangan sosiologi yang sering merosakkan projek zakat:
+  <ol>
+    Sifat bakhil orang-orang kaya (*syuḥḥul-aghniyā’*) dan keengganan mereka menghulurkan sumbangan harta kerana khuatir kekayaan mereka menyusut.
+    Tuduhan dan sangkaan jahat daripada golongan peragu (*tuhamuẓ-ẓannīn*) yang sentiasa mencari-cari keaiban bagi setiap perkara walau sesempurna mana pun ia; mereka melontarkan tuduhan riak kepada para sukarelawan dan menuduh amil bersikap pilih kasih (*al-muḥābāh*).
+    Ketamakan para pemohon (*jasya‘ul-ākhidhīn*) di mana setiap orang berharap agar seluruh zakat yang dikumpulkan diserahkan kepada dirinya sahaja tanpa mempedulikan orang lain.
+    Adat kebiasaan lapuk yang diwarisi, di mana kebanyakan keluarga yang masih mengamalkan pengeluaran zakat berkeras mahu mengagihkan sendiri zakat mereka kepada orang perseorangan, dan enggan menyerahkannya kepada institusi berpusat walaupun pengagihan berpusat itu terbukti jauh lebih berkesan membasmi kemiskinan!
+  </ol>
 
-> **۞ إِنَّمَا ٱلصَّدَقَـٰتُ لِلْفُقَرَآءِ وَٱلْمَسَـٰكِينِ وَٱلْعَـٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَـٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةًۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ ۝٦٠**
+  Kejayaan Model Birinbal al-Qadimah: Sistem Tadbir Urus 5 Jawatankuasa
+  Namun demikian, para pemuda Ikhwanul Muslimin dan penduduk di Birinbal al-Qadimah (*Birmbāl al-Qadīmah*) telah membuktikan suatu teladan amali yang luar biasa mulia! Mereka membuktikan kepada masyarakat bahawa kesucian hati dan kepercayaan saling mempercayai mampu meleburkan segala rintangan yang sukar.
+  Orang-orang kaya Birinbal terlalu mulia untuk menolak seruan menunaikan hak Allah tatkala dipanggil; orang-orang miskin mereka terlalu bermaruah untuk meluaskan pandangan tamak kepada bahagian saudara-saudaranya; dan para petugas Ikhwan bertindak dengan penuh hikmah, ketegasan dan ketelusan sehingga menutup rapat segala ruang syak wasangka!
+  Ikhwan di Birinbal telah menyusun sistem tadbir urus zakat melalui Lima Jawatankuasa Berperingkat yang amat ketat dan teliti:
+  
+    Jawatankuasa Pertama (Banci dan Pendaftaran Asnaf): Bertanggungjawab menyiasat dan menyediakan senarai nama fakir miskin yang berhak; ahli jawatankuasa ini diikat dengan bai'ah dan sumpah setia agar tidak bersikap pilih kasih, tidak bermuka-muka, tidak membocorkan rahsia, dan tidak mendedahkan aib kemiskinan mana-mana keluarga.
+    Jawatankuasa Kedua (Semakan dan Verifikasi Fakta): Bertugas memeriksa semula senarai nama yang didaftarkan, menyemak ketepatan data dan mengesahkan kesahihan maklumat di lapangan.
+    Jawatankuasa Ketiga (Penilaian dan Penetapan Kadar Asnaf): Meneliti tahap keperluan mendesak setiap keluarga dan menentukan kadar agihan yang adil berdasarkan saiz tanggungan dan tahap kemiskinan.
+    Jawatankuasa Keempat (Audit dan Kelulusan Akhir): Menyemak semula penilaian kadar tersebut dan memperakuinya secara rasmi agar tiada sebarang ketirisan.
+    Jawatankuasa Kelima (Agihan Lapangan Secara Praktikal): Turun terus ke rumah-rumah penerima untuk menyerahkan hak zakat mereka dengan penuh hormat dan memelihara maruah mereka.
+  
+  Sistem pengurusan yang tersusun rapi dan diberkati ini telah mencetuskan rasa kagum dan kegembiraan yang meluap-luap kepada sesiapa sahaja yang menyaksikan atau mendengarnya. Penduduk Birinbal dan kawasan-kawasan sekitarnya telah membuang adat lama dan berganding bahu membina model kebangkitan ekonomi Islam yang dahulunya hanya menjadi impian yang berlegar di awang-awangan!
+
+> **فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ ۖ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ ۝**
 >
-> *"Sesungguhnya sedekah-sedekah (zakat) itu hanyalah untuk orang-orang fakir, dan orang-orang miskin, dan amil-amil yang mengurusnya, dan orang-orang mualaf yang dijinakkan hatinya, dan untuk hamba-hamba yang hendak memerdekakan dirinya, dan orang-orang yang berhutang, dan untuk jalan Allah, dan orang-orang musafir yang keputusan bekalan. (Ketetapan hukum yang demikian itu ialah) sebagai satu fardhu daripada Allah; dan Allah Maha Mengetahui, lagi Maha Bijaksana."*
-> — **Surah at-Tawbah: 60**
+> *"Maka dirikanlah oleh kamu akan solat dan keluarkanlah zakat, serta berpegang teguhlah kamu kepada Allah! Dialah Pelindung kamu; maka Dialah sebaik-baik Pelindung dan sebaik-baik Penolong."*
+> — **Surah Al-Ḥajj (22): 78**
 
-*Jawatankuasa Pengagihan Amali:* Menyerahkan bantuan zakat secara tertib dan bermaruah terus kepada penerima.
-Sistem yang telus ini telah menghapuskan rasa syak wasangka orang kaya dan menyuburkan kasih sayang dalam kalangan orang miskin!
-
-> **وَجَـٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ ۚ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍۢ ۚ**
->
-> *"Dan berjihadlah kamu pada jalan Allah dengan jihad yang sebenar-benarnya; Dialah yang telah memilih kamu, dan Dia tidak menjadikan bagi kamu dalam agama ini sesuatu keberatan..."*
-> — **Surah al-Ḥajj: 78**
+Maka tidakkah engkau melihat—wahai pembaca yang budiman—selepas kenyataan fakta ini bahawa Ikhwanul Muslimin adalah benar-benar golongan yang beramal secara praktikal? Dan tidakkah Ikhwanul Muslimin wajar berbangga dengan pencapaian ini seraya berusaha mengembangkan model Birinbal ini ke seluruh cawangan-cawangan mereka yang lain?!
 
 
 ---
 
-### 8. Jihad Adalah Kemuliaan Kami (الجهـاد عزّنــا)
+### 8. Jihad Adalah Kemuliaan Kami (الجهـاد عزّنـا)
 
-Jihad adalah puncak tertinggi ajaran Islam (dhirwah sanām al-Islām). Ikhwanul Muslimin menghayati jihad melalui beberapa peringkat amali:
+Telah berlalu seminggu yang lalu di mana saya tidak sempat menyapa para pembaca yang budiman dengan lintasan fikiran yang dicurahkan oleh hati dan diungkapkan oleh rasa cinta mengenai usaha-usaha gigih Ikhwanul Muslimin. Dan saya tidak merahsiakan daripada para pembaca bahawa saya mendapati rasa ralat dan tusukan dhamir; bukan kerana kami gemar menunjuk-nunjuk amal perbuatan kepada manusia atau menzahirkan usaha kami demi kemegahan—kerana sesungguhnya Allah Maha Mengetahui bahawa Ikhwanul Muslimin beramal semata-mata mengharapkan wajah Allah dan mendambakan keredaan-Nya tanpa menuntut balasan mahupun pujian daripada sesiapa—tetapi kerana kami amat mencintai untuk menyampaikan dakwah ini kepada masyarakat dan menerangkan arah tuju kami, moga-moga kami menemui para pembantu yang menyokong kebajikan ini!
 
-> 📜 **[HADIS NABAWI SAHIH (HR. AT-TIRMIDZI)]**
-> **«رَأْسُ الأَمْرِ الإِسْلَامُ، وَعَمُودُهُ الصَّلَاةُ، وَذِرْوَةُ سَنَامِهِ الجِهَادُ فِي سَبِيلِ اللَّهِ»**
->
-> *"Pokok segala urusan adalah Islam, tiangnya adalah solat, dan puncak ketinggiannya adalah jihad pada jalan Allah."*
+Sesungguhnya setiap hari yang berlalu tanpa umat ini beramal untuk bangkit daripada kelalaiannya akan melemparkan kebangkitannya ke belakang dalam tempoh yang amat panjang. Dan dalam dakwah Ikhwan—sekiranya manusia memahaminya—terdapat penyelamat; dalam manhaj mereka—sekiranya umat mengikutinya—terdapat kejayaan; dan dalam usaha mereka—sekiranya dibantu—terdapat harapan yang mekar!
 
-Jihad Perasaan & Kesedihan Jiwa: Bersedih dan peduli terhadap penderitaan umat Islam di seluruh dunia (*"Sesiapa yang tidak mengambil berat urusan kaum muslimin, maka dia bukan daripada kalangan mereka"*).
-
-> ⚖️ **[SYAIR RATAPAN KEJATUHAN PERADABAN ANDALUS]**
-> **لِمِثْلِ هَذَا يَذُوبُ القَلْبُ مِنْ كَمَدٍ ۞ إِنْ كَانَ فِي القَلْبِ إِسْلَامٌ وَإِيمَانُ**
->
-> *"Melihat tragedi kejatuhan ummah seperti ini, hati pasti akan lebur hancur kerana kepiluan yang teramat sangat;Sekiranya di dalam dada masih tersisa nur Islam dan keimanan."*
-
-Jihad Pemikiran: Berfikir secara mendalam mencari jalan keluar dan strategi pembebasan ummah.
-Jihad Harta: Mengorbankan sebahagian pendapatan dan berjimat dalam keperluan asas demi membiayai dakwah.
-
-> 📜 **[HADIS NABAWI SAHIH (HR. MUSLIM)]**
-> **«مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الإِيمَانِ»**
->
-> *"Sesiapa dalam kalangan kamu melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya; sekiranya tidak mampu maka dengan lisannya; sekiranya tidak mampu maka dengan hatinya, dan yang demikian itu adalah selemah-lemah iman."*
-
-Jihad Amar Makruf Nahi Mungkar: Membimbing keluarga dan masyarakat dengan hikmah serta nasihat yang baik.
-
-> **لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ ۚ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍۢ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ ۝٩١**
->
-> *"Tiada keluh-kesah bagi orang-orang yang lemah, dan orang-orang yang sakit, dan orang-orang yang tidak mendapati apa yang akan dibelanjakannya, apabila mereka bersikap ikhlas kepada Allah dan Rasul-Nya. Tidak ada sebarang jalan untuk mencela orang-orang yang berusaha berbuat kebaikan; dan Allah Maha Pengampun, lagi Maha Mengasihani."*
-> — **Surah at-Tawbah: 91**
-
-Jihad Pemboikotan Moral: Memutuskan hubungan kerjasama dengan musuh-musuh yang memerangi agama Allah.
-Jihad Kalimah Hak di Hadapan Pemerintah Zalim: Menyuarakan kebenaran tanpa gentar.
-Jihad Pengorbanan Jiwa: Menjadi perajurit yang bersedia menyahut seruan mempertahankan kedaulatan tanah air Islam apabila diserang musuh.
-
-  Peringkat-Peringkat Jihad Menurut Tuntutan Syarak (مراتب الجهاد في الإسلام)
-  Jihad dalam Islam mempunyai pelbagai martabat yang wajib disempurnakan oleh setiap Muslim yang cintakan agamanya:
+  Puncak Tertinggi Syariat Islam: Jihad fi Sabilillah
+  Telah diriwayatkan dalam hadis yang sahih bahawa Sayyidina Mu‘ādh bin Jabal RA pernah berjalan bersama Rasulullah ﷺ, lalu Baginda ﷺ bersabda kepadanya:
   
-    1. Jiwa dan Emosi yang Hidup: Perasaan cinta mendalam yang melimpah-ruah terhadap kemuliaan Islam dan keagungan syiarnya, serta kesedihan membakar terhadap nasib umat yang tertindas.
-    2. Menyumbang Fikiran dan Masa: Memperuntukkan sebahagian daripada buah fikiran, masa, tenaga, dan perhatian demi menjayakan agenda islah dan kebangkitan.
-    3. Menginfakkan Harta Benda: Menyumbang sebahagian daripada rezeki halal untuk membantu kelangsungan dakwah dan menegakkan institusi kebajikan ummah.
-    4. Menegakkan Amar Makruf Nahi Mungkar: Mengajak manusia kepada kebaikan dan mencegah kemungkaran serta amalan fasad dalam masyarakat.
-    5. Menolak Musuh Agama: Berlepas diri dan memboikot mana-mana pihak yang memusuhi syariat Allah dan menentang dakwah Islam.
-    6. Menjadi Tentera Allah: Mewakafkan jiwa raga dan harta benda demi mempertahankan kesucian agama dan kedaulatan tanah air Islam.
-    7. Menegakkan Neraca Keadilan: Berani menyatakan kebenaran, sebagaimana sabda Nabi ﷺ: "Sebaik-baik jihad adalah kalimah hak di hadapan pemerintah yang zalim."
-    8. Cinta dan Doa di Belakang Tabir: Sekiranya seseorang tidak mampu melakukan semua di atas, sekurang-kurangnya cintailah para pejuang ini dengan hati yang tulus dan doakanlah keteguhan mereka dari kejauhan!
+> 📜 **[HADIS AGUNG SAYYIDINA MU‘ADH IBN JABAL RA • TONGGAK & PUNCAK ISLAM]**
+> **رَأْسُ هَذَا الأَمْرِ الإِسْلَامُ، وَعَمُودُهُ الصَّلَاةُ، وَذِرْوَةُ سَنَامِهِ الجِهَادُ فِي سَبِيلِ اللهِ**
+>
+> *"Kepala bagi segala urusan ini adalah Islam (mengucap dua kalimah syahadah), tiang penegaknya adalah mendirikan solat, dan puncak ketinggiannya yang paling agung adalah berjihad pada jalan Allah!"*
+
+  Baginda ﷺ menegaskan bahawa kepala segala urusan ini adalah bersaksi bahawa tiada Tuhan melainkan Allah dan Muhammad pesuruh Allah; asas penegaknya adalah mendirikan solat dan menunaikan zakat; dan kemuncak ketinggian kubahnya yang paling agung (*dhirwatu sanāmih*) adalah berjihad pada jalan Allah!
+  Demikianlah takrifan yang digariskan oleh Baginda Rasulullah ﷺ bagi agama Islam, dan Baginda adalah insan yang paling mengenali hakikat Islam. Dan Ikhwanul Muslimin sama sekali tidak membawa manusia kepada ajaran selain daripada Islam, dan tidak menempuh melainkan jalan-jalan syiar Islam yang luhur!
+
+  Tiga Darjat Jihad Yang Dihidupkan Oleh Ikhwanul Muslimin
+  Apakah yang dikehendaki oleh Ikhwanul Muslimin daripada diri mereka dan daripada masyarakat dalam persoalan jihad ini? Sesungguhnya jihad dalam Islam mengandungi beberapa darjat keimanan:
+  
+  1. Darjat Pertama: Emosi Jiwa Yang Cemburu Terhadap Maruah Islam
+  Iaitu perasaan hidup yang bergelora di dalam dada, melimpah-ruah dengan rasa rindu mendalam terhadap kemuliaan Islam dan keagungannya; dahagakan kedaulatan dan kekuatannya; menangis hiba dan sedih mengenangkan kelemahan yang menimpa kaum muslimin dan kehinaan yang membelenggu mereka; serta menyala-nyala kepedihan melihat realiti umat yang sama sekali tidak diredai oleh Allah, tidak diredai oleh Rasulullah ﷺ, dan tidak diredai oleh mana-mana jiwa yang beriman!
+  
+> 📜 **[MUTIARA HADIS • KEPEDULIAN TERHADAP URUSAN UMAT ISLAM]**
+> **مَنْ لَمْ يَهْتَمَّ بِأَمْرِ المُسْلِمِينَ فَلَيْسَ مِنْهُمْ**
+>
+> *"Barangsiapa yang tidak mempedulikan urusan kaum muslimin, maka dia bukanlah daripada kalangan mereka!"*
+
+  2. Darjat Kedua: Jihad Harta, Pena dan Pengorbanan Material
+  Iaitu menyumbangkan sebahagian daripada harta benda, wang ringgit, tenaga, fikiran, tulisan dan masa lapang untuk memperkuatkan pertahanan umat, membantu keluarga para pejuang, membiayai kelengkapan dakwah, dan menyebarkan risalah kebenaran ke segenap ufuk. Ikhwan mendidik setiap anggotanya agar tidak kedekut mengorbankan wang saku dan harta mereka demi menjamin kelangsungan gerakan Islam.
+
+  3. Darjat Ketiga: Kesiapsiagaan Berkorban Jiwa Raga (*Al-Jihad bin-Nafs*)
+  Iaitu kemuncak pengorbanan di mana seorang muslim melatih fizikalnya menjadi gagah, mendisiplinkan jiwanya dengan keberanian menentang thaghut, dan sentiasa bersiap-sedia untuk menyahut seruan mempertahankan kedaulatan tanah air Islam tatkala maruah agamanya dicabar oleh penceroboh asing!
+  
+> **كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًۭا وَهُوَ خَيْرٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًۭا وَهُوَ شَرٌّۭ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ ۝**
+>
+> *"Diwajibkan ke atas kamu berperang (untuk menentang pencerobohan), padahal berperang itu adalah perkara yang kamu benci; dan boleh jadi kamu membenci sesuatu perkara padahal ia amat baik bagi kamu, dan boleh jadi kamu menyukai sesuatu perkara padahal ia amat buruk bagi kamu. Dan (ingatlah), Allah jualah Yang Maha Mengetahui (segalanya), sedangkan kamu tidak mengetahuinya."*
+> — **Surah Al-Baqarah (2): 216**
+
+> ⚖️ **[SYAIR SEMANGAT JIHAD & KESYAHIDAN]**
+> **وَلَسْتُ أُبَالِي حِينَ أُقْتَلُ مُسْلِمًا ۞ عَلَى أَيِّ جَنْبٍ كَانَ فِي اللهِ مَصْرَعِيوَذَلِكَ فِي ذَاتِ الإِلَهِ وَإِنْ يَشَأْ ۞ يُبَارِكْ عَلَى أَوْصَالِ شِلْوٍ مُمَزَّعِ**
+>
+> *"“Dan aku tidak peduli tatkala aku dibunuh gugur sebagai seorang muslim,Di atas lambung mana jua aku tersungkur rebah pada jalan Allah;Dan kematian itu adalah semata-mata kerana membela Zat Ilahi, dan jika Dia menghendaki,Dia pasti memberkati setiap cebisan anggota badanku yang hancur berkecai!”"*
+
+  Jihad Ikhwan: Membina Kekuatan untuk Kedamaian Hakiki
+  Ikhwanul Muslimin bukanlah peminat keganasan dan bukan pencetus huru-hara, tetapi Ikhwan meyakini bahawa kebenaran tanpa kekuatan yang mengawalnya akan diinjak-injak oleh kebatilan. Mereka mendidik generasi muda agar mencintai kematian syahid di jalan Allah melebihi kecintaan musuh terhadap kehidupan dunia yang fana!
+  Maka apabila Ikhwan melatih ribuan pemuda memiliki ketahanan fizikal, kecekalan rohani, dan kesiapsiagaan berkorban nyawa demi menegakkan kalimah Allah, adakah masih ada orang yang ragu-ragu mengakui bahawa Ikhwan adalah sebuah gerakan yang amat praktikal?!
 
 
 ---
 
 ### 9. Mengembalikan Tiga Hak Al-Quran (حــق القرآن)
 
-Ikhwanul Muslimin menegaskan bahawa Al-Quran mempunyai Tiga Hak Utama ke atas umat Islam:
+Setelah kita membicarakan perihal Solat, Zakat, dan Jihad, kini sampailah giliran kita menghadap kepada PERLEMBAGAAN AGUNG UMAT ISLAM: AL-QURANUL KARIM (حق القرآن).
+Ikhwanul Muslimin mendapati bahawa malapetaka paling besar yang menimpa umat Islam pada zaman mutakhir ini berpunca daripada pengabaian hak-hak Al-Quran. Umat Islam telah menzalimi Kitab Suci mereka sendiri apabila menurunkannya daripada takhta perlembagaan negara dan panduan hidup seharian, lalu menjadikannya sekadar tangkal azimat penghias dinding rumah, alunan lagu di majlis keramaian, atau bacaan kenduri arwah semata-mata, sedangkan hukum-hakam dan syariatnya ditinggalkan dan diabaikan!
 
-> **لَّا يَأْتِيهِ ٱلْبَـٰطِلُ مِنۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِۦ ۖ تَنزِيلٌۭ مِّنْ حَكِيمٍ حَمِيدٍۢ ۝٤٢**
+  Tiga Hak Asasi Al-Quran Ke Atas Umat Islam
+  Ikhwanul Muslimin menegaskan bahawa Al-Quranul Karim mempunyai Tiga Hak Utama yang wajib ditunaikan oleh setiap muslim secara praktikal:
+  
+  1. Hak Tilawah dan Tartil (حق التلاوة والترتيل)
+  Iaitu membacanya dengan tartil, memelihara hukum tajwid, mengelokkan suara dengannya, dan menjadikan tilawah Al-Quran sebagai wirid harian yang tidak pernah ditinggalkan walau sesibuk mana pun jadual harian. Ikhwan mendidik setiap anggotanya memiliki wirid tilawah harian sekurang-kurangnya satu juzuk sehari, mencontohi tradisi para Salafus Soleh!
+  
+> ⚖️ **[SYAIR KELUHURAN TILAWAH SYAHID SAYYIDINA UTHMAN RA]**
+> **تَمَنَّى كِتَابَ اللَّهِ أَوَّلَ لَيْلَةٍ ۞ وَآخِرَهُ لَاقَى حِمَامَ المَقَادِرِضَحَّوْا بِأَشْمَطَ عُنْوَانُ السُّجُودِ بِهِ ۞ يُقَطِّعُ اللَّيْلَ تَسْبِيحًا وَقُرْآنَا**
 >
-> *"Yang tidak dapat didatangi sebarang kepalsuan dari hadapannya dan tidak juga dari belakangnya; ia diturunkan dari Tuhan Yang Maha Bijaksana, lagi Maha Terpuji."*
-> — **Surah Fuṣṣilat: 42**
+> *"“Baginda mendambakan Kitabullah pada awal malamnya,Dan pada akhir malamnya baginda menemui takdir maut sebagai syahid;Mereka membunuh seorang tua yang beruban, yang dahinya bercahaya tanda sujud,Yang menghidupkan malam-malamnya dengan tasbih dan alunan Al-Quran!”"*
 
-Hak Tilawah & Tadabbur: Membaca, menghafal dan mentadabbur ayat-ayatnya setiap hari.
-1. Hak Tilawah dan Tartil (تلاوة وترتيل)
-Hak Istinbat Hukum: Menjadikan Al-Quran sebagai sumber rujukan utama dalam perundangan ibadah dan syariat.
-
-> ⚖️ **[SYAIR TILAWAH SYAHID SAYYIDINA UTHMAN RA]**
-> **تَمَنَّى كِتَابَ اللَّهِ أَوَّلَ لَيْلَةٍ ۞ وَآخِرَهُ لَاقَى حِمَامَ المَقَادِرِضَحَّوْا بِأَشْمَطَ عُنْوَانُ السُّجُودِ بِهِ ۞ يُقَطِّعُ اللَّيْلَ تَسْبِيحًا وَقُرْآنَا**
->
-> *"Baginda mendambakan Kitabullah pada awal malamnya,Dan pada akhir malamnya baginda menemui takdir maut sebagai syahid;Mereka membunuh seorang tua yang beruban, yang dahinya bercahaya tanda sujud,Yang menghidupkan malam-malamnya dengan tasbih dan alunan Al-Quran."*
-
-2. Hak Tadabbur dan Tafahhum (تدبر وتفهم)
-Hak Perlaksanaan Perlembagaan Duniawi: Menjadikan Al-Quran sebagai undang-undang asas negara, bukannya menggantikannya dengan undang-undang ciptaan Rom atau Perancis!
-
-> **كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌۭ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ ۝٢٩**
+  2. Hak Tadabbur dan Tafahhum (حق التدبر والتفهم)
+  Iaitu menghayati makna-makna ayatnya yang mendalam, menyelami rahsia-rahsia pengajarannya, dan memahaminya sebagai mukjizat ilmiah yang kekal abadi. Al-Quran tidak diturunkan untuk dibaca seperti membaca mantera magis tanpa faham, tetapi diturunkan untuk menggerakkan minda dan menyedarkan sanubari:
+  
+> **كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌۭ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ ۝**
 >
 > *"(Al-Quran ini) sebuah Kitab yang Kami turunkan kepadamu penuh dengan berkat, supaya mereka mentadabbur (menghayati) ayat-ayatnya, dan supaya beringat orang-orang yang mempunyai akal fikiran."*
-> — **Surah Ṣād: 29**
+> — **Surah Ṣād (38): 29**
 
-3. Hak Pengamalan dan Pelaksanaan (عمل وتحكيم)
-Umat Islam telah menzalimi Al-Quran apabila menjadikannya sekadar tangkal azimat penghias dinding, lagu majlis keramaian, atau hiasan kenduri arwah semata-mata, sedangkan hukum-hakamnya ditinggalkan!
+  3. Hak Pengamalan dan Pelaksanaan (حق العمل والتحكيم)
+  Inilah hak yang paling agung dan paling banyak diabaikan oleh umat hari ini: iaitu menjadikan Al-Quran sebagai undang-undang asas perlembagaan negara, sumber mutlak perundangan syariat, serta neraca pemutus bagi segala urusan ekonomi, politik, pendidikan, dan hubungan antarabangsa!
+  Adalah suatu jenayah akidah yang amat dahsyat apabila sebuah negara yang majoriti penduduknya mengaku muslim mencampakkan hukum Al-Quran ke belakang, lalu menggantikannya dengan undang-undang sekular ciptaan Rom, Perancis atau Barat yang dicedok secara membuta-tuli!
+  
+> **لَّا يَأْتِيهِ ٱلْبَـٰطِلُ مِنۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِۦ ۖ تَنزِيلٌۭ مِّنْ حَكِيمٍ حَمِيدٍۢ ۝**
+>
+> *"Yang tidak dapat didatangi sebarang kepalsuan dari hadapannya dan tidak juga dari belakangnya; ia diturunkan dari Tuhan Yang Maha Bijaksana, lagi Maha Terpuji."*
+> — **Surah Fuṣṣilat (41): 42**
 
-  Ketegasan Salaf Menjadikan Al-Quran Perlembagaan Tertinggi (مكانة القرآن عند السلف)
-  Generasi awal salafus soleh amat memahami kedudukan Al-Quran ini. Amirul Mukminin Umar bin al-Khattab r.a. pernah melarang para sahabat daripada memperbanyakkan riwayat cabang yang boleh melalaikan orang ramai daripada menghayati dan mendalami Al-Quran.
-  Begitu juga para imam agung tabi'in seperti Sa'id bin al-Musayyib dan generasi selepas mereka; mereka menjadikan Kitabullah sebagai neraca pemutus bagi segala urusan kehidupan dunia dan akhirat. Kedaulatan dan kemuliaan umat tertegak selagi mana Al-Quran berdaulat ke atas akal dan hati manusia!
+  Ketegasan Generasi Salaf Menjadikan Al-Quran Hakim Tertinggi
+  Generasi awal Salafus Soleh amat memahami kedudukan Al-Quran ini. Amirul Mukminin Umar bin al-Khattab RA dan Sayyidina Abu Bakar As-Siddiq RA tidak pernah membenarkan sebarang keputusan diputuskan melainkan setelah merujuk kepada Kitabullah terlebih dahulu.
+  Begitu juga para imam agung tabi'in seperti Sa‘īd bin al-Musayyib dan generasi selepas mereka; mereka menjadikan Kitabullah sebagai neraca pemutus bagi segala urusan kehidupan dunia dan akhirat. Kedaulatan dan kemuliaan umat tertegak selagi mana Al-Quran berdaulat ke atas akal, sistem perundangan, dan kepimpinan masyarakat!
+  Dan Ikhwanul Muslimin telah menterjemahkan ketiga-tiga hak ini ke dalam bentuk praktikal: ribuan madrasah tahfiz Al-Quran diasaskan, halaqah tadabbur digerakkan di seluruh cawangan, dan di pentas politik, Ikhwan bangkit menuntut secara berani agar Al-Quran dijadikan perlembagaan tertinggi negara!
 
 
 ---
 
 ### 10. Manhaj dan Neraca Penilaian Jemaah (منهج الإخوان وميزانهم)
 
-Sejarah kebangkitan mana-mana tamadun membuktikan bahawa kejayaan hanya dicapai apabila wujud manhaj yang tersusun dan kesinambungan generasi pejuang. Generasi kemudian menyambung dari tempat berhentinya generasi terdahulu tanpa meruntuhkan asas yang telah dibina.
+Sekiranya engkau meneliti kembali sejarah kebangkitan umat-umat di sekeliling dunia—sama ada di Timur mahupun di Barat, pada zaman dahulu mahupun pada era moden—engkau pasti mendapati bahawa para peneraju bagi setiap kebangkitan yang berjaya dan membuahkan hasil sentiasa memiliki MANHAJ YANG JELAS LAGI TERUKUR (*Minhāj Maḥdūd*) dan MATLAMAT YANG TEPAT (*Hadaf Maḥdūd*) yang menjadi sasaran tuju mereka.
+Manhaj itu digariskan oleh para perintis kebangkitan dan mereka beramal untuk mencapainya sepanjang hayat mereka sedaya upaya. Sehingga apabila tiba ajal mereka dan tamatlah tempoh kehidupan dunia yang singkat ini, generasi pelapis daripada kalangan umat mereka bangkit menyambung perjuangan tersebut di atas manhaj yang sama—mereka bermula dari titik di mana generasi terdahulu berhenti! Mereka tidak memutuskan tali yang telah disambung, tidak meruntuhkan bangunan yang telah didirikan, tidak merobohkan asas yang telah dimajukan, dan tidak membinasakan apa yang telah dimakmurkan!
 
-> ⚖️ **[SYAIR JURANG PEMISAH ANTARA MANHAJ DAN SERUAN ASING]**
-> **سَارَتْ مُشَرِّقَةً وَسِرْتَ مُغَرِّبًا ۞ شَتَّانَ بَيْنَ مُشَرِّقٍ وَمُغَرِّبِ**
+> **فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ ۝**
 >
-> *"Dia melangkah mara menuju ke arah timur sedangkan engkau melangkah ke arah barat;Alangkah jauhnya jurang pemisah antara orang yang menuju ke timur dengan orang yang menuju ke barat!"*
+> *"Maka barangsiapa yang beramal kebajikan seberat zarah (debu), nescaya dia akan melihatnya (dalam buku amalannya)!"*
+> — **Surah Az-Zalzalah (99): 7**
 
-Jika anda bertanya tentang asas teori manhaj kami: Ia adalah kaedah-kaedah yang dibawa oleh Al-Quran al-Karim.
-Dan jika anda bertanya tentang langkah-langkah praktikal kami: Ia adalah langkah-langkah yang diwarisi daripada Rasulullah ﷺ. Kerana sesungguhnya generasi akhir umat ini tidak akan sesekali menjadi baik melainkan dengan apa yang telah membaiki generasi awalnya!
-*"Kebangkitan hakiki bukanlah pada membina dinding-dinding batu dan bangunan kaku, tetapi pada mencetak jiwa manusia dan membentuk rijal yang berjiwa besar."*
+  Dua Penyakit Kritikal Kebangkitan Timur Hari Ini
+  Adakah kebangkitan umat kita hari ini berjalan mengikut hukum alam (*sunnatullāh*) dan undang-undang sosiologi kemasyarakatan ini? Inilah perkara yang amat saya ragui! Sesungguhnya saya memerhatikan bahawa sifat gopoh-gapah (*at-tasarru‘*) yang telah berakar dalam tabiat kita, serta sikap mudah terkesan dan ledakan emosi yang membara sekelip mata, telah menjadikan kebangkitan kita sekadar letusan emosi sementara (*fawarāt ‘āṭifiyyah*) yang marak membakar tatkala dicucuk oleh pengaruh luaran, kemudian padam lenyap begitu sahaja seolah-olah tiada apa-apa yang berlaku!
+  Walaupun matlamat umum yang kita impikan bersama mungkin telah diketahui ramai, namun saya amat yakin dengan dua kecacatan kronik yang sentiasa mengiringi kebangkitan kita:
+  
+    Kecacatan Pertama: Wasilah-wasilah perjuangan tidak jelas dan tidak terhad, bahkan kadangkala saling bercanggahan dan bertembung antara satu sama lain sehingga meranapkan usaha sesama sendiri tanpa kita sedari!
+    Kecacatan Kedua: Hubungan terputus sepenuhnya antara generasi terdahulu dengan generasi terkemudian (*aṣ-ṣilatu munqaṭi‘ah tamāman baynas-sābiq wal-lāḥiq*). Generasi awal tiba di separuh jalan; apabila generasi berikutnya datang, mereka enggan menyambung legasi tersebut lalu memulakan jalan baru dari titik sifar! Akhirnya, amanah perjuangan tidak pernah sampai ke garisan penamat kerana umur individu terlalu singkat berbanding umur kebangkitan bangsa!
+  
+  Dan kita sering berkhayal kononnya seorang pemimpin tunggal mampu merealisasikan segala impian umat dalam sekelip mata—suatu fantasi khayalan dan tipu daya psikologi yang wajib dilenyapkan daripada sanubari setiap pekerja dakwah agar dia dapat memanfaatkan kesinambungan amal generasi salafnya!
 
-> **فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ ۝٧ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ ۝٨**
+  Manhaj Teori & Wasilah Praktikal Ikhwanul Muslimin
+  Selepas penjelasan ini, saya ingin menegaskan kepadamu bahawa Ikhwanul Muslimin memiliki manhaj yang terukur yang sentiasa mereka ikuti langkah demi langkah, dan mereka sentiasa menimbang diri mereka dengan neracanya dari semasa ke semasa:
+  
+    Sekiranya engkau bertanya: "Apakah asas teori bagi manhaj ini?" Maka saya menjawab kepadamu dengan penuh keterusterangan: Ia adalah prinsip-prinsip dan kaedah-kaedah agung yang diturunkan oleh Al-Quranul Karim!
+    Dan sekiranya engkau bertanya: "Apakah wasilah dan langkah-langkah praktikalnya?" Saya juga menjawab kepadamu dengan penuh keterusterangan: Ia adalah wasilah dan langkah-langkah yang diwarisi daripada Baginda Rasulullah ﷺ yang agung; dan sesungguhnya tidak akan menjadi baik generasi akhir umat ini melainkan dengan apa yang telah membaiki generasi awalnya!
+  
+  
+> **ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ**
 >
-> *"Maka sesiapa berbuat kebajikan seberat zarah, nescaya dia akan melihatnya! Dan sesiapa berbuat kejahatan seberat zarah, nescaya dia akan melihatnya!"*
-> — **Surah az-Zalzalah: 7–8**
+> *"Pada hari ini, Aku telah sempurnakan bagi kamu agama kamu, dan Aku telah cukupkan nikmat-Ku kepada kamu, dan Aku telah redai Islam itu menjadi agama kamu."*
+> — **Surah Al-Mā’idah (5): 3**
 
-*"Solat adalah laksana kepala bagi jasad; langkah praktikal pertama untuk memulihkan umat adalah mengembalikan khusyuk dan ihsan dalam solat."*
-*"Zakat adalah penyucian harta dan pelindung masyarakat; ketelusan sistem zakat menghapuskan dengki kemiskinan dan mendidik kedermawanan orang berada."*
-
-> **كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ أَنَا۠ وَرُسُلِىٓ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌۭ ۝٢١**
+  
+> **كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ أَنَا۠ وَرُسُلِىٓ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌۭ ۝**
 >
-> *"Allah telah menetapkan: Sesungguhnya Aku dan Rasul-rasul-Ku pasti menang. Sesungguhnya Allah Maha Kuat, lagi Maha Perkasa."*
-> — **Surah al-Mujādilah: 21**
+> *"Allah telah menetapkan: 'Sesungguhnya Aku dan Rasul-rasul-Ku pasti akan menang!' Sesungguhnya Allah Maha Kuat, lagi Maha Perkasa."*
+> — **Surah Al-Mujādilah (58): 21**
 
-*"Jihad adalah puncak ketinggian Islam; ia bermula daripada kesedihan hati meratapi nasib ummah, pengorbanan wang ringgit, hinggalah kalimah hak di hadapan pemerintah zalim."*
-*"Al-Quran diturunkan untuk menjadi perlembagaan kehidupan dan panduan kehakiman; alangkah malangnya apabila ia sekadar dijadikan tangkal hiasan dan dendangan majlis semata-mata."*
-*"Generasi akhir umat ini tidak akan menjadi baik melainkan dengan apa yang telah membaiki generasi awalnya: iaitu Al-Quran dan Sunnah Rasulullah ﷺ."*
+  Khatimah: Menyahut Seruan Kebangkitan Sejati
+  Maka dengan kalimah ini berakhirlah siri penjelasan ringkas mengenai Ikhwanul Muslimin yang beramal secara praktikal. Dan saya menaruh harapan yang tinggi agar risalah ini meninggalkan kesan mendalam yang didambakan ke dalam sanubari para pembaca yang budiman:
+  Lalu mereka bangkit mendokong dan membantu jemaah ini yang telah mewakafkan segala-galanya pada jalan Allah dan jalan dakwah, serta menggabungkan diri bersama mereka untuk menyumbang tenaga dalam kebangkitan yang diberkati ini—suatu kebangkitan di mana setiap pejuangnya beroleh kemenangan baru setiap hari; sekiranya usahanya belum sempat mengantarkannya kepada pembukaan kemenangan, ia pasti akan mengantarkan generasi selepasnya dengan berkat pengorbanannya, insya-Allah Ta‘ālā!
 
-> **وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۝١٠٥**
+> **وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۝**
 >
-> *"Dan katakanlah (wahai Muhammad): Beramallah kamu, maka Allah dan Rasul-Nya serta orang-orang yang beriman akan melihat apa yang kamu kerjakan; dan kamu akan dikembalikan kepada (Allah) Yang Mengetahui perkara-perkara yang ghaib dan yang nyata, kemudian Dia memberitahu kepada kamu apa yang kamu telah kerjakan."*
-> — **Surah at-Tawbah: 105**
-
-Dengan kalimah penutup ini, tamatlah siri pengenalan ringkas mengenai hakikat dakwah Ikhwanul Muslimin. Kepada Allah kami berserah, dan kepada-Nya jua kami bertawakal!
+> *"Dan katakanlah (wahai Muhammad): 'Beramallah kamu (akan segala kebajikan), maka Allah dan Rasul-Nya serta orang-orang yang beriman akan melihat apa yang kamu kerjakan; dan kamu akan dikembalikan kepada (Allah) Yang Mengetahui perkara yang ghaib dan yang nyata, lalu Dia memberitahu kepada kamu apa yang telah kamu kerjakan.'"*
+> — **Surah At-Tawbah (9): 105**
