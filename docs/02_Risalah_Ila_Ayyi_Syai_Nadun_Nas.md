@@ -522,7 +522,7 @@ Dan Ikhwanul Muslimin sama sekali tidak mengkhususkan seruan dakwah ini kepada s
 Sesungguhnya kebimbangan terbesar yang amat ditakuti oleh Ikhwanul Muslimin adalah sekiranya bangsa-bangsa Timur Islam terdorong hanyut ke dalam arus peniruan melulu (*tayyārut-taqlīd*), lalu mereka menampal kebangkitan mereka dengan sistem-sistem lapuk yang telah reput binasa pada dirinya sendiri dan telah dibuktikan oleh sejarah akan kerosakan serta kegagalannya!
 Setiap umat daripada umat-umat Islam memiliki perlembagaan umum (*dustūr ‘āmm*). Maka menjadi satu kemestian bahawa fasal-fasal perlembagaannya dicedok daripada hukum-hakam Al-Quranul Karim. Dan negara-negara yang menyatakan dalam fasal pertama perlembagaannya bahawa "Agama rasminya adalah Islam", wajib meletakkan seluruh fasal yang lain berteraskan kaedah asas ini. Mana-mana fasal yang tidak diperakui oleh Islam dan tidak diizinkan oleh hukum-hakamnya, wajib dipadamkan serta-merta agar tidak timbul pertentangan yang memalukan dalam undang-undang dasar negara!
 
-  ١. Islahkan Undang-Undang dan Kehakiman (أصلحوا القانون)
+  1. Islahkan Undang-Undang dan Kehakiman (أصلحوا القانون)
   Sesungguhnya bagi setiap umat ada undang-undang tempat berhukum bagi warganya. Dan undang-undang ini wajib dicedok dan bersumberkan daripada hukum-hakam syariat Islam, diambil daripada Al-Quranul Karim, serta menepati usul feqah Islam.
   Sesungguhnya di dalam syariat Islam dan apa yang telah digariskan oleh para fuqaha' Islam terdapat kecukupan yang menampal segala kelompangan, memenuhi segala keperluan, dan memuaskan dahaga keadilan, serta membawa kepada sebaik-baik hasil dan keberkatan. Dan sesungguhnya dalam pelaksanaan hukum hudud Allah terdapat pencegah yang amat menggentarkan penjenayah sekalipun dia telah terbiasa melakukan jenayah, menghentikan pencerobohan penceroboh sekalipun pencerobohan telah berakar dalam jiwanya, serta merehatkan kerajaan daripada kepayahan menguji eksperimen undang-undang sekular yang gagal!
   Pengalaman sejarah telah membuktikannya, prinsip perundangan moden menuntutnya, dan Allah Tabāraka wa Ta‘ālā memfardukan dan mewajibkannya:
@@ -532,7 +532,7 @@ Setiap umat daripada umat-umat Islam memiliki perlembagaan umum (*dustūr ‘ām
 > *"Dan sesiapa yang tidak menghukum dengan apa yang telah diturunkan oleh Allah, maka mereka itulah orang-orang yang kafir."*
 > — **Surah Al-Mā’idah (5): 44**
 
-  ٢. Islahkan Penampilan Kehidupan Sosial (أصلحوا مظهر الاجتماع)
+  2. Islahkan Penampilan Kehidupan Sosial (أصلحوا مظهر الاجتماع)
   Di dalam setiap bangsa terdapat مظاهر (penampilan dan gaya) kehidupan sosial yang diselia oleh kerajaan, disusun oleh undang-undang, dan dilindungi oleh pihak berkuasa. Maka menjadi kewajipan ke atas setiap bangsa Timur Islam untuk memastikan seluruh penampilan sosial ini selari dengan adab agama serta mematuhi perundangan dan perintah Islam.
   Sesungguhnya pelacuran berlesen (*al-bighā’ ar-rasmī*) merupakan tompokan aib yang mencemari dahi setiap bangsa yang menghargai nilai moral; apatah lagi bagi bangsa-bangsa Islam yang agamanya mewajibkan pertempuran membanteras pelacuran dan menghukum penzina secara keras tanpa belas kasihan palsu:
   
@@ -543,7 +543,7 @@ Setiap umat daripada umat-umat Islam memiliki perlembagaan umum (*dustūr ‘ām
 
   Begitu juga kelab-kelab arak yang beroperasi di jalan-jalan utama kota dan kawasan-kawasan terkemuka, papan-papan iklan gergasi yang mempromosikan minuman keras, serta iklan-iklan terbuka yang mempamerkan ibu segala kekejian (*ummul-khabā’ith*); kesemuanya adalah kemungkaran yang ditolak oleh agama dan diharamkan oleh Al-Quran dengan sekeras-keras pengharaman!
 
-  ٣. Perangilah Kebebasan Liar dan Hedonisme (حاربوا الإباحية)
+  3. Perangilah Kebebasan Liar dan Hedonisme (حاربوا الإباحية)
   Sesungguhnya budaya kebebasan liar yang menggiurkan (*al-ibāḥiyyah*), hiburan yang meruntuhkan maruah, dan keseronokan melalaikan yang memenuhi lorong jalan, kelab percutian, dan tempat tumpuan awam, adalah bercanggah secara mutlak dengan apa yang diwasiatkan oleh Islam iaitu kesucian maruah (*‘iffah*), kepahlawanan, kemuliaan jiwa, dan ketekunan kepada urusan-urusan yang agung:
   
 > 📜 **[MUTIARA HADIS • ALLAH MENCINTAI KELUHURAN AKHLAK]**
@@ -553,16 +553,16 @@ Setiap umat daripada umat-umat Islam memiliki perlembagaan umum (*dustūr ‘ām
 
   Maka ke atas seluruh negara-negara Islam wajib mengerahkan segala kuasa dan undang-undang yang ada dalam bidang kuasa mereka untuk memerangi dan menentang segala gejala kerosakan moral ini tanpa berlengah dan tanpa sikap lepas tangan!
 
-  ٤. Susunlah Sistem Pendidikan (نظموا التعليم)
-  Bagi setiap bangsa dan umat Islam ada dasar pendidikan dalam mendidik generasi muda dan membina generasi masa hadapan yang menjadi sandaran hidup baharu umat. Maka dasar pendidikan ini wajib dibina di atas asas-asas yang bijaksana yang menjamin anak-anak muda memiliki daya ketahanan akidah (*manā‘ah dīniyyah*), kemuliaan akhlak, serta penguasaan sains dan teknologi moden.
-  Dan tiada pertentangan sama sekali antara ilmu sains dengan agama; bahkan Al-Quran menyeru kepada penerokaan ilmu dan sains di atas neraca basirah ketuhanan:
+  4. Susunlah Sistem Pendidikan (نظموا التعليم)
+  Bagi setiap bangsa dan umat Islam ada dasar pendidikan dalam mendidik generasi muda dan membina generasi masa hadapan yang menjadi sandaran hidup baharu umat. Maka dasar pendidikan ini wajib dibina di atas asas-asas yang bijaksana yang menjamin anak-anak muda memiliki daya ketahanan agama (manā‘ah dīniyyah), akhlak yang mulia, pengetahuan tentang hukum-hakam agama mereka, serta kebanggaan terhadap kegemilangan silamnya dan tamadunnya yang luas.
+  Inilah sebahagian kecil daripada sekian banyak dasar yang dikehendaki oleh Ikhwanul Muslimin agar dipelihara oleh umat-umat Islam dalam membina kebangkitan moden mereka. Dan mereka mengarahkan seruan dakwah ini kepada seluruh kaum muslimin—rakyat jelata mahupun pihak pemerintah. Manakala wasilah (kaedah) mereka untuk mencapai matlamat-matlamat Islam yang luhur ini hanyalah satu wasilah: iaitu mereka menerangkan dan menjelaskan segala keistimewaan serta hukum-hakam yang terkandung di dalamnya, sehinggalah apabila manusia mengingatinya dan yakin akan faedahnya, lahirlah daripada kefahaman itu amalan mereka untuknya dan kepatuhan mereka kepada hukumnya:
   
 > **قُلْ هَـٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَـٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ ۝**
 >
 > *"Katakanlah (wahai Muhammad): 'Inilah jalanku, aku dan orang-orang yang mengikutiku menyeru (manusia) kepada Allah dengan basirah (ilmu dan keyakinan yang nyata); dan Maha Suci Allah, dan bukanlah aku daripada golongan orang-orang musyrik.'"*
 > — **Surah Yūsuf (12): 108**
 
-  ٥. Manfaatkanlah Persaudaraan Sesama Saudaramu (انتفعوا بإخاء إخوانكم)
+  5. Manfaatkanlah Persaudaraan Sesama Saudaramu (انتفعوا بإخاء إخوانكم)
   Islam menyeru sekalian anak-anaknya dan para pengikutnya seraya berfirman:
   
 > **وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءًۭ فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًۭا**
