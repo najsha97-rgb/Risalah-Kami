@@ -631,12 +631,6 @@ Inilah persaudaraan Islam yang mengisytiharkan nilai kemanusiaan sejagat (أخو
   Adapun buah hasil yang kedua: Sesungguhnya persaudaraan Islam telah menjadikan setiap muslim berkeyakinan padu bahawa setiap jengkal tanah di muka bumi yang di dalamnya ada seorang saudara yang beriman dengan Al-Quranul Karim—adalah sebahagian daripada tanah air Islam yang agung, yang diwajibkan oleh Islam ke atas seluruh anak-anaknya untuk berusaha melindungi dan membahagiakannya!
   Maka dengan kefahaman ini, meluaslah ufuk tanah air Islam melangkaui sempadan geografi yang sempit dan batas perkauman darah kepada tanah air prinsip-prinsip yang luhur dan akidah yang suci murni—hakikat-hakikat yang dijadikan oleh Allah sebagai hidayah dan cahaya bagi sekalian alam.
   Dan Islam tatkala menanamkan rasa kemuliaan ini ke dalam jiwa anak-anaknya, mewajibkan ke atas mereka satu kefardhuan yang lazim untuk mempertahankan tanah air Islam daripada pencerobohan penceroboh, membebaskannya daripada rampasan perampas, serta membentenginya daripada kerakusan musuh!
-  Dan terhadap orang-orang bukan Islam yang berkongsi tanah air dan tidak memusuhi agama kita, Islam menetapkan hubungan berasaskan keadilan mutlak, kebajikan, perlindungan hak, dan toleransi yang luhur:
-  
-> **لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ ۝**
->
-> *"Allah tidak melarang kamu daripada berbuat baik dan berlaku adil kepada orang-orang yang tidak memerangi kamu kerana agama (kamu), dan tidak mengeluarkan kamu dari kampung halaman kamu; sesungguhnya Allah mengasihi orang-orang yang berlaku adil."*
-> — **Surah Al-Mumtaḥanah (60): 8**
 
 
 ---
