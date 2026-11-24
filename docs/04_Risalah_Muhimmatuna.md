@@ -396,9 +396,9 @@ Mereka yang mendengar seruan ini pasti akan berkata dalam keraguan dan sinis: "I
 
 ### 10. Andai Kita Mempunyai Kerajaan Islam yang Sejati (لو كانت لنا حكومة)
 
-Kalaulah kita memiliki sebuah kerajaan Islam yang benar-benar menghayati roh Islam, jujur dalam keimanan, serta bebas merdeka dalam pemikiran dan perlaksanaan; sebuah kerajaan yang menyedari betapa agungnya tugas dakwah Islamiyah di persada antarabangsa:
+Kalaulah kita memiliki sebuah kerajaan Islam yang benar keislamannya, jujur keimanannya, serta merdeka dalam pemikiran dan perlaksanaannya; sebuah kerajaan yang mengetahui dengan sebenar-benar pengetahuan akan keagungan khazanah yang berada di tangannya dan kemuliaan sistem Islam yang diwarisinya, serta meyakini bahawa padanya terdapat penawar kesembuhan bagi bangsanya dan petunjuk hidayah bagi sekelian manusia...
 
-  Nescaya kerajaan tersebut akan memimpin sekalian negara ke arah hidayah Islam, menyampaikan mesej kebenaran ini kepada bangsa-bangsa dunia, dan menggunakan segala jentera diplomasi, penerbitan, penyiaran, serta perutusan antarabangsa demi menegakkan kalimah Allah di muka bumi!
+  Nescaya wajar bagi kita menuntut daripadanya agar ia membimbing dunia dengan nama Islam, menuntut negara-negara lain agar mengkaji dan meneliti ajarannya, serta mengajak mereka secara bersungguh-sungguh ke arahnya melalui seruan dakwah yang berterusan, hujah pemujukan yang meyakinkan, dalil-dalil bukti, utusan-utusan delegasi yang berkesinambungan, dan lain-lain sarana dakwah serta penyampaian. Nescaya dengan itu ia akan beroleh kedudukan rohani, politik, dan amali yang berwibawa di kalangan kerajaan-kerajaan lain, serta berupaya memperbaharui daya hidup bangsanya, memacu mereka ke arah kemuliaan dan cahaya, serta membangkitkan dalam jiwa mereka bara semangat, kesungguhan, dan amal perjuangan.
 
   Keanehan Dunia: Ideologi Batil Mempunyai Negara Penaja
   Alangkah anehnya realiti dunia hari ini!
