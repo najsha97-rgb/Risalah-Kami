@@ -1208,34 +1208,64 @@
     ],
     "summary": [
       {
-        "badge": "BAHAGIAN 1: FASAL 01 - 02",
-        "title": "1. Menjawab Skeptisisme: Realisme Praktikal vs Retorik Kata-kata",
-        "brief": "Membongkar empat kategori penyoal skeptikal terhadap amal dakwah (golongan sinis, lalai, peminat retorik hiasan bahasa, dan pencari alasan berlepas diri). Menegaskan bahawa dakwah ini ditujukan khusus kepada jiwa-jiwa ikhlas yang bersedia memikul tanggungjawab membela nasib umat berlandaskan keyakinan dan amal nyata di lapangan.",
+        "badge": "FASAL 01 • SKEPTISISME AMALI",
+        "title": "1. Pertanyaan Skeptikal & Tipologi Penyoal (سؤال مهم .. وأصناف سائليه)",
+        "brief": "Menjawab persoalan skeptis masyarakat sama ada Ikhwan sebuah jemaah amali yang bertindak atau sekadar pemidato retorik. Membongkar 4 tipologi penyoal: (1) pencari kebenaran yang jujur, (2) golongan lalai yang sinis, (3) peminat perdebatan kosong, dan (4) mereka yang mencari alasan untuk berlepas diri daripada tanggungjawab beramal.",
         "start_sec": 0
       },
       {
-        "badge": "BAHAGIAN 2: FASAL 03 - 04",
-        "title": "2. Institusi Lapangan & Teras Utama: Pembinaan Rijal Rabbani",
-        "brief": "Membentangkan bukti pencapaian amali Ikhwan di segenap medan: sekolah rakyat, kelab belia, masjid, dispensari kesihatan, dan syarikat perusahaan mandiri. Namun menegaskan hakikat bahawa projek tamadun yang paling agung dan menentukan bukanlah dinding bangunan, sebaliknya pembinaan rijal (tokoh perubahan) yang berkualiti, beriman kental, dan sanggup berkorban.",
+        "badge": "FASAL 02 • SERUAN JIWA IKHLAS",
+        "title": "2. Wahai Jiwa-Jiwa yang Ikhlas Bersemangat! (للغيورين من أبناء الإسلام)",
+        "brief": "Menujukan seruan khusus kepada pemuda yang mempunyai ghirah dan kepedulian mendalam terhadap maruah Islam yang tercalar. Mengajak mereka menyalurkan tenaga daripada sekadar meratapi kejatuhan umat kepada gerak kerja pembinaan yang berdisiplin dan tersusun di medan dakwah.",
+        "start_sec": 1
+      },
+      {
+        "badge": "FASAL 03 • PROJEK LAPANGAN",
+        "title": "3. Institusi dan Projek Nyata di Lapangan (مؤسسـات ومشـاريع)",
+        "brief": "Membentangkan bukti empirikal kejayaan amali Ikhwan di segenap lapangan: penubuhan sekolah rakyat, kelab belia, masjid, dispensari kesihatan, bengkel tenunan, dan syarikat perniagaan mandiri. Menolak tuduhan bahawa dakwah ini hanya berteori tanpa sumbangan fizikal kepada pembangunan sosioekonomi masyarakat.",
         "start_sec": 2
       },
       {
-        "badge": "BAHAGIAN 3: FASAL 05 - 06",
-        "title": "3. Keunggulan Agama & Solat Khusyuk Sebagai Wasilah Praktikal",
-        "brief": "Menolak pemisahan antara agama dengan realiti amali. Agama adalah penggerak nurani yang melahirkan rasa muraqabah dalaman dan keberanian berkorban. Menghuraikan kedudukan solat lima waktu dan qiamullail sebagai wasilah tarbiyah praktikal harian yang membina disiplin, membersihkan jiwa, dan membekalkan kekuatan rohani kepada para duat.",
+        "badge": "FASAL 04 • PEMBINAAN RIJAL",
+        "title": "4. Hakikat Sebenar: Pembinaan Rijal (إعــداد الرجــال)",
+        "brief": "Menegaskan bahawa projek tamadun teragung bukanlah mendirikan dinding bangunan batu atau melancarkan syarikat, sebaliknya membina rijal (tokoh peribadi mukmin) yang beriman kental, berakhlak mulia, dan sanggup berkorban. Bangunan fizikal boleh runtuh, tetapi rijal rabbani mampu membina semula peradaban daripada runtuhan.",
+        "start_sec": 3
+      },
+      {
+        "badge": "FASAL 05 • WASILAH & PRINSIP",
+        "title": "5. Penentuan Wasilah dan Berpegang Kepada Prinsip (تحديد الوسيلة واعتماد المبدأ)",
+        "brief": "Menolak pemisahan sekular antara agama dengan realiti amali kehidupan. Menegaskan bahawa agama adalah sebaik-baik wasilah pentarbiyahan nurani yang melahirkan rasa muraqabah dalaman, integriti tinggi, dan kesediaan berkhidmat demi kemaslahatan ummah.",
         "start_sec": 4
       },
       {
-        "badge": "BAHAGIAN 4: FASAL 07",
-        "title": "4. Keadilan Sosioekonomi: Kewajipan Zakat & Model Birinbal",
-        "brief": "Menegaskan bahawa zakat adalah rukun pembersihan harta dan tunjang keadilan sosial Islam. Membentangkan bukti kejayaan empirikal melalui Projek Zakat Birinbal al-Jadidah: sistem kutipan dan agihan setempat yang berjaya membasmi kemiskinan tegar, membiayai anak yatim, dan membuktikan keunggulan syariat Islam dalam merungkai krisis ekonomi moden.",
+        "badge": "FASAL 06 • KEDUDUKAN SOLAT",
+        "title": "6. Kedudukan Salat (منزلة الصلاة)",
+        "brief": "Menghuraikan solat lima waktu dan qiamullail sebagai institusi latihan praktikal harian: membina disiplin masa, membersihkan jiwa daripada kekotoran maksiat, menyatukan saf persaudaraan tanpa beza kasta, dan membekalkan kekuatan rohani kepada para mujahid.",
+        "start_sec": 5
+      },
+      {
+        "badge": "FASAL 07 • KEADILAN ZAKAT",
+        "title": "7. Zakat (الزكاة)",
+        "brief": "Menegaskan bahawa zakat adalah rukun pembersihan harta dan tunjang keadilan sosioekonomi Islam. Membuktikan keunggulannya melalui Projek Zakat Birinbal al-Jadidah: sistem agihan telus yang berjaya membasmi kemiskinan tegar, menaja anak yatim, dan membuktikan syariat Islam sebagai jalan keluar krisis ekonomi moden.",
         "start_sec": 6
       },
       {
-        "badge": "BAHAGIAN 5: FASAL 08 - 10",
-        "title": "5. Jihad, Tiga Hak Al-Quran & Ketulenan Manhaj Salaf",
-        "brief": "Menegaskan jihad sebagai puncak kemuliaan umat yang merangkumi pengorbanan masa, harta, amar makruf nahi mungkar, dan ketenteraan. Menuntut pengembalian Tiga Hak Al-Quran: tilawah tartil, tadabbur kefahaman, dan pelaksanaan syariat dalam undang-undang peradaban. Mengakhiri dengan penegasan kaedah emas Imam Malik: generasi akhir umat ini tidak akan baik melainkan dengan manhaj yang membaiki generasi awalnya.",
+        "badge": "FASAL 08 • JIHAD KEMULIAAN KAMI",
+        "title": "8. Jihad Adalah Kemuliaan Kami (الجهـاد عزّنـا)",
+        "brief": "Mengisytiharkan bahawa jihad adalah puncak kemuliaan (darwatul-sanam) umat Islam. Jihad merangkumi pengorbanan masa, harta, amar makruf nahi mungkar di hadapan pemerintah zalim, dan kesiapsiagaan ketenteraan mempertahankan tanah air daripada pencerobohan musuh.",
         "start_sec": 7
+      },
+      {
+        "badge": "FASAL 09 • TIGA HAK AL-QURAN",
+        "title": "9. Mengembalikan Tiga Hak Al-Quran (حــق القرآن)",
+        "brief": "Menuntut umat Islam menunaikan Tiga Hak Al-Quran yang sering terabai: (1) Tilawah Tartil dengan adab khusyuk, (2) Tadabbur Kefahaman yang mendalam, dan (3) Pelaksanaan Syariat & Amal Nyata dalam sistem undang-undang, kehakiman, dan peradaban.",
+        "start_sec": 8
+      },
+      {
+        "badge": "FASAL 10 • KETULENAN MANHAJ SALAF",
+        "title": "10. Manhaj dan Neraca Penilaian Jemaah (منهج الإخوان وميزانهم)",
+        "brief": "Menegaskan kaedah emas Imam Malik: generasi akhir umat ini tidak akan pulih melainkan dengan manhaj yang memulihkan generasi awalnya. Ikhwanul Muslimin menolak segala bentuk perpecahan mazhab dan bidaah, seraya kembali mencedok kefahaman murni daripada al-Quran dan as-Sunnah.",
+        "start_sec": 9
       }
     ],
     "golden_quotes_rich": [

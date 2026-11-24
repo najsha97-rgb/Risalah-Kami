@@ -7,6 +7,43 @@
 
 ---
 
+## 📌 RINGKASAN INTISARI ILMIAH SETIAP FASAL (10 FASAL)
+
+Risalah *Hal Naḥnu Qawmun ‘Amaliyyūn? (Adakah Kita Golongan yang Praktikal?)* membentangkan pembuktian amali gerakan dakwah merangkumi penubuhan institusi, pembinaan rijal, serta penghayatan rukun-rukun Islam secara praktikal di lapangan. Berikut adalah intisari eksekutif bagi setiap 10 fasal secara terperinci:
+
+### [FASAL 01 • SKEPTISISME AMALI] 1. Pertanyaan Skeptikal & Tipologi Penyoal (سؤال مهم .. وأصناف سائليه)
+Menjawab persoalan skeptis masyarakat sama ada Ikhwan sebuah jemaah amali yang bertindak atau sekadar pemidato retorik. Membongkar 4 tipologi penyoal: (1) pencari kebenaran yang jujur, (2) golongan lalai yang sinis, (3) peminat perdebatan kosong, dan (4) mereka yang mencari alasan untuk berlepas diri daripada tanggungjawab beramal.
+
+### [FASAL 02 • SERUAN JIWA IKHLAS] 2. Wahai Jiwa-Jiwa yang Ikhlas Bersemangat! (للغيورين من أبناء الإسلام)
+Menujukan seruan khusus kepada pemuda yang mempunyai ghirah dan kepedulian mendalam terhadap maruah Islam yang tercalar. Mengajak mereka menyalurkan tenaga daripada sekadar meratapi kejatuhan umat kepada gerak kerja pembinaan yang berdisiplin dan tersusun di medan dakwah.
+
+### [FASAL 03 • PROJEK LAPANGAN] 3. Institusi dan Projek Nyata di Lapangan (مؤسسـات ومشـاريع)
+Membentangkan bukti empirikal kejayaan amali Ikhwan di segenap lapangan: penubuhan sekolah rakyat, kelab belia, masjid, dispensari kesihatan, bengkel tenunan, dan syarikat perniagaan mandiri. Menolak tuduhan bahawa dakwah ini hanya berteori tanpa sumbangan fizikal kepada pembangunan sosioekonomi masyarakat.
+
+### [FASAL 04 • PEMBINAAN RIJAL] 4. Hakikat Sebenar: Pembinaan Rijal (إعــداد الرجــال)
+Menegaskan bahawa projek tamadun teragung bukanlah mendirikan dinding bangunan batu atau melancarkan syarikat, sebaliknya membina rijal (tokoh peribadi mukmin) yang beriman kental, berakhlak mulia, dan sanggup berkorban. Bangunan fizikal boleh runtuh, tetapi rijal rabbani mampu membina semula peradaban daripada runtuhan.
+
+### [FASAL 05 • WASILAH & PRINSIP] 5. Penentuan Wasilah dan Berpegang Kepada Prinsip (تحديد الوسيلة واعتماد المبدأ)
+Menolak pemisahan sekular antara agama dengan realiti amali kehidupan. Menegaskan bahawa agama adalah sebaik-baik wasilah pentarbiyahan nurani yang melahirkan rasa muraqabah dalaman, integriti tinggi, dan kesediaan berkhidmat demi kemaslahatan ummah.
+
+### [FASAL 06 • KEDUDUKAN SOLAT] 6. Kedudukan Salat (منزلة الصلاة)
+Menghuraikan solat lima waktu dan qiamullail sebagai institusi latihan praktikal harian: membina disiplin masa, membersihkan jiwa daripada kekotoran maksiat, menyatukan saf persaudaraan tanpa beza kasta, dan membekalkan kekuatan rohani kepada para mujahid.
+
+### [FASAL 07 • KEADILAN ZAKAT] 7. Zakat (الزكاة)
+Menegaskan bahawa zakat adalah rukun pembersihan harta dan tunjang keadilan sosioekonomi Islam. Membuktikan keunggulannya melalui Projek Zakat Birinbal al-Jadidah: sistem agihan telus yang berjaya membasmi kemiskinan tegar, menaja anak yatim, dan membuktikan syariat Islam sebagai jalan keluar krisis ekonomi moden.
+
+### [FASAL 08 • JIHAD KEMULIAAN KAMI] 8. Jihad Adalah Kemuliaan Kami (الجهـاد عزّنـا)
+Mengisytiharkan bahawa jihad adalah puncak kemuliaan (darwatul-sanam) umat Islam. Jihad merangkumi pengorbanan masa, harta, amar makruf nahi mungkar di hadapan pemerintah zalim, dan kesiapsiagaan ketenteraan mempertahankan tanah air daripada pencerobohan musuh.
+
+### [FASAL 09 • TIGA HAK AL-QURAN] 9. Mengembalikan Tiga Hak Al-Quran (حــق القرآن)
+Menuntut umat Islam menunaikan Tiga Hak Al-Quran yang sering terabai: (1) Tilawah Tartil dengan adab khusyuk, (2) Tadabbur Kefahaman yang mendalam, dan (3) Pelaksanaan Syariat & Amal Nyata dalam sistem undang-undang, kehakiman, dan peradaban.
+
+### [FASAL 10 • KETULENAN MANHAJ SALAF] 10. Manhaj dan Neraca Penilaian Jemaah (منهج الإخوان وميزانهم)
+Menegaskan kaedah emas Imam Malik: generasi akhir umat ini tidak akan pulih melainkan dengan manhaj yang memulihkan generasi awalnya. Ikhwanul Muslimin menolak segala bentuk perpecahan mazhab dan bidaah, seraya kembali mencedok kefahaman murni daripada al-Quran dan as-Sunnah.
+
+---
+
+
 ### 1. Pertanyaan Skeptikal & Tipologi Penyoal (سؤال مهم .. وأصناف سائليه)
 
 Bismillāhir-Raḥmānir-Raḥīm.
