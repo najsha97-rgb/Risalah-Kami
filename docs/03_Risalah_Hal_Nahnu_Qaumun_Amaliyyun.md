@@ -752,46 +752,73 @@ Maka apabila engkau telah mengetahui hakikat ini, wahai pembaca yang budiman... 
 
 ### 10. Manhaj dan Neraca Penilaian Jemaah (منهج الإخوان وميزانهم)
 
-Sekiranya engkau meneliti kembali sejarah kebangkitan umat-umat di sekeliling dunia—sama ada di Timur mahupun di Barat, pada zaman dahulu mahupun pada era moden—engkau pasti mendapati bahawa para peneraju bagi setiap kebangkitan yang berjaya dan membuahkan hasil sentiasa memiliki MANHAJ YANG JELAS LAGI TERUKUR (*Minhāj Maḥdūd*) dan MATLAMAT YANG TEPAT (*Hadaf Maḥdūd*) yang menjadi sasaran tuju mereka.
-Manhaj itu digariskan oleh para perintis kebangkitan dan mereka beramal untuk mencapainya sepanjang hayat mereka sedaya upaya. Sehingga apabila tiba ajal mereka dan tamatlah tempoh kehidupan dunia yang singkat ini, generasi pelapis daripada kalangan umat mereka bangkit menyambung perjuangan tersebut di atas manhaj yang sama—mereka bermula dari titik di mana generasi terdahulu berhenti! Mereka tidak memutuskan tali yang telah disambung, tidak meruntuhkan bangunan yang telah didirikan, tidak merobohkan asas yang telah dimajukan, dan tidak membinasakan apa yang telah dimakmurkan!
+Sekiranya engkau meneliti kembali sejarah kebangkitan umat-umat di sekeliling dunia—sama ada bangsa-bangsa di Timur mahupun di Barat, pada zaman dahulu mahupun pada era moden—engkau pasti mendapati bahawa para peneraju bagi setiap kebangkitan yang berjaya, beroleh taufik, dan membuahkan hasil sentiasa memiliki **Manhaj yang Terukur (*Minhāj Maḥdūd*)** yang menjadi landasan kerja mereka, dan **Matlamat yang Jelas (*Hadaf Maḥdūd*)** yang menjadi sasaran tuju mereka.
 
-> **فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ ۝**
+Ia digariskan oleh para penyeru kebangkitan dan mereka beramal untuk mencapainya sepanjang hayat mereka dan sedaya kemampuan mereka. Sehingga apabila tiba ajal mereka dan tamatlah tempoh kehidupan dunia yang singkat ini, generasi pelapis daripada kalangan umat mereka bangkit menyambung perjuangan tersebut di atas manhaj yang sama—mereka bermula dari titik di mana generasi terdahulu berhenti! Mereka tidak memutuskan apa yang telah disambung, tidak meruntuhkan apa yang telah dibina, tidak merobohkan apa yang telah diasaskan dan ditegakkan, serta tidak memusnahkan apa yang telah dimakmurkan.
+
+Maka sama ada mereka memperelokkan lagi usaha para pendahulu mereka, atau memantapkan hasil-hasilnya dengan lebih kukuh, atau mengikut jejak langkah mereka dengan menambah lapisan baru pada binaan tersebut lalu membawa umat melangkah setapak lagi ke arah matlamat akhir sehingga mereka berjaya menghantarnya kepada apa yang dicita-citakan, atau mereka berundur dengan penuh petunjuk lalu digantikan oleh generasi lain selepas mereka.
+
+Demikianlah proses ini berterusan silih berganti sehinggalah segala cita-cita tercapai, impian menjadi kenyataan, kebangkitan disempurnakan, jihad membuahkan hasil, dan umat tiba kepada apa yang disasarkannya dan apa yang diusahakannya:
+
+> **فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ ۝**
 >
-> *"Maka barangsiapa yang beramal kebajikan seberat zarah (debu), nescaya dia akan melihatnya (dalam buku amalannya)!"*
+> *"Maka sesiapa yang beramal kebajikan seberat zarah, nescaya dia akan melihatnya!"*
 > — **Surah Az-Zalzalah (99): 7**
 
-  Dua Penyakit Kritikal Kebangkitan Timur Hari Ini
-  Adakah kebangkitan umat kita hari ini berjalan mengikut hukum alam (*sunnatullāh*) dan undang-undang sosiologi kemasyarakatan ini? Inilah perkara yang amat saya ragui! Sesungguhnya saya memerhatikan bahawa sifat gopoh-gapah (*at-tasarru‘*) yang telah berakar dalam tabiat kita, serta sikap mudah terkesan dan ledakan emosi yang membara sekelip mata, telah menjadikan kebangkitan kita sekadar letusan emosi sementara (*fawarāt ‘āṭifiyyah*) yang marak membakar tatkala dicucuk oleh pengaruh luaran, kemudian padam lenyap begitu sahaja seolah-olah tiada apa-apa yang berlaku!
-  Walaupun matlamat umum yang kita impikan bersama mungkin telah diketahui ramai, namun saya amat yakin dengan dua kecacatan kronik yang sentiasa mengiringi kebangkitan kita:
-  
-    Kecacatan Pertama: Wasilah-wasilah perjuangan tidak jelas dan tidak terhad, bahkan kadangkala saling bercanggahan dan bertembung antara satu sama lain sehingga meranapkan usaha sesama sendiri tanpa kita sedari!
-    Kecacatan Kedua: Hubungan terputus sepenuhnya antara generasi terdahulu dengan generasi terkemudian (*aṣ-ṣilatu munqaṭi‘ah tamāman baynas-sābiq wal-lāḥiq*). Generasi awal tiba di separuh jalan; apabila generasi berikutnya datang, mereka enggan menyambung legasi tersebut lalu memulakan jalan baru dari titik sifar! Akhirnya, amanah perjuangan tidak pernah sampai ke garisan penamat kerana umur individu terlalu singkat berbanding umur kebangkitan bangsa!
-  
-  Dan kita sering berkhayal kononnya seorang pemimpin tunggal mampu merealisasikan segala impian umat dalam sekelip mata—suatu fantasi khayalan dan tipu daya psikologi yang wajib dilenyapkan daripada sanubari setiap pekerja dakwah agar dia dapat memanfaatkan kesinambungan amal generasi salafnya!
+Telitilah sejarah organisasi-organisasi dan bangsa-bangsa, nescaya engkau akan menyaksikan kebenaran kata-kata ini secara jelas dan nyata; dan bahawa asas kejayaan dalam setiap kebangkitan mereka ialah manhaj yang terukur dan sekumpulan manusia yang bekerja dalam batas manhaj tersebut—mereka tidak pernah jemu, tidak pernah lemah semangat, tidak pernah berputus asa, dan tidak pernah mengungkit-ungkit jasa.
 
-  Manhaj Teori & Wasilah Praktikal Ikhwanul Muslimin
-  Selepas penjelasan ini, saya ingin menegaskan kepadamu bahawa Ikhwanul Muslimin memiliki manhaj yang terukur yang sentiasa mereka ikuti langkah demi langkah, dan mereka sentiasa menimbang diri mereka dengan neracanya dari semasa ke semasa:
-  
-    Sekiranya engkau bertanya: "Apakah asas teori bagi manhaj ini?" Maka saya menjawab kepadamu dengan penuh keterusterangan: Ia adalah prinsip-prinsip dan kaedah-kaedah agung yang diturunkan oleh Al-Quranul Karim!
-    Dan sekiranya engkau bertanya: "Apakah wasilah dan langkah-langkah praktikalnya?" Saya juga menjawab kepadamu dengan penuh keterusterangan: Ia adalah wasilah dan langkah-langkah yang diwarisi daripada Baginda Rasulullah ﷺ yang agung; dan sesungguhnya tidak akan menjadi baik generasi akhir umat ini melainkan dengan apa yang telah membaiki generasi awalnya!
-  
-  
-> **ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ**
+Perkara ini amat terang dan nyata dalam langkah-langkah yang dilalui oleh seruan dakwah Islam yang pertama. Sesungguhnya Allah telah menetapkan baginya satu manhaj yang terukur yang memandu orang-orang Islam terdahulu *ridhwānullāhi ‘alaihim* melangkah ke arahnya: bermula dengan seruan dakwah secara rahsia... kemudian pengisytiharan dakwah ini secara terang-terangan dan perjuangan gigih yang tidak kenal erti jemu... kemudian hijrah ke tempat yang memiliki hati-hati yang subur dan jiwa-jiwa yang bersiap siaga... kemudian persaudaraan (*ikha'*) antara jiwa-jiwa ini dan pemantapan ikatan iman dalam sanubari mereka... kemudian perjuangan yang bersungguh-sungguh serta pembelaan kebenaran bagi menumpaskan kebatilan.
+
+Dan inilah Sayyidina Abu Bakar *radhiyallāhu ‘anhu* yang berhasrat untuk berhijrah keluar dari Mekah menuju ke Madinah, lalu Nabi ﷺ memerintahkannya agar bersabar menunggu sehinggalah datang izin daripada Allah Ta‘ālā baginya untuk berhijrah. Sehinggalah apabila selesai langkah-langkah pada bahagian pertama daripada manhaj dakwah ini—iaitu peringkat yang diamanahkan kepada Rasulullah ﷺ dari sudut pensyariatan dan pengamalan amali—maka Allah menurunkan firman-Nya:
+
+> **الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۝**
 >
 > *"Pada hari ini, Aku telah sempurnakan bagi kamu agama kamu, dan Aku telah cukupkan nikmat-Ku kepada kamu, dan Aku telah redai Islam itu menjadi agama kamu."*
 > — **Surah Al-Mā’idah (5): 3**
 
-  
-> **كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ أَنَا۠ وَرُسُلِىٓ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌۭ ۝**
+Kemudian datanglah selepas kewafatan Rasulullah ﷺ generasi sahabat dan tabi'in yang memindahkan model yang sempurna ini keluar dari Semenanjung Tanah Arab ke serata negara di dunia, supaya kalimah Allahlah yang paling tinggi, dan supaya tidak berlaku lagi fitnah kemusyrikan dan jadilah agama itu keseluruhannya milik Allah.
+
+Dan engkau, sekiranya engkau mengimbas kembali sejarah kelompok-kelompok Islam dan era-era yang telah berlalu, dan engkau bandingkan dengan berdirinya Daulah Abbasiyyah di Timur, kemudian kepada kebangkitan negara-negara Eropah moden seperti Perancis, Itali, Rusia, dan Turki—sama ada pada peringkat pertama iaitu peringkat pembentukan kesatuan dan pengasasan kerajaan, mahupun pada peringkat seterusnya iaitu peringkat pembentukan prinsip dan pembelaan teori—nescaya engkau akan melihat kesemuanya tunduk kepada manhaj-manhaj yang diketahui langkah-langkahnya, yang membuahkan hasil pasti yang diperjuangkan oleh umat tersebut.
+
+Saya meyakini, wahai saudaraku yang dikasihi, bahawa setiap peralihan sejarah dan setiap kebangkitan pada mana-mana umat pasti berjalan mengikut undang-undang (hukum sunnatullah) ini... Termasuklah kebangkitan-kebangkitan agama yang dipimpin oleh para anbiya' dan rasul *ṣalawātullāhi ‘alaihim*. Bezanya, kebangkitan-kebangkitan para nabi ini manhajnya dilakarkan terus oleh Yang Maha Benar (*Al-Ḥaqq*) Tabāraka wa Ta‘ālā, dan Dia memandu Rasul-Nya serta kaum di belakangnya dan membimbing mereka kepada langkah-langkah manhaj tersebut setapak demi setapak; setiap langkah pada waktu yang tepat, dan Dia menyokong mereka dalam setiap langkah itu dengan pertolongan-Nya... Maka kebangkitan itu pasti beroleh taufik dan kejayaan tanpa ragu-ragu:
+
+> **كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ ۝**
 >
 > *"Allah telah menetapkan: 'Sesungguhnya Aku dan Rasul-rasul-Ku pasti akan menang!' Sesungguhnya Allah Maha Kuat, lagi Maha Perkasa."*
 > — **Surah Al-Mujādilah (58): 21**
 
-  Khatimah: Menyahut Seruan Kebangkitan Sejati
-  Maka dengan kalimah ini berakhirlah siri penjelasan ringkas mengenai Ikhwanul Muslimin yang beramal secara praktikal. Dan saya menaruh harapan yang tinggi agar risalah ini meninggalkan kesan mendalam yang didambakan ke dalam sanubari para pembaca yang budiman:
-  Lalu mereka bangkit mendokong dan membantu jemaah ini yang telah mewakafkan segala-galanya pada jalan Allah dan jalan dakwah, serta menggabungkan diri bersama mereka untuk menyumbang tenaga dalam kebangkitan yang diberkati ini—suatu kebangkitan di mana setiap pejuangnya beroleh kemenangan baru setiap hari; sekiranya usahanya belum sempat mengantarkannya kepada pembukaan kemenangan, ia pasti akan mengantarkan generasi selepasnya dengan berkat pengorbanannya, insya-Allah Ta‘ālā!
+Dan dari manakah boleh datangnya kesilapan sekiranya Pengasas manhaj itu ialah Yang Maha Mengetahui lagi Maha Teliti (*Al-‘Alīm Al-Khabīr*), manakala pelaksana manhaj itu adalah seorang nabi yang terpelihara daripada kegelinciran dosa (*ma‘ṣūm ‘an az-zalal*), dipelihara daripada kesilapan, dan disokong dengan taufik serta pertolongan Ilahi? Dan bukankah atas dasar inilah perutusan kenabian itu menjadi rahmat bagi sekalian alam?
 
-> **وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۝**
+Ini adalah suatu kenyataan yang saya percaya para pembaca terbahagi kepadanya kepada dua golongan: satu golongan yang telah mengkaji sejarah bangsa-bangsa dan fasa-fasa kebangkitannya, maka dia meyakini dan mempercayai hakikat ini; manakala satu golongan lagi yang belum berpeluang mengkajinya, maka jika dia mahu dia akan mengetahui bahawa saya tidak berkata melainkan kebenaran, dan jika dia mahu dia boleh meyakininya; dan tidaklah saya menginginkan melainkan untuk melakukan islah sedaya kemampuan saya.
+
+Demikianlah ketetapan hukum pada kebangkitan-kebangkitan yang beroleh kejayaan. Namun, adakah kebangkitan umat kita hari ini telah berjalan mengikut undang-undang alam (*al-qānūn al-kawnī*) dan sunnah sosiologi kemasyarakatan ini?..
+
+Inilah perkara yang amat saya ragui! Sesungguhnya saya memerhatikan bahawa sifat gopoh-gapah (*at-tasarru‘*) yang telah berakar dalam tabiat kita, serta sikap mudah terkesan dan ledakan emosi yang membara dengan begitu cepat dalam kalangan kita—di samping sebab-sebab sosial dan faktor-faktor bukan sosial yang lain—telah menjadikan kebangkitan kita sekadar letusan emosi sementara (*fawarāt ‘āṭifiyyah*) yang marak dan menggelegak dengan kuat mengikut kekuatan rangsangan sementara, kemudian padam lenyap dan hilang seolah-olah tiada apa-apa yang pernah berlaku!
+
+Dan walaupun matlamat yang kita perjuangkan bersama telah jelas dan diketahui oleh ramai orang, namun saya amat yakin dengan dua perkara yang sentiasa mengiringi pengetahuan ini:
+
+* **Perkara Pertama:** Bahawa wasilah-wasilah (cara dan sarana) perjuangan tidak diketahui dan tidak terhad; bahkan kadangkala ia saling bercanggahan dan bertembung antara satu sama lain sehingga meranapkan usaha sesama sendiri tanpa kita sedari.
+* **Perkara Kedua:** Bahawa hubungan terputus sepenuhnya antara generasi terdahulu dengan generasi terkemudian (*al-lāḥiq*). Generasi terdahulu sampai ke separuh jalan; apabila generasi terkemudian datang, mereka tidak menyambung legasi generasi terdahulu kerana terputusnya hubungan antara mereka, lalu generasi terkemudian memulakan jalan baru yang mungkin menyampaikannya kepada takat yang dicapai oleh generasi sebelumnya, atau mungkin kurang sedikit, atau mungkin mendahului sedikit; namun walau bagaimanapun dia tidak akan dapat menyampaikan amanah itu ke garisan penamat, kerana umur individu terlalu singkat berbanding umur kebangkitan bangsa-bangsa!
+
+Dan kita sering berkhayal kononnya seorang individu tunggal mampu merealisasikan segala apa yang diidamkan oleh umat—suatu idea khayalan dan tipu daya psikologi yang wajib dihilangkan daripada jiwa setiap pekerja dakwah, agar dia dapat memanfaatkan kesinambungan amal generasi pendahulunya.
+
+Ini adalah satu penjelasan sampingan (*istiṭrād*) yang tidak dapat tidak mesti dihuraikan. Dan selepas itu saya ingin menegaskan kepadamu: Sesungguhnya Ikhwanul Muslimin memiliki **Manhaj yang Terukur (*Minhāj Maḥdūd*)** yang mereka sentiasa ikuti langkah demi langkah, dan mereka sentiasa menimbang diri mereka dengan neracanya dari semasa ke semasa untuk mengetahui di manakah kedudukan mereka daripadanya.
+
+Maka sekiranya engkau bertanya kepada mereka: *"Apakah prinsip-prinsip teori bagi manhaj ini?"* Nescaya saya menjawab kepadamu dengan penuh keterusterangan: **Ia adalah prinsip-prinsip dan kaedah-kaedah agung yang diturunkan oleh Al-Quran!**
+
+Dan sekiranya engkau bertanya: *"Apakah wasilah-wasilah dan langkah-langkah praktikal mereka?"* Nescaya saya juga menjawab kepadamu dengan penuh keterusterangan: **Ia adalah wasilah-wasilah dan langkah-langkah yang diwarisi daripada Baginda Rasulullah ﷺ yang agung; dan sesungguhnya tidak akan menjadi baik generasi akhir umat ini melainkan dengan apa yang telah membaiki generasi awalnya!**
+
+---
+
+### Khatimah: Menyahut Seruan Kebangkitan Bersama Ikhwanul Muslimin
+
+Amma ba‘du: Maka dengan kalimah ini berakhirlah siri penjelasan ringkas ini mengenai **"Adakah Ikhwanul Muslimin Golongan yang Praktikal?" (*Al-Ikhwān Al-Muslimūn Al-‘Amaliyyūn*)**.
+
+Dan saya menaruh harapan yang tinggi moga-moga risalah ini meninggalkan kesan mendalam yang didambakan ke dalam sanubari para pembaca kami yang budiman:
+
+Lalu mereka bangkit mendokong dan membantu jemaah ini yang telah mewakafkan segala-galanya pada jalan Allah dan jalan dakwah, serta menggabungkan diri bersama mereka untuk menyumbang tenaga dalam kebangkitan yang diberkati ini—suatu kebangkitan di mana setiap pejuangnya beroleh kemenangan baru pada setiap hari; sekiranya usahanya belum sempat mengantarkannya kepada pembukaan kemenangan (*al-fatḥ*), nescaya usahanya itu dengan izin Allah akan mengantarkan generasi selepasnya berkat pengorbanannya:
+
+> **وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ ۝**
 >
-> *"Dan katakanlah (wahai Muhammad): 'Beramallah kamu (akan segala kebajikan), maka Allah dan Rasul-Nya serta orang-orang yang beriman akan melihat apa yang kamu kerjakan; dan kamu akan dikembalikan kepada (Allah) Yang Mengetahui perkara yang ghaib dan yang nyata, lalu Dia memberitahu kepada kamu apa yang telah kamu kerjakan.'"*
+> *"Dan katakanlah (wahai Muhammad): 'Beramallah kamu, maka Allah dan Rasul-Nya serta orang-orang yang beriman akan melihat apa yang kamu kerjakan; dan kamu akan dikembalikan kepada (Allah) Yang Mengetahui perkara-perkara yang ghaib dan yang nyata, lalu Dia memberitahu kepada kamu apa yang telah kamu kerjakan.'"*
 > — **Surah At-Tawbah (9): 105**
