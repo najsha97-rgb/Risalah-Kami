@@ -6037,3 +6037,234 @@ body {
   font-size: 0.8rem;
   line-height: 1.45;
 }
+
+
+/* ==========================================================================
+   RISALAH 01: DA'WATUNA (8 REMAINING FASALS: F06, F07, F09, F10, F11, F13, F17, F19)
+   ========================================================================== */
+.grid-fana-2,
+.grid-wuduh-2,
+.grid-duah-2,
+.grid-wasail-2,
+.grid-sikap-2,
+.grid-rawatan-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+}
+
+.grid-daawat-4 {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.65rem;
+}
+
+.grid-optimisme-3 {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.65rem;
+}
+
+.fana-card,
+.wuduh-card,
+.daawat-card,
+.duah-card,
+.wasail-card,
+.sikap-card,
+.rawatan-card,
+.optimisme-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 06: Fana' */
+.fana-card.juzi {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.fana-card.juzi:hover { background: rgba(239, 68, 68, 0.14); transform: translateY(-1px); }
+.fana-card.juzi .fana-trait { color: #F87171; }
+
+.fana-card.total {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.fana-card.total:hover { background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%); transform: translateY(-2px); }
+.fana-card.total .fana-trait { color: #34D399; }
+
+/* Fasal 07: Wuduh */
+.wuduh-card.muslihat {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.wuduh-card.muslihat:hover { background: rgba(245, 158, 11, 0.14); transform: translateY(-1px); }
+.wuduh-card.muslihat .wuduh-trait { color: #FBBF24; }
+
+.wuduh-card.terang {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: linear-gradient(180deg, rgba(14, 165, 233, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(14, 165, 233, 0.35);
+  box-shadow: 0 4px 15px rgba(14, 165, 233, 0.12);
+}
+.wuduh-card.terang:hover { background: linear-gradient(180deg, rgba(14, 165, 233, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%); transform: translateY(-2px); }
+.wuduh-card.terang .wuduh-trait { color: #38BDF8; }
+
+/* Fasal 09: Da'awat */
+.daawat-card.nasionalisme { border-left: 3.5px solid #EF4444 !important; background: rgba(239, 68, 68, 0.06); }
+.daawat-card.nasionalisme .daawat-trait { color: #F87171; }
+
+.daawat-card.marxisme { border-left: 3.5px solid #F59E0B !important; background: rgba(245, 158, 11, 0.06); }
+.daawat-card.marxisme .daawat-trait { color: #FBBF24; }
+
+.daawat-card.kapitalisme { border-left: 3.5px solid #8B5CF6 !important; background: rgba(139, 92, 246, 0.06); }
+.daawat-card.kapitalisme .daawat-trait { color: #A78BFA; }
+
+.daawat-card.islam {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.14) 0%, rgba(15, 23, 42, 0.7) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  box-shadow: 0 4px 18px rgba(16, 185, 129, 0.18);
+}
+.daawat-card.islam .daawat-trait { color: #34D399; }
+.daawat-card:hover { transform: translateY(-1px); }
+
+/* Fasal 10: Du'ah */
+.duah-card.asing {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.duah-card.asing:hover { background: rgba(245, 158, 11, 0.14); transform: translateY(-1px); }
+.duah-card.asing .duah-trait { color: #FBBF24; }
+
+.duah-card.rabbani {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.duah-card.rabbani:hover { background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%); transform: translateY(-2px); }
+.duah-card.rabbani .duah-trait { color: #34D399; }
+
+/* Fasal 11: Wasa'il */
+.wasail-card.tradisional {
+  border-left: 3.5px solid #94A3B8 !important;
+  background: rgba(148, 163, 184, 0.06);
+}
+.wasail-card.tradisional:hover { background: rgba(148, 163, 184, 0.14); transform: translateY(-1px); }
+.wasail-card.tradisional .wasail-trait { color: #CBD5E1; }
+
+.wasail-card.moden {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: linear-gradient(180deg, rgba(14, 165, 233, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(14, 165, 233, 0.35);
+  box-shadow: 0 4px 15px rgba(14, 165, 233, 0.12);
+}
+.wasail-card.moden:hover { background: linear-gradient(180deg, rgba(14, 165, 233, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%); transform: translateY(-2px); }
+.wasail-card.moden .wasail-trait { color: #38BDF8; }
+
+/* Fasal 13: Sikap Terhadap Fahaman Lain */
+.sikap-card.mizan {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+.sikap-card.mizan:hover { background: rgba(16, 185, 129, 0.16); transform: translateY(-1px); }
+.sikap-card.mizan .sikap-trait { color: #34D399; }
+
+.sikap-card.tolak {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.sikap-card.tolak:hover { background: rgba(239, 68, 68, 0.14); transform: translateY(-1px); }
+.sikap-card.tolak .sikap-trait { color: #F87171; }
+
+/* Fasal 17: Rawatan Umat */
+.rawatan-card.diagnosis {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.rawatan-card.diagnosis:hover { background: rgba(14, 165, 233, 0.14); transform: translateY(-1px); }
+.rawatan-card.diagnosis .rawatan-trait { color: #38BDF8; }
+
+.rawatan-card.penawar {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+.rawatan-card.penawar:hover { background: rgba(16, 185, 129, 0.18); transform: translateY(-2px); }
+.rawatan-card.penawar .rawatan-trait { color: #34D399; }
+
+/* Fasal 19: Optimisme */
+.optimisme-card.fajar {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.optimisme-card.fajar:hover { background: rgba(245, 158, 11, 0.14); transform: translateY(-1px); }
+.optimisme-card.fajar .optimisme-trait { color: #FBBF24; }
+
+.optimisme-card.potensi {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.optimisme-card.potensi:hover { background: rgba(14, 165, 233, 0.14); transform: translateY(-1px); }
+.optimisme-card.potensi .optimisme-trait { color: #38BDF8; }
+
+.optimisme-card.janji {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.14) 0%, rgba(15, 23, 42, 0.7) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+}
+.optimisme-card.janji:hover { background: rgba(16, 185, 129, 0.22); transform: translateY(-2px); }
+.optimisme-card.janji .optimisme-trait { color: #34D399; }
+
+.fana-trait,
+.wuduh-trait,
+.daawat-trait,
+.duah-trait,
+.wasail-trait,
+.sikap-trait,
+.rawatan-trait,
+.optimisme-trait {
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.3px;
+  display: block;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+.fana-sub,
+.wuduh-sub,
+.daawat-sub,
+.duah-sub,
+.wasail-sub,
+.sikap-sub,
+.rawatan-sub,
+.optimisme-sub {
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--text-muted, #94a3b8);
+  display: block;
+}
+
+.fana-banner,
+.wuduh-banner,
+.daawat-banner,
+.duah-banner,
+.wasail-banner,
+.sikap-banner,
+.rawatan-banner,
+.optimisme-banner {
+  margin-top: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 6px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.45;
+}

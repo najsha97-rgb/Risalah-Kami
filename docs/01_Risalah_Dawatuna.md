@@ -289,9 +289,31 @@ Sesungguhnya dakwah ini adalah seruan yang tidak menerima sebarang perkongsian (
 
 ---
 
+> ### 💎 INFOGRAFIK PEDAGOGI: PENYERAHAN TOTAL DEMI DAKWAH (AL-FANA')
+>
+> | Tahap Komitmen | Sifat & Sikap Amilin | Kesan Kepada Kemenangan Dakwah |
+> | :--- | :--- | :--- |
+> | **⚠️ Komitmen Separuh Masa** | Tawar-menawar, berkira tenaga & beramal ikut kelapangan | Melemahkan saf & mudah lari tatkala diuji mehnah |
+> | **💎 Penyerahan Total (*Al-Fanā’*)** | Menyerahkan masa, harta, fikiran & darah raga demi syariat | Menarik nusrah Ilahi; melahirkan rijal pejuang sejati |
+>
+> 📖 **Kaidah Al-Fanā':** *"Dakwah ini tidak menerima komitmen separuh masa; ia menuntut daripada pendukungnya penyerahan jiwa dan raga secara total!"*
+
+---
+
 ### 7. Kejelasan Prinsip (الوضوح - Al-Wuḍūḥ)
 
 Kami menyeru manusia kepada suatu **Prinsip (مبدأ - Mabda')**... prinsip yang jelas, nyata batasannya, serta diakui dan disepakati oleh mereka semua. Mereka semua mengenalinya, mengimaninya, mengakui kebenarannya, dan meyakini bahawa padanya terdapat jalan keselamatan, kebahagiaan, dan ketenteraman hidup mereka... Suatu prinsip yang telah dibuktikan oleh pengalaman dan diputuskan oleh sejarah tentang kelayakannya untuk kekal abadi serta kemampuannya memulihkan kesejahteraan alam kewujudan ini.
+
+---
+
+> ### ☀️ INFOGRAFIK PEDAGOGI: KEJELASAN PRINSIP DAKWAH (AL-WUDUH)
+>
+> | Sifat Seruan | Ciri-Ciri Langkah | Perlindungan Fikrah |
+> | :--- | :--- | :--- |
+> | **🌫️ Muslihat Politik Licik** | Berselindung di balik slogan manis demi merebut kuasa duniawi | Menimbulkan curiga & memecahbelahkan kepercayaan umat |
+> | **✨ Kejelasan Wahyu (*Al-Wuḍūḥ*)** | Terang benderang; berpaut terus kpd Al-Quran & as-Sunnah | Disepakati seluruh umat; melahirkan keyakinan padu |
+>
+> ☀️ **Prinsip Al-Wuḍūḥ:** *"Kami tidak menyembunyikan apa-apa; seruan kami adalah Al-Quran dan as-Sunnah yang seterang matahari di rembang hari!"*
 
 ---
 
@@ -321,9 +343,33 @@ Maka saya kembali kepada intipati ucapan saya: sesungguhnya seruan Ikhwanul Musl
 
 ---
 
+> ### 🌐 INFOGRAFIK PEDAGOGI: PETA PERTEMBUNGAN 4 ARUS IDEOLOGI
+>
+> | Aliran Ideologi | Pokok Doktrin & Seruan | Kelemahan & Krisis Ditimbulkan |
+> | :--- | :--- | :--- |
+> | **🏴 Nasionalisme Sekular** | Fanatik bangsa & sempadan darah sempit | Memecahbelahkan perpaduan umat sejagat |
+> | **🚩 Marxisme Komunis** | Materialisme dialektik & menafikan alam roh | Merampas fitrah kemanusiaan & menindas individu |
+> | **💵 Kapitalisme Liberal** | Riba, monopoli modal & kebebasan nafsu liar | Melebarkan jurang kemiskinan & keruntuhan maruah |
+> | **✨ Islam Rabbani** | Keadilan wahyu syumul bagi sekalian alam | Menyelamatkan akal, memelihara maruah & membina watan |
+>
+> 🧭 **Ketetapan Fikrah:** *"Di tengah kekeliruan pelbagai ideologi manusia, dakwah Islam hadir sebagai satu-satunya penawar rabbani yang menenteramkan jiwa!"*
+
+---
+
 ### 10. Pendakwah Moden yang Terlatih (دعاة - Du‘āh)
 
 Para propagandis dan pendakwah ideologi hari ini jauh berbeza berbanding masa lampau. Mereka adalah golongan berpendidikan tinggi, dilengkapi peralatan canggih, terlatih secara sistematik, dan berstatus pakar — terutamanya di negara-negara Barat. Di sana, bagi setiap gagasan dibentuk ketumbukan pasukan khas yang terlatih untuk menghuraikan kekaburannya, menonjolkan kelebihannya, merekacipta wasilah penyebaran dan kaedah propaganda, serta meneroka laluan paling mudah, paling pantas, dan paling dekat ke lubuk jiwa manusia agar mereka yakin dan patuh mengikutinya.
+
+---
+
+> ### 🎓 INFOGRAFIK PEDAGOGI: KUALITI RIJAL DU'AT RABBANI
+>
+> | Barisan Pendakwah | Kelengkapan & Metodologi | Kekuatan Sebenar |
+> | :--- | :--- | :--- |
+> | **💼 Pendakwah Ideologi Asing** | Latihan psikologi canggih & tajaan dana imperialis | Bersandar pada sokongan material lahiriah |
+> | **👑 Pendakwah Islam Rabbani** | Paduan ilmu semasa, profesionalisme & keikhlasan akidah | Bersambung terus dengan nusrah Allah Yang Maha Kuasa |
+>
+> 🎓 **Tuntutan Rijal:** *"Cabaran zaman moden memerlukan barisan pendakwah yang cerdas akalnya, profesional kemahirannya, dan ikhlas hatinya!"*
 
 ---
 
@@ -342,6 +388,17 @@ Perkara ini menuntut saya membicarakan dua aspek utama:
 2. **Pendirian dakwah kami terhadap setiap bentuk seruan dan ideologi semasa.**
 
 Janganlah engkau mencela saya atas huraian ini, kerana saya telah menetapkan azam pada diri saya untuk menulis sebagaimana saya berbicara, dan mengupas mauduk ini dengan gaya penulisan yang bebas daripada kepura-puraan dan kerumitan. Saya mahu manusia memahami hakikat diri saya seadanya, dan kata-kata saya sampai ke lubuk jiwa mereka dalam keadaan bersih daripada hiasan kepalsuan dan pembahagian yang mengelirukan.
+
+---
+
+> ### 📡 INFOGRAFIK PEDAGOGI: REVOLUSI MEDIA & WASILAH DAKWAH
+>
+> | Era Wasilah | Saluran & Instrumen | Jangkauan & Impak |
+> | :--- | :--- | :--- |
+> | **📜 Era Tradisional Silam** | Khutbah mimbar lisan & utusan surat terhad | Terhad kepada khalayak setempat yang hadir |
+> | **🚀 Era Revolusi Media Moden** | Akhbar, stesen penyiaran, teater & platform digital | Merentas sempadan dunia; membentuk pandangan awam sejagat |
+>
+> 📡 **Prinsip Wasilah:** *"Wasilah moden adalah alat yang netral; barangsiapa menguasainya dengan iman, dia akan memimpin minda zaman!"*
 
 ---
 
@@ -377,6 +434,17 @@ Benar: dakwah kami adalah dakwah Islamiyyah dengan segala keluasan makna yang te
 Adapun pendirian kami terhadap pelbagai seruan semasa yang melimpah-ruah pada zaman ini — yang telah memecahbelahkan hati dan mengelirukan pemikiran — ialah: **kami menimbangnya dengan neraca dakwah kami**. 
 
 Apa sahaja yang bertepatan dan selari dengannya, maka selamat datang kami ucapkan! Dan apa sahaja yang bercanggah dengannya, maka kami berlepas diri daripadanya. Kami beriman teguh bahawa dakwah kami adalah seruan yang bersifat universal dan menyeluruh (*‘āmmah muḥīṭah*); ia tidak meninggalkan mana-mana bahagian kebaikan daripada apa jua seruan melainkan ia telah menyentuhnya dan memberi petunjuk mengenainya.
+
+---
+
+> ### ⚖️ INFOGRAFIK PEDAGOGI: NERACA ISLAM MENILAI FAHAMAN SEMASA
+>
+> | Penilaian Terhadap Fahaman Lain | Sikap & Tindakan Haraki | Sandaran Hukum |
+> | :--- | :--- | :--- |
+> | **🤝 Bertepatan Prinsip Islam** | Diterima dengan lapang dada & disokong penuh | Maslahat sejagat menepati maqasid syariat |
+> | **🛡️ Bercanggah dengan Syariat** | Ditolak secara tegas dengan hujah hikmah | Memelihara kesucian akidah daripada syubhat |
+>
+> ⚖️ **Neraca Mutlak:** *"Kami tidak taksub kepada individu atau parti; neraca kami adalah Al-Quran—yang menepatinya kami sokong, yang menyimpang kami tolak!"*
 
 ---
 
@@ -583,6 +651,17 @@ Katakanlah perumpamaan yang serupa ini pada umat-umat manusia sepenuhnya! Umat d
 
 ---
 
+> ### 🩺 INFOGRAFIK PEDAGOGI: KLINIK PERUBATAN TAMADUN UMMAH
+>
+> | Fasa Rawatan | Diagnosis & Tindakan | Matlamat Kesihatan Ummah |
+> | :--- | :--- | :--- |
+> | **🔍 Diagnosis Klinikal** | Mengetahui penyakit kelemahan & kelesuan umat | Memahami punca sakit; yakin ia bukan kematian kekal |
+> | **💊 Preskripsi Penawar Syariat** | Mengambil ubat asli drpd farmasi Al-Quran & Sunnah | Memulihkan akidah, menyatukan saf & membina semula watan |
+>
+> 🩺 **Keyakinan Kesembuhan:** *"Umat ini belum mati dan tidak akan mati; berikanlah kepadanya penawar Al-Quran, nescaya ia akan bangun sihat semula!"*
+
+---
+
 ### 18. Gejala Penyakit Umat Timur (الأعراض - Al-A‘rāḍ)
 
 Pengalaman dan peristiwa sejarah telah mengajar kami bahawa penyakit yang menimpa bangsa-bangsa Timur ini amat bercabang dan memiliki pelbagai gejala yang melumpuhkan segenap sendi kehidupan:
@@ -637,6 +716,18 @@ Tatkala engkau membaca ayat-ayat mulia ini, engkau akan melihat bagaimana kebati
 Tiadalah selepas ayat yang mulia ini dan seumpamanya daripada ayat-ayat Kitabullah sebarang alasan untuk berputus asa dan berputus harapan bagi mana-mana umat daripada umat Islam yang beriman kepada Allah, Rasul-Nya, dan Kitab-Nya. Maka bilakah umat Islam akan mendalami kefahaman terhadap Kitabullah?!
 
 Kerana ayat-ayat seperti inilah wahai saudaraku — dan ia amat banyak di dalam agama Allah — Ikhwanul Muslimin tidak pernah berputus asa daripada turunnya pertolongan Allah ke atas umat ini walaupun terdapat pelbagai rintangan yang terbentang di hadapannya. Dan di bawah suluhan cahaya harapan inilah mereka beramal dengan kesungguhan orang yang menaruh harapan tinggi, dan Allahlah tempat memohon pertolongan.
+
+---
+
+> ### 🌅 INFOGRAFIK PEDAGOGI: TIGA SULUH OPTIMISME KEBANGKITAN
+>
+> | Suluh Harapan | Dalil Sunnatullah & Sejarah | Sikap Amilin Mendepani Masa Depan |
+> | :--- | :--- | :--- |
+> | **🌅 Hukum Malam & Fajar** | Puncak kepekatan malam adalah petanda fajar menyingsing | Yakin tribulasi berat adalah mukadimah fajar kemenangan |
+> | **🌋 Potensi Raksasa Ummah** | Bara akidah tersimpan dalam jiwa jutaan muslimin | Bersiap siaga memimpin kebangkitan massa umat |
+> | **👑 Kepastian Janji Ilahi** | Allah menjanjikan kemenangan kpd orang yang beriman | Menolak sebarang keputusasaan; mara beramal tanpa ragu |
+>
+> ☀️ **Suluh Keyakinan:** *"Tiada pemisah antara kita dengan kemenangan melainkan hilangnya putus asa dan berputiknya tekad juang yang membara!"*
 
 ---
 
