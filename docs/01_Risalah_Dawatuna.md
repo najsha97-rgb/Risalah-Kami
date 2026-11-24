@@ -15,14 +15,38 @@ Risalah *Da‘watunā (Seruan Dakwah Kami)* merupakan piagam asas manifestasi fi
 ### [FASAL 01 • MUKADIMAH] 1. Keterusterangan (المصارحة - Al-Muṣāraḥah)
 Menegaskan kewajipan berterus-terang (al-muṣāraḥah) kepada seluruh manusia mengenai matlamat dan manhaj dakwah tanpa sebarang kesamaran, kepura-puraan, atau agenda tersembunyi. Dakwah ini bersumberkan wahyu yang benderang bagaikan fajar menyingsing, menyeru manusia kembali kepada fitrah Islam yang suci dan membebaskan akal daripada belenggu kekeliruan.
 
+🧭 **INFOGRAFIK 4 TONGGAK JIWA & ETIKA PENDAKWAH (MUKADIMAH):**
+* 🌅 **Tonggak 1: Keterusterangan** (*Al-Muṣāraḥah*) ➔ Jelas, telus & tiada agenda tersembunyi
+* 💎 **Tonggak 2: Pembersihan Diri** (*Al-Barā'ah*) ➔ Ikhlas mutlak & bebas tuntutan habuan dunia
+* ❤️ **Tonggak 3: Kasih Sayang** (*Al-‘Āṭifah*) ➔ Rela berkorban & berkhidmat demi kebaikan umat
+* 🤲 **Tonggak 4: Kurnia Milik Allah** (*Lillāhil-Faḍlu wal-Minnah*) ➔ Tidak mengungkit jasa & tawakal bulat
+
 ### [FASAL 02 • KEIKHLASAN] 2. Pembersihan Diri & Keikhlasan (البراءة - Al-Barā'ah)
 Mengisytiharkan pembersihan diri yang mutlak (al-barā'ah) daripada sebarang kepentingan kebendaan, pangkat kedudukan, atau cita-cita peribadi. Menolak permohonan sumbangan daripada individu atau pihak yang berkepentingan demi menjaga kemurnian dan kedaulatan dakwah agar kekal ikhlas semata-mata mengharapkan keredaan Allah.
+
+🧭 **INFOGRAFIK 4 TONGGAK JIWA & ETIKA PENDAKWAH (MUKADIMAH):**
+* 🌅 **Tonggak 1: Keterusterangan** (*Al-Muṣāraḥah*) ➔ Jelas, telus & tiada agenda tersembunyi
+* 💎 **Tonggak 2: Pembersihan Diri** (*Al-Barā'ah*) ➔ Ikhlas mutlak & bebas tuntutan habuan dunia
+* ❤️ **Tonggak 3: Kasih Sayang** (*Al-‘Āṭifah*) ➔ Rela berkorban & berkhidmat demi kebaikan umat
+* 🤲 **Tonggak 4: Kurnia Milik Allah** (*Lillāhil-Faḍlu wal-Minnah*) ➔ Tidak mengungkit jasa & tawakal bulat
 
 ### [FASAL 03 • KASIH SAYANG] 3. Kasih Sayang & Belas Kasihan (العاطفة - Al-‘Āṭifah)
 Mendedahkan bahawa enjin penggerak dakwah ini bukanlah permusuhan atau dendam, sebaliknya limpahan kasih sayang sejati (al-‘āṭifah) terhadap umat yang sedang menderita dalam kelemahan. Para pendakwah rela mengorbankan kesenangan diri dan mencucurkan titisan darah demi membahagiakan insan lain serta menebus maruah umat yang tercalar.
 
+🧭 **INFOGRAFIK 4 TONGGAK JIWA & ETIKA PENDAKWAH (MUKADIMAH):**
+* 🌅 **Tonggak 1: Keterusterangan** (*Al-Muṣāraḥah*) ➔ Jelas, telus & tiada agenda tersembunyi
+* 💎 **Tonggak 2: Pembersihan Diri** (*Al-Barā'ah*) ➔ Ikhlas mutlak & bebas tuntutan habuan dunia
+* ❤️ **Tonggak 3: Kasih Sayang** (*Al-‘Āṭifah*) ➔ Rela berkorban & berkhidmat demi kebaikan umat
+* 🤲 **Tonggak 4: Kurnia Milik Allah** (*Lillāhil-Faḍlu wal-Minnah*) ➔ Tidak mengungkit jasa & tawakal bulat
+
 ### [FASAL 04 • TAUFIK ALLAH] 4. Segala Kurnia & Kelebihan Milik Allah (لله الفضل والمنة - Lillāhil-Faḍlu wal-Minnah)
 Menolak keras sikap mengungkit jasa dan budi dalam perjuangan berasaskan firman Allah dalam Surah Al-Hujurat (ayat 17). Segala kelebihan, taufik kejayaan, dan hidayah kembali kepada Allah SWT semata-mata, manakala pendakwah hanyalah hamba yang terpilih untuk menyambung tugas agung para anbiya'.
+
+🧭 **INFOGRAFIK 4 TONGGAK JIWA & ETIKA PENDAKWAH (MUKADIMAH):**
+* 🌅 **Tonggak 1: Keterusterangan** (*Al-Muṣāraḥah*) ➔ Jelas, telus & tiada agenda tersembunyi
+* 💎 **Tonggak 2: Pembersihan Diri** (*Al-Barā'ah*) ➔ Ikhlas mutlak & bebas tuntutan habuan dunia
+* ❤️ **Tonggak 3: Kasih Sayang** (*Al-‘Āṭifah*) ➔ Rela berkorban & berkhidmat demi kebaikan umat
+* 🤲 **Tonggak 4: Kurnia Milik Allah** (*Lillāhil-Faḍlu wal-Minnah*) ➔ Tidak mengungkit jasa & tawakal bulat
 
 ### [FASAL 05 • TIPOLOGI MANUSIA] 5. Empat Golongan Manusia (أصناف أربعة - Aṣnāf Arba‘ah)
 Mengelaskan manusia ketika berhadapan dakwah kepada 4 golongan: (1) Mukmin yang terus menyahut seruan, (2) Ragu-ragu yang memerlukan bimbingan hujah, (3) Oportunis yang menanti habuan duniawi, dan (4) Berprasangka yang menolak kerana prejudis. Duat dituntut bersikap sabar, menyantuni setiap kategori dengan hikmah, dan mendoakan hidayah sebagaimana teladan Rasulullah ﷺ.
@@ -87,6 +111,13 @@ Kami berhasrat untuk berterus-terang kepada seluruh manusia mengenai matlamat pe
 
 ---
 
+> 🧭 **[RUMUSAN PEDAGOGI TONGGAK 1]**
+> Al-Imam Hasan al-Banna mematrikan empat prinsip moral asas bagi jiwa pendakwah sebelum turun beramal:
+> 1. 🌅 **Keterusterangan (المصارحة)** — Jelas & telus.
+> 2. 💎 **Pembersihan Diri (البراءة)** — Ikhlas & bebas kepentingan.
+> 3. ❤️ **Kasih Sayang (العاطفة)** — Berkhidmat & berkorban demi umat.
+> 4. 🤲 **Kurnia Milik Allah (الفضل والمنة)** — Tidak mengungkit jasa & tawakal bulat.
+
 ### 2. Pembersihan Diri & Keikhlasan (البراءة - Al-Barā'ah)
 
 Di samping itu, kami amat suka sekiranya kaum kami — dan seluruh umat Islam itu adalah kaum kami — mengetahui bahawa dakwah Ikhwanul Muslimin adalah sebuah seruan yang suci murni dan telus (*barī'ah nazīhah*). Kesuciannya telah melonjak tinggi sehingga melangkaui segala cita-cita kepentingan peribadi, menghinakan segala keuntungan kebendaan, mencampakkan ke belakang segala hawa nafsu dan agenda tersembunyi, serta melangkah mantap mara ke hadapan di atas jalan lurus yang digariskan oleh Allah Yang Maha Benar lagi Maha Berkat bagi para penyeru ke jalan-Nya:
@@ -99,6 +130,13 @@ Maka kami sama sekali tidak meminta apa-apa daripada manusia; kami tidak menuntu
 
 ---
 
+> 🧭 **[RUMUSAN PEDAGOGI TONGGAK 2]**
+> Al-Imam Hasan al-Banna mematrikan empat prinsip moral asas bagi jiwa pendakwah sebelum turun beramal:
+> 1. 🌅 **Keterusterangan (المصارحة)** — Jelas & telus.
+> 2. 💎 **Pembersihan Diri (البراءة)** — Ikhlas & bebas kepentingan.
+> 3. ❤️ **Kasih Sayang (العاطفة)** — Berkhidmat & berkorban demi umat.
+> 4. 🤲 **Kurnia Milik Allah (الفضل والمنة)** — Tidak mengungkit jasa & tawakal bulat.
+
 ### 3. Kasih Sayang & Belas Kasihan (العاطفة - Al-‘Āṭifah)
 
 Kami amat mencintai sekiranya kaum kami mengetahui bahawa mereka adalah lebih kami kasihi berbanding diri kami sendiri. Jiwa-jiwa kami ini berasa amat bahagia sekiranya dapat melayang gugur sebagai tebusan demi mengembalikan kemuliaan mereka — sekiranya pengorbanan itu mampu menebusnya; dan rela binasa sebagai harga bagi memulihkan keagungan, maruah, agama, serta cita-cita mereka — sekiranya darah kami bernilai untuk itu.
@@ -108,6 +146,13 @@ Tiadalah yang mendorong kami berdiri teguh pada pendirian ini di hadapan mereka 
 Kami berkhidmat untuk seluruh manusia pada jalan Allah jauh melebihi usaha kami untuk kepentingan diri kami sendiri. Sesungguhnya kami adalah untuk kalian — bukan untuk selain kalian — wahai saudara-saudara yang kami cintai; dan kami tidak akan sesekali memusuhi kalian pada bila-bila masa pun!
 
 ---
+
+> 🧭 **[RUMUSAN PEDAGOGI TONGGAK 3]**
+> Al-Imam Hasan al-Banna mematrikan empat prinsip moral asas bagi jiwa pendakwah sebelum turun beramal:
+> 1. 🌅 **Keterusterangan (المصارحة)** — Jelas & telus.
+> 2. 💎 **Pembersihan Diri (البراءة)** — Ikhlas & bebas kepentingan.
+> 3. ❤️ **Kasih Sayang (العاطفة)** — Berkhidmat & berkorban demi umat.
+> 4. 🤲 **Kurnia Milik Allah (الفضل والمنة)** — Tidak mengungkit jasa & tawakal bulat.
 
 ### 4. Segala Kurnia & Kelebihan Milik Allah (لله الفضل والمنة - Lillāhil-Faḍlu wal-Minnah)
 
@@ -122,6 +167,13 @@ Alangkah kami mengharapkan — sekiranya angan-angan itu mendatangkan manfaat �
 Dan adakah mereka menemui melainkan kepedihan yang menghancurkan jiwa akibat melihat keadaan tenat yang menimpa kita pada hari ini? Namun cukuplah bagi kami bahawa Allah Maha Mengetahui semua itu. Dialah satu-satunya Penjamin pertolongan dan Pengurnia taufik ke jalan ketetapan yang tepat. Di tangan-Nya terletak segala kendali hati dan kunci-kuncinya. Sesiapa yang diberi petunjuk oleh Allah maka tiada siapa yang dapat menyesatkannya, dan sesiapa yang disesatkan oleh Allah maka tiada siapa yang dapat memberinya petunjuk. Cukuplah Allah menjadi Penolong kami dan Dialah sebaik-baik Pelindung. Bukankah Allah mencukupi bagi hamba-Nya?
 
 ---
+
+> 🧭 **[RUMUSAN PEDAGOGI TONGGAK 4]**
+> Al-Imam Hasan al-Banna mematrikan empat prinsip moral asas bagi jiwa pendakwah sebelum turun beramal:
+> 1. 🌅 **Keterusterangan (المصارحة)** — Jelas & telus.
+> 2. 💎 **Pembersihan Diri (البراءة)** — Ikhlas & bebas kepentingan.
+> 3. ❤️ **Kasih Sayang (العاطفة)** — Berkhidmat & berkorban demi umat.
+> 4. 🤲 **Kurnia Milik Allah (الفضل والمنة)** — Tidak mengungkit jasa & tawakal bulat.
 
 ### 5. Empat Golongan Manusia (أصناف أربعة - Aṣnāf Arba‘ah)
 
