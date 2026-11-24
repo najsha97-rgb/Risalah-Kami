@@ -561,11 +561,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (hasRich) {
         quoteText = item.quote;
-        themeTag = `<span class="quote-theme-badge"><i class="fas fa-sparkles"></i> ${item.theme}</span>`;
-        if (item.ar_snippet) {
-          arSnippet = `<div class="quote-ar-snippet ${fontClass}" dir="rtl" lang="ar">${item.ar_snippet}</div>`;
+        themeTag = `<span class="quote-theme-badge"><i class="fas fa-sparkles"></i> ${(item.theme || item.badge)}</span>`;
+        if (item.ar_snippet || item.quote_ar) {
+          arSnippet = `<div class="quote-ar-snippet ${fontClass}" dir="rtl" lang="ar">${item.ar_snippet || item.quote_ar}</div>`;
         }
-        refFasal = `<div class="quote-fasal-ref"><i class="fas fa-bookmark ref-icon"></i> ${item.fasal}</div>`;
+        refFasal = `<div class="quote-fasal-ref"><i class="fas fa-bookmark ref-icon"></i> ${item.fasal || item.source || risalah.title}</div>`;
       } else {
         quoteText = typeof item === 'string' ? item : item.quote;
         themeTag = `<span class="quote-theme-badge">HIKMAH 0${idx + 1}</span>`;
@@ -599,7 +599,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const fullShare = `"${quoteText}"\n— Al-Imam Hasan al-Banna (${hasRich ? item.fasal : risalah.title})`;
         if (navigator.share) {
           navigator.share({
-            title: `Mutiara Hikmah: ${hasRich ? item.theme : risalah.title}`,
+            title: `Mutiara Hikmah: ${hasRich ? (item.theme || item.badge) : risalah.title}`,
             text: fullShare,
             url: window.location.href
           }).catch(() => { });

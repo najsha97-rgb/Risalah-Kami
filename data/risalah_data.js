@@ -169,7 +169,12 @@ var RISALAH_DATA = [
       "Kami sentiasa mencari keuzuran bagi mereka yang berbeza pandangan dengan kami dalam sebahagian perkara cabang, dan kami berpendapat bahawa perbezaan ini sama sekali tidak boleh menjadi penghalang kepada tautan hati, pertukaran kasih sayang, dan kerjasama dalam kebajikan. — Fasal 16: Fiqh Ikhtilaf (أمام الخلافات الدينية)",
       "Kami sama sekali tidak berputus asa terhadap diri kami! Kami menaruh harapan yang amat besar dan meyakini bahawa tiada yang menghalang antara kita dengan kejayaan melainkan rasa putus asa ini. Sekiranya harapan mengukuh di dalam jiwa kita, nescaya kita akan sampai kepada kebaikan yang melimpah ruah dengan izin Allah Taala. — Fasal 19: Optimisme Harapan (أمل وشعور)",
       "Adapun wasilah berputar di atas tiga rukun: Manhaj yang Sahih di dalam Kitabullah dan Sunnah Rasul-Nya, Para Penggerak yang Beriman yang mengamalkan apa yang difahami dengan tegas tanpa kompromi, serta Kepimpinan yang Tegas lagi Diyakini. — Fasal 20: Tiga Rukun Wasilah (الأركان الثلاثة)",
-      "Inilah apa yang ingin saya bicarakan kepadamu mengenai seruan dakwah kami... ia adalah suatu takwil yang mempunyai tafsirannya, dan engkaulah Yusuf bagi mimpi-mimpi kebangkitan ini! Sekiranya engkau tertarik dengan pegangan kami ini, maka hulurkanlah tanganmu bersama tangan-tangan kami untuk kita beramal bersama-sama di atas jalan ini. Allah adalah Pelindung taufik kami; Dialah yang mencukupi bagi kami dan Dialah sebaik-baik Pengurus, sebaik-baik Pemimpin, dan sebaik-baik Penolong! — Fasal 21: Penutup & Seruan (خاتمة)"
+      "Inilah apa yang ingin saya bicarakan kepadamu mengenai seruan dakwah kami... ia adalah suatu takwil yang mempunyai tafsirannya, dan engkaulah Yusuf bagi mimpi-mimpi kebangkitan ini! Sekiranya engkau tertarik dengan pegangan kami ini, maka hulurkanlah tanganmu bersama tangan-tangan kami untuk kita beramal bersama-sama di atas jalan ini. Allah adalah Pelindung taufik kami; Dialah yang mencukupi bagi kami dan Dialah sebaik-baik Pengurus, sebaik-baik Pemimpin, dan sebaik-baik Penolong! — Fasal 21: Penutup & Seruan (خاتمة)",
+      "Seruan Ikhwanul Muslimin adalah seruan prinsip; sedangkan di Timur dan Barat hari ini terdapat pelbagai ideologi, doktrin, dan fahaman yang membahagi-bahagikan akal fikiran manusia serta merebut pengaruh jiwa mereka — dan hanya dakwah Islam yang hadir membawa penawar rabbani yang menenteramkan.",
+      "Para pendakwah zaman moden kini membentuk barisan terlatih yang berilmu dan bersenjata strategik, mencipta wasilah penyebaran terbaik serta meneroka laluan paling mudah, pantas, dan tepat ke lubuk hati manusia.",
+      "Perumpamaan umat dalam sihat dan sakitnya persis seorang insan: apabila diserang penyakit yang melemahkannya, ia memerlukan seorang tabib mahir yang menetapkan ubat pahit dan pantang ketat sehingga Allah mengizinkan kesembuhan serta kebangkitan semula.",
+      "Undang-undang ciptaan manusia yang mandul tidak mampu mencegah penjenayah, tidak dapat mendidik penceroboh, dan tidak akan pernah menggantikan walau sehari pun keagungan syariat samawi yang diturunkan oleh Pencipta makhluk dan Pemilik kerajaan alam.",
+      "Penyakit kejiwaan paling dahsyat yang melumpuhkan umat ialah keputusasaan yang membunuh (ya’sun qātil), kelesuan mematikan, sifat bacul, kelelakian lembik, serta kebakhilan yang mengeluarkan umat daripada saf mujahidin ke saf orang-orang yang leka bermain."
     ],
     "summary": [
       {
@@ -509,6 +514,41 @@ var RISALAH_DATA = [
         "fasal": "Fasal 21: Penutup & Seruan (خاتمة)",
         "ar_snippet": "هَذَا مَا أَرَدْتُ أَنْ أَتَحَدَّثَ بِهِ إِلَيْكَ عَنْ دَعْوَتِنَا وَهُوَ تَعْبِيرٌ لَهُ تَعْبِيرٌ، وَأَنْتَ يُوسُفُ هَذِهِ الأَحْلَامِ، فَإِنْ رَاقَكَ مَا نَحْنُ عَلَيْهِ فَيَدُكَ مَعَ أَيْدِينَا لِنَعْمَلَ سَوِيًّا فِي هَذَا السَّبِيلِ، وَاللهُ وَلِيُّ تَوْفِيقِنَا وَهُوَ حَسْبُنَا وَنِعْمَ الْوَكِيلُ.",
         "quote": "Inilah apa yang ingin saya bicarakan kepadamu mengenai seruan dakwah kami... ia adalah suatu takwil yang mempunyai tafsirannya, dan engkaulah Yusuf bagi mimpi-mimpi kebangkitan ini! Sekiranya engkau tertarik dengan pegangan kami ini, maka hulurkanlah tanganmu bersama tangan-tangan kami untuk kita beramal bersama-sama di atas jalan ini. Allah adalah Pelindung taufik kami; Dialah yang mencukupi bagi kami dan Dialah sebaik-baik Pengurus, sebaik-baik Pemimpin, dan sebaik-baik Penolong!"
+      },
+      {
+        "id": "daw_q_31",
+        "theme": "Pertarungan Ideologi Merangkul Akal Manusia",
+        "fasal": "Fasal 09: Gelombang Seruan & Ideologi Semasa (دعوات)",
+        "ar_snippet": "دَعْوَةُ الإِخْوَانِ المُسْلِمِينَ دَعْوَةُ مَبْدَإٍ؛ وَفِي الشَّرْقِ وَالغَرْبِ اليَوْمَ دَعَوَاتٌ وَمَبَادِئُ وَمَذَاهِبُ تَتَقَاسَمُ عُقُولَ النَّاسِ وَتَتَنَازَعُ نُفُوسَهُمْ.",
+        "quote": "Seruan Ikhwanul Muslimin adalah seruan prinsip; sedangkan di Timur dan Barat hari ini terdapat pelbagai ideologi, doktrin, dan fahaman yang membahagi-bahagikan akal fikiran manusia serta merebut pengaruh jiwa mereka — dan hanya dakwah Islam yang hadir membawa penawar rabbani yang menenteramkan."
+      },
+      {
+        "id": "daw_q_32",
+        "theme": "Kriteria Pendakwah Moden yang Tersusun",
+        "fasal": "Fasal 10: Pendakwah Moden yang Terlatih (دعاة)",
+        "ar_snippet": "لَقَدْ تَطَوَّرَ الدُّعَاةُ اليَوْمَ فَصَارُوا فِرَقًا مُدَرَّبَةً مُجَهَّزَةً، تَبْتَكِرُ أَحْدَثَ الوَسَائِلِ وَأَقْرَبَ الطُّرُقِ إِلَى أَعْمَاقِ النُّفُوسِ وَالقُلُوبِ.",
+        "quote": "Para pendakwah zaman moden kini membentuk barisan terlatih yang berilmu dan bersenjata strategik, mencipta wasilah penyebaran terbaik serta meneroka laluan paling mudah, pantas, dan tepat ke lubuk hati manusia."
+      },
+      {
+        "id": "daw_q_33",
+        "theme": "Ubat Pahit & Pantang Demi Kesembuhan Ummah",
+        "fasal": "Fasal 17: Menuju Rawatan & Pemulihan Umat (إلى العلاج)",
+        "ar_snippet": "إِنَّ مَثَلَ الأُمَّةِ فِي قُوَّتِهَا وَمَرَضِهَا كَمَثَلِ الفَرْدِ، يَصْبِرُ عَلَى مَرَارَةِ الدَّوَاءِ وَقَسْوَةِ الحِمْيَةِ بِيَدِ طَبِيبٍ مَاهِرٍ حَتَّى يَأْذَنَ اللَّهُ بِالشِّفَاءِ.",
+        "quote": "Perumpamaan umat dalam sihat dan sakitnya persis seorang insan: apabila diserang penyakit yang melemahkannya, ia memerlukan seorang tabib mahir yang menetapkan ubat pahit dan pantang ketat sehingga Allah mengizinkan kesembuhan serta kebangkitan semula."
+      },
+      {
+        "id": "daw_q_34",
+        "theme": "Mandulnya Undang-Undang Ciptaan Manusia",
+        "fasal": "Fasal 18: Gejala Penyakit Umat Timur (الأعراض)",
+        "ar_snippet": "القَوَانِينُ الوَضْعِيَّةُ العَقِيمَةُ لَا تَزْجُرُ مُجْرِمًا وَلَا تَرْدَعُ مُعْتَدِيًا، وَلَا تُغْنِي عَنْ شَرِيعَةِ خَالِقِ الخَلْقِ وَمَالِكِ المُلْكِ يَوْمًا وَاحِدًا.",
+        "quote": "Undang-undang ciptaan manusia yang mandul tidak mampu mencegah penjenayah, tidak dapat mendidik penceroboh, dan tidak akan pernah menggantikan walau sehari pun keagungan syariat samawi yang diturunkan oleh Pencipta makhluk dan Pemilik kerajaan alam."
+      },
+      {
+        "id": "daw_q_35",
+        "theme": "Virus Keputusasaan yang Mematikan Jiwa",
+        "fasal": "Fasal 18: Gejala Penyakit Umat Timur (الأعراض)",
+        "ar_snippet": "أَخْطَرُ أَمْرَاضِ النُّفُوسِ اليَأْسُ القَاتِلُ، وَالكَسَلُ المُمِيتُ، وَالجُبْنُ الفَاضِحُ، وَالخُنُوثَةُ الفَاشِيَةُ، وَالشُّحُّ الَّذِي يُخْرِجُ الأُمَّةَ مِنْ صَفِّ المُجَاهِدِينَ.",
+        "quote": "Penyakit kejiwaan paling dahsyat yang melumpuhkan umat ialah keputusasaan yang membunuh (ya’sun qātil), kelesuan mematikan, sifat bacul, kelelakian lembik, serta kebakhilan yang mengeluarkan umat daripada saf mujahidin ke saf orang-orang yang leka bermain."
       }
     ]
   },
@@ -1384,7 +1424,12 @@ var RISALAH_DATA = [
       "Mereka membunuh seorang tua yang putih rambutnya, yang dahinya bercahaya dengan tanda sujud, yang menghidupkan malam-malamnya dengan tasbih dan alunan Al-Quran.",
       "Dia melangkah mara menuju ke arah timur sedangkan engkau pula melangkah ke arah barat; alangkah jauhnya jurang pemisah antara orang yang menuju ke timur dengan orang yang menuju ke barat!",
       "Generasi akhir umat ini tidak akan sesekali menjadi baik melainkan dengan prinsip yang telah membaiki generasi awalnya: keimanan yang tidak goyah, amal yang tidak kenal lesu, dan pengorbanan tanpa batas.",
-      "'Dan katakanlah: Beramallah kamu, nescaya Allah dan Rasul-Nya serta orang-orang yang beriman akan melihat amal perbuatanmu!' Jika kamu bertanya tentang langkah kami, ia adalah langkah amali yang bermula daripada pembinaan individu, keluarga, dan masyarakat."
+      "'Dan katakanlah: Beramallah kamu, nescaya Allah dan Rasul-Nya serta orang-orang yang beriman akan melihat amal perbuatanmu!' Jika kamu bertanya tentang langkah kami, ia adalah langkah amali yang bermula daripada pembinaan individu, keluarga, dan masyarakat.",
+      "Seorang pejuang ikhlas yang hatinya dipenuhi ghirah melihat kemuliaan Islam terinjak — apabila dia menemui jalan amal yang benar, nescaya dialah orang pertama berdiri di saf hadapan dan kekuatannya menyamai seribu pejuang biasa.",
+      "Lebih utama daripada berdiri di luar melontarkan persoalan skeptikal adalah melangkah masuk bersama para pekerja dakwah: pintu jemaah terbuka luas dan segala operasinya berjalan telus di bawah sinaran matahari tanpa agenda gelap.",
+      "Selain membuktikan kejayaan fizikal melalui pembinaan masjid, sekolah, dan kilang di lebih lima puluh buah bandar, kami memiliki neraca kedua yang jauh lebih tepat bagi kebangkitan umat iaitu pembinaan jiwa dan rijal — dan kepada kedua-duanya Allah menjanjikan balasan kebaikan.",
+      "Melalui pusat latihan pertukangan, sekolah vokasional, dan kelab belia, Ikhwan berhasrat membimbing generasi muda menempuh alam pekerjaan praktikal dengan melahirkan barisan tukang berpendidikan dan pekerja yang berakhlak mulia.",
+      "Ada golongan yang gemar menghiasi perbualan dengan istilah bombastik agar disangka sarjana, kononnya belum beramal kerana mencari jalan praktikal — sedangkan hatinya tahu ia sekadar topeng menutup kelemahan jiwa, ketakutan, dan sikap egoistiknya."
     ],
     "summary": [
       {
@@ -1623,6 +1668,41 @@ var RISALAH_DATA = [
         "fasal": "Fasal 10: Manhaj dan Neraca Penilaian Jemaah",
         "ar_snippet": "وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالمُؤْمِنُونَ؛ إِذَا سَأَلْتُمْ عَنْ خُطُوَاتِنَا فَهِيَ خُطُوَاتُ عَمَلٍ تَبْدَأُ بِالفَرْدِ ثُمَّ الأُسْرَةِ ثُمَّ المُجْتَمَعِ.",
         "quote": "'Dan katakanlah: Beramallah kamu, nescaya Allah dan Rasul-Nya serta orang-orang yang beriman akan melihat amal perbuatanmu!' Jika kamu bertanya tentang langkah kami, ia adalah langkah amali yang bermula daripada pembinaan individu, keluarga, dan masyarakat."
+      },
+      {
+        "id": "hal_q_26",
+        "theme": "Satu Pejuang Ikhlas Menyamai Seribu Pejuang Biasa",
+        "fasal": "Fasal 02: Wahai Jiwa-Jiwa yang Ikhlas Bersemangat! (للغيورين من أبناء الإسلام)",
+        "ar_snippet": "غَيُورٌ مُجَاهِدٌ إِذَا وَجَدَ الطَّرِيقَ كَانَ أَوَّلَ السَّابِقِينَ، وَعَدَلَ فِي المَيْدَانِ أَلْفًا مِنَ العَامِلِينَ.",
+        "quote": "Seorang pejuang ikhlas yang hatinya dipenuhi ghirah melihat kemuliaan Islam terinjak — apabila dia menemui jalan amal yang benar, nescaya dialah orang pertama berdiri di saf hadapan dan kekuatannya menyamai seribu pejuang biasa."
+      },
+      {
+        "id": "hal_q_27",
+        "theme": "Masuklah ke Gelanggang, Operasi Kami Di Bawah Sinaran Matahari",
+        "fasal": "Fasal 02: Wahai Jiwa-Jiwa yang Ikhlas Bersemangat! (للغيورين من أبناء الإسلام)",
+        "ar_snippet": "أَبْوَابُنَا مَفْتُوحَةٌ وَأَعْمَالُنَا تَحْتَ ضَوْءِ الشَّمْسِ؛ فَاخْطُ إِلَى الدَّاخِلِ وَاعْمَلْ مَعَ العَامِلِينَ بَدَلَ الوُقُوفِ فِي الخَارِجِ.",
+        "quote": "Lebih utama daripada berdiri di luar melontarkan persoalan skeptikal adalah melangkah masuk bersama para pekerja dakwah: pintu jemaah terbuka luas dan segala operasinya berjalan telus di bawah sinaran matahari tanpa agenda gelap."
+      },
+      {
+        "id": "hal_q_28",
+        "theme": "Neraca Projek Lapangan dan Neraca Pembinaan Jiwa",
+        "fasal": "Fasal 03: Institusi dan Projek Nyata di Lapangan (مؤسسـات ومشـاريع)",
+        "ar_snippet": "وَلَنَا مِيزَانٌ آخَرُ فِي تَقْدِيرِ الأَعْمَالِ؛ مِيزَانٌ هُوَ فِي بَابِ نَهْضَةِ الأُمَمِ أَدَقُّ حُكْمًا وَأَعْمَقُ دَلَالَةً، وَكُلًّا وَعَدَ اللَّهُ الحُسْنَى.",
+        "quote": "Selain membuktikan kejayaan fizikal melalui pembinaan masjid, sekolah, dan kilang di lebih lima puluh buah bandar, kami memiliki neraca kedua yang jauh lebih tepat bagi kebangkitan umat iaitu pembinaan jiwa dan rijal — dan kepada kedua-duanya Allah menjanjikan balasan kebaikan."
+      },
+      {
+        "id": "hal_q_29",
+        "theme": "Lahirkan Pekerja Terpelajar dan Tukang Berakhlak Mulia",
+        "fasal": "Fasal 03: Institusi dan Projek Nyata di Lapangan (مؤسسـات ومشـاريع)",
+        "ar_snippet": "تَقْصِدُ الجَمَاعَةُ أَنْ تُخَرِّجَ جِيلًا مِنَ الصُّنَّاعِ المُثَقَّفِينَ وَالعُمَّالِ المُؤَدَّبِينَ بِأَخْلَاقِ الإِسْلَامِ وَفَضَائِلِهِ.",
+        "quote": "Melalui pusat latihan pertukangan, sekolah vokasional, dan kelab belia, Ikhwan berhasrat membimbing generasi muda menempuh alam pekerjaan praktikal dengan melahirkan barisan tukang berpendidikan dan pekerja yang berakhlak mulia."
+      },
+      {
+        "id": "hal_q_30",
+        "theme": "Retorik Bomastik Topeng Kelemahan dan Sikap Egoistik",
+        "fasal": "Fasal 01: Pertanyaan Skeptikal & Tipologi Penyoal (سؤال مهم .. وأصناف سائليه)",
+        "ar_snippet": "يَتَسَتَّرُ بِالأَلْفَاظِ الرَّنَّانَةِ وَيَدَّعِي حُبَّ الخَيْرِ، وَهُوَ يَعْلَمُ مِنْ نَفْسِهِ أَنَّهُ يَتَّخِذُ ذَلِكَ قِنَاعًا لِلْجُبْنِ وَالأَنَانِيَّةِ.",
+        "quote": "Ada golongan yang gemar menghiasi perbualan dengan istilah bombastik agar disangka sarjana, kononnya belum beramal kerana mencari jalan praktikal — sedangkan hatinya tahu ia sekadar topeng menutup kelemahan jiwa, ketakutan, dan sikap egoistiknya."
       }
     ]
   },
@@ -1733,7 +1813,12 @@ var RISALAH_DATA = [
       "Kami bukanlah sebuah parti politik kepartian, walaupun siasah berlandaskan kaedah-kaedah Islam adalah intipati fikrah kami. Kami juga bukan persatuan kebajikan biasa, walaupun kerja kebajikan adalah matlamat teragung kami. Kami adalah Fikrah dan Akidah, Sistem dan Manhaj yang merangkumi seluruh urusan dunia dan akhirat.",
       "Wahai sekelian manusia, kita ini—tanpa berbangga diri—adalah penerus para sahabat Rasulullah ﷺ, pembawa panji baginda sesudahnya, dan pengibar benderanya sebagaimana mereka mengibarkannya.",
       "Barangsiapa yang mengikut jejak langkah kami sekarang, sesungguhnya dia telah beroleh keutamaan mendahului. Sesiapa daripada orang yang ikhlas berlengah hari ini, nescaya dia akan menyusul kami esok hari, dan kelebihan tetap menjadi milik mereka yang mendahului.",
-      "Barangsiapa yang berpaling daripada dakwah kami kerana memandang remeh, mengejek atau berputus asa daripada kemenangannya, masa akan membuktikan kesilapannya yang amat besar, dan Allah pasti mencampakkan kebenaran kami ke atas kebatilannya lalu melenyapkannya!"
+      "Barangsiapa yang berpaling daripada dakwah kami kerana memandang remeh, mengejek atau berputus asa daripada kemenangannya, masa akan membuktikan kesilapannya yang amat besar, dan Allah pasti mencampakkan kebenaran kami ke atas kebatilannya lalu melenyapkannya!",
+      "Kita tidak akan berhenti setakat sempadan tanah air kita; sebaliknya kita berazam membawa obor kebenaran ke seluruh pelusuk dunia agar seluruh kemanusiaan diselamatkan daripada kezaliman materialisme menuju keadilan dan kedamaian Islam.",
+      "Tangga pertama kebangkitan tamadun bermula dengan membina Individu Muslim yang sejahtera akidahnya, sahih ibadahnya, teguh akhlaknya, berpengetahuan luas, kuat jasmaninya, berdikari ekonominya, melawan hawa nafsunya, menjaga waktunya, tersusun urusannya, dan bermanfaat kepada sesama.",
+      "Apa yang dituduh oleh orang-orang berputus asa sebagai khayalan dan angan-angan kosong, di sisi mukmin yang terhubung dengan Yang Maha Kuat adalah hakikat nyata yang diyakini dan diperjuangkan sehingga menjadi kenyataan sejarah.",
+      "Wahai Ikhwanul Muslimin! Jangan sesekali merendahkan nilai diri kamu dengan menyamakan dakwah kamu — yang mengambil cahayanya daripada cahaya Allah dan manhajnya daripada Sunnah Rasul-Nya — dengan gerakan sementara yang lahir daripada darurat politik lalu lenyap ditelan zaman.",
+      "Sesungguhnya kamu telah menyaksikan sendiri buah hasil usaha yang sedikit ini: suara-suara yang melaungkan kedaulatan sistem Al-Quran, titisan darah suci para pemuda di jalan Allah, dan kerinduan jujur untuk meraih syahid!"
     ],
     "summary": [
       {
@@ -1812,203 +1897,288 @@ var RISALAH_DATA = [
     "golden_quotes_rich": [
       {
         "id": "q01",
-        "badge": "SIFAT DAKWAH • KEKUATAN ROHANI",
+        "theme": "Sifat Dakwah • Kekuatan Rohani",
+        "fasal": "Fasal 1: Mukadimah",
+        "ar_snippet": "هَادِئَةٌ... لَكِنَّهَا أَقْوَى مِنَ الزَّوَابِعِ العَاصِفَةِ... مُتَوَاضِعَةٌ... لَكِنَّهَا أَعَزُّ مِنَ الشُّمِّ الرَّوَاسِي.",
         "quote": "Dakwah kami bergerak tenang, namun ia lebih perkasa daripada taufan yang menggoncang. Ia merendah diri, namun lebih mulia dan teguh daripada puncak gunung ganang.",
-        "quote_ar": "هَادِئَةٌ... لَكِنَّهَا أَقْوَى مِنَ الزَّوَابِعِ العَاصِفَةِ... مُتَوَاضِعَةٌ... لَكِنَّهَا أَعَزُّ مِنَ الشُّمِّ الرَّوَاسِي.",
+        "badge": "SIFAT DAKWAH • KEKUATAN ROHANI",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 1: Mukadimah)"
       },
       {
         "id": "q02",
-        "badge": "KEIKHLASAN • KELUASAN CAKUPAN",
+        "theme": "Keikhlasan • Keluasan Cakupan",
+        "fasal": "Fasal 1: Mukadimah",
+        "ar_snippet": "مَحْدُودَةٌ... لَكِنَّهَا أَوْسَعُ مِنْ حُدُودِ هَذِهِ الأَقْطَارِ الأَرْضِيَّةِ جَمِيعًا... خَالِيَةٌ مِنَ المَظَاهِرِ وَالبَهْرَجِ الكَاذِبِ، وَلَكِنَّهَا مَحْفُوفَةٌ بِجَلَالِ الحَقِّ، وَرَوْعَةِ الوَحْيِ، وَرِعَايَةِ اللهِ.",
         "quote": "Dakwah ini terbatas ruang zahirnya, namun ia melangkaui seluruh sempadan benua dunia. Ia bebas daripada kepura-puraan hiasan palsu, tetapi dinaungi keagungan kebenaran, keindahan wahyu, dan pemeliharaan Allah.",
-        "quote_ar": "مَحْدُودَةٌ... لَكِنَّهَا أَوْسَعُ مِنْ حُدُودِ هَذِهِ الأَقْطَارِ الأَرْضِيَّةِ جَمِيعًا... خَالِيَةٌ مِنَ المَظَاهِرِ وَالبَهْرَجِ الكَاذِبِ، وَلَكِنَّهَا مَحْفُوفَةٌ بِجَلَالِ الحَقِّ، وَرَوْعَةِ الوَحْيِ، وَرِعَايَةِ اللهِ.",
+        "badge": "KEIKHLASAN • KELUASAN CAKUPAN",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 1: Mukadimah)"
       },
       {
         "id": "q03",
-        "badge": "SERUAN BANGKIT • MENELUSURI SERUAN AWAL",
+        "theme": "Seruan Bangkit • Menelusuri Seruan Awal",
+        "fasal": "Fasal 2: Di Bawah Sinar Seruan Pertama",
+        "ar_snippet": "اِسْمَعُوهَا صَرِيحَةً دَاوِيَةً، يُجَلْجِلُ بِهَا صَوْتُ الدَّاعِي الأَوَّلِ مِنْ بَعْدُ كَمَا جَلْجَلَ بِهَا مِنْ قَبْلُ: ﴿يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ ۝ قُمْ فَأَنذِرْ ۝ وَرَبَّكَ فَكَبِّرْ﴾.",
         "quote": "Dengarlah seruan ini secara terang lagi bergema, dilaungkan oleh pendakwah pertama pada zaman ini sebagaimana ia pernah dilaungkan pada zaman Rasulullah: 'Wahai orang yang berselimut! Bangunlah serta berilah peringatan!'",
-        "quote_ar": "اِسْمَعُوهَا صَرِيحَةً دَاوِيَةً، يُجَلْجِلُ بِهَا صَوْتُ الدَّاعِي الأَوَّلِ مِنْ بَعْدُ كَمَا جَلْجَلَ بِهَا مِنْ قَبْلُ: ﴿يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ ۝ قُمْ فَأَنذِرْ ۝ وَرَبَّكَ فَكَبِّرْ﴾.",
+        "badge": "SERUAN BANGKIT • MENELUSURI SERUAN AWAL",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 2: Di Bawah Sinar Seruan Pertama)"
       },
       {
         "id": "q04",
-        "badge": "HAKIKAT KETERASINGAN • KEPALSUAN SISTEM MODEN",
+        "theme": "Hakikat Keterasingan • Kepalsuan Sistem Moden",
+        "fasal": "Fasal 3: Di Manakah Kita daripada Ajaran Islam?",
+        "ar_snippet": "كُونُوا صُرَحَاءَ فِي الجَوَابِ، وَسَتَرَوْنَ الحَقِيقَةَ وَاضِحَةً أَمَامَكُمْ: كُلُّ النُّظُمِ الَّتِي تَسِيرُونَ عَلَيْهَا فِي شُؤُونِكُمُ الحَيَوِيَّةِ نُظُمٌ تَقْلِيدِيَّةٌ بَحْتَةٌ لَا تَتَّصِلُ بِالإِسْلَامِ، وَلَا تَسْتَمِدُّ مِنْهُ وَلَا تَعْتَمِدُ عَلَيْهِ.",
         "quote": "Bersikap jujurlah dalam menjawab, nescaya kamu akan melihat hakikat yang nyata di hadapan kamu: Semua sistem yang kamu ikuti dalam urusan hidup kamu adalah sistem taklid buta semata-mata yang terputus daripada Islam, tidak bersumberkan daripadanya, dan tidak berlandaskannya.",
-        "quote_ar": "كُونُوا صُرَحَاءَ فِي الجَوَابِ، وَسَتَرَوْنَ الحَقِيقَةَ وَاضِحَةً أَمَامَكُمْ: كُلُّ النُّظُمِ الَّتِي تَسِيرُونَ عَلَيْهَا فِي شُؤُونِكُمُ الحَيَوِيَّةِ نُظُمٌ تَقْلِيدِيَّةٌ بَحْتَةٌ لَا تَتَّصِلُ بِالإِسْلَامِ، وَلَا تَسْتَمِدُّ مِنْهُ وَلَا تَعْتَمِدُ عَلَيْهِ.",
+        "badge": "HAKIKAT KETERASINGAN • KEPALSUAN SISTEM MODEN",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 3: Di Manakah Kita daripada Ajaran Islam?)"
       },
       {
         "id": "q05",
-        "badge": "PEMIKIRAN SEKULAR • KETERPISAHAN JIWA DARI WAHYU",
+        "theme": "Pemikiran Sekular • Keterpisahan Jiwa Dari Wahyu",
+        "fasal": "Fasal 3: Di Manakah Kita daripada Ajaran Islam?",
+        "ar_snippet": "الرُّوحُ العَامُّ الَّذِي يُهَيْمِنُ عَلَى الحَاكِمِينَ وَالمَحْكُومِينَ، وَيُشَكِّلُ مَظَاهِرَ الحَيَاةِ عَلَى اخْتِلَافِهَا، كُلُّ ذَلِكَ بَعِيدٌ عَنِ الإِسْلَامِ وَتَعَالِيمِ الإِسْلَامِ.",
         "quote": "Roh umum yang mendominasi para pemerintah dan rakyat jelata, serta yang mencorakkan pelbagai manifestasi kehidupan semasa, keseluruhannya berada jauh terasing daripada Islam dan ajaran-ajarannya yang suci.",
-        "quote_ar": "الرُّوحُ العَامُّ الَّذِي يُهَيْمِنُ عَلَى الحَاكِمِينَ وَالمَحْكُومِينَ، وَيُشَكِّلُ مَظَاهِرَ الحَيَاةِ عَلَى اخْتِلَافِهَا، كُلُّ ذَلِكَ بَعِيدٌ عَنِ الإِسْلَامِ وَتَعَالِيمِ الإِسْلَامِ.",
+        "badge": "PEMIKIRAN SEKULAR • KETERPISAHAN JIWA DARI WAHYU",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 3: Di Manakah Kita daripada Ajaran Islam?)"
       },
       {
         "id": "q06",
-        "badge": "RAHMAT SEJAGAT • PANGGILAN MUHASABAH",
+        "theme": "Rahmat Sejagat • Panggilan Muhasabah",
+        "fasal": "Fasal 4: Gelombang Taklid Buta Terhadap Barat",
+        "ar_snippet": "أَهَذَا هُوَ الإِسْلَامُ الَّذِي أَرَادَهُ اللهُ أَنْ يَكُونَ رَحْمَتَهُ العُظْمَى، وَمِنَّتَهُ الكُبْرَى عَلَى العَالَمِينَ؟",
         "quote": "Adakah ini Islam yang dikehendaki oleh Allah untuk menjadi rahmat-Nya yang teragung dan kurniaan-Nya yang terbesar ke atas sekalian alam?",
-        "quote_ar": "أَهَذَا هُوَ الإِسْلَامُ الَّذِي أَرَادَهُ اللهُ أَنْ يَكُونَ رَحْمَتَهُ العُظْمَى، وَمِنَّتَهُ الكُبْرَى عَلَى العَالَمِينَ؟",
+        "badge": "RAHMAT SEJAGAT • PANGGILAN MUHASABAH",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 4: Gelombang Taklid Buta Terhadap Barat)"
       },
       {
         "id": "q07",
-        "badge": "TASYRI' QURANI • PENAWAR PENYAKIT UMMAH",
+        "theme": "Tasyri' Qurani • Penawar Penyakit Ummah",
+        "fasal": "Fasal 4: Gelombang Taklid Buta Terhadap Barat",
+        "ar_snippet": "أَهَذَا هُوَ تَشْرِيعُ القُرْآنِ الَّذِي عَالَجَ أَدْوَاءَ الأُمَمِ وَمُشْكِلَاتِ الشُّعُوبِ، وَوَضَعَ لِلإِصْلَاحِ أَدَقَّ القَوَاعِدِ وَأَرْسَخَ الأُصُولِ؟",
         "quote": "Adakah ini syariat Al-Quran yang merawat penyakit-penyakit bangsa dan menyelesaikan krisis umat manusia, serta menetapkan kaedah-kaedah islah yang paling terperinci dan asas-asas yang paling kukuh?",
-        "quote_ar": "أَهَذَا هُوَ تَشْرِيعُ القُرْآنِ الَّذِي عَالَجَ أَدْوَاءَ الأُمَمِ وَمُشْكِلَاتِ الشُّعُوبِ، وَوَضَعَ لِلإِصْلَاحِ أَدَقَّ القَوَاعِدِ وَأَرْسَخَ الأُصُولِ؟",
+        "badge": "TASYRI' QURANI • PENAWAR PENYAKIT UMMAH",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 4: Gelombang Taklid Buta Terhadap Barat)"
       },
       {
         "id": "q08",
-        "badge": "HIKMAH VS TAKLID • KEMERDEKAAN AKIDAH",
+        "theme": "Hikmah Vs Taklid • Kemerdekaan Akidah",
+        "fasal": "Fasal 4: Gelombang Taklid Buta Terhadap Barat",
+        "ar_snippet": "الإِسْلَامُ لَا يَأْبَى أَنْ نَقْتَبِسَ النَّافِعَ وَأَنْ نَأْخُذَ الحِكْمَةَ أَنَّى وَجَدْنَاهَا، وَلَكِنَّهُ يَأْبَى كُلَّ الإِبَاءِ أَنْ نَتَشَبَّهَ فِي كُلِّ شَيْءٍ بِمَنْ لَيْسُوا مِنْ دِينِ اللهِ عَلَى شَيْءٍ.",
         "quote": "Islam tidak pernah menolak untuk kita menceduk perkara yang bermanfaat dan mengambil hikmah di mana jua ia ditemui. Namun Islam menolak sekeras-kerasnya sikap meniru secara membuta-tuli dalam segala hal terhadap mereka yang langsung tidak berpegang kepada agama Allah.",
-        "quote_ar": "الإِسْلَامُ لَا يَأْبَى أَنْ نَقْتَبِسَ النَّافِعَ وَأَنْ نَأْخُذَ الحِكْمَةَ أَنَّى وَجَدْنَاهَا، وَلَكِنَّهُ يَأْبَى كُلَّ الإِبَاءِ أَنْ نَتَشَبَّهَ فِي كُلِّ شَيْءٍ بِمَنْ لَيْسُوا مِنْ دِينِ اللهِ عَلَى شَيْءٍ.",
+        "badge": "HIKMAH VS TAKLID • KEMERDEKAAN AKIDAH",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 4: Gelombang Taklid Buta Terhadap Barat)"
       },
       {
         "id": "q09",
-        "badge": "INTEGRITI DAKWAH • MENOLAK KEMUNAFIKAN BUDAYA",
+        "theme": "Integriti Dakwah • Menolak Kemunafikan Budaya",
+        "fasal": "Fasal 4: Gelombang Taklid Buta Terhadap Barat",
+        "ar_snippet": "لَا تَكُونُوا مُخَادِعِينَ مُنَافِقِينَ مُعَانِدِينَ، تَعْمَلُونَ عَمَلَ الغَرْبِيِّينَ وَتَقُولُونَ قَوْلَ المُسْلِمِينَ!",
         "quote": "Janganlah kamu menjadi golongan yang memperdaya, munafik dan degil: kamu beramal dengan amalan orang-orang Barat, tetapi kamu melafazkan kata-kata orang Islam!",
-        "quote_ar": "لَا تَكُونُوا مُخَادِعِينَ مُنَافِقِينَ مُعَانِدِينَ، تَعْمَلُونَ عَمَلَ الغَرْبِيِّينَ وَتَقُولُونَ قَوْلَ المُسْلِمِينَ!",
+        "badge": "INTEGRITI DAKWAH • MENOLAK KEMUNAFIKAN BUDAYA",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 4: Gelombang Taklid Buta Terhadap Barat)"
       },
       {
         "id": "q10",
-        "badge": "KRISIS TAMADUN MODEN • KERINGNYA AIR MATA KELAPARAN",
+        "theme": "Krisis Tamadun Moden • Keringnya Air Mata Kelaparan",
+        "fasal": "Fasal 5: Menilai Hakikat Tamadun Materialistik Barat",
+        "ar_snippet": "هَلِ اطْمَأَنَّتِ الجُنُوبُ فِي المَضَاجِعِ؟ هَلْ جَفَّتِ الجُفُونُ مِنَ المَدَامِعِ؟ هَلْ حُورِبَتِ الجَرِيمَةُ، وَاسْتَرَاحَ المُجْتَمَعُ مِنْ شُرُورِ المُجْرِمِينَ؟",
         "quote": "Adakah lambakan kebendaan moden berjaya mententeramkan lambung manusia di tempat tidur? Adakah air mata telah kering daripada kelopak mata yang menangis derita? Adakah jenayah berjaya diperangi dan masyarakat berasa aman daripada kejahatan penjenayah?",
-        "quote_ar": "هَلِ اطْمَأَنَّتِ الجُنُوبُ فِي المَضَاجِعِ؟ هَلْ جَفَّتِ الجُفُونُ مِنَ المَدَامِعِ؟ هَلْ حُورِبَتِ الجَرِيمَةُ، وَاسْتَرَاحَ المُجْتَمَعُ مِنْ شُرُورِ المُجْرِمِينَ؟",
+        "badge": "KRISIS TAMADUN MODEN • KERINGNYA AIR MATA KELAPARAN",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 5: Menilai Hakikat Tamadun Materialistik Barat)"
       },
       {
         "id": "q11",
-        "badge": "KEHANCURAN MORAL • KERUNTUHAN KELUARGA",
+        "theme": "Kehancuran Moral • Keruntuhan Keluarga",
+        "fasal": "Fasal 5: Menilai Hakikat Tamadun Materialistik Barat",
+        "ar_snippet": "إِنَّ المَدَنِيَّةَ الغَرْبِيَّةَ بِمَا اشْتَمَلَتْ عَلَيْهِ مِنْ زَهْوٍ وَقُوَّةٍ تَتَأَوَّهُ اليَوْمَ مِنْ تَفَكُّكِ الأُسْرَةِ، وَشَقَاءِ النُّفُوسِ، وَتَتَرَقَّبُ الشَّرَّ المَسْتُورَ.",
         "quote": "Tamadun Barat yang dibanggakan itu kini merintih kesakitan akibat keruntuhan rumah tangga, krisis moral, penyakit rohani, dan api perang dunia yang bersedia membakar segala-galanya.",
-        "quote_ar": "إِنَّ المَدَنِيَّةَ الغَرْبِيَّةَ بِمَا اشْتَمَلَتْ عَلَيْهِ مِنْ زَهْوٍ وَقُوَّةٍ تَتَأَوَّهُ اليَوْمَ مِنْ تَفَكُّكِ الأُسْرَةِ، وَشَقَاءِ النُّفُوسِ، وَتَتَرَقَّبُ الشَّرَّ المَسْتُورَ.",
+        "badge": "KEHANCURAN MORAL • KERUNTUHAN KELUARGA",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 5: Menilai Hakikat Tamadun Materialistik Barat)"
       },
       {
         "id": "q12",
-        "badge": "MISI SEJAGAT • MEMBENTENG ARUS KEBENDAAN",
+        "theme": "Misi Sejagat • Membenteng Arus Kebendaan",
+        "fasal": "Fasal 6: Misi Kami",
+        "ar_snippet": "مُهِمَّتُنَا إِجْمَالًا أَنْ نَقِفَ فِي وَجْهِ هَذِهِ المَوْجَةِ الطَّاغِيَةِ مِنْ مَدَنِيَّةِ المَادَّةِ، وَحَضَارَاتِ المُتَعِ وَالشَّهَوَاتِ الَّتِي جَرَفَتِ الشُّعُوبَ الإِسْلَامِيَّةَ.",
         "quote": "Tugas utama kita secara umum ialah berdiri teguh membendung gelombang tamadun kebendaan dan peradaban syahwat yang menghanyutkan bangsa-bangsa Islam, lalu mengembalikan umat kepada hidayah Al-Quran.",
-        "quote_ar": "مُهِمَّتُنَا إِجْمَالًا أَنْ نَقِفَ فِي وَجْهِ هَذِهِ المَوْجَةِ الطَّاغِيَةِ مِنْ مَدَنِيَّةِ المَادَّةِ، وَحَضَارَاتِ المُتَعِ وَالشَّهَوَاتِ الَّتِي جَرَفَتِ الشُّعُوبَ الإِسْلَامِيَّةَ.",
+        "badge": "MISI SEJAGAT • MEMBENTENG ARUS KEBENDAAN",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 6: Misi Kami)"
       },
       {
         "id": "q13",
-        "badge": "KEBEBASAN MUTLAK • MENYAMBUNG HATI KE WAHYU",
+        "theme": "Kebebasan Mutlak • Menyambung Hati Ke Wahyu",
+        "fasal": "Fasal 6: Misi Kami",
+        "ar_snippet": "أَنْ نَرُدَّ لِلْمُسْلِمِينَ حُرِّيَّتَهُمْ وَاسْتِقْلَالَهُمْ، وَأَنْ نَصِلَ بَيْنَ قُلُوبِهِمْ وَبَيْنَ كِتَابِ رَبِّهِمْ وَسُنَّةِ نَبِيِّهِمْ.",
         "quote": "Misi kami adalah mengembalikan kemerdekaan dan kebebasan umat Islam, serta menghubungkan semula hati sanubari mereka dengan Kitab Tuhan mereka dan Sunnah Nabi mereka.",
-        "quote_ar": "أَنْ نَرُدَّ لِلْمُسْلِمِينَ حُرِّيَّتَهُمْ وَاسْتِقْلَالَهُمْ، وَأَنْ نَصِلَ بَيْنَ قُلُوبِهِمْ وَبَيْنَ كِتَابِ رَبِّهِمْ وَسُنَّةِ نَبِيِّهِمْ.",
+        "badge": "KEBEBASAN MUTLAK • MENYAMBUNG HATI KE WAHYU",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 6: Misi Kami)"
       },
       {
         "id": "q14",
-        "badge": "KEDAULATAN ISLAM • MATLAMAT PENUBUHAN NEGARA",
+        "theme": "Kedaulatan Islam • Matlamat Penubuhan Negara",
+        "fasal": "Fasal 7: Rantaian 6 Peringkat Sasaran Kami",
+        "ar_snippet": "وَالدَّوْلَةُ الَّتِي تَقُودُ الدُّوَلَ الإِسْلَامِيَّةَ، وَتَضُمُّ شَتَاتَ المُسْلِمِينَ، وَتَسْتَعِيدُ مَجْدَهُمْ، وَتَرُدَّ عَلَيْهِمْ أَرْضَهُمُ المَفْقُودَةَ وَأَوْطَانَهُمُ المَسْلُوبَةَ، ثُمَّ تَحْمِلَ عَلَمَ الجِهَادِ وَلِوَاءَ الدَّعْوَةِ إِلَى اللهِ.",
         "quote": "Kami menghendaki negara yang memimpin sekalian negara Islam, menyatukan perpecahan umat, mengembalikan kegemilangan mereka, menuntut semula tanah air yang dirampas, lalu menjulang panji dakwah dan jihad demi membahagiakan dunia dengan ajaran Islam.",
-        "quote_ar": "وَالدَّوْلَةُ الَّتِي تَقُودُ الدُّوَلَ الإِسْلَامِيَّةَ، وَتَضُمُّ شَتَاتَ المُسْلِمِينَ، وَتَسْتَعِيدُ مَجْدَهُمْ، وَتَرُدَّ عَلَيْهِمْ أَرْضَهُمُ المَفْقُودَةَ وَأَوْطَانَهُمُ المَسْلُوبَةَ، ثُمَّ تَحْمِلَ عَلَمَ الجِهَادِ وَلِوَاءَ الدَّعْوَةِ إِلَى اللهِ.",
+        "badge": "KEDAULATAN ISLAM • MATLAMAT PENUBUHAN NEGARA",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 7: Rantaian 6 Peringkat Sasaran Kami)"
       },
       {
         "id": "q15",
-        "badge": "BEKALAN HAKIKI • SENJATA PARA ANBIYA'",
+        "theme": "Bekalan Hakiki • Senjata Para Anbiya'",
+        "fasal": "Fasal 8: Bekalan dan Senjata Kami",
+        "ar_snippet": "عُدَّتُنَا هِيَ عُدَّةُ سَلَفِنَا مِنْ قَبْلُ، وَالسِّلَاحُ الَّذِي غَزَا بِهِ زَعِيمُنَا وَقُدْوَتُنَا مُحَمَّدٌ رَسُولُ اللهِ ﷺ وَصَحَابَتُهُ مَعَهُ العَالَمَ.",
         "quote": "Kelengkapan bekalan kami adalah kelengkapan para salafus soleh terdahulu, dan senjata kami adalah senjata yang dengannya pemimpin dan ikutan kami Nabi Muhammad ﷺ dan para sahabat baginda menakluki dunia.",
-        "quote_ar": "عُدَّتُنَا هِيَ عُدَّةُ سَلَفِنَا مِنْ قَبْلُ، وَالسِّلَاحُ الَّذِي غَزَا بِهِ زَعِيمُنَا وَقُدْوَتُنَا مُحَمَّدٌ رَسُولُ اللهِ ﷺ وَصَحَابَتُهُ مَعَهُ العَالَمَ.",
+        "badge": "BEKALAN HAKIKI • SENJATA PARA ANBIYA'",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 8: Bekalan dan Senjata Kami)"
       },
       {
         "id": "q16",
-        "badge": "IMAN MENDALAM • TONGGAK PERTAMA ‘UDDATUNA",
+        "theme": "Iman Mendalam • Tonggak Pertama ‘uddatuna",
+        "fasal": "Fasal 8: Bekalan dan Senjata Kami",
+        "ar_snippet": "لَقَدْ آمَنُوا أَعْمَقَ الإِيمَانِ وَأَقْوَاهُ وَأَقْدَسَهُ وَأَخْلَدَهُ... فَالإِيمَانُ أَوَّلُ عُدَّتِنَا.",
         "quote": "Para sahabat beriman dengan sedalam-dalam iman, sekuat-kuatnya, sesuci-sucinya dan seabadinya kepada Allah, kepada Rasul-Nya, kepada Al-Quran, dan kepada janji akhirat... Maka iman yang mendalam inilah bekalan pertama kami.",
-        "quote_ar": "لَقَدْ آمَنُوا أَعْمَقَ الإِيمَانِ وَأَقْوَاهُ وَأَقْدَسَهُ وَأَخْلَدَهُ... فَالإِيمَانُ أَوَّلُ عُدَّتِنَا.",
+        "badge": "IMAN MENDALAM • TONGGAK PERTAMA ‘UDDATUNA",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 8: Bekalan dan Senjata Kami)"
       },
       {
         "id": "q17",
-        "badge": "UKHUWWAH ISLAMIYYAH • IKATAN HATI SUCI",
+        "theme": "Ukhuwwah Islamiyyah • Ikatan Hati Suci",
+        "fasal": "Fasal 8: Bekalan dan Senjata Kami",
+        "ar_snippet": "آمَنُوا بِالإِخَاءِ وَحُقُوقِهِ وَقُدْسِيَّتِهِ، وَرَأَوُا الفُرْقَةَ كُفْرًا وَالشِّقَاقَ عَذَابًا.",
         "quote": "Mereka mengimani persaudaraan seagama, hak-haknya dan kesuciannya. Mereka memandang perpecahan sebagai kekufuran dan perselisihan sebagai azab kebinasaan.",
-        "quote_ar": "آمَنُوا بِالإِخَاءِ وَحُقُوقِهِ وَقُدْسِيَّتِهِ، وَرَأَوُا الفُرْقَةَ كُفْرًا وَالشِّقَاقَ عَذَابًا.",
+        "badge": "UKHUWWAH ISLAMIYYAH • IKATAN HATI SUCI",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 8: Bekalan dan Senjata Kami)"
       },
       {
         "id": "q18",
-        "badge": "JIHAD & PENGORBANAN • JALAN KEMENANGAN",
+        "theme": "Jihad & Pengorbanan • Jalan Kemenangan",
+        "fasal": "Fasal 8: Bekalan dan Senjata Kami",
+        "ar_snippet": "عَلِمُوا أَنَّ دَعْوَتَهُمْ لَا تَنْتَصِرُ إِلَّا بِالجِهَادِ، وَالتَّضْحِيَةِ وَالبَذْلِ وَتَقْدِيمِ النَّفْسِ وَالمَالِ... فَالجِهَادُ مِنْ عُدَّتِنَا كَذَلِكَ.",
         "quote": "Mereka meyakini dengan seyakin-yakinnya bahawa dakwah ini tidak akan menang melainkan dengan jihad, pengorbanan, pemberian tanpa berkira, serta mempersembahkan jiwa raga dan harta benda... Maka jihad adalah kelengkapan bekalan kami.",
-        "quote_ar": "عَلِمُوا أَنَّ دَعْوَتَهُمْ لَا تَنْتَصِرُ إِلَّا بِالجِهَادِ، وَالتَّضْحِيَةِ وَالبَذْلِ وَتَقْدِيمِ النَّفْسِ وَالمَالِ... فَالجِهَادُ مِنْ عُدَّتِنَا كَذَلِكَ.",
+        "badge": "JIHAD & PENGORBANAN • JALAN KEMENANGAN",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 8: Bekalan dan Senjata Kami)"
       },
       {
         "id": "q19",
-        "badge": "MENEPIS SKEPTISISME • HAKIKAT BUKAN KHAYALAN",
+        "theme": "Menepis Skeptisisme • Hakikat Bukan Khayalan",
+        "fasal": "Fasal 9: Antara Khayalan dan Hakikat",
+        "ar_snippet": "سَيَقُولُ الَّذِينَ يَسْمَعُونَ هَذَا إِنَّهُ الخَيَالُ بِعَيْنِهِ وَإِنَّهُ الوَهْمُ... أَمَّا نَحْنُ فَنَقُولُ إِنَّهَا الحَقِيقَةُ الَّتِي نُؤْمِنُ بِهَا وَنَعْمَلُ لَهَا.",
         "quote": "Mereka yang mendengar seruan ini akan berkata: 'Ini adalah khayalan, angan-angan dan ketaksuban!' Adapun kami menegaskan: Ini adalah hakikat kebenaran yang kami imani dan kami amalkan!",
-        "quote_ar": "سَيَقُولُ الَّذِينَ يَسْمَعُونَ هَذَا إِنَّهُ الخَيَالُ بِعَيْنِهِ وَإِنَّهُ الوَهْمُ... أَمَّا نَحْنُ فَنَقُولُ إِنَّهَا الحَقِيقَةُ الَّتِي نُؤْمِنُ بِهَا وَنَعْمَلُ لَهَا.",
+        "badge": "MENEPIS SKEPTISISME • HAKIKAT BUKAN KHAYALAN",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 9: Antara Khayalan dan Hakikat)"
       },
       {
         "id": "q20",
-        "badge": "KEPIMPINAN AMANAH • SYARAT DAKWAH KERAJAAN",
+        "theme": "Kepimpinan Amanah • Syarat Dakwah Kerajaan",
+        "fasal": "Fasal 10: Andai Kita Mempunyai Kerajaan Islam",
+        "ar_snippet": "فَإِنَّ قَوْمًا فَقَدُوا الإِسْلَامَ فِي أَنْفُسِهِمْ وَبُيُوتِهِمْ وَشُؤُونِهِمُ الخَاصَّةِ وَالعَامَّةِ لَأَعْجَزُ مِنْ أَنْ يُفِيضُوهُ عَلَى غَيْرِهِمْ، وَفَاقِدُ الشَّيْءِ لَا يُعْطِيهِ.",
         "quote": "Kaum yang telah kehilangan nilai Islam dalam peribadi, rumahtangga, dan urusan peribadi serta awam mereka adalah teramat lemah untuk melimpahkan nilai Islam kepada orang lain; kerana orang yang tidak memiliki sesuatu tidak akan mampu memberikannya!",
-        "quote_ar": "فَإِنَّ قَوْمًا فَقَدُوا الإِسْلَامَ فِي أَنْفُسِهِمْ وَبُيُوتِهِمْ وَشُؤُونِهِمُ الخَاصَّةِ وَالعَامَّةِ لَأَعْجَزُ مِنْ أَنْ يُفِيضُوهُ عَلَى غَيْرِهِمْ، وَفَاقِدُ الشَّيْءِ لَا يُعْطِيهِ.",
+        "badge": "KEPIMPINAN AMANAH • SYARAT DAKWAH KERAJAAN",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 10: Andai Kita Mempunyai Kerajaan Islam)"
       },
       {
         "id": "q21",
-        "badge": "TARBIAH GENERASI • MEMBINA KEPIMPINAN RABBANI",
+        "theme": "Tarbiah Generasi • Membina Kepimpinan Rabbani",
+        "fasal": "Fasal 10: Andai Kita Mempunyai Kerajaan Islam",
+        "ar_snippet": "وَلَكِنَّهَا مُهِمَّةُ هَذَا النَّشْءِ الجَدِيدِ، فَأَحْسِنُوا دَعْوَتَهُ، وَجِدُّوا فِي تَكْوِينِهِ، وَعَلِّمُوهُ اسْتِقْلَالَ النَّفْسِ وَالقَلْبِ، وَاسْتِقْلَالَ الفِكْرِ وَالعَقْلِ... وَسَتَرَوْنَ مِنْهُ فِي القَرِيبِ الحَاكِمَ المُسْلِمَ الَّذِي يُجَاهِدُ نَفْسَهُ وَيُسْعِدُ غَيْرَهُ.",
         "quote": "Ini adalah tugas generasi baharu ini! Maka elokkanlah dakwah kamu kepada mereka, bersungguh-sungguhlah membentuk peribadi mereka, ajarkanlah mereka kemerdekaan jiwa, kemerdekaan fikiran, dan kemerdekaan jihad. Nescaya kamu akan menyaksikan lahirnya pemimpin Muslim yang menundukkan nafsunya dan membahagiakan orang lain.",
-        "quote_ar": "وَلَكِنَّهَا مُهِمَّةُ هَذَا النَّشْءِ الجَدِيدِ، فَأَحْسِنُوا دَعْوَتَهُ، وَجِدُّوا فِي تَكْوِينِهِ، وَعَلِّمُوهُ اسْتِقْلَالَ النَّفْسِ وَالقَلْبِ، وَاسْتِقْلَالَ الفِكْرِ وَالعَقْلِ... وَسَتَرَوْنَ مِنْهُ فِي القَرِيبِ الحَاكِمَ المُسْلِمَ الَّذِي يُجَاهِدُ نَفْسَهُ وَيُسْعِدُ غَيْرَهُ.",
+        "badge": "TARBIAH GENERASI • MEMBINA KEPIMPINAN RABBANI",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 10: Andai Kita Mempunyai Kerajaan Islam)"
       },
       {
         "id": "q22",
-        "badge": "IDENTITI GERAKAN • BUKAN PARTI POLITIK SEMPIT",
+        "theme": "Identiti Gerakan • Bukan Parti Politik Sempit",
+        "fasal": "Fasal 11: Hakikat dan Identiti Fikrah Kami",
+        "ar_snippet": "لَسْنَا حِزْبًا سِيَاسِيًّا، وَإِنْ كَانَتِ السِّيَاسَةُ عَلَى قَوَاعِدِ الإِسْلَامِ مِنْ صَمِيمِ فِكْرَتِنَا... وَلَسْنَا جَمْعِيَّةً خَيْرِيَّةً، وَإِنْ كَانَ عَمَلُ الخَيْرِ مِنْ أَعْظَمِ مَقَاصِدِنَا... إِنَّمَا نَحْنُ فِكْرَةٌ وَعَقِيدَةٌ، وَنِظَامٌ وَمِنْهَاجٌ.",
         "quote": "Kami bukanlah sebuah parti politik kepartian, walaupun siasah berlandaskan kaedah-kaedah Islam adalah intipati fikrah kami. Kami juga bukan persatuan kebajikan biasa, walaupun kerja kebajikan adalah matlamat teragung kami. Kami adalah Fikrah dan Akidah, Sistem dan Manhaj yang merangkumi seluruh urusan dunia dan akhirat.",
-        "quote_ar": "لَسْنَا حِزْبًا سِيَاسِيًّا، وَإِنْ كَانَتِ السِّيَاسَةُ عَلَى قَوَاعِدِ الإِسْلَامِ مِنْ صَمِيمِ فِكْرَتِنَا... وَلَسْنَا جَمْعِيَّةً خَيْرِيَّةً، وَإِنْ كَانَ عَمَلُ الخَيْرِ مِنْ أَعْظَمِ مَقَاصِدِنَا... إِنَّمَا نَحْنُ فِكْرَةٌ وَعَقِيدَةٌ، وَنِظَامٌ وَمِنْهَاجٌ.",
+        "badge": "IDENTITI GERAKAN • BUKAN PARTI POLITIK SEMPIT",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 11: Hakikat dan Identiti Fikrah Kami)"
       },
       {
         "id": "q23",
-        "badge": "WARISAN NUBUWWAH • PEMBAWA PANJI RASULULLAH ﷺ",
+        "theme": "Warisan Nubuwwah • Pembawa Panji Rasulullah ﷺ",
+        "fasal": "Fasal 11: Hakikat dan Identiti Fikrah Kami",
+        "ar_snippet": "نَحْنُ أَيُّهَا النَّاسُ ـ وَلَا فَخْرَ ـ أَصْحَابُ رَسُولِ اللهِ، وَحَمَلَةُ رَايَتِهِ مِنْ بَعْدِهِ، وَرَافِعُو لِوَائِهِ كَمَا رَفَعُوهُ.",
         "quote": "Wahai sekelian manusia, kita ini—tanpa berbangga diri—adalah penerus para sahabat Rasulullah ﷺ, pembawa panji baginda sesudahnya, dan pengibar benderanya sebagaimana mereka mengibarkannya.",
-        "quote_ar": "نَحْنُ أَيُّهَا النَّاسُ ـ وَلَا فَخْرَ ـ أَصْحَابُ رَسُولِ اللهِ، وَحَمَلَةُ رَايَتِهِ مِنْ بَعْدِهِ، وَرَافِعُو لِوَائِهِ كَمَا رَفَعُوهُ.",
+        "badge": "WARISAN NUBUWWAH • PEMBAWA PANJI RASULULLAH ﷺ",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 11: Hakikat dan Identiti Fikrah Kami)"
       },
       {
         "id": "q24",
-        "badge": "KEPERCAYAAN AMAL • KETEGASAN SAF",
+        "theme": "Kepercayaan Amal • Ketegasan Saf",
+        "fasal": "Fasal 12: Khatimah Haraki",
+        "ar_snippet": "فَمَنْ تَبِعَنَا الآنَ فَقَدْ فَازَ بِالسَّبْقِ، وَمَنْ تَقَاعَدَ عَنَّا مِنَ المُخْلِصِينَ اليَوْمَ فَسَيَلْحَقُ بِنَا غَدًا، وَلِلسَّابِقِ عَلَيْهِ الفَضْلُ.",
         "quote": "Barangsiapa yang mengikut jejak langkah kami sekarang, sesungguhnya dia telah beroleh keutamaan mendahului. Sesiapa daripada orang yang ikhlas berlengah hari ini, nescaya dia akan menyusul kami esok hari, dan kelebihan tetap menjadi milik mereka yang mendahului.",
-        "quote_ar": "فَمَنْ تَبِعَنَا الآنَ فَقَدْ فَازَ بِالسَّبْقِ، وَمَنْ تَقَاعَدَ عَنَّا مِنَ المُخْلِصِينَ اليَوْمَ فَسَيَلْحَقُ بِنَا غَدًا، وَلِلسَّابِقِ عَلَيْهِ الفَضْلُ.",
+        "badge": "KEPERCAYAAN AMAL • KETEGASAN SAF",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 12: Khatimah Haraki)"
       },
       {
         "id": "q25",
-        "badge": "HUKUM SEJARAH • KEBATILAN PASTI LEBUR",
+        "theme": "Hukum Sejarah • Kebatilan Pasti Lebur",
+        "fasal": "Fasal 12: Khatimah Haraki",
+        "ar_snippet": "وَمَنْ رَغِبَ عَنْ دَعْوَتِنَا زَهَادَةً أَوْ سُخْرِيَةً... فَسَتُثْبِتُ لَهُ الأَيَّامُ عَظِيمَ خَطَئِهِ، وَسَيَقْذِفُ اللهُ بِحَقِّنَا عَلَى بَاطِلِهِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ.",
         "quote": "Barangsiapa yang berpaling daripada dakwah kami kerana memandang remeh, mengejek atau berputus asa daripada kemenangannya, masa akan membuktikan kesilapannya yang amat besar, dan Allah pasti mencampakkan kebenaran kami ke atas kebatilannya lalu melenyapkannya!",
-        "quote_ar": "وَمَنْ رَغِبَ عَنْ دَعْوَتِنَا زَهَادَةً أَوْ سُخْرِيَةً... فَسَتُثْبِتُ لَهُ الأَيَّامُ عَظِيمَ خَطَئِهِ، وَسَيَقْذِفُ اللهُ بِحَقِّنَا عَلَى بَاطِلِهِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ.",
+        "badge": "HUKUM SEJARAH • KEBATILAN PASTI LEBUR",
         "author": "Al-Imam Hasan al-Banna",
         "source": "Risalah Muhimmatunā (Fasal 12: Khatimah Haraki)"
+      },
+      {
+        "id": "q26",
+        "theme": "Menyelamatkan Dunia dengan Cahaya Al-Quran",
+        "fasal": "Fasal 06: Misi Kami: Dua Misi Asasi & 8 Sistem Kenegaraan",
+        "ar_snippet": "لَنْ نَقِفَ عِنْدَ حُدُودِ وَطَنِنَا، بَلْ نَحْمِلُ مِشْعَلَ الحَقِّ إِلَى أَقْطَارِ الأَرْضِ حَتَّى يَتَفَيَّأَ العَالَمُ ظِلَالَ الإِسْلَامِ الوَارِفَةَ.",
+        "quote": "Kita tidak akan berhenti setakat sempadan tanah air kita; sebaliknya kita berazam membawa obor kebenaran ke seluruh pelusuk dunia agar seluruh kemanusiaan diselamatkan daripada kezaliman materialisme menuju keadilan dan kedamaian Islam."
+      },
+      {
+        "id": "q27",
+        "theme": "Sepuluh Muwasafat Individu Muslim",
+        "fasal": "Fasal 07: Rantaian 6 Peringkat Sasaran Kami",
+        "ar_snippet": "نُرِيدُ الفَرْدَ المُسْلِمَ سَلِيمَ العَقِيدَةِ، صَحِيحَ العِبَادَةِ، مَتِينَ الخُلُقِ، قَادِرًا عَلَى الكَسْبِ، حَرِيصًا عَلَى وَقْتِهِ، نَافِعًا لِغَيْرِهِ.",
+        "quote": "Tangga pertama kebangkitan tamadun bermula dengan membina Individu Muslim yang sejahtera akidahnya, sahih ibadahnya, teguh akhlaknya, berpengetahuan luas, kuat jasmaninya, berdikari ekonominya, melawan hawa nafsunya, menjaga waktunya, tersusun urusannya, dan bermanfaat kepada sesama."
+      },
+      {
+        "id": "q28",
+        "theme": "Realiti Iman Lebih Mengagumkan Daripada Khayalan",
+        "fasal": "Fasal 09: Antara Khayalan dan Hakikat",
+        "ar_snippet": "مَا ظَنَّهُ القَانِطُونَ خَيَالًا وَأَحْلَامًا هُوَ عِنْدَ المُؤْمِنِينَ حَقِيقَةٌ يَقِينِيَّةٌ تُحَقِّقُهَا مُعْجِزَاتُ الصِّدْقِ وَالثَّبَاتِ.",
+        "quote": "Apa yang dituduh oleh orang-orang berputus asa sebagai khayalan dan angan-angan kosong, di sisi mukmin yang terhubung dengan Yang Maha Kuat adalah hakikat nyata yang diyakini dan diperjuangkan sehingga menjadi kenyataan sejarah."
+      },
+      {
+        "id": "q29",
+        "theme": "Jangan Sesekali Merendahkan Martabat Dakwahmu",
+        "fasal": "Fasal 12: Khatimah Haraki: Seruan Keteguhan Langkah",
+        "ar_snippet": "يَا إِخْوَانَنَا، لَا تَغْمِطُوا أَنْفُسَكُمْ وَلَا تَقِيسُوا دَعْوَتَكُمُ المُسْتَمَدَّةَ مِنْ نُورِ اللَّهِ بِدَعَوَاتٍ تَصْنَعُهَا الضَّرُورَاتُ وَتَذْهَبُ بِهَا الأَيَّامُ.",
+        "quote": "Wahai Ikhwanul Muslimin! Jangan sesekali merendahkan nilai diri kamu dengan menyamakan dakwah kamu — yang mengambil cahayanya daripada cahaya Allah dan manhajnya daripada Sunnah Rasul-Nya — dengan gerakan sementara yang lahir daripada darurat politik lalu lenyap ditelan zaman."
+      },
+      {
+        "id": "q30",
+        "theme": "Saksi Sejarah: Pengorbanan Darah Pemuda yang Jujur",
+        "fasal": "Fasal 12: Khatimah Haraki: Seruan Keteguhan Langkah",
+        "ar_snippet": "قَدْ رَأَيْتُمْ أَثَرَ هَذَا الجَهْدِ اليَسِيرِ: أَصْوَاتًا تَهْتِفُ بِالقُرْآنِ، وَدِمَاءً طَاهِرَةً تَسِيلُ فِي سَبِيلِ اللَّهِ، وَتَوْقًا صَادِقًا إِلَى الشَّهَادَةِ.",
+        "quote": "Sesungguhnya kamu telah menyaksikan sendiri buah hasil usaha yang sedikit ini: suara-suara yang melaungkan kedaulatan sistem Al-Quran, titisan darah suci para pemuda di jalan Allah, dan kerinduan jujur untuk meraih syahid!"
       }
     ]
   }
