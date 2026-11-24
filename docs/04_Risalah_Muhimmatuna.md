@@ -32,8 +32,8 @@ Menggariskan dua misi agung: (1) Membendung gelombang kebendaan di tanah air Isl
 ### [FASAL 07 • MARATIBUL AMAL] 07. Rantaian 6 Peringkat Sasaran Kami (مَرَاتِبُ أَهْدَافِنَا السِّتَّة)
 Merumuskan strategi bertahap pembinaan tamadun (Marātibul ‘Amal): (1) Individu Muslim, (2) Rumah Tangga Muslim, (3) Masyarakat Muslim, (4) Pembebasan Tanah Air, (5) Kerajaan Islam, dan (6) Kepimpinan Peradaban Dunia (Ustāziyyatul ‘Ālam).
 
-### [FASAL 08 • TIGA BEKALAN HAKIKI] 08. Bekalan dan Senjata Kami (عُـدَّتُـنَـا)
-Menegaskan tiga kelengkapan bekalan perjuangan (‘Uddatunā) yang tidak mampu ditandingi senjata kebendaan: (1) Iman mendalam yang tidak goyah, (2) Ikatan ukhuwah mahabbah yang menyatukan jiwa, dan (3) Kesiapsiagaan berkorban dan berjihad di jalan Allah.
+### [FASAL 08 • ENAM BEKALAN IMAN HARAKI] 08. Bekalan dan Senjata Kami (عُـدَّتُـنَـا)
+Menegaskan kelengkapan bekalan perjuangan (‘Uddatunā) berasaskan Enam Rukun Keimanan Haraki generasi sahabat: (1) Beriman kepada Allah dan pertolongan-Nya, (2) Beriman kepada Rasulullah ﷺ dan kepimpinan baginda, (3) Beriman kepada keluhuran manhaj Al-Quran, (4) Beriman kepada kesucian ukhuwah persaudaraan, (5) Beriman kepada kesempurnaan ganjaran akhirat, dan (6) Beriman kepada amanah peranan diri sebagai umat penyelamat; disempurnakan dengan kesiapsiagaan jihad dan pengorbanan mutlak.
 
 ### [FASAL 09 • REALISME PERJUANGAN] 09. Antara Khayalan dan Hakikat (بين الخيال و الحقيقة)
 Menangkis tuduhan skeptis kononnya misi kebangkitan Islam ini satu khayalan dan igauan kosong. Membuktikan melalui sunnatullah sejarah bahawa setiap tamadun bermula daripada cita-cita yang dianggap mustahil, sebagaimana janji kemenangan Nabi ﷺ sewaktu menggali parit Khandaq.
