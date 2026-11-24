@@ -3,7 +3,7 @@
  * Offline Cache First Strategy
  */
 
-const CACHE_NAME = 'risalah-kami-v104';
+const CACHE_NAME = 'risalah-kami-v105';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -15,6 +15,7 @@ const ASSETS_TO_CACHE = [
   './icons/favicon.png',
   './icons/icon-192.png',
   './icons/icon-512.png',
+  './docs/00_Peta_Indeks_Tetralogi.md',
   './docs/01_Risalah_Dawatuna.docx',
   './docs/01_Risalah_Dawatuna.md',
   './docs/02_Risalah_Ila_Ayyi_Syai_Nadun_Nas.docx',

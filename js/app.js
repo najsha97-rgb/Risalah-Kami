@@ -44,8 +44,10 @@ document.addEventListener('DOMContentLoaded', () => {
     currentViewMode: 'full', // 'full', 'summary', 'quotes'
     quoteFontMode: localStorage.getItem('risalah_quote_font_mode') || 'amiri', // 'amiri' (default), 'compare', 'almarai'
     fontSize: parseFloat(localStorage.getItem('risalah_reader_font_size')) || 1.06,
-    theme: localStorage.getItem('risalah_reader_theme') || 'dark'
+    theme: localStorage.getItem('risalah_reader_theme') || 'dark',
+    lastRead: (() => { try { return JSON.parse(localStorage.getItem('risalah_last_read') || 'null'); } catch (e) { return null; } })()
   };
+  let currentModalSummaryContext = null;
 
   // DOM Elements
   const readingProgress = document.getElementById('readingProgress');
@@ -60,7 +62,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const searchResults = document.getElementById('searchResults');
   const searchClearBtn = document.getElementById('searchClearBtn');
 
+  const btnPrintSection = document.getElementById('btnPrintSection');
   const btnQuickSummary = document.getElementById('btnQuickSummary');
+  const modalCopySummaryBtn = document.getElementById('modalCopySummaryBtn');
   const summaryModal = document.getElementById('summaryModal');
   const modalSummaryBadge = document.getElementById('modalSummaryBadge');
   const modalSummaryCloseBtn = document.getElementById('modalSummaryCloseBtn');
@@ -96,9 +100,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const metaFasalCount = document.getElementById('metaFasalCount');
   const metaSubCount = document.getElementById('metaSubCount');
   const metaQuoteCount = document.getElementById('metaQuoteCount');
+  const resumeReadingPill = document.getElementById('resumeReadingPill');
+  const resumeReadingText = document.getElementById('resumeReadingText');
 
   // Subheading Banner Elements
   const bannerSectionNumber = document.getElementById('bannerSectionNumber');
+  const bannerReadingTime = document.getElementById('bannerReadingTime');
   const bannerArabicGold = document.getElementById('bannerArabicGold');
   const activeSectionHeading = document.getElementById('activeSectionHeading');
 
@@ -133,6 +140,147 @@ document.addEventListener('DOMContentLoaded', () => {
   // Get Current Risalah Object
   function getCurrentRisalah() {
     return RISALAH_DATA.find(r => r.id === state.currentRisalahId) || RISALAH_DATA[0];
+  }
+
+    // Helpers: Anggaran Masa Bacaan, Penanda Terakhir Dibaca, Salin Teks Usrah
+  function computeReadingMinutes(htmlStr) {
+    if (!htmlStr) return 1;
+    const plain = htmlStr.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    const words = plain ? plain.split(' ').length : 0;
+    return Math.max(1, Math.round(words / 180));
+  }
+
+  function cleanSectionTitle(rawTitle) {
+    if (!rawTitle) return '';
+    return rawTitle
+      .replace(/^\s*\d+[\.\-\)]\s*/, '')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s*\([^)]*[\u0600-\u06FF][^)]*\)\s*/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim() || rawTitle.replace(/<[^>]+>/g, '').trim();
+  }
+
+  function updateResumeReadingPill() {
+    if (!resumeReadingPill || !resumeReadingText) return;
+    const lr = state.lastRead;
+    if (!lr || !lr.risalahId) {
+      resumeReadingPill.style.display = 'none';
+      return;
+    }
+    const targetR = RISALAH_DATA.find(r => r.id === lr.risalahId);
+    const shortName = targetR ? targetR.title.replace(/^Risalah\s+/i, '') : lr.risalahTitle;
+    const fasalPad = String(lr.sectionNumber || (lr.sectionIndex + 1)).padStart(2, '0');
+    const isSame = (lr.risalahId === state.currentRisalahId && lr.sectionIndex === state.currentSectionIndex);
+    resumeReadingText.textContent = isSame
+      ? `Terakhir Dibaca: Fasal ${fasalPad}`
+      : `Sambung Terakhir: ${shortName} • F${fasalPad}`;
+    resumeReadingPill.style.display = 'inline-flex';
+  }
+
+  function saveLastRead(risalah, secIdx) {
+    if (!risalah || !risalah.sections || !risalah.sections[secIdx]) return;
+    const sec = risalah.sections[secIdx];
+    const record = {
+      risalahId: risalah.id,
+      risalahTitle: risalah.title,
+      sectionIndex: secIdx,
+      sectionNumber: sec.number || (secIdx + 1),
+      sectionTitle: cleanSectionTitle(sec.title),
+      updatedAt: Date.now()
+    };
+    state.lastRead = record;
+    try {
+      localStorage.setItem('risalah_last_read', JSON.stringify(record));
+    } catch (e) { }
+    updateResumeReadingPill();
+  }
+
+  function copyTextToClipboard(text, successMessage) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text)
+        .then(() => showToast(successMessage))
+        .catch(() => fallbackCopyText(text, successMessage));
+    } else {
+      fallbackCopyText(text, successMessage);
+    }
+  }
+
+  function fallbackCopyText(text, successMessage) {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    try {
+      document.execCommand('copy');
+      showToast(successMessage);
+    } catch (e) {
+      showToast('Gagal menyalin teks ke papan keratan');
+    }
+    document.body.removeChild(ta);
+  }
+
+  function buildWhatsAppSummaryText(risalah, summaryItem, sec, idx) {
+    const badge = (summaryItem && summaryItem.badge) ? summaryItem.badge : `FASAL ${String(idx + 1).padStart(2, '0')}`;
+    const rawTitle = (summaryItem && summaryItem.title) ? summaryItem.title : (sec ? sec.title : '');
+    const titlePlain = rawTitle.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+    const rawBriefHtml = (summaryItem && summaryItem.brief) ? summaryItem.brief : '';
+
+    const temp = document.createElement('div');
+    temp.innerHTML = rawBriefHtml;
+
+    const lines = [];
+    lines.push(`📖 *INTISARI FASAL — RISALAH KAMI*`);
+    lines.push(`📚 *${risalah.title}* (${risalah.arabic_title})`);
+    lines.push(`📌 *${badge}:* ${titlePlain}`);
+    lines.push('');
+
+    // Extract plain paragraph(s) outside infographic
+    const clone = temp.cloneNode(true);
+    const infoBlocks = clone.querySelectorAll('.systems-infographic, .pedagogical-infographic-card');
+    const extractedInfos = [];
+    infoBlocks.forEach(block => {
+      const bBadge = block.querySelector('.infographic-badge, .pedagogical-infographic-header, [class*="-badge"], [class*="-header"]');
+      const bTitle = bBadge ? bBadge.textContent.replace(/\s+/g, ' ').trim() : '';
+      const itemNodes = block.querySelectorAll('.sys-item, .infographic-item, [class*="-card"], [class*="-step"], [class*="-node"], [class*="-pillar"], [class*="-box"]');
+      const points = [];
+      itemNodes.forEach(node => {
+        // Only leaf-like items that don't wrap other itemNodes
+        if (node.querySelector('.sys-item, .infographic-item')) return;
+        const txt = node.textContent.replace(/\s+/g, ' ').trim();
+        if (txt && txt.length > 4 && !points.includes(txt)) {
+          points.push(txt);
+        }
+      });
+      if (points.length === 0) {
+        // Fallback: split lines by direct children or text
+        const fallbackTxt = block.textContent.replace(/\s+/g, ' ').trim();
+        if (fallbackTxt) points.push(fallbackTxt);
+      }
+      extractedInfos.push({ title: bTitle, points });
+      block.remove();
+    });
+
+    const prose = clone.textContent.replace(/\s+/g, ' ').trim();
+    if (prose) {
+      lines.push(prose);
+      lines.push('');
+    }
+
+    extractedInfos.forEach(info => {
+      if (info.title) {
+        lines.push(`✨ *${info.title}*`);
+      }
+      info.points.slice(0, 12).forEach(pt => {
+        lines.push(`• ${pt}`);
+      });
+      lines.push('');
+    });
+
+    lines.push('━━━━━━━━━━━━━━━━━━');
+    lines.push('_Sumber: Tetralogi Fikrah Al-Imam Hasan al-Banna (PWA Risalah Kami)_');
+    return lines.join('\n').replace(/\n{3,}/g, '\n\n').trim();
   }
 
   // Render Whole Risalah Context
@@ -208,9 +356,11 @@ document.addEventListener('DOMContentLoaded', () => {
       const li = document.createElement('li');
       li.className = `chapter-item ${idx === state.currentSectionIndex ? 'active' : ''}`;
       const titleWithoutNum = sec.title.replace(/^\s*\d+[\.\-\)]\s*/, '');
+      const isBookmarked = state.lastRead && state.lastRead.risalahId === risalah.id && state.lastRead.sectionIndex === idx;
       li.innerHTML = `
         <span class="ch-num">${String(sec.number).padStart(2, '0')}.</span>
         <span class="ch-title">${formatTitleArabic(titleWithoutNum)}</span>
+        ${isBookmarked ? '<i class="fas fa-bookmark ch-last-icon" title="Penanda Terakhir Dibaca"></i>' : ''}
       `;
       li.addEventListener('click', () => {
         state.currentSectionIndex = idx;
@@ -233,10 +383,15 @@ document.addEventListener('DOMContentLoaded', () => {
   function renderActiveSection() {
     const risalah = getCurrentRisalah();
     const sec = risalah.sections[state.currentSectionIndex];
+    currentModalSummaryContext = { risalah, summaryItem, sec, idx: state.currentSectionIndex };
     if (!sec) return;
 
     // Update Subheading Banner
     bannerSectionNumber.textContent = `FASAL ${String(sec.number).padStart(2, '0')} / ${String(risalah.sections.length).padStart(2, '0')}`;
+    if (bannerReadingTime) {
+      const mins = computeReadingMinutes(sec.html);
+      bannerReadingTime.innerHTML = `<i class="far fa-clock"></i> ~${mins} minit bacaan`;
+    }
 
     // Ekstrak teks Arab dari tajuk fasal jika ada (cth: (المصارحة - Al-Muṣāraḥah) atau (المقياس))
     const arMatch = sec.title.match(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/);
@@ -263,10 +418,19 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    // Highlight in sidebar
+    // Highlight in sidebar & update Last Read marker
+    saveLastRead(risalah, state.currentSectionIndex);
     const items = chapterList.querySelectorAll('.chapter-item');
     items.forEach((item, idx) => {
       item.classList.toggle('active', idx === state.currentSectionIndex);
+      const oldIcon = item.querySelector('.ch-last-icon');
+      if (oldIcon) oldIcon.remove();
+      if (idx === state.currentSectionIndex) {
+        const bIcon = document.createElement('i');
+        bIcon.className = 'fas fa-bookmark ch-last-icon';
+        bIcon.title = 'Sedang / Terakhir Dibaca';
+        item.appendChild(bIcon);
+      }
     });
 
     // Pager controls
@@ -333,7 +497,21 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
         <h4>${formatTitleArabic(item.title)}</h4>
         <div class="summary-card-brief">${item.brief}</div>
+        <div class="summary-card-actions">
+          <button type="button" class="summary-copy-wa-btn" title="Salin teks ringkasan mesra WhatsApp / Telegram">
+            <i class="fab fa-whatsapp"></i> Salin Teks Usrah
+          </button>
+        </div>
       `;
+      const copyWaBtn = card.querySelector('.summary-copy-wa-btn');
+      if (copyWaBtn) {
+        copyWaBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const targetSec = risalah.sections[targetSecIdx];
+          const txt = buildWhatsAppSummaryText(risalah, item, targetSec, targetSecIdx);
+          copyTextToClipboard(txt, 'Intisari Usrah disalin ke papan keratan!');
+        });
+      }
       card.addEventListener('click', () => {
         state.currentSectionIndex = targetSecIdx;
         switchViewMode('full');
@@ -644,8 +822,39 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Download Modal Handlers
+    if (btnPrintSection) {
+      btnPrintSection.addEventListener('click', () => {
+        window.print();
+      });
+    }
     if (btnQuickSummary) {
       btnQuickSummary.addEventListener('click', openSummaryModal);
+    }
+    if (modalCopySummaryBtn) {
+      modalCopySummaryBtn.addEventListener('click', () => {
+        if (!currentModalSummaryContext) return;
+        const { risalah, summaryItem, sec, idx } = currentModalSummaryContext;
+        const txt = buildWhatsAppSummaryText(risalah, summaryItem, sec, idx);
+        copyTextToClipboard(txt, 'Teks Intisari Usrah disalin untuk WhatsApp/Telegram!');
+      });
+    }
+    if (resumeReadingPill) {
+      resumeReadingPill.addEventListener('click', () => {
+        const lr = state.lastRead;
+        if (!lr) return;
+        if (lr.risalahId !== state.currentRisalahId || lr.sectionIndex !== state.currentSectionIndex) {
+          state.currentRisalahId = lr.risalahId;
+          state.currentSectionIndex = lr.sectionIndex;
+          localStorage.setItem('risalah_active_id', state.currentRisalahId);
+          localStorage.setItem('risalah_active_section_idx', state.currentSectionIndex);
+          switchViewMode('full');
+          renderCurrentRisalah();
+        } else {
+          switchViewMode('full');
+          const bannerElem = document.querySelector('.subheading-banner');
+          if (bannerElem) bannerElem.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
     }
     if (modalSummaryCloseBtn) {
       modalSummaryCloseBtn.addEventListener('click', closeSummaryModal);

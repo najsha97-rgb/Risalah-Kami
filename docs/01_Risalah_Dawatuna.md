@@ -1,10 +1,10 @@
-# RISALAH DA'WATUNA (رسالة دعوتنا)
-## Seruan Dakwah Kami: Prinsip, Ciri, Wasilah & Sikap Terhadap Aliran Semasa
+# RISALAH 1: SERUAN DAKWAH KAMI — DA'WATUNA
+## (رِسَالَةُ دَعْوَتِنَا - RISĀLAH DA‘WATUNĀ)
 
-**Karya Asal:** Al-Imam Asy-Syahid Hasan al-Banna (*rahimahullah*)  
-**Penterjemah & Penyelaras:** Pasukan Kajian Ilmiah Dakwah  
-**Siri:** Khazanah Risalah Dakwah & Fiqh Haraki Klasik  
-**Status Naskhah:** Edisi Terjemahan Lengkap, Tersusun & Sedia PWA  
+**Pengarang Asal:** Al-Imām Asy-Syahīd Ḥasan al-Bannā (*raḥimahullāh*)  
+**Penterjemah & Penyelaras Istilah:** Sidang Editor Ilmiah Fikrah Haraki  
+**Siri:** Tetralogi Risalah Fikrah Asasi (Risalah Pertama)  
+**Status Naskhah:** Edisi Terjemahan Lengkap, Berinfografik (21/21 Fasal) & Sedia PWA  
 
 ---
 

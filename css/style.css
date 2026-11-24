@@ -6286,3 +6286,342 @@ body {
   font-size: 0.8rem;
   line-height: 1.45;
 }
+
+
+/* ==========================================================================
+   PENAMBAHBAIKAN AKHIR: MASA BACAAN, PENANDA TERAKHIR, SALIN USRAH & CETAKAN
+   ========================================================================== */
+.banner-top-left {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.banner-reading-time {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--cyan-primary, #38BDF8);
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.28);
+  padding: 2px 9px;
+  border-radius: var(--radius-pill);
+  letter-spacing: 0.02em;
+}
+
+.banner-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  flex-wrap: wrap;
+}
+
+.btn-banner-tool {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.42rem;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  font-family: var(--font-body, inherit);
+  color: #38BDF8;
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.38);
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+
+.btn-banner-tool:hover {
+  background: rgba(56, 189, 248, 0.22);
+  border-color: #38BDF8;
+  box-shadow: 0 0 12px rgba(56, 189, 248, 0.35);
+  transform: translateY(-1px);
+}
+
+.meta-pill-resume {
+  cursor: pointer;
+  border-color: rgba(245, 158, 11, 0.45) !important;
+  background: rgba(245, 158, 11, 0.14) !important;
+  color: #FDE047 !important;
+  transition: var(--transition);
+  font-family: inherit;
+}
+
+.meta-pill-resume:hover {
+  background: rgba(245, 158, 11, 0.26) !important;
+  border-color: #FDE047 !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(245, 158, 11, 0.25);
+}
+
+[data-theme="light"] .meta-pill-resume {
+  background: rgba(245, 158, 11, 0.15) !important;
+  color: #92400E !important;
+  border-color: rgba(180, 83, 9, 0.4) !important;
+}
+
+.ch-last-icon {
+  color: var(--gold-light, #FDE047);
+  font-size: 0.72rem;
+  flex-shrink: 0;
+  margin-top: 3px;
+  filter: drop-shadow(0 0 4px rgba(245, 158, 11, 0.45));
+}
+
+.summary-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.summary-card-brief {
+  flex: 1;
+}
+
+.summary-card-actions {
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed rgba(255, 255, 255, 0.1);
+  display: flex;
+  justify-content: flex-end;
+}
+
+[data-theme="light"] .summary-card-actions {
+  border-top-color: rgba(0, 0, 0, 0.1);
+}
+
+.summary-copy-wa-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 5px 12px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  font-family: var(--font-sans);
+  color: #34D399;
+  background: rgba(16, 185, 129, 0.12);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  border-radius: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.summary-copy-wa-btn:hover {
+  background: #10B981;
+  color: #062319;
+  border-color: #34D399;
+  box-shadow: 0 2px 10px rgba(16, 185, 129, 0.35);
+}
+
+.btn-modal-copy-wa {
+  background: rgba(16, 185, 129, 0.16);
+  color: #34D399;
+  border: 1px solid rgba(16, 185, 129, 0.45);
+}
+
+.btn-modal-copy-wa:hover {
+  background: #10B981;
+  color: #062319;
+  border-color: #34D399;
+  box-shadow: 0 0 14px rgba(16, 185, 129, 0.4);
+}
+
+/* ==========================================================================
+   MOD CETAKAN & EKSPORT PDF PROFESIONAL (@media print)
+   ========================================================================== */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 16mm 14mm;
+  }
+
+  html,
+  body {
+    background: #FFFFFF !important;
+    color: #111827 !important;
+    font-size: 10.5pt !important;
+    line-height: 1.65 !important;
+    overflow: visible !important;
+    height: auto !important;
+  }
+
+  /* Sembunyikan elemen navigasi & alat interaktif */
+  .app-header,
+  .risalah-nav,
+  .chapter-sidebar,
+  .sidebar-overlay,
+  .reading-progress,
+  .chapter-nav-pager,
+  .banner-actions,
+  .btn-quick-summary,
+  .btn-banner-tool,
+  .font-compare-bar,
+  .quote-actions,
+  .summary-card-actions,
+  .modal-backdrop,
+  .toast,
+  .hero-meta-grid,
+  .hero-pill-badge {
+    display: none !important;
+  }
+
+  .main-layout {
+    display: block !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    min-height: auto !important;
+  }
+
+  .content-workspace {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .hero-card,
+  .pbi-hero-card,
+  .subheading-banner,
+  .chapter-card,
+  .summary-card,
+  .quote-card,
+  .pbi-pillar-card,
+  .matrix-card {
+    background: #FFFFFF !important;
+    color: #111827 !important;
+    border: 1px solid #CBD5E1 !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+  }
+
+  .hero-card {
+    padding: 12px 16px !important;
+    margin-bottom: 14px !important;
+    border-left: 4px solid #059669 !important;
+  }
+
+  .hero-main-title,
+  .banner-title,
+  .summary-card h4,
+  .matrix-header h3,
+  .pbi-pillar-card h4,
+  .chapter-card h1,
+  .chapter-card h2,
+  .chapter-card h3,
+  .chapter-card h4,
+  .chapter-card p,
+  .chapter-card li {
+    color: #111827 !important;
+    text-shadow: none !important;
+    -webkit-text-fill-color: #111827 !important;
+  }
+
+  .hero-tagline,
+  .banner-reading-time {
+    color: #374151 !important;
+    background: #F1F5F9 !important;
+    border-color: #CBD5E1 !important;
+  }
+
+  .banner-tag {
+    color: #9F1239 !important;
+  }
+
+  /* Tukar emas menyala ke dakwat gelap berkontras tinggi atas kertas putih */
+  .hero-ar-title,
+  .banner-arabic-gold,
+  .quran-arabic,
+  .verse-arabic,
+  .quote-ar-snippet,
+  .arabic-inline-almarai,
+  .pillar-ar {
+    color: #064E3B !important;
+    text-shadow: none !important;
+    -webkit-text-fill-color: #064E3B !important;
+    background: transparent !important;
+  }
+
+  .subheading-banner {
+    padding: 12px 16px !important;
+    margin-bottom: 14px !important;
+    border-left: 4px solid #059669 !important;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .chapter-card {
+    border: none !important;
+    padding: 4px 0 !important;
+  }
+
+  .quran-verse-card {
+    background: #F8FAFC !important;
+    border: 1px solid #CBD5E1 !important;
+    border-left: 4px solid #B45309 !important;
+    color: #111827 !important;
+    box-shadow: none !important;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    padding: 12px 16px !important;
+    margin: 12px 0 !important;
+  }
+
+  .quran-arabic {
+    border-bottom: 1px dashed #CBD5E1 !important;
+    padding-bottom: 8px !important;
+    margin-bottom: 8px !important;
+  }
+
+  .quran-translation,
+  .translation-text {
+    color: #1F2937 !important;
+  }
+
+  .quran-reference {
+    color: #9F1239 !important;
+    background: #FFF1F2 !important;
+    border-color: #FECDD3 !important;
+  }
+
+  /* Kad infografik pedagogi dioptimumkan untuk cetakan bersih */
+  .pedagogical-infographic-card,
+  .systems-infographic {
+    background: #F8FAFC !important;
+    border: 1px solid #94A3B8 !important;
+    color: #0F172A !important;
+    box-shadow: none !important;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    margin: 14px 0 !important;
+    padding: 12px !important;
+  }
+
+  .pedagogical-infographic-card *,
+  .systems-infographic * {
+    color: #1E293B !important;
+    text-shadow: none !important;
+  }
+
+  .pedagogical-infographic-card [class*="-card"],
+  .pedagogical-infographic-card [class*="-step"],
+  .pedagogical-infographic-card [class*="-item"],
+  .pedagogical-infographic-card [class*="-banner"],
+  .systems-infographic .sys-item,
+  .systems-infographic .infographic-item {
+    background: #FFFFFF !important;
+    border-color: #CBD5E1 !important;
+    box-shadow: none !important;
+  }
+
+  .infographic-badge,
+  .pedagogical-infographic-header {
+    background: #E2E8F0 !important;
+    color: #0F172A !important;
+    border: 1px solid #94A3B8 !important;
+  }
+}
