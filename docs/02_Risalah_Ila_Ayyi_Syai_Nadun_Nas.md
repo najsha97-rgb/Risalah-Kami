@@ -731,6 +731,17 @@ Dan Nabi mereka sentiasa memperingatkan mereka dengan sabdanya yang tegas:
 
 Justeru, keluarnya mereka daripada tanah air mereka bukanlah demi memburu darjat kedudukan, bukan demi mengaut harta kekayaan, bukan demi menegakkan kekuasaan imperialis, dan bukan demi melakukan kezaliman kuku besi! Sebaliknya, keluarnya mereka adalah semata-mata demi menunaikan amanah satu risalah khusus: iaitu risalah Nabi mereka yang ditinggalkan sebagai amanah suci di tangan mereka, dan baginda memerintahkan mereka agar berjihad pada jalannya sehinggalah tiada lagi fitnah penindasan dan seluruh ketaatan agama itu hanyalah semata-mata bagi Allah!
 
+---
+
+> ### 🕊️ INFOGRAFIK PEDAGOGI: FUTUHAT ISLAM VS KOLONIALISME BARAT
+>
+> | Dimensi | Futuhat Islam (إرشاد وإصلاح) | Kolonialisme Barat (استعمار واستغلال) |
+> | :--- | :--- | :--- |
+> | **Matlamat Utama** | Memerdekakan manusia drpd perhambaan makhluk kpd Allah | Merompak sumber kekayaan bumi & mengeksploitasi pasaran |
+> | **Keadilan Sosial** | Persaudaraan sejagat & hak sama rata tanpa beza warna kulit | Diskriminasi ras, penindasan bangsa & perhambaan ekonomi |
+> | **Identiti Tempatan** | Membimbing akidah & mengangkat maruah tamadun insan | Memadamkan jati diri, bahasa & memecahbelahkan perpaduan |
+>
+> 📜 **Prinsip Abadi Rib'iy bin Amir:** *"Allah mengutuskan kami untuk mengeluarkan manusia daripada perhambaan sesama hamba kepada perhambaan kepada Allah semata-mata!"*
 
 ---
 
@@ -755,6 +766,16 @@ Dan Rasulullah ﷺ bersabda dalam hadis yang diriwayatkan oleh Imam Ahmad, At-Ta
 Dan kamu semua membaca di dalam kitab-kitab fiqah—sama ada yang dikarang pada zaman dahulu mahupun zaman moden—tentang bilakah jihad itu menjadi fardhu kifayah dan bilakah ia bertukar menjadi fardhu ‘ain, dan kamu mengetahui hakikat serta maknanya dengan sebenar-benar ilmu. Maka apakah erti kelesuan yang telah memagari dinding-dinding kehidupan kita ini? Dan apakah erti keputusasaan yang mencengkam hati-hati ini sehingga tidak lagi sedar dan tidak lagi celik? Wahai kaum muslimin, ini adalah zaman pembentukan rijal (marḥalah at-takwīn), maka binalah diri dan jiwa kamu!
 Sesungguhnya kewajipan (farīḍah) ini memerlukan daripada kamu jiwa-jiwa yang beriman dan hati-hati yang sejahtera. Maka berusahalah untuk memperkukuh keimanan kamu dan memelihara kesejahteraan dada (kebersihan jiwa) kamu. Dan ia juga menuntut daripada kamu pengorbanan harta benda serta segenap daya usaha; maka bersiap sedialah untuk menghadapinya, kerana sesungguhnya apa yang ada di sisi kamu pasti akan lenyap dan apa yang ada di sisi Allah akan kekal abadi. Dan sesungguhnya Allah telah membeli daripada orang-orang yang beriman akan jiwa raga dan harta benda mereka dengan balasan bahawa untuk merekalah syurga yang seluas langit dan bumi.
 
+---
+
+> ### 📢 INFOGRAFIK PEDAGOGI: ANJAKAN KESEDARAN & FASA TAKWIN
+>
+> | Dimensi Sikap | Ciri-Ciri Kelesuan / Haraki | Impak Kepada Gerakan Dakwah |
+> | :--- | :--- | :--- |
+> | **⚠️ 3 Dalih Kelesuan (*Hujaj al-Qu‘ūd*)** | "Masa jihad telah berlalu", "tiada wasilah", atau berpuas hati wirid pasif | Mematikan cita-cita, melumpuhkan amal & mewariskan kehinaan (*Hadis ‘Inah*) |
+> | **⚡ Fasa Pembentukan Rijal (*Marḥalah at-Takwīn*)** | Membina jiwa beriman sejahtera & sanggup berkorban harta dan jiwa | Melahirkan rijal teguh yang bersedia memimpin kebangkitan masa hadapan |
+>
+> 🧭 **Seruan Haraki:** *"Ini adalah zaman pembentukan rijal (marḥalah at-takwīn), maka perbaharuilah imanmu dan binalah jiwamu!"*
 
 ---
 
@@ -794,6 +815,18 @@ Dan undang-undang inilah juga yang diungkapkan oleh Nabi kita ﷺ dalam hadis mu
 Tidakkah engkau menyaksikan bahawa baginda ﷺ telah menerangkan dengan amat jelas bahawa punca kelemahan umat dan kehinaan bangsa-bangsa adalah kerana kelayuan jiwa mereka, kelemahan hati mereka, dan kekosongan sanubari mereka daripada akhlak-akhlak terpuji serta sifat-sifat keperwiraan rijal yang sejati—sekalipun bilangan mereka amat ramai dan limpahan hasil kemewahan mereka melimpah ruah!
 Dan sesungguhnya apabila sesuatu umat leka bersenang-lenang dalam kenikmatan, terbiasa dengan kemewahan hidup, tenggelam dalam kebendaan duniawi, terpesona dengan perhiasan fatamorgana dunia, dan melupakan kesanggupan menanggung kepayahan, menghadapi saat-saat getir, serta berjihad pada jalan menegakkan kebenaran—maka ucapkanlah selamat tinggal dan kebinasaan kepada kemuliaan serta cita-citanya!
 
+---
+
+> ### 🏗️ INFOGRAFIK PEDAGOGI: 4 RUKUN KEKUATAN JIWA LUAR BIASA
+>
+> | Rukun Jiwa (*Quwwah Nafsiyyah*) | Makna & Tuntutan Haraki | Perlindungan Terhadap Harakah |
+> | :--- | :--- | :--- |
+> | **🎯 Keazaman Waja (*Irādah Qawiyyah*)** | Tekad kukuh yang tidak goyah mendepani cabaran | Kebal daripada bibit kelesuan & keputusasaan |
+> | **🤝 Kesetiaan Teguh (*Wafā’ Thābit*)** | Kesetiaan mutlak kepada janji dan bai'ah | Terpelihara drpd khianat & berpaling tadah |
+> | **💎 Pengorbanan Luhur (*Taḍḥiyah ‘Azīzah*)** | Rela infaq harta, masa & jiwa raga | Bebas drpd ketamakan nafsu & kebakhilan dunia |
+> | **🧭 Kefahaman Prinsip (*Īmān bil-Mabda’*)** | Penghayatan mendalam & penghormatan dasar wahyu | Terpelihara drpd kompromi asas & syubhat musuh |
+>
+> 📖 **Kaidah Sunnatullah:** *"Sesungguhnya Allah tidak mengubah keadaan sesuatu kaum sehingga mereka mengubah apa yang ada dalam jiwa mereka sendiri!" (Ar-Ra'd: 11)*
 
 ---
 
@@ -811,6 +844,16 @@ Dan mereka tidak pernah mereka-reka prinsip ini secara bid'ah—sebagaimana pega
 
 Dan sesungguhnya Al-Quran telah menyingkap makna yang mendalam ini dalam banyak ayat-ayatnya; bahkan Al-Quran telah mengemukakan satu contoh aplikasi sejarah yang abadi bagi membuktikan bahawa kebangkitan sesuatu bangsa bermula daripada transformasi jiwa dan rohani sebelum menguasai kekuatan kebendaan!
 
+---
+
+> ### ⚡ INFOGRAFIK PEDAGOGI: NERACA ROHANI VS KEBENDAAN
+>
+> | Paksi Kekuatan | Sifat & Kedudukan | Pengaruh Kemenangan |
+> | :--- | :--- | :--- |
+> | **💎 Kekuatan Rohani (*Al-Quwwah ar-Rūḥiyyah*)** | **Asas Utama:** Akhlak mulia, jiwa luhur & pergantungan kpd Allah | Menentukan nusrah Ilahi; melahirkan mukjizat perjuangan walau serba kekurangan |
+> | **⚙️ Kekuatan Kebendaan (*Al-Quwwah al-Māddiyyah*)** | **Wasilah Pelengkap:** Wang ringgit, persenjataan & jentera material | Tunduk mengikut kekuatan roh; tiada erti tanpa jiwa pejuang yang hidup |
+>
+> ⚖️ **Kaidah Kemenangan:** *"Kekurangan kelengkapan lahiriah bukan alasan kekalahan; kebangkitan sejati bermula dengan reformasi jiwa dan rohani!"*
 
 ---
 
