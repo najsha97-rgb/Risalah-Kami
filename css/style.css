@@ -669,6 +669,13 @@ body {
 }
 
 /* Memastikan kurungan pembuka dan penutup tidak terasing atau tergantung */
+.title-sub-wrap,
+.content-block h3 .title-sub-wrap {
+  display: inline-block;
+  white-space: nowrap;
+  vertical-align: baseline;
+}
+
 .title-bracket {
   display: inline;
   color: inherit;
