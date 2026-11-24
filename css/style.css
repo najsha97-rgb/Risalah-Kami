@@ -429,6 +429,8 @@ body {
   position: sticky;
   top: 125px;
   overflow-y: auto;
+  overflow-x: hidden;
+  box-sizing: border-box;
   padding: 1.2rem;
   transition: transform 0.3s ease;
 }
@@ -606,17 +608,20 @@ body {
 }
 
 .chapter-item {
-  padding: 9px 12px;
+  padding: 10px 12px;
   border-radius: var(--radius-sm);
   cursor: pointer;
   font-size: 0.84rem;
   color: var(--text-secondary);
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.4rem;
   display: flex;
-  align-items: baseline;
-  gap: 8px;
+  align-items: flex-start;
+  gap: 10px;
   border: 1px solid transparent;
   transition: var(--transition);
+  overflow: hidden;
+  box-sizing: border-box;
+  width: 100%;
 }
 
 .chapter-item:hover {
@@ -638,6 +643,8 @@ body {
   color: var(--gold-light);
   font-family: monospace;
   font-weight: 700;
+  flex-shrink: 0;
+  margin-top: 2px;
 }
 
 .ch-title {
@@ -646,33 +653,44 @@ body {
   color: var(--text-main);
   line-height: 1.45;
   flex: 1;
+  min-width: 0;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .title-sub-wrap {
   display: inline-block;
   white-space: normal;
   color: var(--text-muted);
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
-/* Di dalam senarai sidebar skroll: Bawa turun seluruh kurungan ke baris baharu */
+/* Di dalam senarai sidebar skroll: Bawa turun seluruh kurungan ke baris baharu dengan margin kemas & elak keluar kotak */
 .chapter-item .title-sub-wrap {
-  display: block;
-  margin-top: 3px;
-  font-size: 0.82rem;
-  line-height: 1.35;
+  display: block !important;
+  margin-top: 6px !important;
+  margin-bottom: 2px;
+  font-size: 0.80rem;
+  line-height: 1.4;
   color: #94A3B8;
-  word-break: break-word;
+  white-space: normal !important;
+  word-break: break-word !important;
+  overflow-wrap: break-word !important;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 [data-theme="light"] .chapter-item .title-sub-wrap {
   color: #64748B;
 }
 
-/* Memastikan kurungan pembuka dan penutup tidak terasing atau tergantung */
+/* Memastikan kurungan pembuka dan penutup tidak terasing atau tergantung dan bebas wrap */
 .title-sub-wrap,
 .content-block h3 .title-sub-wrap {
   display: inline-block;
-  white-space: nowrap;
+  white-space: normal;
+  word-break: break-word;
   vertical-align: baseline;
 }
 
