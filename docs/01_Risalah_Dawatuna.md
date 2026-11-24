@@ -80,7 +80,13 @@ Membongkar realiti pendakwah ideologi moden di Barat yang terlatih secara profes
 Menyoroti perkembangan revolusi media dan komunikasi moden (akhbar, radio, teater, dan penerbitan) yang dimanfaatkan secara agresif oleh pelbagai propaganda asing. Menegaskan kewajipan umat Islam menguasai dan memperalatkan seluruh wasilah kontemporari ini demi menyampaikan kebenaran risalah Islam ke seluruh pelosok dunia.
 
 ### [FASAL 12 • KESYUMULAN ISLAM] 12. Hakikat Islam Syumul Kita (إسلامنا - Islāmunā)
-Mengisytiharkan bahawa sifat asasi dakwah ini terangkum dalam satu perkataan: Islamiyyah (berteraskan Islam). Menolak sebarang tafsiran Islam yang sempit dan terhad kepada ritual semata-mata, seraya menegaskan kesyumulan Islam yang mengatur akidah, ibadah, watan, kerajaan, undang-undang, akhlak, ekonomi, dan peradaban.
+Mengisytiharkan sifat asasi dakwah berteraskan 'Islamiyyah' yang menolak faham sempit dan merangkumi seluruh urusan hidup berpandukan tiga paksi wahyu:
+
+🌐 **INFOGRAFIK MANHAJ KESYUMULAN ISLAM KITA (ISLĀMUNĀ):**
+* 📖 **1. Kitabullah (Al-Quranul Karim)** ➔ Asas Rabbani & perlembagaan agung yang mengatur kehidupan insan.
+* 📜 **2. Sunnah Rasulullah ﷺ** ➔ Huraian praktikal dan penjelas hukum serta matlamat wahyu.
+* ⚔️ **3. Sirah Salafus Soleh (Sahabat)** ➔ Aplikasi nyata dan teladan amali membina peradaban di alam realiti.
+* 🧩 **Cakupan Syumul:** Akidah & Ibadah • Kerajaan & Watan • Hukum & Kehakiman • Ekonomi & Harta • Jihad & Dakwah • Dunia & Akhirat.
 
 ### [FASAL 13 • NERACA ISLAM] 13. Neraca Menghadapi Pelbagai Fahaman Semasa (موقفنا من الدعوات المختلفة)
 Menetapkan neraca Islam yang adil dalam menilai pelbagai fahaman dan gerakan semasa. Apa sahaja fahaman yang selari dan bertepatan dengan prinsip Islam akan diterima dengan lapang dada, manakala apa yang bertentangan atau menyeleweng akan ditolak secara tegas tanpa sebarang kompromi.
@@ -316,6 +322,14 @@ Benar: dakwah kami adalah dakwah Islamiyyah dengan segala keluasan makna yang te
 1. **Kitabullah (Al-Quran):** Asas Islam dan tonggak utamanya.
 2. **Sunnah Rasulullah SAW:** Penjelas dan penghurai kandungan Kitabullah.
 3. **Sirah Salafus Soleh:** Generasi sahabat (*radhiyallāhu ‘anhum*) yang telah melaksanakan perintah-perintah-Nya, berpegang teguh dengan ajaran-Nya, dan menjadi teladan amali serta gambaran hidup bagi perintah dan ajaran wahyu tersebut.
+
+> 🌐 **[RUMUSAN PEDAGOGI MANHAJ KESYUMULAN ISLAM]**
+> Al-Imam Hasan al-Banna menegaskan bahawa sifat dakwah ini adalah "Islamiyyah" dengan segala keluasan maknanya:
+> 1. 📖 **Kitabullah (Al-Quran)** ➔ Asas perundangan tertinggi dan perlembagaan wahyu.
+> 2. 📜 **Sunnah Rasulullah ﷺ** ➔ Huraian dan teladan praktikal ke arah merealisasikan wahyu.
+> 3. ⚔️ **Sirah Salafus Soleh** ➔ Manifestasi hidup kejayaan membina tamadun di alam realiti.
+> 🧩 **Cakupan:** Merangkumi akidah, ibadah, watan, kerajaan, ekonomi, kehakiman, jihad, serta keseimbangan dunia dan akhirat.
+
 
 ---
 

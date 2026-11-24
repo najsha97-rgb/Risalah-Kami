@@ -2782,3 +2782,82 @@ body {
 }
 .faith-hidup .sys-text strong { color: #FBBF24; }
 .faith-hidup .faith-diag em { color: #FBBF24; }
+
+
+/* ==========================================================================
+   KESYUMULAN ISLAM (Risalah 01 Fasal 12)
+   ========================================================================== */
+.grid-syumul-3 {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.65rem;
+}
+
+.syumul-card {
+  padding: 0.65rem 0.8rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.05);
+  transition: all 0.2s ease;
+}
+
+.syumul-card:hover {
+  background: rgba(16, 185, 129, 0.12);
+  transform: translateY(-1px);
+}
+
+.syumul-card .sys-icon {
+  font-size: 1.15rem;
+  margin-top: 2px;
+}
+
+.syumul-card .sys-text strong {
+  font-size: 0.85rem;
+  color: #F8FAFC;
+  margin-bottom: 2px;
+  line-height: 1.25;
+}
+
+.syumul-trait {
+  font-size: 0.74rem;
+  color: #34D399;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.syumul-sub {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+.syumul-scope-banner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.85rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed rgba(245, 158, 11, 0.25);
+}
+
+.scope-pill {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #E2E8F0;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 3px 8px;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: all 0.2s ease;
+}
+
+.scope-pill:hover {
+  background: rgba(245, 158, 11, 0.15);
+  border-color: rgba(245, 158, 11, 0.35);
+  color: #FBBF24;
+}
