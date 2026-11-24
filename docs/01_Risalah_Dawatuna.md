@@ -126,7 +126,16 @@ Menggariskan prinsip Fiqh Ikhtilaf yang matang dalam menangani khilaf fiqh dan m
 Membuat analogi bahawa jatuh bangun dan kesakitan sesuatu umat adalah serupa dengan tubuh badan manusia. Menegaskan bahawa kejatuhan umat Islam bukanlah kematian mutlak, sebaliknya suatu penyakit sementara yang boleh disembuhkan sekiranya didiagnosis dengan tepat dan dirawat menggunakan penawar syariat yang sahih.
 
 ### [FASAL 18 • DIAGNOSIS PENYAKIT] 18. Gejala Penyakit Umat Timur (الأعراض - Al-A‘rāḍ)
-Mendiagnosis gejala penyakit kronik yang melumpuhkan umat Timur: belenggu penjajahan politik, perpecahan dan fanatik kepartian, amalan riba dan monopoli ekonomi, keruntuhan moral dan kebejatan sosial, serta kelesuan jiwa dan krisis keimanan.
+Mendiagnosis secara klinikal enam gejala penyakit kronik yang melumpuhkan segenap sendi kehidupan dan peradaban umat Timur:
+
+🩺 **INFOGRAFIK DIAGNOSIS 6 PENYAKIT KRONIK UMAT TIMUR (AL-A‘RĀḌ):**
+* 🏛️ **1. Penyakit Politik** ➔ Cengkaman penjajahan musuh luar & permusuhan fanatik kepartian anak watan.
+* 💰 **2. Penyakit Ekonomi** ➔ Penularan riba & monopoli syarikat asing ke atas sumber kekayaan negara.
+* 🧠 **3. Penyakit Pemikiran** ➔ Kecelaruan fikrah, penularan ateisme & keruntuhan pegangan akidah.
+* 🎭 **4. Penyakit Sosial & Perundangan** ➔ Kebobrokan moral, taklid buta budaya Barat & undang-undang mandul.
+* 📚 **5. Kecelaruan Pendidikan** ➔ Dasar pengasuhan bercelaru yang memisahkan ilmu drpd iman & gagal membina rijal.
+* 💔 **6. Penyakit Jiwa & Mentaliti** ➔ Keputusasaan membunuh (*ya's qātil*), sifat bacul, kelesuan & kebakhilan berkorban.
+* 🩺 **Preskripsi Haraki:** Mengenali punca penyakit adalah langkah pertama rawatan pemulihan umat!
 
 ### [FASAL 19 • HARAPAN BANGKIT] 19. Optimisme & Harapan Kebangkitan (أمل وشعور - Amalun wa Syu‘ūr)
 Meniupkan roh optimisme dan melarang keras sikap berputus asa terhadap masa depan umat Islam. Membuktikan sunnatullah sejarah bahawa setiap kejatuhan pasti disusuli fajar kebangkitan, dan tiada pemisah antara umat dengan kemenangan melainkan hilangnya putus asa serta berputiknya tekad juang yang membara.
@@ -583,6 +592,17 @@ Sesungguhnya satu sahaja daripada penyakit ini sudah cukup untuk membunuh empaya
 Kalaulah bukan kerana adanya daya ketahanan, benteng kekebalan, ketabahan, dan kekuatan luar biasa pada bangsa-bangsa Timur ini — yang telah ditarik tali permusuhan oleh musuh-musuhnya dari kejauhan, dan mereka terus-menerus menyuntiknya dengan kuman-kuman penyakit ini sekian lama sehingga membiak dan bertelur-menetas di dalamnya — kalaulah bukan kerana daya tahan itu nescaya telah terhapus segala jejaknya dan telah lenyap daripada alam kewujudan! Namun Allah dan orang-orang yang beriman enggan membiarkannya binasa.
 
 Wahai saudaraku: inilah diagnosis sebenar yang disentuh oleh Ikhwanul Muslimin terhadap penyakit umat ini, dan inilah medan rawatan yang mereka usahakan demi menyembuhkan umat serta mengembalikan kesihatan dan kemudaannya yang telah hilang!
+
+> 🩺 **[RUMUSAN PEDAGOGI DIAGNOSIS 6 PENYAKIT KRONIK UMAT TIMUR]**
+> Al-Imam Hasan al-Banna mendiagnosis enam punca kelumpuhan tamadun umat Timur:
+> 1. 🏛️ **Penyakit Politik** ➔ Penjajahan luar dan ketaksuban kepartian sesama anak watan.
+> 2. 💰 **Penyakit Ekonomi** ➔ Kezaliman sistem riba dan eksploitasi monopoli syarikat asing.
+> 3. 🧠 **Penyakit Pemikiran** ➔ Kecelaruan fikrah, keraguan ateistik dan keruntuhan nilai akidah.
+> 4. 🎭 **Penyakit Sosial & Kanun** ➔ Kebobrokan moral, taklid buta budaya Barat dan kanun ciptaan manusia yang mandul.
+> 5. 📚 **Kecelaruan Pendidikan** ➔ Dasar pengasuhan yang gagal melahirkan rijal pejuang beriman.
+> 6. 💔 **Penyakit Jiwa & Mentaliti** ➔ Keputusasaan yang membunuh, sifat bacul, kelesuan dan kebakhilan berkorban.
+> 🩺 **Preskripsi:** Menyedari penyakit ini adalah asas kepada usaha penyembuhan hakiki!
+
 
 ---
 

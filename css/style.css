@@ -3140,3 +3140,38 @@ body {
 .khilaf-golden-banner .golden-text strong {
   color: #FFFFFF;
 }
+
+
+/* ==========================================================================
+   DIAGNOSIS 6 PENYAKIT UMAT (Risalah 01 Fasal 18)
+   ========================================================================== */
+.grid-penyakit-6 {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.65rem;
+}
+
+.penyakit-diagnosis-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: 0.85rem;
+  padding: 0.65rem 0.85rem;
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.35);
+  border-radius: 8px;
+}
+
+.penyakit-diagnosis-banner .creed-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+.penyakit-diagnosis-banner .creed-text {
+  font-size: 0.78rem;
+  color: #FCA5A5;
+  line-height: 1.45;
+}
+
+.penyakit-diagnosis-banner .creed-text strong {
+  color: #FFFFFF;
+}
