@@ -2861,3 +2861,104 @@ body {
   border-color: rgba(245, 158, 11, 0.35);
   color: #FBBF24;
 }
+
+
+/* ==========================================================================
+   TAKSONOMI PATRIOTISME (Risalah 01 Fasal 14)
+   ========================================================================== */
+.grid-wataniyyah-5 {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.65rem;
+}
+
+.watan-card {
+  padding: 0.65rem 0.8rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+}
+
+.watan-card .sys-icon {
+  font-size: 1.15rem;
+  margin-top: 2px;
+}
+
+.watan-card .sys-text strong {
+  font-size: 0.85rem;
+  margin-bottom: 2px;
+  line-height: 1.25;
+}
+
+.watan-trait {
+  font-size: 0.74rem;
+  color: #CBD5E1;
+  display: block;
+  margin-bottom: 3px;
+  line-height: 1.3;
+}
+
+.watan-status {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+.watan-status em {
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Watan Diterima */
+.watan-diterima {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.05);
+}
+.watan-diterima:hover {
+  background: rgba(16, 185, 129, 0.12);
+  transform: translateY(-1px);
+}
+.watan-diterima .sys-num {
+  background: rgba(16, 185, 129, 0.25) !important;
+  color: #34D399 !important;
+}
+.watan-diterima .watan-status em { color: #34D399; }
+
+/* Watan Ditolak (Hizbiyyah) */
+.watan-ditolak {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.05);
+}
+.watan-ditolak:hover {
+  background: rgba(239, 68, 68, 0.12);
+  transform: translateY(-1px);
+}
+.watan-ditolak .sys-num {
+  background: rgba(239, 68, 68, 0.25) !important;
+  color: #F87171 !important;
+}
+.watan-ditolak .watan-status em { color: #F87171; }
+
+/* Sempadan Watan Banner */
+.watan-creed-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: 0.85rem;
+  padding: 0.65rem 0.85rem;
+  background: rgba(245, 158, 11, 0.1);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  border-radius: 8px;
+}
+.watan-creed-banner .creed-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+.watan-creed-banner .creed-text {
+  font-size: 0.78rem;
+  color: #FBBF24;
+  line-height: 1.45;
+}
+.watan-creed-banner .creed-text strong {
+  color: #FFFFFF;
+}

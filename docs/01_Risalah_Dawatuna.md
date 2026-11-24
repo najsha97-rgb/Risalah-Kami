@@ -92,7 +92,15 @@ Mengisytiharkan sifat asasi dakwah berteraskan 'Islamiyyah' yang menolak faham s
 Menetapkan neraca Islam yang adil dalam menilai pelbagai fahaman dan gerakan semasa. Apa sahaja fahaman yang selari dan bertepatan dengan prinsip Islam akan diterima dengan lapang dada, manakala apa yang bertentangan atau menyeleweng akan ditolak secara tegas tanpa sebarang kompromi.
 
 ### [FASAL 14 • PATRIOTISME] 14. Pendirian Terhadap Kewatanan / Patriotisme (الوطنية - Al-Waṭaniyyah)
-Menghuraikan konsep patriotisme (al-waṭaniyyah) dari sudut neraca Islam: menyokong kecintaan tumpah darah, perjuangan pembebasan watan daripada penjajah, dan perpaduan masyarakat; namun menolak chauvinisme sempit yang menyemai permusuhan sesama insan. Menegaskan bahawa sempadan watan seorang muslim melangkaui geografi bumi iaitu merangkumi setiap bumi yang bertauhid.
+Menetapkan neraca Islam terhadap patriotisme (al-waṭaniyyah) menerusi taksonomi lima kategori berserta batas sempadan watan akidah:
+
+🏛️ **INFOGRAFIK TAKSONOMI 5 BENTUK PATRIOTISME (AL-WAṬANIYYAH):**
+* 🏡 **1. Watan Kerinduan** (*Waṭaniyyat al-Ḥanīn*) ➔ Cinta fitrah tumpah darah. ✅ *Status:* Fitrah naluri insan yang diiktiraf syarak.
+* 🛡️ **2. Watan Kemerdekaan** (*Waṭaniyyat al-Ḥurriyyah*) ➔ Pembebasan watan daripada penjajah. ✅ *Status:* Kewajipan jihad mempertahankan kedaulatan.
+* 🤝 **3. Watan Kemasyarakatan** (*Waṭaniyyat al-Mujtama‘*) ➔ Khidmat kebajikan & perpaduan warga. ✅ *Status:* Tuntutan ukhuwah & islah sosial.
+* 🌍 **4. Watan Pembukaan** (*Waṭaniyyat al-Fatḥ*) ➔ Menyebar rahmat & hidayah ke seluruh dunia. ✅ *Status:* Misi tamadun membebaskan manusia.
+* ⚠️ **5. Watan Kepartian** (*Waṭaniyyat al-Ḥizbiyyah*) ➔ Taksub puak & memecahbelahkan. ❌ *Status:* Ditolak keras kerana memusnahkan ummah.
+* 🗺️ **Sempadan Watan Mukmin:** Merangkumi setiap jengkal bumi yang melaungkan kalimah tauhid!
 
 ### [FASAL 15 • KEBANGSAAN ISLAM] 15. Pendirian Terhadap Sentimen Kebangsaan (القومية - Al-Qawmiyyah)
 Memperincikan neraca terhadap sentimen kebangsaan (al-qawmiyyah): menerima kebangsaan yang meneladani kemuliaan salaf soleh, memperkukuh persaudaraan, dan menegakkan keadilan; tetapi menolak sekeras-kerasnya kebangsaan berasaskan takabbur jahiliah dan penindasan kaum lain. Menegaskan bahawa nasab tertinggi mukmin adalah ikatan akidah Islam.
