@@ -372,14 +372,24 @@ Mereka yang mendengar seruan ini pasti akan berkata dalam keraguan dan sinis: "I
 > — **Surah Al-Aḥzāb (33): 10**
 
   Lalu apakah yang berlaku sesudah itu...?!
-  Yang berlaku adalah: Telinga zaman akhirnya tunduk mendengar seruan dakwah Rasulullah ﷺ, ayat-ayat Al-Quran bergema megah di bibir peradaban dunia, fajar petunjuk Islam menyinari timur dan barat, empayar Parsi dan Rom tumbang di hadapan kaki pahlawan-pahlawan Islam, dan janji Rasulullah ﷺ menjadi kenyataan yang disaksikan oleh sejarah!
+  Maka yang berlaku adalah: telinga zaman tunduk mendengar seruan dakwah Rasulullah ﷺ, dan bibir masa mengulang-ulang gema ayat-ayat Al-Quran. Mentari petunjuk menyinar terang di segenap penjuru daripada lubuk hati para sahabat dan pengikut baginda. Alam semesta diselubungi cahaya, dan kedamaian berkibar megah di atas dunia. Kemanusiaan mengecap kelazatan kebahagiaan dengan keadilan pemerintahan, dan rakyat jelata berasa aman tenteram di bawah naungan generasi perintis ini yang terdiri daripada anak murid Muhammad ﷺ. Istana-istana Rom dibuka, kota-kota Parsi tunduk menyerah, bumi merendahkan tengkuknya dan meletakkan kekangannya serta dilipat segenap penjurunya; ia menyerah dengan penuh kerelaan kepada petunjuk yang menyelamatkan, dinaungi hembusan nafas kenabian dan diadun dengan hembusan wahyu yang suci, serta terzahir padanya rahmat Allah dari segenap penjuru:
 
-> **وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَيَسْتَخْلِفَنَّهُمْ فِى ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى ٱرْتَضَىٰ لَهُمْ**
+> **وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْرًا ۚ وَكَفَى اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ ۚ وَكَانَ اللَّهُ قَوِيًّا عَزِيزًا ۝ وَأَنزَلَ الَّذِينَ ظَاهَرُوهُم مِّنْ أَهْلِ الْكِتَابِ مِن صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا ۝ وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَارَهُمْ وَأَمْوَالَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرًا ۝**
 >
-> *"Allah menjanjikan orang-orang yang beriman dan beramal soleh antara kamu, bahawa Dia sesungguhnya akan menjadikan mereka khalifah yang berkuasa di bumi, sebagaimana Dia telah menjadikan orang-orang yang sebelum mereka berkuasa; dan Dia sesungguhnya akan menegakkan bagi mereka agama mereka yang telah diredai-Nya untuk mereka."*
-> — **Surah An-Nūr (24): 55**
+> *"Dan Allah menolak orang-orang kafir itu dalam keadaan mereka geram membara, mereka tidak mendapat sebarang kebaikan; dan Allah menyelamatkan orang-orang beriman daripada pertempuran (dengan pertolongan-Nya). Dan adalah Allah Maha Kuat, lagi Maha Perkasa. Dan Dia menurunkan orang-orang yang membantu mereka dari kalangan Ahli Kitab dari kubu-kubu pertahanan mereka, dan Dia mencampakkan rasa takut yang mendalam ke dalam hati mereka; sebahagiannya kamu bunuh dan sebahagian lagi kamu tawan. Dan Dia mewariskan kepada kamu tanah mereka, rumah-rumah kediaman mereka, harta benda mereka, serta bumi yang belum pernah kamu jejak. Dan adalah Allah Maha Berkuasa atas setiap sesuatu."*
+> — **Surah Al-Aḥzāb (33): 25–27**
 
-Maka pada hari ini, wahai sekelian manusia, kami melengkapkan diri kami dengan kelengkapan bekalan yang sama yang pernah dipikul oleh para pendahulu kami; dan kami pasti akan beroleh kemenangan sebagaimana mereka telah beroleh kemenangan pada masa yang lalu; dan tiadalah kemenangan itu melainkan daripada sisi Allah Yang Maha Perkasa lagi Maha Bijaksana!
+  Maka kami pada hari ini, wahai sekelian manusia, akan melengkapkan diri kami dengan bekalan senjata yang sama ini, dan kami pasti akan beroleh kemenangan sebagaimana para pendahulu kami telah beroleh kemenangan pada masa yang lalu; dan tiadalah kemenangan itu melainkan daripada sisi Allah Yang Maha Perkasa, lagi Maha Bijaksana. Dan pasti akan terlaksana bagi kita janji Allah Tabaraka wa Taala:
+
+> **وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ ۝ وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ ۝**
+>
+> *"Dan Kami hendak melimpahkan kurnia kepada orang-orang yang tertindas di bumi itu, dan hendak menjadikan mereka pemimpin-pemimpin serta menjadikan mereka orang-orang yang mewarisi (bumi); dan Kami hendak meneguhkan kedudukan mereka di bumi..."*
+> — **Surah Al-Qaṣaṣ (28): 5–6**
+>
+> **فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ ۝**
+>
+> *"Maka bersabarlah engkau (wahai Muhammad); sesungguhnya janji Allah itu adalah benar, dan jangan sekali-kali orang-orang yang tidak meyakini (kebenaran) itu menggelisahkanmu atau menggoyahkan keteguhanmu."*
+> — **Surah Ar-Rūm (30): 60**
 
 
 ---
