@@ -36,7 +36,7 @@ Merumuskan strategi bertahap pembinaan tamadun (Marātibul ‘Amal): (1) Individ
 Menegaskan kelengkapan bekalan perjuangan (‘Uddatunā) berasaskan Enam Rukun Keimanan Haraki generasi sahabat: (1) Beriman kepada Allah dan pertolongan-Nya, (2) Beriman kepada Rasulullah ﷺ dan kepimpinan baginda, (3) Beriman kepada keluhuran manhaj Al-Quran, (4) Beriman kepada kesucian ukhuwah persaudaraan, (5) Beriman kepada kesempurnaan ganjaran akhirat, dan (6) Beriman kepada amanah peranan diri sebagai umat penyelamat; disempurnakan dengan kesiapsiagaan jihad dan pengorbanan mutlak.
 
 ### [FASAL 09 • REALISME PERJUANGAN] 09. Antara Khayalan dan Hakikat (بين الخيال و الحقيقة)
-Menangkis tuduhan skeptis kononnya misi kebangkitan Islam ini satu khayalan dan igauan kosong. Membuktikan melalui sunnatullah sejarah bahawa setiap tamadun bermula daripada cita-cita yang dianggap mustahil, sebagaimana janji kemenangan Nabi ﷺ sewaktu menggali parit Khandaq.
+Menangkis tuduhan skeptis kononnya misi kebangkitan Islam ini satu khayalan dan igauan kosong. Membuktikan melalui sunnatullah sejarah bahawa setiap tamadun bermula daripada cita-cita yang dianggap mustahil, sebagaimana janji kemenangan Nabi ﷺ sewaktu menggali parit Khandaq. Fakta sejarah melakarkan bukti realiti bahawa kerajaan Rom dan Parsi tumbang dan tunduk di bawah hegemoni Islam!
 
 ### [FASAL 10 • PERANAN KERAJAAN ISLAM] 10. Andai Kita Mempunyai Kerajaan Islam yang Sejati (لو كانت لنا حكومة)
 Menghuraikan impak luar biasa andai wujud sebuah kerajaan Islam yang berdaulat, merdeka jiwanya, dan faham akan keagungan syariat. Menegaskan kaedah: orang yang tidak memiliki sesuatu tidak mampu memberikannya (fāqidul syai’ lā yu‘ṭīh), lantas harapan diletakkan kepada pemuda bertarbiah rabbani.
