@@ -401,7 +401,7 @@ Dan adakah di alam wujud ini melainkan Pencipta (*Khāliq*) dan makhluk? Maka ap
 
 ---
 
-### 7. Kewajipan Zakat dan Model Birinbal al-Qadimah (الــزكاة)
+### 7. Zakat (الزكاة)
 
 Selepas kewajipan solat yang membina hubungan vertikal antara hamba dengan Tuhannya, rukun Islam kedua yang diberi penumpuan amali oleh Ikhwanul Muslimin adalah: KEWAJIPAN ZAKAT (الزكاة).
 Zakat di sisi Islam adalah sistem jaminan sosial (*at-takāful al-ijtimā‘ī*) yang paling adil dan sempurna yang pernah disaksikan oleh peradaban manusia. Ia bukan sekadar derma sukarela atau belas kasihan peribadi yang bergantung kepada mood si kaya, tetapi ia adalah hak fardhu yang diwajibkan oleh Allah ke atas harta orang-orang berada untuk diserahkan kepada lapan asnaf yang telah dimaktubkan dalam Al-Quran:
