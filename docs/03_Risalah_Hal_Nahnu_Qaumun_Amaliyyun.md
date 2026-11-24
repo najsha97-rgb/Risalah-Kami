@@ -226,7 +226,7 @@ Dan temu janji kita untuk menjawabnya adalah dalam kalimah-kalimah yang menyusul
 
 ---
 
-### 5. Penetapan Wasilah: Keunggulan Agama (تحديد الوسيلة واعتماد المبدأ)
+### 5. Penentuan Wasilah dan Berpegang Kepada Prinsip (تحديد الوسيلة واعتماد المبدأ)
 
 Engkau telah mengetahui—wahai pembaca yang budiman—bahawa Ikhwanul Muslimin meletakkan matlamat pertama mereka kepada pentarbiyahan jiwa, pembaharuan roh, pemerkasaan akhlak, dan penanaman sifat kelakian sejati (*ar-rujūlah aṣ-ṣaḥīḥah*) ke dalam sanubari umat. Dan mereka berkeyakinan padu bahawa inilah asas pertama yang di atasnyalah terbina kebangkitan tamadun umat dan bangsa.
 Maka Ikhwan telah meneliti segala wasilah dan jalan untuk mencapai matlamat pembinaan jiwa ini; lalu mereka tidak menemui suatu wasilah yang lebih dekat, lebih berkesan, dan lebih membuahkan hasil melainkan dengan berpegang teguh kepada tali agama (*Al-Istimsāk bi-Ahdābid-Dīn*)!
