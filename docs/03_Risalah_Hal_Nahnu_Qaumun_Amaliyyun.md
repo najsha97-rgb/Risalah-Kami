@@ -492,6 +492,18 @@ Kedua-duanya adalah dua kefardhuan yang dijadikan oleh Allah sebagai pagar bente
 
 Dan adakah di alam wujud ini melainkan Pencipta (*Khāliq*) dan makhluk? Maka apabila urusan seorang manusia telah elok dengan kedua-duanya, sesungguhnya dia telah mencapai kemuncak kebaikan dan tiba di mercu kebahagiaan yang hakiki!
 
+---
+
+> ### 🕌 INFOGRAFIK PEDAGOGI: 4 DIMENSI INSTITUSI SOLAT
+>
+> | Dimensi Solat | Tuntutan Amali Haraki | Impak Terhadap Jiwa & Saf |
+> | :--- | :--- | :--- |
+> | **💧 Pembersihan Jiwa (*Ṭahāratun-Nufūs*)** | Cegah fahsya' & mungkar; basuh noda dosa | Jiwa bersih, tenang & bercahaya makrifat |
+> | **⏳ Disiplin Masa (*Inḍibāṭul-Waqt*)** | Solat tepat waktu & lawan kemalasan | Melatih kepatuhan arahan & disiplin haraki |
+> | **🤝 Penyatuan Saf (*Waḥdatus-Ṣaff*)** | Bahu-membahu sebaris tanpa beza kasta | Meleburkan kasta; melahirkan solidariti mutlak |
+> | **🌙 Bekalan Mujahid (*Zādul-Mujāhidīn*)** | Qiamullail & doa keinsafan di mihrab | Kekuatan rohani menempuh kepayahan mehnah |
+>
+> 📖 **Ketetapan Wahyu:** *"Sesungguhnya solat itu mencegah daripada perbuatan keji dan mungkar; dan mengingati Allah adalah lebih besar!" (Al-'Ankabut: 45)*
 
 ---
 
@@ -591,6 +603,17 @@ Dan tidakkah Ikhwanul Muslimin melihat pada pencapaian ini sebagai realisasi kep
 > *"Oleh itu, dirikanlah salat dan berikanlah zakat, serta berpegang teguhlah kamu kepada Allah! Dialah Pelindung kamu; maka Dialah sebaik-baik Pelindung dan sebaik-baik Penolong."*
 > — **Surah Al-Ḥajj (22): 78**
 
+---
+
+> ### 💰 INFOGRAFIK PEDAGOGI: TUNJANG KEADILAN AGAGIHAN ZAKAT
+>
+> | Paksi Keadilan Zakat | Makna & Falsafah Syariat | Natijah Kepada Sosioekonomi |
+> | :--- | :--- | :--- |
+> | **✨ Penyucian Harta (*Taṭhīrul-Amwāl*)** | Menghapuskan syubhat & mengikis kebakhilan | Keberkatan rezeki & melahirkan jiwa pemurah |
+> | **⚖️ Hak Wajib Fakir (*Ḥaqqun Ma‘lūm*)** | Hak asasi yang diwajibkan syarak ke atas kaya | Membasmi kehinaan peminta; menjamin maruah |
+> | **🏛️ Model Birinbal al-Jadid** | Tabung agihan telus berpusat di cawangan | Membasmi kemiskinan tegar & taja anak yatim |
+>
+> 📜 **Prinsip Syariat:** *"Ambillah zakat daripada sebahagian harta mereka, dengan zakat itu engkau membersihkan dan menyucikan mereka!" (At-Tawbah: 103)*
 
 ---
 
@@ -738,6 +761,18 @@ Dan sesungguhnya kita amat berharap agar dengan penjelasan ini kita telah menyam
 > *"Dan orang-orang yang berjihad pada jalan Kami, nescaya Kami akan tunjukkan kepada mereka jalan-jalan Kami; dan sesungguhnya Allah benar-benar berserta orang-orang yang berbuat kebaikan (ihsan)."*
 > — **Surah Al-‘Ankabūt (29): 69**
 
+---
+
+> ### ⚔️ INFOGRAFIK PEDAGOGI: 4 TINGKATAN JIHAD HARAKI
+>
+> | Tingkatan Jihad | Tuntutan Amal & Pengorbanan | Perlindungan Terhadap Watan |
+> | :--- | :--- | :--- |
+> | **💰 Harta & Masa (*Al-Māl wal-Waqt*)** | Infaq tetap & sumbangan waktu mingguan | Membiayai institusi kebajikan & dakwah mandiri |
+> | **📢 Kalimah Hak (*Kalimatul-Ḥaqq*)** | Amar makruf nahi mungkar depani penguasa | Mencegah kezaliman & menegakkan keadilan rakyat |
+> | **🛡️ Kesiapsiagaan (*I‘dādul-Quwwah*)** | Latihan ketahanan fizikal & disiplin saf | Menakutkan musuh & bersedia mempertahankan tanah air |
+> | **👑 Korban Jiwa (*Badhlun-Nafs*)** | Syahid pada jalan meninggikan kalimah Allah | Puncak kemuliaan Islam (*Dhirwatus-Sanām*) |
+>
+> ⚔️ **Hadis Masyhur:** *"Pangkal segala urusan adalah Islam, tiangnya adalah solat, dan puncak kemuliaannya adalah jihad pada jalan Allah!" (HR. At-Tirmizi)*
 
 ---
 
@@ -841,6 +876,17 @@ Sesungguhnya kita benar-benar telah mensia-siakan Kitabullah, seolah-olah ia di 
 
 Maka apabila engkau telah mengetahui hakikat ini, wahai pembaca yang budiman... ketahuilah bahawa **Ikhwanul Muslimin berusaha dengan penuh kesungguhan untuk menjadi orang pertama yang kembali kepada Kitabullah**: mereka beribadah dengan mentilawahkannya, mencari petunjuk dalam memahami kata-kata para imam agung melalui ayat-ayatnya, menuntut manusia melaksanakan hukum-hakamnya, serta menyeru masyarakat bersama-sama mereka untuk merealisasikan matlamat ini, yang merupakan semulia-mulia matlamat hidup seorang muslim; dan bagi Allah jualah segala urusan, sebelum dan selepasnya.
 
+---
+
+> ### 📖 INFOGRAFIK PEDAGOGI: TIGA HAK MUTLAK AL-QURAN
+>
+> | Hak Al-Quran | Tuntutan Kewajipan Ummah | Bahaya Jika Terabai |
+> | :--- | :--- | :--- |
+> | **📖 Hak Tilawah (*Ḥaqqut-Tilāwah*)** | Tartil, tajwid sahih & khusyuk mengalir air mata | Lidah kelu; pembacaan pantas tanpa adab |
+> | **💡 Hak Tadabbur (*Ḥaqqul-Fahm*)** | Menyelami makna, maqasid & hikmah kalam Ilahi | Terperangkap takwil songsang & jahil dasar |
+> | **⚖️ Hak Pelaksanaan (*Ḥaqqut-Taḥkīm*)** | Menjadikan syariat Al-Quran kanun negara | Hukum sekular berkuasa; umat ditimpa kehinaan |
+>
+> 📖 **Peringatan Rasulullah ﷺ:** *"Dan berkatalah Rasul: 'Wahai Tuhanku, sesungguhnya kaumku telah menjadikan Al-Quran ini sesuatu yang diabaikan!'" (Al-Furqan: 30)*
 
 ---
 
@@ -916,3 +962,15 @@ Lalu mereka bangkit mendokong dan membantu jemaah ini yang telah mewakafkan sega
 >
 > *"Dan katakanlah (wahai Muhammad): 'Beramallah kamu, maka Allah dan Rasul-Nya serta orang-orang yang beriman akan melihat apa yang kamu kerjakan; dan kamu akan dikembalikan kepada (Allah) Yang Mengetahui perkara-perkara yang ghaib dan yang nyata, lalu Dia memberitahu kepada kamu apa yang telah kamu kerjakan.'"*
 > — **Surah At-Tawbah (9): 105**
+
+---
+
+> ### 👑 INFOGRAFIK PEDAGOGI: MANHAJ & NERACA PENILAIAN JEMAAH
+>
+> | Paksi Manhaj | Prinsip & Dalil Asas | Natijah Terhadap Masa Depan Ummah |
+> | :--- | :--- | :--- |
+> | **📜 Kaedah Imam Malik** | *"Tidak akan pulih generasi akhir melainkan dgn manhaj awalnya"* | Menjamin kebangkitan berakar tunjang pada teladan salaf |
+> | **💧 Sumber Murni (*Al-Mashdar aṣ-Ṣāfī*)** | Kembali terus kepada Al-Quran & as-Sunnah | Menolak bidaah, khurafat & perpecahan mazhab sempit |
+> | **👑 Kesepaduan Amal (*Syumūliyyatul-Manhaj*)** | Memadukan kesucian mihrab dgn kecekapan kerja lapangan | Melahirkan tamadun seimbang yang beroleh reda Ilahi |
+>
+> 👑 **Khatimah Agung Risalah 03:** *"Ikhwan adalah jemaah amali yang mencedok kefahaman daripada Al-Quran, beramal di lapangan, dan membina peradaban di atas landasan wahyu!"*

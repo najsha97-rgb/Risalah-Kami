@@ -5273,3 +5273,290 @@ body {
   font-size: 0.8rem;
   line-height: 1.45;
 }
+
+
+/* ==========================================================================
+   RISALAH 03: HAL NAHNU QAUMUN 'AMALIYYUN? (FASAL 06-10 FINALE)
+   ========================================================================== */
+.grid-solat-4,
+.grid-jihad-4 {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.65rem;
+}
+
+.grid-zakat-3,
+.grid-quran-3,
+.grid-manhaj-r03-3 {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.65rem;
+}
+
+.solat-card,
+.zakat-card,
+.jihad-card,
+.quran-card,
+.manhaj-r03-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 06: Kedudukan Salat */
+.solat-card.taharah {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.solat-card.taharah:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.solat-card.taharah .solat-trait {
+  color: #38BDF8;
+}
+
+.solat-card.disiplin {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.solat-card.disiplin:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.solat-card.disiplin .solat-trait {
+  color: #FBBF24;
+}
+
+.solat-card.saf {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.solat-card.saf:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.solat-card.saf .solat-trait {
+  color: #34D399;
+}
+
+.solat-card.zad {
+  border-left: 3.5px solid #8B5CF6 !important;
+  background: rgba(139, 92, 246, 0.06);
+}
+.solat-card.zad:hover {
+  background: rgba(139, 92, 246, 0.14);
+  transform: translateY(-1px);
+}
+.solat-card.zad .solat-trait {
+  color: #A78BFA;
+}
+
+.solat-trait,
+.zakat-trait,
+.jihad-trait,
+.quran-trait,
+.manhaj-r03-trait {
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.3px;
+  display: block;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+.solat-sub,
+.zakat-sub,
+.jihad-sub,
+.quran-sub,
+.manhaj-r03-sub {
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--text-muted, #94a3b8);
+  display: block;
+}
+
+/* Fasal 07: Zakat */
+.zakat-card.tathir {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.zakat-card.tathir:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.zakat-card.tathir .zakat-trait {
+  color: #34D399;
+}
+
+.zakat-card.haq {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.zakat-card.haq:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.zakat-card.haq .zakat-trait {
+  color: #38BDF8;
+}
+
+.zakat-card.birinbal {
+  border-left: 3.5px solid #F59E0B !important;
+  background: linear-gradient(180deg, rgba(245, 158, 11, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  box-shadow: 0 4px 15px rgba(245, 158, 11, 0.12);
+}
+.zakat-card.birinbal:hover {
+  background: linear-gradient(180deg, rgba(245, 158, 11, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.zakat-card.birinbal .zakat-trait {
+  color: #FBBF24;
+}
+
+/* Fasal 08: Jihad Adalah Kemuliaan Kami */
+.jihad-card.harta {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.jihad-card.harta:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.jihad-card.harta .jihad-trait {
+  color: #38BDF8;
+}
+
+.jihad-card.kalimah {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.jihad-card.kalimah:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.jihad-card.kalimah .jihad-trait {
+  color: #FBBF24;
+}
+
+.jihad-card.persediaan {
+  border-left: 3.5px solid #3B82F6 !important;
+  background: rgba(59, 130, 246, 0.06);
+}
+.jihad-card.persediaan:hover {
+  background: rgba(59, 130, 246, 0.14);
+  transform: translateY(-1px);
+}
+.jihad-card.persediaan .jihad-trait {
+  color: #60A5FA;
+}
+
+.jihad-card.syahadah {
+  border-left: 3.5px solid #EF4444 !important;
+  background: linear-gradient(180deg, rgba(239, 68, 68, 0.14) 0%, rgba(15, 23, 42, 0.7) 100%);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  box-shadow: 0 4px 18px rgba(239, 68, 68, 0.18);
+}
+.jihad-card.syahadah:hover {
+  background: linear-gradient(180deg, rgba(239, 68, 68, 0.22) 0%, rgba(15, 23, 42, 0.9) 100%);
+  transform: translateY(-2px);
+}
+.jihad-card.syahadah .jihad-trait {
+  color: #F87171;
+}
+
+/* Fasal 09: 3 Hak Al-Quran */
+.quran-card.tilawah {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.quran-card.tilawah:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.quran-card.tilawah .quran-trait {
+  color: #38BDF8;
+}
+
+.quran-card.fahm {
+  border-left: 3.5px solid #8B5CF6 !important;
+  background: rgba(139, 92, 246, 0.06);
+}
+.quran-card.fahm:hover {
+  background: rgba(139, 92, 246, 0.14);
+  transform: translateY(-1px);
+}
+.quran-card.fahm .quran-trait {
+  color: #A78BFA;
+}
+
+.quran-card.tahkim {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.quran-card.tahkim:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.quran-card.tahkim .quran-trait {
+  color: #34D399;
+}
+
+/* Fasal 10: Manhaj & Neraca Penilaian */
+.manhaj-r03-card.malik {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.manhaj-r03-card.malik:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.manhaj-r03-card.malik .manhaj-r03-trait {
+  color: #FBBF24;
+}
+
+.manhaj-r03-card.safi {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.manhaj-r03-card.safi:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.manhaj-r03-card.safi .manhaj-r03-trait {
+  color: #38BDF8;
+}
+
+.manhaj-r03-card.syumul {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.14) 0%, rgba(15, 23, 42, 0.7) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  box-shadow: 0 4px 18px rgba(16, 185, 129, 0.18);
+}
+.manhaj-r03-card.syumul:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.24) 0%, rgba(15, 23, 42, 0.9) 100%);
+  transform: translateY(-2px);
+}
+.manhaj-r03-card.syumul .manhaj-r03-trait {
+  color: #34D399;
+}
+
+.solat-banner,
+.zakat-banner,
+.jihad-banner,
+.quran-banner,
+.manhaj-r03-banner {
+  margin-top: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 6px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
