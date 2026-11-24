@@ -148,7 +148,11 @@ Menggariskan tiga rukun wasilah amali bagi menjayakan transformasi umat:
 > *Keseimbangan Wasilah: Manhaj sebagai kompas pedoman, Amilin sebagai enjin penggerak, dan Qiyadah sebagai nahkoda bahtera amal!*
 
 ### [FASAL 21 • KHATIMAH BAI‘AH] 21. Penutup: Seruan Bergabung Bahu (خاتمة)
-Menutup risalah dengan metafora agung Nabi Yusuf AS: meletakkan setiap jiwa mukmin sebagai 'Yusuf' yang bertanggungjawab mentakwil dan merealisasikan mimpi kebangkitan umat. Menyeru pembaca menghulurkan tangan berbai'ah dalam saf amal, bersatu melangkah di atas jalan dakwah, dan bertawakal sepenuhnya kepada Allah.
+Menutup risalah dengan metafora agung Nabi Yusuf AS: meletakkan setiap jiwa mukmin sebagai 'Yusuf' yang bertanggungjawab mentakwil dan merealisasikan mimpi kebangkitan umat:
+- **1. Hulurkan Tanganmu (مَدُّ الْيَدِ):** Menyambut seruan kebenaran dan menggabungkan bahu ke dalam saf perjuangan.
+- **2. Beramal Bersama (الْعَمَلُ الْمُشْتَرَكُ):** Berpindah dari ruang teori dan angan-angan kosong ke gelanggang pembinaan amal nyata.
+- **3. Tawakal & Thiqah (التَّوَكُّلُ وَالثِّقَةُ):** Menggantungkan pergantungan mutlak kepada Allah (*Ḥasbunallāh wa ni‘mal wakīl, ni‘mal mawlā wa ni‘man naṣīr*).
+> *Ikrar Haraki: Kebangkitan umat menuntut rijal yang bersedia menghulurkan tangan dan beramal bersama dalam satu saf!*
 
 ---
 
@@ -668,6 +672,18 @@ Ikhwanul Muslimin telah menemui kepimpinan yang tegas lagi diyakini ini; oleh it
 Inilah apa yang ingin saya bicarakan kepadamu mengenai seruan dakwah kami... ia adalah suatu takwil yang mempunyai tafsirannya, dan engkaulah *Yusuf* bagi mimpi-mimpi kebangkitan ini! 
 
 Sekiranya engkau berpuas hati dan tertarik dengan pegangan perjuangan kami ini, maka hulurkanlah tanganmu bersama tangan-tangan kami untuk kita beramal bersama-sama di atas jalan ini. Allah adalah Pelindung taufik kami; Dialah yang mencukupi bagi kami dan Dialah sebaik-baik Pengurus, sebaik-baik Pemimpin, dan sebaik-baik Penolong!
+
+---
+
+> ### 🤝 INFOGRAFIK PEDAGOGI: SERUAN BERGABUNG BAHU & BAI‘AH AMAL (مَدُّ الْيَدِ)
+>
+> | Rukun Seruan | Maksud Syarak & Haraki | Tuntutan Tindakan Amali |
+> | :--- | :--- | :--- |
+> | **I. Hulurkan Tangan** (*Maddu al-Yad*) | Komitmen menyahut seruan kebenaran | Menghapuskan sikap pasif, berbai'ah dan menggabungkan saf perjuangan |
+> | **II. Amal Bersama** (*Al-‘Amal al-Musytarak*) | Transformasi fikrah kepada realiti | Menggembleng seluruh tenaga, kepakaran dan masa dalam binaan amal nyata |
+> | **III. Tawakal Mutlak** (*Thiqah Billāh*) | Pergantungan bulat kepada pertolongan Ilahi | *Ḥasbunallāh wa ni‘mal wakīl, ni‘mal mawlā wa ni‘man naṣīr!* |
+>
+> 🌟 **Khatimah Haraki:** *"Sesungguhnya seruan ini adalah takwil yang mempunyai tafsirannya, dan engkaulah Yusuf bagi mimpi-mimpi kebangkitan ini! Hulurkanlah tanganmu bersama tangan-tangan kami untuk kita beramal bersama-sama di atas jalan ini!"*
 
 ---
 

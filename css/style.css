@@ -3259,3 +3259,111 @@ body {
 .rukun-wasilah-banner .creed-text strong {
   color: #FFFFFF;
 }
+
+/* ==========================================================================
+   SERUAN BERGABUNG BAHU & KHATIMAH BAI'AH (Risalah 01 Fasal 21)
+   ========================================================================== */
+.infographic-khatimah {
+  border: 1px solid rgba(245, 158, 11, 0.4) !important;
+  background: radial-gradient(circle at top, rgba(245, 158, 11, 0.12) 0%, rgba(15, 23, 42, 0.95) 100%) !important;
+  box-shadow: 0 4px 20px rgba(245, 158, 11, 0.15);
+}
+
+.infographic-badge-gold {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.25) 0%, rgba(217, 119, 6, 0.35) 100%) !important;
+  color: #FCD34D !important;
+  border-color: rgba(245, 158, 11, 0.5) !important;
+}
+
+.khatimah-yusuf-call {
+  text-align: center;
+  padding: 0.85rem 1rem;
+  margin: 0.6rem 0 0.85rem 0;
+  background: rgba(245, 158, 11, 0.08);
+  border: 1px dashed rgba(245, 158, 11, 0.4);
+  border-radius: 10px;
+}
+
+.yusuf-quote-ar {
+  font-family: 'Amiri', 'Almarai', serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #FBBF24;
+  margin-bottom: 0.35rem;
+  letter-spacing: 0.5px;
+}
+
+.yusuf-quote-my {
+  font-size: 0.85rem;
+  color: #F8FAFC;
+  line-height: 1.4;
+}
+
+.yusuf-quote-my strong {
+  color: #FCD34D;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.grid-khatimah-3 {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.65rem;
+}
+
+.sys-item-khatimah {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+  padding: 0.65rem 0.8rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+}
+
+.sys-item-khatimah:hover {
+  background: rgba(245, 158, 11, 0.15);
+  transform: translateY(-1px);
+}
+
+.khatimah-trait {
+  font-size: 0.74rem;
+  color: #FBBF24;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.khatimah-sub {
+  font-size: 0.71rem;
+  color: #CBD5E1;
+  display: block;
+  line-height: 1.35;
+}
+
+.khatimah-pledge-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.85rem;
+  padding: 0.75rem 0.95rem;
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(16, 185, 129, 0.12) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.45);
+  border-radius: 8px;
+}
+
+.khatimah-pledge-banner .pledge-icon,
+.khatimah-pledge-banner .creed-icon {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.khatimah-pledge-banner .pledge-text,
+.khatimah-pledge-banner .creed-text {
+  font-size: 0.8rem;
+  color: #FEF3C7;
+  line-height: 1.45;
+}
+
+.khatimah-pledge-banner .pledge-text strong,
+.khatimah-pledge-banner .creed-text strong {
+  color: #FCD34D;
+}
