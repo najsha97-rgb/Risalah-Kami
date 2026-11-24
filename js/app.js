@@ -6,10 +6,41 @@
  */
 
 document.addEventListener('DOMContentLoaded', () => {
+  // 1. Baca URL Hash atau LocalStorage bagi memulihkan paparan terakhir pembaca
+  const savedRisalahId = localStorage.getItem('risalah_active_id');
+  const savedSectionIdx = parseInt(localStorage.getItem('risalah_active_section_idx'), 10);
+  const hash = window.location.hash.replace('#', '').trim();
+
+  let initialRisalah = 'dawatuna';
+  let initialSecIdx = 0;
+
+  if (typeof RISALAH_DATA !== 'undefined' && Array.isArray(RISALAH_DATA)) {
+    if (hash) {
+      const matchR = RISALAH_DATA.find(r => r.id === hash);
+      if (matchR) {
+        initialRisalah = matchR.id;
+      } else {
+        for (const r of RISALAH_DATA) {
+          const sIdx = r.sections.findIndex(s => s.id === hash);
+          if (sIdx !== -1) {
+            initialRisalah = r.id;
+            initialSecIdx = sIdx;
+            break;
+          }
+        }
+      }
+    } else if (savedRisalahId && RISALAH_DATA.some(r => r.id === savedRisalahId)) {
+      initialRisalah = savedRisalahId;
+      if (!isNaN(savedSectionIdx) && savedSectionIdx >= 0) {
+        initialSecIdx = savedSectionIdx;
+      }
+    }
+  }
+
   // State
   const state = {
-    currentRisalahId: 'dawatuna',
-    currentSectionIndex: 0,
+    currentRisalahId: initialRisalah,
+    currentSectionIndex: initialSecIdx,
     currentViewMode: 'full', // 'full', 'summary', 'quotes'
     quoteFontMode: localStorage.getItem('risalah_quote_font_mode') || 'amiri', // 'amiri' (default), 'compare', 'almarai'
     fontSize: parseFloat(localStorage.getItem('risalah_reader_font_size')) || 1.06,
@@ -100,6 +131,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const risalah = getCurrentRisalah();
     const rIdx = RISALAH_DATA.findIndex(r => r.id === state.currentRisalahId) + 1;
 
+    // Pastikan butang tab aktif selari dengan risalah semasa
+    risalahTabs.forEach(t => t.classList.toggle('active', t.dataset.risalah === state.currentRisalahId));
+
+    // Pastikan index seksyen tidak melebihi julat
+    if (state.currentSectionIndex >= risalah.sections.length || state.currentSectionIndex < 0) {
+      state.currentSectionIndex = 0;
+    }
+
     // 1. Update Hero Card
     heroTitle.textContent = risalah.title.toUpperCase();
     heroArabic.textContent = risalah.arabic_title;
@@ -166,6 +205,9 @@ document.addEventListener('DOMContentLoaded', () => {
       `;
       li.addEventListener('click', () => {
         state.currentSectionIndex = idx;
+        localStorage.setItem('risalah_active_section_idx', idx);
+        const secItem = risalah.sections[idx];
+        if (secItem) window.location.hash = secItem.id;
         switchViewMode('full');
         renderActiveSection();
         closeSidebar();
@@ -405,6 +447,9 @@ document.addEventListener('DOMContentLoaded', () => {
         tab.classList.add('active');
         state.currentRisalahId = tab.dataset.risalah;
         state.currentSectionIndex = 0;
+        localStorage.setItem('risalah_active_id', state.currentRisalahId);
+        localStorage.setItem('risalah_active_section_idx', 0);
+        window.location.hash = state.currentRisalahId;
         renderCurrentRisalah();
       });
     });
@@ -451,6 +496,9 @@ document.addEventListener('DOMContentLoaded', () => {
     prevChapterBtn.addEventListener('click', () => {
       if (state.currentSectionIndex > 0) {
         state.currentSectionIndex--;
+        localStorage.setItem('risalah_active_section_idx', state.currentSectionIndex);
+        const secItem = getCurrentRisalah().sections[state.currentSectionIndex];
+        if (secItem) window.location.hash = secItem.id;
         renderActiveSection();
       }
     });
@@ -459,6 +507,9 @@ document.addEventListener('DOMContentLoaded', () => {
       const risalah = getCurrentRisalah();
       if (state.currentSectionIndex < risalah.sections.length - 1) {
         state.currentSectionIndex++;
+        localStorage.setItem('risalah_active_section_idx', state.currentSectionIndex);
+        const secItem = risalah.sections[state.currentSectionIndex];
+        if (secItem) window.location.hash = secItem.id;
         renderActiveSection();
       }
     });
@@ -620,6 +671,11 @@ document.addEventListener('DOMContentLoaded', () => {
       item.addEventListener('click', () => {
         state.currentRisalahId = item.dataset.risalah;
         state.currentSectionIndex = parseInt(item.dataset.sec, 10);
+        localStorage.setItem('risalah_active_id', state.currentRisalahId);
+        localStorage.setItem('risalah_active_section_idx', state.currentSectionIndex);
+        const curR = getCurrentRisalah();
+        const curSec = curR.sections[state.currentSectionIndex];
+        if (curSec) window.location.hash = curSec.id;
 
         risalahTabs.forEach(t => t.classList.toggle('active', t.dataset.risalah === state.currentRisalahId));
         switchViewMode('full');
@@ -656,7 +712,20 @@ document.addEventListener('DOMContentLoaded', () => {
   function registerServiceWorker() {
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('sw.js')
-        .then(() => console.log('ServiceWorker berjaya didaftarkan untuk Risalah-Kami'))
+        .then(reg => {
+          console.log('ServiceWorker berjaya didaftarkan untuk Risalah-Kami');
+          reg.onupdatefound = () => {
+            const installingWorker = reg.installing;
+            if (installingWorker) {
+              installingWorker.onstatechange = () => {
+                if (installingWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                  showToast('Versi baharu dikesan! Memuat semula kandungan...');
+                  setTimeout(() => window.location.reload(), 1200);
+                }
+              };
+            }
+          };
+        })
         .catch(err => console.log('ServiceWorker gagal didaftarkan:', err));
     }
   }
