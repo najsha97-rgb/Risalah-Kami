@@ -403,48 +403,99 @@ Dan adakah di alam wujud ini melainkan Pencipta (*Khāliq*) dan makhluk? Maka ap
 
 ### 7. Zakat (الزكاة)
 
-Selepas kewajipan solat yang membina hubungan vertikal antara hamba dengan Tuhannya, rukun Islam kedua yang diberi penumpuan amali oleh Ikhwanul Muslimin adalah: KEWAJIPAN ZAKAT (الزكاة).
-Zakat di sisi Islam adalah sistem jaminan sosial (*at-takāful al-ijtimā‘ī*) yang paling adil dan sempurna yang pernah disaksikan oleh peradaban manusia. Ia bukan sekadar derma sukarela atau belas kasihan peribadi yang bergantung kepada mood si kaya, tetapi ia adalah hak fardhu yang diwajibkan oleh Allah ke atas harta orang-orang berada untuk diserahkan kepada lapan asnaf yang telah dimaktubkan dalam Al-Quran:
+Sekiranya salat itu merupakan penyucian bagi jiwa dan pembersihan bagi roh, maka sesungguhnya zakat adalah pembersihan bagi harta dan penyucian bagi hasil pencarian:
 
-> **۞ إِنَّمَا ٱلصَّدَقَـٰتُ لِلْفُقَرَآءِ وَٱلْمَسَـٰكِينِ وَٱلْعَـٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَـٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةًۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ ۝**
+> **خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ ۝**
 >
-> *"Sesungguhnya sedekah-sedekah (zakat) itu hanyalah untuk orang-orang fakir, dan orang-orang miskin, dan amil-amil yang menguruskannya, dan orang-orang mualaf yang dijinakkan hatinya, dan untuk (memerdekakan) hamba-hamba abdi, dan orang-orang yang berhutang, dan untuk (dibelanjakan pada) jalan Allah, dan orang-orang musafir (yang terputus bekalan) dalam perjalanan. (Ketetapan yang demikian itu ialah) sebagai satu ketetapan fardhu daripada Allah; dan (ingatlah) Allah Maha Mengetahui, lagi Maha Bijaksana."*
+> *"Ambillah (sebahagian) daripada harta mereka menjadi sedekah (zakat), yang membersihkan mereka dan menyucikan mereka dengannya, dan doakanlah untuk mereka; sesungguhnya doamu itu menjadi ketenteraman bagi mereka. Dan (ingatlah) Allah Maha Mendengar, lagi Maha Mengetahui."*
+> — **Surah At-Tawbah (9): 103**
+
+Sesungguhnya Allah Tabāraka wa Ta‘ālā telah menjadikan salat dan zakat sebagai manifestasi keimanan dan bukti bagi kesahihan akidah. Al-Quran telah mengisyaratkan hal ini dalam firman-Nya yang mulia:
+
+> **فَإِنْ تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ فَإِخْوَانُكُمْ فِي الدِّينِ ۝**
+>
+> *"Maka jika mereka bertaubat, serta mendirikan salat dan menunaikan zakat, maka mereka adalah saudara-saudara kamu seagama."*
+> — **Surah At-Tawbah (9): 11**
+
+Ayat ini menurut mafhumnya menunjukkan bahawa sesiapa yang culas dan mengabaikan penunaian salat serta zakat, maka dia bukanlah tergolong dalam kalangan saudara (*al-ikhwān*) seagama!
+
+Dan makna inilah yang difahami secara mendalam oleh Sayyidina Abu Bakar As-Siddiq *radhiyallāhu ‘anhu* tatkala beliau memerangi golongan yang enggan membayar zakat (*māni‘ī az-zakāh*), suatu tindakan yang disepakati dan diakui kebenarannya oleh para sahabat Rasulullah ﷺ yang lain, sehingga mereka menggelarkan kebanyakan orang yang enggan membayar zakat itu sebagai golongan murtad (*al-murtaddūn*).
+
+Enam imam hadis telah meriwayatkan daripada Abu Hurairah *radhiyallāhu ‘anhu*, beliau berkata:  
+> *(Tatkala Nabi ﷺ wafat, lalu menjadi kafir sebahagian daripada bangsa Arab, berkatalah Umar kepada Abu Bakar radhiyallāhu ‘anhumā: "Bagaimanakah engkau sanggup memerangi manusia, sedangkan Rasulullah ﷺ telah bersabda: 'Aku diperintahkan untuk memerangi manusia sehinggalah mereka mengucapkan Lā ilāha illallāh. Maka sesiapa yang mengucapkannya, sesungguhnya dia telah memelihara harta dan jiwanya daripadaku melainkan dengan haknya, dan hisab perkiraannya terserah kepada Allah Ta‘ālā'?"*  
+> *Maka Abu Bakar menjawab: "Demi Allah! Pasti aku akan perangi sesiapa yang memisahkan antara salat dan zakat, kerana sesungguhnya zakat adalah hak harta!*  
+> *Demi Allah! Sekiranya mereka menolak daripada menyerahkan kepadaku seekor anak kambing betina (‘anāq) — dalam riwayat lain: seutas tali pengikat unta (‘iqāl) — yang dahulunya mereka serahkan kepada Rasulullah ﷺ, nescaya aku akan memerangi mereka kerana keengganan mereka itu!"*  
+> *Maka Umar berkata: "Demi Allah, tiadalah ia melainkan setelah aku melihat bahawa Allah telah melapangkan dada Abu Bakar untuk memerangi mereka, maka tahulah aku bahawa tindakannya itu adalah suatu kebenaran.")*  
+*(Nota: ‘Al-‘Anāq’ ialah anak kambing betina, manakala ‘Al-‘Iqāl’ ialah tali yang digunakan untuk mengikat haiwan tunggangan).*
+
+Perhatikanlah—semoga Allah memeliharamu—bagaimana Abu Hurairah *radhiyallāhu ‘anhu* mengungkapkan tentang golongan yang enggan membayar zakat dengan katanya: *(Kafirlah sesiapa yang kafir)*. Dan lihatlah bagaimana Abu Bakar memandang bahawa keengganan membayar zakat adalah perbuatan meruntuhkan agama yang mewajibkan pelakunya diperangi, sekalipun dia bersaksi bahawa tiada Tuhan melainkan Allah. Dan perhatikan juga bagaimana Umar akhirnya memperakui pandangan Abu Bakar dan meyakini bahawa ia adalah kebenaran yang nyata.
+
+Sesungguhnya Allah dan Rasul-Nya telah memberikan ancaman yang paling dahsyat terhadap golongan yang enggan menunaikan zakat. Firman Allah Tabāraka wa Ta‘ālā:
+
+> **وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا فِي سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ ۝ يَوْمَ يُحْمَىٰ عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ ۖ هَٰذَا مَا كَنَزْتُمْ لِأَنْفُسِكُمْ فَذُوقُوا مَا كُنْتُمْ تَكْنِزُونَ ۝**
+>
+> *"Dan orang-orang yang menyimpan emas dan perak serta tidak membelanjakannya pada jalan Allah, maka khabarkanlah kepada mereka dengan azab yang pedih; (Iaitu) pada hari dibakar emas dan perak itu dalam neraka Jahannam, lalu diselar dengannya dahi mereka, lambung mereka, dan belakang mereka (seraya dikatakan kepada mereka): 'Inilah harta yang kamu simpan untuk diri kamu sendiri, maka rasailah (balasan) apa yang telah kamu simpan itu!'"*
+> — **Surah At-Tawbah (9): 34–35**
+
+Dan di dalam hadis, Rasulullah ﷺ bersabda:
+> *(“Sesiapa yang dikurniakan oleh Allah harta lalu dia tidak menunaikan zakatnya, nescaya pada hari kiamat kelak hartanya itu akan dijelmakan sebagai seekor ular berbisa yang botak (licin kepalanya kerana racun yang pekat) dan mempunyai dua titik hitam di atas matanya. Ular itu akan membelit lehernya pada hari kiamat, lalu mencengkam kedua-dua sudut mulutnya (lahzamatayh) seraya berkata: 'Akulah hartamu! Akulah simpananmu yang kamu kumpul!'”)*  
+*(‘Asy-Syujā‘ Al-Aqra‘’ ialah ular yang amat berbahaya dan berbisa, manakala ‘Al-Lahzamatān’ ialah dua rahang atau sudut tepi mulut).*
+
+Dan di dalam hadis juga disebutkan:
+> *(“Kecelakaan besarlah bagi orang-orang kaya daripada tuntutan orang-orang fakir pada hari kiamat! Orang-orang fakir itu mengadu: 'Wahai Tuhan kami! Mereka telah menzalimi kami dengan menahan hak kami yang telah Engkau tetapkan untuk kami!' Maka Allah Tabāraka wa Ta‘ālā berfirman: 'Demi kemuliaan dan keagungan-Ku! Pasti Aku akan mendekatkan kamu kepada-Ku dan menjauhkan mereka daripada-Ku!'”)*
+
+Semua peringatan keras ini ditegaskan sedemikian rupa kerana zakat merupakan neraca pengatur bagi projek-projek kemasyarakatan, tunjang kelangsungan amal-amal yang bermanfaat, dan pembetul bagi tabiat semula jadi manusia yang bakhil. Zakat membiasakan sifat pemurah (*as-sakhā’*), melatih kesederhanaan, mencetak hati dengan kasih sayang, mengajak jiwa kepada keintiman ukhuwah, mencabut belenggu dendam dan hasad dengki, serta menyeru kepada tolong-menolong dan sokong-menyokong dalam kebajikan di samping menjauhi punca-punca kejahatan dan kerosakan. Ia memadamkan api pemberontakan dan kekacauan fitnah, kerana setiap insan secara tabiinya mencintai sesiapa yang berbuat baik kepadanya; dan sesiapa yang mendapati budi ihsan, nescaya dia akan terikat dengan kebaikan tersebut.
+
+Zakat adalah salah satu daripada tugas utama pemerintah (*al-ḥākim*): menjadi kewajipannya menguruskan kutipannya, menyusun pungutannya, dan menyelia agihannya kepada asnaf-asnaf yang telah ditentukan oleh Allah baginya.
+
+Kalaulah pemerintah-pemerintah negara Islam memberikan perhatian sewajarnya terhadap urusan zakat, nescaya ia akan menjadi sumber pendapatan halal dan barakah yang mencukupi untuk mereka, sehingga membebaskan negara daripada kebergantungan kepada cukai-cukai zalim dan pungutan-pungutan yang menindas (*al-maks*), di samping menghidupkan sebuah kefardhuan yang telah lama hilang dan rukun yang terabai daripada rukun-rukun Islam!
+
+Namun demikian, sekiranya pemerintah-pemerintah negara Islam telah melupakan kewajipan mereka terhadap zakat—sama ada dari segi kutipan mahupun agihan—maka kewajipan itu berpindah ke atas bahu individu-individu Muslim untuk bangkit menghidupkan syiar ini, memulihkan kefardhuan ini, dan mengeluarkan hak Allah bagi membantu hamba-hamba Allah (*‘iyālillāh*). Maka sesiapa yang culas dalam hal ini, dosanya terpikul ke atas dirinya sendiri, jenayahnya tergantung di lehernya, dan balasan azabnya amat pedih di sisi Tuhannya.
+
+Dan inilah realiti yang engkau saksikan hari ini: orang-orang Islam telah lalai daripada menunaikan hak Allah dalam harta benda mereka, dan tidak mengeluarkan bahagian hak fakir miskin daripada pendapatan mereka. Keadaan ini telah memutuskan tali persaudaraan, memperbanyakkan jenayah, mencemarkan jiwa, serta menyuburkan perasaan hasad dan permusuhan.
+
+Ikhwanul Muslimin melihat hakikat yang menyedihkan ini, lalu mereka bertekad untuk menjadi barisan perintis pertama yang menunjukkan teladan secara praktikal kepada manusia dalam menghidupkan rukun ini. Mereka memulakannya daripada diri mereka sendiri: mereka mengeluarkan zakat harta mereka dengan hati yang tulus dan rela. Apabila mereka berjaya dalam langkah ini, tindakan mereka menjadi hujah ke atas orang-orang yang culas, menjadi pemandu arah bagi mereka yang berhasrat melakukan kebaikan, dan menjadi penyeru kepada mereka yang masih duduk berpeluk tubuh.
+
+Dan cawangan yang mendahului ke arah kebajikan dalam urusan ini ialah cawangan **Birmbāl al-Qadīmah (برمبال القديمة)** di bawah daerah Daqahliyyah di bumi Mesir. Mereka telah mengumpulkan zakat dan mengagihkannya secara teratur kepada asnaf-asnaf yang telah dimaktubkan dalam ayat Al-Quran yang mulia:
+
+> **إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ ۝**
+>
+> *"Sesungguhnya sedekah-sedekah (zakat) itu hanyalah untuk orang-orang fakir, dan orang-orang miskin, dan para amil yang bertugas menguruskannya, dan orang-orang mualaf yang dijinakkan hatinya, dan untuk (memerdekakan) hamba-hamba abdi, dan orang-orang yang berhutang, dan untuk (dibelanjakan pada) jalan Allah, dan orang-orang musafir (yang terputus bekalan) dalam perjalanan. (Ketetapan yang demikian itu ialah) sebagai satu ketetapan fardhu daripada Allah; dan Allah Maha Mengetahui, lagi Maha Bijaksana."*
 > — **Surah At-Tawbah (9): 60**
 
-> 📜 **[MUTIARA HADIS • KEWAJIPAN ZAKAT DI AMBIL DARIPADA ORANG KAYA]**
-> **تُؤْخَذُ مِنْ أَغْنِيَائِهِمْ وَتُرَدُّ عَلَى فُقَرَائِهِمْ**
+Sesungguhnya saya (Hasan al-Banna) pada awalnya diselubungi rasa bimbang yang amat mendalam dan ketakutan yang hebat terhadap kemungkinan berlakunya perpecahan kesatuan dan retaknya muafakat. Hal ini kerana di dalam jiwa umat Islam hari ini terdapat sifat-sifat yang menghalang mereka daripada bersatu di atas kebajikan seumpama ini—lebih-lebih lagi apabila ia bersangkut paut dengan kebendaan dan wang ringgit; apatah lagi jika projek tersebut sejak asas penubuhannya adalah berbentuk kewangan!
+
+Saya amat mengkhuatiri Ikhwan di Birmbal akan berdepan dengan empat kekangan:
+1. **Kebakhilan orang-orang kaya** dan keengganan mereka menghulurkan sumbangan;
+2. **Prasangka buruk golongan yang suka menuduh (*wahm az-zannīn*)**, iaitu mereka yang sentiasa mencari-cari keaiban bagi setiap perkara walau sesempurna mana pun ia, lalu mereka melemparkan tuduhan riyak kepada para sukarelawan dan menuduh para amil pengumpul zakat bersikap pilih kasih (*al-muḥābāh*);
+3. **Ketamakan para penerima (*jasya‘ al-ākhidhīn*)**, di mana setiap orang daripada mereka berhasrat agar seluruh zakat yang dikumpulkan diserahkan kepada dirinya sahaja tanpa disalurkan kepada orang lain;
+4. **Adat kebiasaan turun-temurun** yang telah lama membelenggu masyarakat, di mana setiap keluarga yang masih ada sisa-sisa kesedaran menunaikan zakat lebih gemar menguruskan sendiri pengagihan zakat hartanya, dan enggan menyerahkannya kepada orang lain walau betapa besarnya faedah dan keutamaan mengagihkannya secara berpusat.
+
+Saya amat bimbang terhadap empat halangan ini menimpa Ikhwan di Birmbal, kerana ia adalah kekangan yang nyata dan dirasai dalam masyarakat kita, suatu perkara yang amat menyedihkan dan merunsingkan jiwa. Namun demikian, para pemuda Ikhwan di Birmbal dan seluruh penduduk Birmbal berdiri jauh lebih tinggi dan lebih mulia daripada kekangan tersebut! 
+
+Hati berasa tenang dan gembira, jiwa bersorak bahagia, dan sanubari berasa tenteram dengan gerak kerja mereka. Mereka telah membuktikan kepada masyarakat bahawa kesucian niat—apabila ia meresap ke dalam jiwa—dan kepercayaan bersama—apabila ia bersemi sesama mereka—adalah dua jaminan kukuh yang mampu meruntuhkan segala tembok rintangan.
+
+Sesungguhnya orang-orang kaya Birmbal terlalu mulia untuk menolak daripada menunaikan hak Allah tatkala seruan zakat memanggil mereka. Dan orang-orang fakir Birmbal pula terlalu bermaruah untuk meluaskan pandangan tamak mereka kepada bahagian hak saudara-saudara mereka; tiadalah yang sampai kepada setiap seorang daripada mereka daripada zakat yang dikumpulkan melainkan apa yang telah ditentukan untuknya, lalu jiwanya berasa puas dan lidahnya basah mendoakan keberkatan buat orang yang mengeluarkan zakat serta para pengurusnya. Di samping itu, para pemuda Ikhwan di Birmbal—dengan taufik Allah Ta‘ālā—bertindak dengan penuh bijaksana dan tegas sehingga menutup rapat sebarang ruang tuduhan dan syak wasangka.
+
+Maka mereka telah membentuk **Lima Jawatankuasa Pengurusan yang Tersusun**:
+1. **Jawatankuasa Pertama:** Bertugas menyediakan senarai bancian golongan yang benar-benar berhak menerima zakat. Ahli jawatankuasa ini diikat dengan janji setia dan sumpah agar tidak bersikap pilih kasih, tidak bermuka-muka, tidak membocorkan rahsia, dan tidak mendedahkan keaiban mana-mana keluarga.
+2. **Jawatankuasa Kedua:** Bertugas memeriksa semula senarai nama yang telah disediakan, menyemaknya dengan teliti, dan mengesahkan ketepatannya.
+3. **Jawatankuasa Ketiga:** Bertugas menilai dan menentukan kadar agihan yang berhak diterima (*al-anṣibah al-mustaḥaqqah*) bagi setiap individu atau keluarga yang terbukti keperluan dan kelayakannya.
+4. **Jawatankuasa Keempat:** Bertugas menyemak semula kadar penetapan tersebut dan meluluskannya secara rasmi.
+5. **Jawatankuasa Kelima:** Bertugas melaksanakan proses pengagihan zakat secara amali di lapangan.
+
+Sistem pengurusan yang amat teliti dan diberkati ini telah mengundang kekaguman serta kegembiraan meluap-luap daripada sesiapa sahaja yang menyaksikannya, mengetahuinya, atau melihat kesan baiknya yang meresap ke dalam jiwa penduduk Birmbal dan kawasan-kawasan jirannya.
+
+Maka penduduk Birmbal selepas itu telah membuktikan diri mereka lebih hebat daripada adat lama dan lebih mulia daripada belenggu kebiasaan. Mereka mengikut jalan petunjuk kebenaran, mengutamakan semangat kerjasama, dan menunjukkan contoh teladan yang paling indah dalam merealisasikan cita-cita murni yang sekian lama hanya menjadi impian kita dari zaman berzaman.
+
+Tidakkah engkau melihat—wahai pembaca yang budiman—selepas penjelasan yang terang nyata ini bahawa **Ikhwanul Muslimin adalah benar-benar golongan yang beramal secara praktikal (*qawmun ‘amaliyyūn*)**?!
+
+Dan tidakkah Ikhwanul Muslimin melihat pada pencapaian ini sebagai realisasi kepada cita-cita perjuangan mereka, lalu mereka berusaha bersungguh-sungguh agar kita dapat mendengar dalam waktu terdekat ini langkah-langkah kejayaan yang serupa di cawangan-cawangan (*asy-syu‘ab*) yang lain yang bergiat aktif:
+
+> **فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ مَوْلَاكُمْ ۖ فَنِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ ۝**
 >
-> *"Zakat itu diambil daripada kalangan orang-orang kaya mereka, lalu diagihkan kembali kepada kalangan orang-orang fakir miskin mereka."*
-
-  Empat Halangan Sosiologi Pengurusan Zakat di Zaman Moden
-  Apabila Ikhwanul Muslimin berhasrat untuk menghidupkan semula institusi kutipan dan pengagihan zakat secara teratur dan berpusat di peringkat masyarakat, saya sejujurnya amat diselubungi rasa bimbang dan genting terhadap kemungkinan berlakunya perpecahan perpaduan dan retaknya muafakat. Kerana di dalam masyarakat umat Islam hari ini, terdapat sifat-sifat buruk yang sering menghalang mereka daripada bersatu dalam projek kebajikan sebegini—lebih-lebih lagi apabila ia menyentuh urusan wang dan harta kebendaan!
-  Saya amat bimbang terhadap empat kekangan sosiologi yang sering merosakkan projek zakat:
-  <ol>
-    Sifat bakhil orang-orang kaya (*syuḥḥul-aghniyā’*) dan keengganan mereka menghulurkan sumbangan harta kerana khuatir kekayaan mereka menyusut.
-    Tuduhan dan sangkaan jahat daripada golongan peragu (*tuhamuẓ-ẓannīn*) yang sentiasa mencari-cari keaiban bagi setiap perkara walau sesempurna mana pun ia; mereka melontarkan tuduhan riak kepada para sukarelawan dan menuduh amil bersikap pilih kasih (*al-muḥābāh*).
-    Ketamakan para pemohon (*jasya‘ul-ākhidhīn*) di mana setiap orang berharap agar seluruh zakat yang dikumpulkan diserahkan kepada dirinya sahaja tanpa mempedulikan orang lain.
-    Adat kebiasaan lapuk yang diwarisi, di mana kebanyakan keluarga yang masih mengamalkan pengeluaran zakat berkeras mahu mengagihkan sendiri zakat mereka kepada orang perseorangan, dan enggan menyerahkannya kepada institusi berpusat walaupun pengagihan berpusat itu terbukti jauh lebih berkesan membasmi kemiskinan!
-  </ol>
-
-  Kejayaan Model Birinbal al-Qadimah: Sistem Tadbir Urus 5 Jawatankuasa
-  Namun demikian, para pemuda Ikhwanul Muslimin dan penduduk di Birinbal al-Qadimah (*Birmbāl al-Qadīmah*) telah membuktikan suatu teladan amali yang luar biasa mulia! Mereka membuktikan kepada masyarakat bahawa kesucian hati dan kepercayaan saling mempercayai mampu meleburkan segala rintangan yang sukar.
-  Orang-orang kaya Birinbal terlalu mulia untuk menolak seruan menunaikan hak Allah tatkala dipanggil; orang-orang miskin mereka terlalu bermaruah untuk meluaskan pandangan tamak kepada bahagian saudara-saudaranya; dan para petugas Ikhwan bertindak dengan penuh hikmah, ketegasan dan ketelusan sehingga menutup rapat segala ruang syak wasangka!
-  Ikhwan di Birinbal telah menyusun sistem tadbir urus zakat melalui Lima Jawatankuasa Berperingkat yang amat ketat dan teliti:
-  
-    Jawatankuasa Pertama (Banci dan Pendaftaran Asnaf): Bertanggungjawab menyiasat dan menyediakan senarai nama fakir miskin yang berhak; ahli jawatankuasa ini diikat dengan bai'ah dan sumpah setia agar tidak bersikap pilih kasih, tidak bermuka-muka, tidak membocorkan rahsia, dan tidak mendedahkan aib kemiskinan mana-mana keluarga.
-    Jawatankuasa Kedua (Semakan dan Verifikasi Fakta): Bertugas memeriksa semula senarai nama yang didaftarkan, menyemak ketepatan data dan mengesahkan kesahihan maklumat di lapangan.
-    Jawatankuasa Ketiga (Penilaian dan Penetapan Kadar Asnaf): Meneliti tahap keperluan mendesak setiap keluarga dan menentukan kadar agihan yang adil berdasarkan saiz tanggungan dan tahap kemiskinan.
-    Jawatankuasa Keempat (Audit dan Kelulusan Akhir): Menyemak semula penilaian kadar tersebut dan memperakuinya secara rasmi agar tiada sebarang ketirisan.
-    Jawatankuasa Kelima (Agihan Lapangan Secara Praktikal): Turun terus ke rumah-rumah penerima untuk menyerahkan hak zakat mereka dengan penuh hormat dan memelihara maruah mereka.
-  
-  Sistem pengurusan yang tersusun rapi dan diberkati ini telah mencetuskan rasa kagum dan kegembiraan yang meluap-luap kepada sesiapa sahaja yang menyaksikan atau mendengarnya. Penduduk Birinbal dan kawasan-kawasan sekitarnya telah membuang adat lama dan berganding bahu membina model kebangkitan ekonomi Islam yang dahulunya hanya menjadi impian yang berlegar di awang-awangan!
-
-> **فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ ۖ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ ۝**
->
-> *"Maka dirikanlah oleh kamu akan solat dan keluarkanlah zakat, serta berpegang teguhlah kamu kepada Allah! Dialah Pelindung kamu; maka Dialah sebaik-baik Pelindung dan sebaik-baik Penolong."*
+> *"Oleh itu, dirikanlah salat dan berikanlah zakat, serta berpegang teguhlah kamu kepada Allah! Dialah Pelindung kamu; maka Dialah sebaik-baik Pelindung dan sebaik-baik Penolong."*
 > — **Surah Al-Ḥajj (22): 78**
-
-Maka tidakkah engkau melihat—wahai pembaca yang budiman—selepas kenyataan fakta ini bahawa Ikhwanul Muslimin adalah benar-benar golongan yang beramal secara praktikal? Dan tidakkah Ikhwanul Muslimin wajar berbangga dengan pencapaian ini seraya berusaha mengembangkan model Birinbal ini ke seluruh cawangan-cawangan mereka yang lain?!
 
 
 ---
