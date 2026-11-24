@@ -42,7 +42,7 @@ Menangkis tuduhan skeptis kononnya misi kebangkitan Islam ini satu khayalan dan 
 Menghuraikan impak luar biasa andai wujud sebuah kerajaan Islam yang berdaulat, merdeka jiwanya, dan faham akan keagungan syariat. Menegaskan kaedah: orang yang tidak memiliki sesuatu tidak mampu memberikannya (fāqidul syai’ lā yu‘ṭīh), lantas harapan diletakkan kepada pemuda bertarbiah rabbani.
 
 ### [FASAL 11 • IDENTITI FIKRAH SYUMUL] 11. Hakikat dan Identiti Fikrah Kami (طبيعة فكرتنـا)
-Menolak empat pengelasan sempit: Ikhwan bukanlah parti politik partisan, bukan persatuan kebajikan biasa, bukan tarekat sufi pasif, dan bukan kelab sukan terhad. Fikrah ini adalah Islam itu sendiri dalam kesyumulan akidah, ibadah, perundangan, dan peradaban.
+Menolak empat pengelasan sempit: Ikhwan bukanlah parti politik partisan, bukan persatuan kebajikan biasa, bukan tarekat sufi pasif, dan bukan kelab sukan terhad. Fikrah ini adalah Islam itu sendiri dalam kesyumulan akidah, ibadah, perundangan, dan peradaban (Identiti Rabbani: Fikrah, Akidah, Nizam dan Manhaj).
 
 ### [FASAL 12 • SERUAN KETEGUHAN BAI‘AH] 12. Khatimah Haraki: Seruan Keteguhan Langkah & Bai‘ah Perjuangan (خاتمة حركية)
 Menggemakan pesanan terakhir yang membakar semangat agar para pejuang tidak merendahkan martabat dakwah atau berkompromi dengan kebatilan. Menuntut bai‘ah amal, kesabaran menanggung onak duri perjalanan, serta keyakinan bulat bahawa masa depan adalah milik Islam.
