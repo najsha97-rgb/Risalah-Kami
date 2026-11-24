@@ -1,4 +1,4 @@
-const risalahData = [
+var RISALAH_DATA = [
   {
     "id": "dawatuna",
     "title": "Risalah Da‘watunā",
@@ -1528,6 +1528,9 @@ const risalahData = [
   }
 ];
 
+if (typeof window !== "undefined") {
+  window.RISALAH_DATA = RISALAH_DATA;
+}
 if (typeof module !== "undefined" && module.exports) {
-  module.exports = risalahData;
+  module.exports = RISALAH_DATA;
 }
