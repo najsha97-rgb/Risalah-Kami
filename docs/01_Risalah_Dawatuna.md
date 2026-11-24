@@ -113,7 +113,14 @@ Menetapkan neraca Islam terhadap sentimen kebangsaan (al-qawmiyyah) menerusi emp
 * 👑 **Ikatan Akidah Mengatasi Segalanya:** Nasab tertinggi mukmin adalah akidah Islam yang memadamkan kasta keturunan!
 
 ### [FASAL 16 • FIQH KHILAF] 16. Fiqh Ikhtilaf: Menghadapi Khilaf Fiqh & Mazhab (أمام الخلافات الدينية)
-Menggariskan prinsip Fiqh Ikhtilaf yang matang dalam menangani khilaf fiqh dan mazhab: berlapang dada dalam masalah cabang (furū‘), bersatu dalam perkara pokok (uṣūl), bekerjasama dalam perkara yang disepakati, dan bertolak ansur dalam perkara yang diperselisihkan demi memelihara perpaduan saf umat.
+Menggariskan prinsip Fiqh Ikhtilaf yang matang dalam menangani khilaf fiqh dan mazhab menerusi empat kaedah perpaduan saf:
+
+⚖️ **INFOGRAFIK 4 KAEDAH EMAS FIQH IKHTILAF (AMĀM AL-KHILĀFĀT):**
+* 🤝 **1. Menyatukan Bukan Memecahkan** (*Najma‘u walā Nufarriqu*) ➔ Fokus intipati murni agama, cintai permuafakatan & jauhi syudhūdh.
+* 🌿 **2. Khilaf Furuk Kemestian Fitrah** (*Al-Khilāfu Ḍarūriyyun*) ➔ Mustahil bersatu mutlak kerana perbezaan akal, keluasan ilmu, realiti & usul.
+* 🕊️ **3. Kemustahilan Ijmak Furuk** (*Al-Ijmā‘ ‘alā Far‘in Muta‘adhir*) ➔ Menolak taksub memaksa satu mazhab kerana syariat itu anjal dan luas.
+* 💖 **4. Beri Keuzuran & Toleransi** (*Na‘tadhiru li-Mukhālifīnā*) ➔ Lapang dada dalam ijtihadiyah, benci ketaksuban & utamakan ukhuwah.
+* ⚖️ **Kaedah Emas Haraki:** Bekerjasama dalam perkara disepakati, dan saling berlapang dada dalam perkara diperselisihkan!
 
 ### [FASAL 17 • RAWATAN UMAT] 17. Menuju Rawatan & Pemulihan Umat (إلى العلاج - Ilā al-‘Ilāj)
 Membuat analogi bahawa jatuh bangun dan kesakitan sesuatu umat adalah serupa dengan tubuh badan manusia. Menegaskan bahawa kejatuhan umat Islam bukanlah kematian mutlak, sebaliknya suatu penyakit sementara yang boleh disembuhkan sekiranya didiagnosis dengan tepat dan dirawat menggunakan penawar syariat yang sahih.

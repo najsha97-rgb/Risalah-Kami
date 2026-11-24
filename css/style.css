@@ -3063,3 +3063,80 @@ body {
 .qawm-creed-banner .creed-text strong {
   color: #FFFFFF;
 }
+
+
+/* ==========================================================================
+   FIQH IKHTILAF (Risalah 01 Fasal 16)
+   ========================================================================== */
+.grid-khilaf-4 {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.65rem;
+}
+
+.khilaf-card {
+  padding: 0.65rem 0.8rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.05);
+  transition: all 0.2s ease;
+}
+
+.khilaf-card:hover {
+  background: rgba(16, 185, 129, 0.12);
+  transform: translateY(-1px);
+}
+
+.khilaf-card .sys-icon {
+  font-size: 1.15rem;
+  margin-top: 2px;
+}
+
+.khilaf-card .sys-text strong {
+  font-size: 0.85rem;
+  color: #F8FAFC;
+  margin-bottom: 2px;
+  line-height: 1.25;
+}
+
+.khilaf-trait {
+  font-size: 0.74rem;
+  color: #34D399;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.khilaf-sub {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+/* Golden Rule Banner */
+.khilaf-golden-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: 0.85rem;
+  padding: 0.65rem 0.85rem;
+  background: rgba(245, 158, 11, 0.1);
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  border-radius: 8px;
+}
+
+.khilaf-golden-banner .golden-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+.khilaf-golden-banner .golden-text {
+  font-size: 0.78rem;
+  color: #FBBF24;
+  line-height: 1.45;
+}
+
+.khilaf-golden-banner .golden-text strong {
+  color: #FFFFFF;
+}
