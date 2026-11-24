@@ -5032,3 +5032,244 @@ body {
   font-size: 0.8rem;
   line-height: 1.45;
 }
+
+
+/* ==========================================================================
+   RISALAH 03: HAL NAHNU QAUMUN 'AMALIYYUN? (FASAL 01-05)
+   ========================================================================== */
+.grid-penyoal-4 {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.65rem;
+}
+
+.grid-ghirah-2,
+.grid-rijal-2,
+.grid-wasilah-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+}
+
+.grid-projek-3 {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.65rem;
+}
+
+.penyoal-card,
+.ghirah-card,
+.projek-card,
+.rijal-card,
+.wasilah-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 01: 4 Tipologi Penyoal */
+.penyoal-card.ikhlas {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.penyoal-card.ikhlas:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.penyoal-card.ikhlas .penyoal-trait {
+  color: #34D399;
+}
+
+.penyoal-card.sinis {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.penyoal-card.sinis:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.penyoal-card.sinis .penyoal-trait {
+  color: #F87171;
+}
+
+.penyoal-card.debat {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.penyoal-card.debat:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.penyoal-card.debat .penyoal-trait {
+  color: #FBBF24;
+}
+
+.penyoal-card.dalih {
+  border-left: 3.5px solid #94A3B8 !important;
+  background: rgba(148, 163, 184, 0.06);
+}
+.penyoal-card.dalih:hover {
+  background: rgba(148, 163, 184, 0.14);
+  transform: translateY(-1px);
+}
+.penyoal-card.dalih .penyoal-trait {
+  color: #CBD5E1;
+}
+
+.penyoal-trait,
+.ghirah-trait,
+.projek-trait,
+.rijal-trait,
+.wasilah-trait {
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.3px;
+  display: block;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+.penyoal-sub,
+.ghirah-sub,
+.projek-sub,
+.rijal-sub,
+.wasilah-sub {
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--text-muted, #94a3b8);
+  display: block;
+}
+
+/* Fasal 02: Ghirah */
+.ghirah-card.ratapan {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.ghirah-card.ratapan:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.ghirah-card.ratapan .ghirah-trait {
+  color: #FBBF24;
+}
+
+.ghirah-card.haraki {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.ghirah-card.haraki:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.ghirah-card.haraki .ghirah-trait {
+  color: #34D399;
+}
+
+/* Fasal 03: Projek Nyata */
+.projek-card.pendidikan {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.projek-card.pendidikan:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.projek-card.pendidikan .projek-trait {
+  color: #38BDF8;
+}
+
+.projek-card.kesihatan {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.projek-card.kesihatan:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.projek-card.kesihatan .projek-trait {
+  color: #34D399;
+}
+
+.projek-card.ekonomi {
+  border-left: 3.5px solid #8B5CF6 !important;
+  background: rgba(139, 92, 246, 0.06);
+}
+.projek-card.ekonomi:hover {
+  background: rgba(139, 92, 246, 0.14);
+  transform: translateY(-1px);
+}
+.projek-card.ekonomi .projek-trait {
+  color: #A78BFA;
+}
+
+/* Fasal 04: Pembinaan Rijal */
+.rijal-card.fizikal {
+  border-left: 3.5px solid #94A3B8 !important;
+  background: rgba(148, 163, 184, 0.06);
+}
+.rijal-card.fizikal:hover {
+  background: rgba(148, 163, 184, 0.14);
+  transform: translateY(-1px);
+}
+.rijal-card.fizikal .rijal-trait {
+  color: #CBD5E1;
+}
+
+.rijal-card.rijal-rabbani {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.14) 0%, rgba(15, 23, 42, 0.7) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  box-shadow: 0 4px 18px rgba(16, 185, 129, 0.18);
+}
+.rijal-card.rijal-rabbani:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.24) 0%, rgba(15, 23, 42, 0.9) 100%);
+  transform: translateY(-2px);
+}
+.rijal-card.rijal-rabbani .rijal-trait {
+  color: #34D399;
+}
+
+/* Fasal 05: Wasilah Agama */
+.wasilah-card.sekular {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.wasilah-card.sekular:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.wasilah-card.sekular .wasilah-trait {
+  color: #F87171;
+}
+
+.wasilah-card.agama {
+  border-left: 3.5px solid #3B82F6 !important;
+  background: linear-gradient(180deg, rgba(59, 130, 246, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(59, 130, 246, 0.35);
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.12);
+}
+.wasilah-card.agama:hover {
+  background: linear-gradient(180deg, rgba(59, 130, 246, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.wasilah-card.agama .wasilah-trait {
+  color: #60A5FA;
+}
+
+.penyoal-banner,
+.ghirah-banner,
+.projek-banner,
+.rijal-banner,
+.wasilah-banner {
+  margin-top: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 6px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.45;
+}

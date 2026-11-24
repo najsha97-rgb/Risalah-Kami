@@ -12,7 +12,11 @@
 Risalah *Hal Naḥnu Qawmun ‘Amaliyyūn? (Adakah Kita Golongan yang Praktikal?)* membentangkan pembuktian amali gerakan dakwah merangkumi penubuhan institusi, pembinaan rijal, serta penghayatan rukun-rukun Islam secara praktikal di lapangan. Berikut adalah intisari eksekutif bagi setiap 10 fasal secara terperinci:
 
 ### [FASAL 01 • SKEPTISISME AMALI] 1. Pertanyaan Skeptikal & Tipologi Penyoal (سؤال مهم .. وأصناف سائليه)
-Menjawab persoalan skeptis masyarakat sama ada Ikhwan sebuah jemaah amali yang bertindak atau sekadar pemidato retorik. Membongkar 4 tipologi penyoal: (1) pencari kebenaran yang jujur, (2) golongan lalai yang sinis, (3) peminat perdebatan kosong, dan (4) mereka yang mencari alasan untuk berlepas diri daripada tanggungjawab beramal.
+Menjawab persoalan skeptis masyarakat sama ada Ikhwan sebuah jemaah amali yang bertindak atau sekadar pemidato retorik. Membongkar 4 tipologi penyoal:
+1. **Pencari Kebenaran (المسترشد الصادق):** Ikhlas ingin faham dan bersedia berkorban tenaga.
+2. **Golongan Sinis (الهازئ المستخف):** Memperlekeh usaha islah dengan nada ejekan putus asa.
+3. **Peminat Debat Kosong (المولع بالجدل):** Menggemari polemik teori tanpa pernah bekerja nyata.
+4. **Pemburu Dalih (المعتذر المتهرب):** Mencari alasan untuk berlepas diri daripada kewajipan amal.
 
 ### [FASAL 02 • SERUAN JIWA IKHLAS] 2. Wahai Jiwa-Jiwa yang Ikhlas Bersemangat! (للغيورين من أبناء الإسلام)
 Menujukan seruan khusus kepada pemuda yang mempunyai ghirah dan kepedulian mendalam terhadap maruah Islam yang tercalar. Mengajak mereka menyalurkan tenaga daripada sekadar meratapi kejatuhan umat kepada gerak kerja pembinaan yang berdisiplin dan tersusun di medan dakwah.
@@ -94,6 +98,18 @@ Bukanlah untuk mereka ini kami menulis, dan bukanlah kepada mereka kami berucap 
 
   Dan mudah-mudahan kita diberikan taufik ke arah apa yang kita tuju... Dan sesungguhnya Allah sentiasa menyatakan kebenaran dan Dialah yang memimpin ke jalan yang lurus!
 
+---
+
+> ### 🔍 INFOGRAFIK PEDAGOGI: 4 TIPOLOGI PENYOAL DAKWAH
+>
+> | Tipologi Penyoal | Ciri-Ciri Sikap & Motif | Kaedah Interaksi Haraki |
+> | :--- | :--- | :--- |
+> | **✨ Pencari Kebenaran (*Al-Mustarsyid aṣ-Ṣādiq*)** | Ikhlas mencari bimbingan & sedia menyumbang tenaga | Diberikan penjelasan tuntas & diajak menyertai saf amal |
+> | **⚠️ Golongan Sinis (*Al-Hāzi’ al-Mustakhiff*)** | Menghina, mengejek & tenggelam dlm keputusasaan | Dijawab dengan ketegasan bukti amal tanpa terkesan sindiran |
+> | **🗣️ Peminat Debat (*Al-Mūla‘ bil-Jadal*)** | Suka bertengkar teori & berkhayal falsafah mandul | Dijauhkan drpd polemik sia-sia; difokuskan kpd kerja nyata |
+> | **🚪 Pemburu Dalih (*Al-Mu‘tadhir al-Mutaharrib*)** | Mencari alasan untuk melepaskan diri drpd kewajipan | Dinasihati bahaya nifaq amal & diingatkan akauntabiliti akhirat |
+>
+> 🧭 **Prinsip Amali:** *"Ikhwan tidak membuang masa dalam perang kata-kata; jawapan teragung kami terpampang pada amal nyata dan institusi di lapangan!"*
 
 ---
 
@@ -150,6 +166,16 @@ Kami menyeru mereka dengan seruan Ikhwanul Muslimin: Hendaklah mereka mencuba da
 > *"Maka adakah orang yang berjalan teraba-raba terjerumus di atas mukanya lebih mendapat hidayah petunjuk, ataukah orang yang berjalan tegak tegap di atas jalan yang lurus?"*
 > — **Surah Al-Mulk (67): 22**
 
+---
+
+> ### 🔥 INFOGRAFIK PEDAGOGI: ANJAKAN SEMANGAT GHIRAH PEMUDA
+>
+> | Pola Respon | Sifat & Tindakan | Impak Kepada Masa Depan Umat |
+> | :--- | :--- | :--- |
+> | **🌧️ Ratapan Pasif (*Al-Qu‘ūd wal-Hasrah*)** | Pedih melihat kejatuhan umat lalu mengeluh & menyendiri | Mematikan cita-cita, melumpuhkan azam & mewariskan keputusasaan |
+> | **⚡ Gerak Kerja Haraki (*Al-‘Amal al-Iṣlāḥī*)** | Menyalurkan api cemburu agama ke dalam saf pembinaan | Membina generasi baharu, menyusun saf & menghidupkan harapan |
+>
+> 📢 **Wasiat Al-Imam:** *"Jangan biarkan kepedihan hatimu bertukar menjadi racun keputusasaan; salurkan semangatmu menjadi batu bata pembinaan umat!"*
 
 ---
 
@@ -204,6 +230,17 @@ Ramai di kalangan saudara-saudara kita berpandangan bahawa sesebuah jemaah yang 
 
   Dan para pendakwah Ikhwan sentiasa gigih beramal tanpa jemu agar lembaran ini berkembang menjadi lembaran-lembaran yang tersusun membentuk sebuah kitab amal kebajikan yang suci, telus, lagi ikhlas semata-mata mengharapkan wajah Allah Tabāraka wa Ta‘ālā. Moga-moga dengan paparan ini, mereka terdorong untuk menyokong jemaah ini yang sedang melangkah maju menuju ke arah matlamat agungnya, sentiasa bersandar kepada Tuhannya dan yakin dengan kebenaran janji-Nya. Dan di sana ada satu lagi lembaran yang jauh lebih utama yang akan kami bicarakan dalam fasal yang menyusul, insya-Allah Ta‘ālā.
 
+---
+
+> ### 🏗️ INFOGRAFIK PEDAGOGI: 3 PAKSI INSTITUSI NYATA IKHWAN
+>
+> | Lapangan Institusi | Contoh Projek Empirikal di Lapangan | Manfaat & Natijah Sosioekonomi |
+> | :--- | :--- | :--- |
+> | **🏫 Pendidikan & Belia** | Sekolah Hira', Ma'had Ummahat, tadika & kelab sukan | Melahirkan generasi berilmu & mencelikkan buruh buta huruf |
+> | **🏥 Kesihatan & Kebajikan** | Dispensari perubatan percuma & tabung fakir miskin | Merawat pesakit miskin & membasmi beban penderitaan rakyat |
+> | **🏭 Ekonomi Mandiri** | Syarikat percetakan, kilang tenunan & koperasi patuh syariah | Membiayai aktiviti dakwah secara mandiri tanpa bergantung asing |
+>
+> 🏗️ **Pembuktian Empirikal:** *"Ikhwan mendahului pertubuhan lain dengan mendirikan ratusan cawangan, masjid, sekolah, dan institusi kebajikan awam nyata!"*
 
 ---
 
@@ -260,6 +297,16 @@ Dan boleh jadi engkau akan bertanya selepas ini: *"Dan apakah wasilah-wasilah ya
 
 Dan temu janji kita untuk menjawabnya adalah dalam kalimah-kalimah yang menyusul, insya-Allah Ta‘ālā.
 
+---
+
+> ### 👑 INFOGRAFIK PEDAGOGI: BANGUNAN BATU VS PEMBINAAN RIJAL
+>
+> | Dimensi Pembinaan | Ciri-Ciri & Kedudukan | Natijah Jangka Panjang |
+> | :--- | :--- | :--- |
+> | **🏢 Monumen Fizikal (*Binā’ al-Judrān*)** | Dinding batu, kilang & peralatan material luaran | Jasad kaku yang boleh dirampas musuh atau runtuh dimamah usia |
+> | **👑 Pembinaan Rijal (*I‘dād ar-Rijāl*) [Paksi Utama]** | Membina jiwa mukmin, akidah tauhid & keperwiraan | Rijal rabbani mampu membina semula tamadun daripada debu runtuhan |
+>
+> 💎 **Prinsip Emas Al-Imam:** *"Mendirikan institusi fizikal adalah baik; namun membina rijal (insan beriman) adalah jauh lebih agung dan kekal bagi kelangsungan tamadun!"*
 
 ---
 
@@ -357,6 +404,16 @@ Maka Ikhwan telah meneliti segala wasilah dan jalan untuk mencapai matlamat pemb
 > *"Wahai orang-orang yang beriman! Bertakwalah kamu kepada Allah, dan hendaklah kamu berada bersama orang-orang yang benar (jujur dan menepati janji)."*
 > — **Surah At-Tawbah (9): 119**
 
+---
+
+> ### 🧭 INFOGRAFIK PEDAGOGI: WASILAH AGAMA MEMBINA JIWA
+>
+> | Wasilah Kawalan | Mekanisme & Sifat Tindakan | Tahap Keberkesanan Integriti |
+> | :--- | :--- | :--- |
+> | **🏛️ Kawalan Luaran Sekular** | Kanun manusia, mahkamah & kekerasan polis | Lemah; hanya bertindak selepas jenayah & mudah dimanipulasi |
+> | **✨ Wasilah Agama (*Al-Istimsāk bid-Dīn*)** | *Murāqabatullāh* & seruan suara hati (*Dhamīr*) | Mutlak; melahirkan kejujuran & keadilan walau bersendirian |
+>
+> 🧭 **Kunci Reformasi Sejati:** *"Tiada wasilah yang berupaya menyucikan nurani dan meluruskan akhlak manusia melainkan berpegang teguh kepada tali agama Allah!"*
 
 ---
 
