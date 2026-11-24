@@ -3367,3 +3367,221 @@ body {
 .khatimah-pledge-banner .creed-text strong {
   color: #FCD34D;
 }
+
+/* ==========================================================================
+   NERACA PENILAIAN AL-QURAN & KOMUNIKASI DAKWAH (Risalah 02 Fasal 01-03)
+   ========================================================================== */
+.grid-miqyas-3 {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.65rem;
+}
+
+.sys-item-miqyas {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.05);
+  padding: 0.65rem 0.8rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.sys-item-miqyas:hover {
+  background: rgba(14, 165, 233, 0.12);
+  transform: translateY(-1px);
+}
+
+.sys-item-miqyas.sys-pillar-active {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.15) !important;
+  border-color: rgba(245, 158, 11, 0.45) !important;
+  box-shadow: 0 0 14px rgba(245, 158, 11, 0.25) !important;
+  transform: translateY(-2px);
+}
+
+.sys-item-miqyas.sys-pillar-active .sys-num {
+  background: #F59E0B !important;
+  color: #0F172A !important;
+  font-weight: 900 !important;
+}
+
+.sys-item-miqyas.sys-pillar-active .sys-text strong {
+  color: #FBBF24 !important;
+}
+
+.sys-current-badge {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 800;
+  padding: 1px 5px;
+  background: #F59E0B;
+  color: #0F172A;
+  border-radius: 4px;
+  margin-left: 4px;
+  vertical-align: middle;
+  letter-spacing: 0.5px;
+}
+
+.miqyas-trait {
+  font-size: 0.74rem;
+  color: #38BDF8;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.sys-pillar-active .miqyas-trait {
+  color: #FCD34D !important;
+}
+
+.miqyas-sub {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+.sys-pillar-active .miqyas-sub {
+  color: #E2E8F0 !important;
+}
+
+.miqyas-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.85rem;
+  padding: 0.65rem 0.85rem;
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.12) 0%, rgba(245, 158, 11, 0.12) 100%);
+  border: 1px solid rgba(14, 165, 233, 0.35);
+  border-radius: 8px;
+}
+
+.miqyas-banner .creed-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+.miqyas-banner .creed-text {
+  font-size: 0.78rem;
+  color: #BAE6FD;
+  line-height: 1.45;
+}
+
+.miqyas-banner .creed-text strong {
+  color: #FFFFFF;
+}
+
+/* ==========================================================================
+   MATRIKS 4 ORIENTASI HALUAN HIDUP DALAM AL-QURAN (Risalah 02 Fasal 04)
+   ========================================================================== */
+.grid-orientasi-4 {
+  grid-template-columns: repeat(auto-fit, minmax(215px, 1fr));
+  gap: 0.65rem;
+}
+
+.orientasi-card {
+  padding: 0.7rem 0.85rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.orientasi-card.syahwat {
+  border-left: 3.5px solid #94A3B8 !important;
+  background: rgba(148, 163, 184, 0.06);
+}
+.orientasi-card.syahwat:hover {
+  background: rgba(148, 163, 184, 0.14);
+  transform: translateY(-1px);
+}
+.orientasi-card.syahwat .orientasi-trait {
+  color: #CBD5E1;
+}
+
+.orientasi-card.perhiasan {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.orientasi-card.perhiasan:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.orientasi-card.perhiasan .orientasi-trait {
+  color: #FBBF24;
+}
+
+.orientasi-card.perosak {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.orientasi-card.perosak:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.orientasi-card.perosak .orientasi-trait {
+  color: #F87171;
+}
+
+.orientasi-card.mukmin {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.15);
+}
+.orientasi-card.mukmin:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.orientasi-card.mukmin .orientasi-trait {
+  color: #34D399;
+  font-weight: 800;
+}
+.orientasi-card.mukmin .sys-num {
+  background: #10B981 !important;
+  color: #FFFFFF !important;
+}
+
+.orientasi-trait {
+  font-size: 0.74rem;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.orientasi-sub {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+.orientasi-card.mukmin .orientasi-sub {
+  color: #E2E8F0;
+}
+
+.orientasi-mandat-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.85rem;
+  padding: 0.75rem 0.95rem;
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(245, 158, 11, 0.12) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.45);
+  border-radius: 8px;
+}
+
+.orientasi-mandat-banner .creed-icon {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.orientasi-mandat-banner .creed-text {
+  font-size: 0.79rem;
+  color: #D1FAE5;
+  line-height: 1.45;
+}
+
+.orientasi-mandat-banner .creed-text strong {
+  color: #FCD34D;
+}

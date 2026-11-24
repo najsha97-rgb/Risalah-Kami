@@ -12,16 +12,24 @@
 Risalah *Ilā Ayyi Syai’in Nad‘ūn-Nās? (Kepada Apakah Kita Menyeru Manusia?)* merupakan manifesto haraki yang membongkar matlamat kewujudan umat Islam dan asas peradaban rabbani. Berikut adalah intisari eksekutif bagi setiap 30 fasal secara terperinci:
 
 ### [FASAL 01 • MUKADIMAH] 1. Mukadimah (تمـهـيد - Tamhīd)
-Menegaskan kepentingan menetapkan neraca kefahaman yang tepat sebelum memulakan dialog dakwah agar tidak timbul salah faham dan kekeliruan fikrah. Imam Hasan al-Banna mengajak pembaca meneliti seruan Ikhwan dengan minda yang terbuka dan adil, melangkaui khabar angin dan prasangka luaran.
+Menegaskan kepentingan menetapkan neraca kefahaman yang tepat sebelum memulakan dialog dakwah agar tidak timbul salah faham dan kekeliruan fikrah. Mendiagnosis 2 punca utama salah faham: (1) perbezaan neraca penilaian antara individu, dan (2) kekaburan serta kesamaran dalam penyampaian. Mengajak pembaca meneliti seruan dakwah dengan minda terbuka dan adil.
 
 ### [FASAL 02 • NERACA PENILAIAN] 2. Neraca Penilaian (المقياس - Al-Miqyās)
-Meletakkan Al-Quran al-Karim sebagai neraca mutlak (al-miqyās) dalam mengukur kebenaran dakwah, matlamat perjuangan, dan wasilah amali. Menyeru seluruh manusia menimbang seruan Ikhwan berpandukan neraca wahyu ini: sekiranya selari maka wajib didokong, dan jika menyimpang maka tolaklah ia.
+Meletakkan Al-Quran al-Karim sebagai neraca mutlak (*al-miqyās*) dalam menimbang seluruh dimensi dakwah:
+- **Matlamat (*Ghāyatuhā*):** Matlamat agung mendaulatkan kalimah Allah.
+- **Tujuan (*Maqāṣiduhā*):** Membimbing manusia menuju keredaan Ilahi.
+- **Pendekatan (*Asālībuhā*):** Hikmah, nasihat baik, dan hujah bernas.
+- **Wasilah Praktikal (*Wasā'iluhā*):** Tarbiah amilin, kesatuan saf, dan amal nyata.
 
 ### [FASAL 03 • SERUAN KASIH SAYANG] 3. Wahai Kaum Kami! (يا قومنا - Yā Qawmanā)
-Menyeru kaum sebangsa dan seakidah dengan penuh rasa kasih sayang yang mendalam, mengingatkan bahawa Al-Quran adalah mukjizat agung yang memadukan usul akidah dan kaedah kemasyarakatan. Kitabullah hadir bukan sekadar bacaan ritual, tetapi pedoman pembina tamadun yang pernah mengeluarkan manusia daripada kegelapan jahiliah.
+Menyeru kaum sebangsa dan seakidah dengan penuh kasih sayang, menegaskan kesyumulan Al-Quran yang menghimpunkan pokok-pokok akidah, asas-asas kemaslahatan sosial, dan kaedah umum perundangan duniawi. Menggariskan misi utama perjuangan: mengembalikan diri dan umat kepada landasan Al-Quran apabila umat semakin jauh daripada petunjuk wahyu.
 
 ### [FASAL 04 • MATLAMAT KEHIDUPAN] 4. Matlamat Kehidupan Menurut Al-Quran (غاية الحياة في القرآن - Ghāyatul-Ḥayāh fil-Qur’ān)
-Mengklasifikasikan haluan hidup manusia kepada 4 orientasi menurut Al-Quran: (1) pemburu syahwat haiwani, (2) pengejar perhiasan duniawi fana, (3) penyebar fitnah kerosakan, dan (4) para mukmin yang mengabdikan hidup demi memimpin manusia ke jalan kebenaran (al-wisāyah).
+Mengklasifikasikan taksonomi haluan hidup manusia kepada 4 orientasi menurut Al-Quran:
+- **1. Syahwat Ragawi (*Ka-al-An‘ām*):** Hidup sekadar makan minum & memenuhi nafsu biologikal [Surah Muhammad: 12].
+- **2. Perhiasan Fana (*Matā‘ ad-Dunyā*):** Terpesona kemewahan harta, wanita, anak-pinak & prestij [Surah Ali ‘Imran: 14].
+- **3. Perosak & Fitnah (*Al-Mufsidūn fil-Arḍ*):** Menabur kerosakan moral, tanaman & keturunan [Surah Al-Baqarah: 204-205].
+- **4. Pemegang Wasiat Rabbani (*Awṣiyā’ al-Insāniyyah*):** Menggalas amanah *Syuhadā’ ‘alā an-Nās* — ibadah, zakat, kebajikan & jihad membimbing peradaban dunia [Surah Al-Hajj: 77-78].
 
 ### [FASAL 05 • KEWALIAN RABBANI] 5. Kewalian Muslim: Pengorbanan, Bukan Eksploitasi (وصاية المسلم تضحية لا استفادة - Wiṣāyatul-Muslim)
 Menghuraikan hakikat kepimpinan duniawi mukmin (wiṣāyatul-muslim): ia adalah kontrak perhambaan kepada Allah melalui bai'ah jual beli jiwa raga (Surah At-Tawbah: 111). Kewalian ini bertujuan membimbing dan berkorban demi keadilan manusia, bukan untuk menjajah, mengaut kekayaan, atau menindas bangsa lain.
@@ -105,31 +113,47 @@ Membentangkan model 5 fasa sunnatullah dalam pembentukan umat berpandukan Surah 
 
 ### 1. Mukadimah (تمـهـيد - Tamhīd)
 
-Bismillāhir-Raḥmānir-Raḥīm.
-Boleh jadi anda pernah berbicara dengan ramai manusia dalam pelbagai topik dan mauduk yang berbeza, lalu anda menyangka bahawa anda telah pun memberikan penjelasan yang sejelas-jelasnya dan huraian yang seterang-terangnya. Anda merasakan bahawa tiada satu jalan pun untuk menyingkap apa yang terpendam di dalam sanubari anda melainkan anda telah melaluinya, sehingga anda menyangka telah meninggalkan para pendengar anda di atas المحجة البيضاء (al-maḥajjah al-bayḍā’ — jalan putih yang bersih tanpa kekaburan). Anda beranggapan bahawa apa yang anda maksudkan dalam ucapan anda itu adalah hakikat-hakikat yang sejelas fajar menyingsing atau bagaikan terik mentari di rembang tengah hari.
+*Bismillāhir-Raḥmānir-Raḥīm.*
+
+Boleh jadi anda pernah berbicara dengan ramai manusia dalam pelbagai topik dan mauduk yang berbeza, lalu anda menyangka bahawa anda telah pun memberikan penjelasan yang sejelas-jelasnya dan huraian yang seterang-terangnya. Anda merasakan bahawa tiada satu jalan pun untuk menyingkap apa yang terpendam di dalam sanubari anda melainkan anda telah melaluinya, sehingga anda menyangka telah meninggalkan para pendengar anda di atas المحجة البيضاء (*al-maḥajjah al-bayḍā’* — jalan putih yang bersih tanpa kekaburan). Anda beranggapan bahawa apa yang anda maksudkan dalam ucapan anda itu adalah hakikat-hakikat yang sejelas fajar menyingsing atau bagaikan terik mentari di rembang tengah hari.
+
 Namun, alangkah terkejutnya anda selepas seketika, apabila tersingkap kepada anda bahawa kaum yang mendengar ucapan anda itu rupa-rupanya langsung tidak memahami hakikat ucapan anda dan tidak dapat menangkap maksud sebenar kata-kata anda!
+
 Saya telah menyaksikan perkara ini berkali-kali dan menyentuhnya dalam banyak situasi dan pertemuan. Saya meyakini bahawa rahsia di sebalik kekeliruan ini tidak terkeluar daripada dua kemungkinan:
 1. Boleh jadi neraca dan ukuran yang digunakan oleh setiap orang antara kita dalam menilai apa yang didengarnya adalah berbeza, maka secara langsung kefahaman dan daya tanggapannya juga menjadi berbeza.
 2. Atau ucapan itu sendiri mengandungi kekaburan dan kesamaran, walaupun orang yang mengucapkannya menyangka ia sudah cukup terang dan nyata.
 
+---
+
+> ### ⚖️ INFOGRAFIK PEDAGOGI: 3 TONGGAK NERACA AL-QURAN & KOMUNIKASI DAKWAH
+>
+> | Tonggak | Fasal Rujukan | Fokus Utama | Implikasi Haraki |
+> | :--- | :--- | :--- | :--- |
+> | **I. Kefahaman & Diagnosis** *(Fasal 01)* | Mukadimah (*Tamhīd*) | Diagnosis 2 punca kekeliruan komunikasi dakwah | Menyelaraskan neraca persepsi sebelum berdialog |
+> | **II. Al-Quran Neraca Mutlak** *(Fasal 02)* | Neraca Penilaian (*Al-Miqyās*) | Menimbang matlamat, maqasid, gaya & wasilah | Menolak sebarang seruan yang menyimpang drpd wahyu |
+> | **III. Misi Pulihkan Umat** *(Fasal 03)* | Seruan Kaum (*Yā Qawmanā*) | Kesyumulan akidah, sosial & perundangan | Mengembalikan umat ke landasan kepimpinan Al-Quran |
+>
+> 📌 **Prinsip Neraca Wahyu:** *"Daripada limpahan telaganya kita mencedok kebenaran, daripada lautan ilmunya kita menimba kekuatan, dan kepada hukumnya kita kembali berhujah!"*
 
 ---
 
 ### 2. Neraca Penilaian (المقياس - Al-Miqyās)
 
-Justeru, melalui wacana ini, saya berhasrat untuk menyingkap kepada sekelian manusia hakikat dakwah Ikhwanul Muslimin; apakah matlamatnya (غايتها), apakah tujuan-tujuannya (مقاصدها), serta apakah gaya pendekatan (أساليبها) dan wasilah-wasilah praktikalnya (وسائلها) secara terus terang, jelas, nyata dan terang-benderang.
-Saya ingin terlebih dahulu menetapkan neraca ukuran (المقياس - al-miqyās) yang dengannya kita akan menimbang penjelasan ini. Saya akan berusaha sedaya upaya agar ungkapan ini mudah difahami, lancar, dan tidak sukar ditanggapi oleh mana-mana pembaca yang ikhlas ingin mengambil manfaat.
-Saya yakin bahawa tiada seorang pun daripada sekelian umat Islam yang akan membantah saya sekiranya saya menetapkan bahawa neraca pertimbangan kita ini adalah Kitāb Allāh (Al-Quran al-Karim). Daripada limpahan telaganya kita mencedok kebenaran, daripada lautan ilmunya kita menimba kekuatan, dan kepada ketetapan hukumnya kita kembali berhujah.
+Justeru, melalui wacana ini, saya berhasrat untuk menyingkap kepada sekelian manusia hakikat dakwah Ikhwanul Muslimin; apakah matlamatnya (*ghāyatuhā*), apakah tujuan-tujuannya (*maqāṣiduhā*), serta apakah gaya pendekatan (*asālībuhā*) dan wasilah-wasilah praktikalnya (*wasā'iluhā*) secara terus terang, jelas, nyata dan terang-benderang.
 
+Saya ingin terlebih dahulu menetapkan **neraca ukuran** (*al-miqyās*) yang dengannya kita akan menimbang penjelasan ini. Saya akan berusaha sedaya upaya agar ungkapan ini mudah difahami, lancar, dan tidak sukar ditanggapi oleh mana-mana pembaca yang ikhlas ingin mengambil manfaat.
+
+Saya yakin bahawa tiada seorang pun daripada sekelian umat Islam yang akan membantah saya sekiranya saya menetapkan bahawa neraca pertimbangan kita ini adalah **Kitāb Allāh (Al-Quran al-Karim)**. Daripada limpahan telaganya kita mencedok kebenaran, daripada lautan ilmunya kita menimba kekuatan, dan kepada ketetapan hukumnya kita kembali berhujah.
 
 ---
 
 ### 3. Wahai Kaum Kami! (يا قومنا - Yā Qawmanā)
 
 Sesungguhnya Al-Quran al-Karim adalah sebuah kitab yang menghimpunkan segala kebenaran. Di dalamnya, Allah telah memadukan pokok-pokok akidah, asas-asas kemaslahatan sosial, serta kaedah-kaedah umum perundangan duniawi. Di dalamnya terdapat suruhan dan larangan.
-Maka timbullah persoalan: Adakah umat Islam telah beramal dengan apa yang terkandung di dalam Al-Quran, lalu mereka meyakini dan membenarkan perkara akidah yang ditegaskan oleh Allah? Adakah mereka memahami matlamat-matlamat hidup yang telah diterangkan kepada mereka? Dan adakah mereka telah melaksanakan syariat kemasyarakatan dan tata hidup Al-Quran ke atas tingkah laku dan urusan kehidupan harian mereka?
-Sekiranya penyelidikan kita mendapati bahawa umat Islam sememangnya berkeadaan demikian, maka sesungguhnya kita telah pun tiba bersama-sama ke puncak matlamat. Namun, sekiranya penyelidikan ini mendedahkan betapa jauhnya mereka daripada jalan Al-Quran dan betapa cuainya mereka terhadap ajaran dan perintahnya, maka ketahuilah bahawa tugas utama kita adalah mengembalikan diri kita dan sesiapa yang mengikut kita ke jalan Al-Quran ini.
 
+Maka timbullah persoalan: Adakah umat Islam telah beramal dengan apa yang terkandung di dalam Al-Quran, lalu mereka meyakini dan membenarkan perkara akidah yang ditegaskan oleh Allah? Adakah mereka memahami matlamat-matlamat hidup yang telah diterangkan kepada mereka? Dan adakah mereka telah melaksanakan syariat kemasyarakatan dan tata hidup Al-Quran ke atas tingkah laku dan urusan kehidupan harian mereka?
+
+Sekiranya penyelidikan kita mendapati bahawa umat Islam sememangnya berkeadaan demikian, maka sesungguhnya kita telah pun tiba bersama-sama ke puncak matlamat. Namun, sekiranya penyelidikan ini mendedahkan betapa jauhnya mereka daripada jalan Al-Quran dan betapa cuainya mereka terhadap ajaran dan perintahnya, maka ketahuilah bahawa **tugas utama kita adalah mengembalikan diri kita dan sesiapa yang mengikut kita ke jalan Al-Quran ini.**
 
 ---
 
@@ -169,7 +193,20 @@ Hal ini ditegaskan secara tuntas dalam firman Allah Tabāraka wa Ta‘ālā:
 > *"Wahai orang-orang yang beriman! Rukuklah serta sujudlah kamu, dan sembahlah Tuhan kamu (dengan mentauhidkan-Nya), serta perbuatlah kebajikan; mudah-mudahan kamu beroleh kejayaan. Dan berjihadlah kamu pada jalan Allah dengan jihad yang sebenar-benarnya. Dialah yang telah memilih kamu, dan Dia tidak menjadikan bagi kamu dalam agama ini sesuatu keberatan; ikutilah agama bapa kamu Nabi Ibrahim. Dia telah menamakan kamu orang-orang Islam dari dahulu dan dalam (Al-Quran) ini, supaya Rasul itu menjadi saksi ke atas kamu dan supaya kamu pula menjadi saksi ke atas sekelian manusia. Oleh itu, dirikanlah solat dan berikanlah zakat, serta berpegang teguhlah kamu kepada Allah. Dialah Pelindung kamu; maka Dialah sebaik-baik Pelindung dan sebaik-baik Penolong."*
 > — **Surah al-Ḥajj: 77–78**
 
-Makna ayat ini adalah: Al-Quran al-Karim meletakkan kaum muslimin sebagai pemegang wasiat (أوصياء - awṣiyā’) ke atas umat manusia yang masih mentah jiwanya, dan memberikan kaum muslimin hak kepimpinan (الرياسة) serta hegemoni daulat (الهيمنة) ke atas dunia demi menggalas tugas bimbingan yang mulia ini. Maka urusan kepimpinan tamadun ini adalah hak milik tamadun Islam, bukan milik tamadun kebendaan Barat.
+Makna ayat ini adalah: **Al-Quran al-Karim meletakkan kaum muslimin sebagai pemegang wasiat (أوصياء - awṣiyā’) ke atas umat manusia yang masih mentah jiwanya, dan memberikan kaum muslimin hak kepimpinan (الرياسة) serta hegemoni daulat (الهيمنة) ke atas dunia demi menggalas tugas bimbingan yang mulia ini. Maka urusan kepimpinan tamadun ini adalah hak milik tamadun Islam, bukan milik tamadun kebendaan Barat.**
+
+---
+
+> ### 🧭 INFOGRAFIK PEDAGOGI: MATRIKS 4 ORIENTASI HALUAN HIDUP MENURUT AL-QURAN
+>
+> | Golongan & Orientasi | Rujukan Nas Wahyu | Ciri-Ciri Utama | Status Penilaian Al-Quran |
+> | :--- | :--- | :--- | :--- |
+> | **1. Syahwat Ragawi** | Surah Muḥammad: 12 (*Ka-al-An‘ām*) | Hidup sekadar makan minum & memenuhi nafsu biologikal | **Hina:** Merendahkan martabat insan ke darjat binatang ternak |
+> | **2. Perhiasan Fana** | Surah Āli ‘Imrān: 14 (*Matā‘ ad-Dunyā*) | Terpesona kemewahan emas, perak, wanita, anak & pangkat | **Tertipu:** Mengejar kesenangan sementara yang fana |
+> | **3. Perosak & Fitnah** | Surah al-Baqarah: 204–205 (*Al-Mufsidūn*) | Percakapan manis mempesona tetapi merosakkan generasi & alam | **Terkutuk:** Musuh kebenaran yang menyalakan api fitnah |
+> | **4. Pemegang Wasiat Rabbani** | Surah al-Ḥajj: 77–78 (*Awṣiyā’ al-Insāniyyah*) | Ibadah, zakat, kebajikan & jihad memimpin manusia ke jalan nur | **Maha Luhur:** Memegang mandat kepimpinan & saksi ke atas manusia (*Syuhadā’ ‘alā an-Nās*) |
+>
+> 👑 **Mandat Kewalian Rabbani:** *"Umat Islam diutus bukan untuk menunduk atau mengekor peradaban kebendaan Barat, tetapi memikul amanah wasiat membimbing seluruh umat manusia menuju keadilan dan cahaya syariat Allah!"*
 
 
 ---
