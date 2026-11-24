@@ -32,16 +32,16 @@ Mengklasifikasikan taksonomi haluan hidup manusia kepada 4 orientasi menurut Al-
 - **4. Pemegang Wasiat Rabbani (*Awṣiyā’ al-Insāniyyah*):** Menggalas amanah *Syuhadā’ ‘alā an-Nās* — ibadah, zakat, kebajikan & jihad membimbing peradaban dunia [Surah Al-Hajj: 77-78].
 
 ### [FASAL 05 • KEWALIAN RABBANI] 5. Kewalian Muslim: Pengorbanan, Bukan Eksploitasi (وصاية المسلم تضحية لا استفادة - Wiṣāyatul-Muslim)
-Menghuraikan hakikat kepimpinan duniawi mukmin (wiṣāyatul-muslim): ia adalah kontrak perhambaan kepada Allah melalui bai'ah jual beli jiwa raga (Surah At-Tawbah: 111). Kewalian ini bertujuan membimbing dan berkorban demi keadilan manusia, bukan untuk menjajah, mengaut kekayaan, atau menindas bangsa lain.
+Menghuraikan hakikat kepimpinan duniawi mukmin (*wiṣāyatul-muslim*): ia adalah kontrak perhambaan kepada Allah melalui bai'ah jual beli jiwa raga (Surah At-Tawbah: 111). Membandingkan secara kontras antara **Kewalian Rabbani** (guru peradaban, pengorbanan, dan hidayah) dengan **Kolonialisme Barat** (eksploitasi sumber, perhambaan bangsa, dan kerosakan moral).
 
 ### [FASAL 06 • MUHASABAH UMAT] 6. Di Manakah Umat Islam daripada Matlamat Ini? (أين المسلمون من هذه الغاية؟)
-Membuat muhasabah pedih terhadap kemerosotan umat Islam moden yang hanyut mengejar kebendaan dan terpesona dengan acuan hidup penjajah Barat. Menyeru umat kembali menghayati matlamat kewalian rabbani agar maruah peradaban mereka yang hilang dapat dipulihkan semula.
+Membuat muhasabah klinikal terhadap jurang pemisah antara hakikat ketinggian martabat mukmin dengan realiti kelesuan umat moden. Memberi amaran tegas berpandukan hadis nabawi mengenai bahaya menjadi tawanan syahwat dan perhambaan kebendaan (*‘abdu ad-dīnār* & *‘abdu ad-dirham*).
 
 ### [FASAL 07 • KETETAPAN MATLAMAT] 7. Matlamat Adalah Asas Segala Tindakan (الغاية أصل الأعمال - Al-Ghāyatu Aṣlul-A‘māl)
-Menegaskan kaedah falsafah haraki bahawa kejelasan matlamat adalah penentu ketepatan wasilah dan tindakan. Kerancuan hidup umat hari ini berpunca daripada hilangnya kompas matlamat kewujudan, lalu Ikhwan tampil menggariskan semula tujuan asasi penciptaan insan.
+Menegaskan kaedah falsafah haraki: matlamat menentukan ketepatan wasilah dan keberhasilan impak. Matlamat kabur menghasilkan tindakan berselerak ibarat fatamorgana di padang pasir (*sarābun biqī‘atin*), manakala matlamat yang jelas dan teguh memacu umat memimpin peradaban dunia (*siyādatud-dunyā*).
 
 ### [FASAL 08 • SUMBER SAHIH] 8. Sumber-Sumber Rujukan Matlamat Kami (مصادر غايتنا - Maṣādiru Ghāyatinā)
-Mengisytiharkan bahawa matlamat dakwah Ikhwan bukanlah rekaan fikiran manusia atau ideologi ciptaan semasa, sebaliknya dipetik secara murni daripada Kitabullah, Sunnah Nabawiyyah, dan keteladanan generasi Salafus Soleh yang terbukti melahirkan peradaban agung.
+Mengisytiharkan tripod tiga sumber rujukan utama manhaj dakwah: (1) **Al-Quran al-Karim** sebagai mata air wahyu yang jernih, (2) **As-Sunnah an-Nabawiyyah** sebagai teladan praktikal maksum, dan (3) **Sirah Salafus Soleh** sebagai bukti sejarah *Khairu Ummah*. Menolak sebarang ideologi ciptaan fana dan teori Barat yang tempang.
 
 ### [FASAL 09 • PENGORBANAN PEMUDA] 9. Renungan Terbuka: Pengorbanan Jiwa Pemuda Dakwah (استطراد - Istiṭrād)
 Menjawab kekaguman pemerhati terhadap kebangkitan luar biasa para pemuda Ikhwan yang sanggup meninggalkan kemewahan dunia demi jalan dakwah. Rahsianya terletak pada sentuhan nurani keimanan yang menyedarkan mereka bahawa pengorbanan di jalan Allah adalah semulia-mulia perniagaan akhirat.
@@ -220,40 +220,82 @@ Kemudian Allah Tabāraka wa Ta‘ālā menjelaskan bahawa seorang mukmin dalam m
 > *"Sesungguhnya Allah telah membeli daripada orang-orang yang beriman akan jiwa mereka dan harta benda mereka dengan (balasan) bahawa mereka akan beroleh Syurga; mereka berjuang pada jalan Allah lalu mereka membunuh dan terbunuh. (Balasan Syurga yang demikian adalah) janji yang benar yang ditetapkan oleh Allah di dalam Taurat, Injil dan Al-Quran; dan siapakah yang lebih menyempurnakan janjinya selain daripada Allah? Oleh itu, bergembiralah dengan perniagaan yang kamu jalankan itu; dan yang demikian itulah kemenangan yang amat besar."*
 > — **Surah at-Tawbah: 111**
 
-Daripada hakikat ini, kita melihat seorang muslim menjadikan dunianya sebagai wakaf (وقفا) demi dakwahnya, agar dia memperolehi kejayaan akhirat sebagai ganjaran pengorbanannya. Dari sinilah lahir hakikat bahawa pembuka kota dalam Islam (الفاتح المسلم) adalah seorang guru peradaban (أستاذ) yang berhias dengan segala sifat yang wajib dimiliki oleh seorang pendidik sejati: nur kebenaran, petunjuk hidayah, kasih sayang, dan kelembutan belas kasihan.
+Daripada hakikat ini, kita melihat seorang muslim menjadikan dunianya sebagai wakaf (*waqfan*) demi dakwahnya, agar dia memperolehi kejayaan akhirat sebagai ganjaran pengorbanannya. Dari sinilah lahir hakikat bahawa pembuka kota dalam Islam (*al-fātiḥ al-muslim*) adalah seorang **guru peradaban** (*ustādh*) yang berhias dengan segala sifat yang wajib dimiliki oleh seorang pendidik sejati: nur kebenaran, petunjuk hidayah, kasih sayang, dan kelembutan belas kasihan.
+
 Pembukaan Islam adalah pembukaan berasaskan pemakmuran tamadun, bimbingan akhlak, pengislahan tata hidup, dan pengajaran ilmu. Alangkah jauhnya jurang perbezaan antara hakikat pembukaan Islam ini dengan apa yang dilakukan oleh penjajahan Barat kebendaan moden yang menjarah sumber, memperhambakan bangsa lain, dan merosakkan nilai kemanusiaan!
 
+---
+
+> ### ⚖️ INFOGRAFIK PEDAGOGI: DUA PARADIGMA KEPIMPINAN DUNIA
+>
+> | Dimensi Penilaian | Kewalian Rabbani (*Wiṣāyatul-Muslim*) | Kolonialisme Barat (*Al-Isti‘mār*) |
+> | :--- | :--- | :--- |
+> | **Hakikat & Motif** | Pengorbanan & bimbingan (*Taḍḥiyah lā istifādah*) | Eksploitasi & monopoli (*Istighlāl wa-ḥtikār*) |
+> | **Peranan Pemimpin** | **Guru Peradaban (*Ustādh*):** Membawa nur, keadilan & rahmah | **Penjarah Sumber:** Merompak kekayaan & menindas peribumi |
+> | **Ganjaran Dicari** | Keredaan Allah & Syurga Akhirat [At-Tawbah: 111] | Penguasaan modal kebendaan & pasaran kapitalis |
+> | **Impak Kemanusiaan**| Membebaskan jiwa manusia & memakmurkan tamadun | Memperhambakan bangsa lain & memusnahkan nilai moral |
+>
+> 👑 **Hakikat Pembukaan Islam:** *"Pembukaan kota dalam Islam adalah misi pemakmuran tamadun, bimbingan akhlak, dan pengajaran ilmu — bukan rompakan sumber penjajah moden!"*
 
 ---
 
 ### 6. Di Manakah Umat Islam daripada Matlamat Ini? (أين المسلمون من هذه الغاية؟)
 
 Maka demi Tuhanmu, wahai saudaraku yang budiman: Adakah umat Islam hari ini memahami pengertian ini daripada Kitab Tuhan mereka, lalu jiwa mereka melonjak luhur, roh mereka menjadi halus, mereka membebaskan diri daripada perhambaan kebendaan, membersihkan diri daripada kelezatan syahwat hawa nafsu, serta menjauhkan diri daripada perkara-perkara remeh dan matlamat-matlamat yang hina?
+
 Adakah mereka menghadapkan wajah mereka semata-mata kepada Tuhan yang menciptakan langit dan bumi dengan penuh keikhlasan, meninggikan kalimah Allah, berjihad pada jalan-Nya, menyebarkan agama-Nya, dan mempertahankan kedaulatan syariat-Nya?
+
 Ataukah mereka sebaliknya telah menjadi tawanan syahwat, hamba kepada hawa nafsu dan kerakusan tamak haloba? Setiap cita-cita mereka hanyalah sesuap makanan yang lazat, kenderaan yang mewah, pakaian yang indah, tidur yang empuk, wanita yang cantik jelita, serta penampilan dusta dan gelaran-gelaran kosong yang tiada isi!
+
 Mereka berpuas hati dengan angan-angan kosong, diuji dengan habuan duniawi, dan mendakwa diri berjuang di lautan kesungguhan padahal mereka langsung tidak pernah diuji kebasahan. Benarlah sabda Rasulullah ﷺ:
 
-> 📜 **[HADIS NABAWI SAHIH (HR. AL-BUKHARI)]**
 > **«تَعِسَ عَبْدُ الدِّينَارِ، تَعِسَ عَبْدُ الدِّرْهَمِ، تَعِسَ عَبْدُ الْخَمِيصَةِ، تَعِسَ عَبْدُ الْقَطِيفَةِ، إِنْ أُعْطِيَ رَضِيَ، وَإِنْ لَمْ يُعْطَ سَخِطَ»**
 >
 > *"Celakalah hamba dinar, celakalah hamba dirham, celakalah hamba pakaian berhias, celakalah hamba kain sutera baldu. Jika diberi dia redha, dan jika tidak diberi dia murka."*
+> — **Hadis Sahih Riwayat al-Bukhārī (No. 2887)**
 
+---
+
+> ### 🩺 INFOGRAFIK PEDAGOGI: MUHASABAH KLINIKAL REALITI UMAT
+>
+> | Aspek Diagnostik | Tuntutan Jiwa Rabbani | Realiti Hamba Dinar (*‘Abdu ad-Dīnār*) |
+> | :--- | :--- | :--- |
+> | **Orientasi Hati** | Ikhlas bulat meninggikan kalimah Allah & berjihad | Tawanan nafsu, tamak haloba & kemewahan dunia |
+> | **Taraf Cita-Cita** | Membebaskan manusia & mendaulatkan syariat | Sesuap makanan lazat, pakaian empuk & gelaran kosong |
+> | **Sikap Terhadap Ujian**| Sedia menanggung keperitan & basah di lautan amal | Berpuas hati dgn angan-angan tanpa sanggup diuji |
+>
+> ⚠️ **Peringatan Hadis Nabawi:** *"Celakalah hamba dinar, hamba dirham dan hamba perhiasan fana! Kemuliaan umat hanya akan kembali apabila kita memutuskan belenggu perhambaan kebendaan."*
 
 ---
 
 ### 7. Matlamat Adalah Asas Segala Tindakan (الغاية أصل الأعمال - Al-Ghāyatu Aṣlul-A‘māl)
 
-Memandangkan matlamat adalah penggerak utama yang menolak seseorang melangkah ke jalan perjuangan, dan oleh kerana matlamat dalam jiwa umat kita hari ini telah menjadi kabur, bercelaru dan terumbang-ambing, maka segala tindakan mereka juga menjadi berselerak dan tidak menentu.
-Langkah-langkah mereka tersasar daripada haluan yang tepat. Usaha-usaha mereka menjadi kerdil dan mandul, tidak mampu membuahkan sebarang hasil yang bermanfaat. Bahkan ia tidak ubah bagaikan fatamorgana di padang pasir yang disangka air oleh orang yang dahaga, tetapi apabila dihampirinya dia tidak mendapati apa-apa melainkan hukuman Allah.
-Maka menjadi satu kemestian bagi kita untuk memperjelaskan dan menetapkan sasaran ini dengan setepat-tepatnya. Dan saya berpandangan kita telah sampai kepada tahap penjelasan yang amat mendalam dan bersepakat bahawa misi agung kita adalah memimpin peradaban dunia (سيادة الدنيا) dan membimbing seluruh umat manusia kepada sistem-sistem Islam yang luhur serta ajaran-ajarannya, yang tanpanya manusia mustahil akan mengecap kebahagiaan hakiki!
+Memandangkan **matlamat** adalah penggerak utama yang menolak seseorang melangkah ke jalan perjuangan, dan oleh kerana matlamat dalam jiwa umat kita hari ini telah menjadi kabur, bercelaru dan terumbang-ambing, maka segala tindakan mereka juga menjadi berselerak dan tidak menentu.
 
+Langkah-langkah mereka tersasar daripada haluan yang tepat. Usaha-usaha mereka menjadi kerdil dan mandul, tidak mampu membuahkan sebarang hasil yang bermanfaat. Bahkan ia tidak ubah bagaikan fatamorgana di padang pasir yang disangka air oleh orang yang dahaga, tetapi apabila dihampirinya dia tidak mendapati apa-apa melainkan hukuman Allah.
+
+Maka menjadi satu kemestian bagi kita untuk memperjelaskan dan menetapkan sasaran ini dengan setepat-tepatnya. Dan saya berpandangan kita telah sampai kepada tahap penjelasan yang amat mendalam dan bersepakat bahawa **misi agung kita adalah memimpin peradaban dunia (سيادة الدنيا) dan membimbing seluruh umat manusia kepada sistem-sistem Islam yang luhur serta ajaran-ajarannya, yang tanpanya manusia mustahil akan mengecap kebahagiaan hakiki!**
+
+---
+
+> ### 🎯 INFOGRAFIK PEDAGOGI: HUKUM KAUSALITI HARAKI (الغاية أصل الأعمال)
+>
+> | Dimensi Kausaliti | Matlamat Kabur & Bercelaru | Matlamat Jelas & Rabbani |
+> | :--- | :--- | :--- |
+> | **Sifat Tindakan** | Berselerak, tidak menentu & tersasar drpd haluan | Tersusun rapi, terarah & wasilah berimpak tinggi |
+> | **Natijah Amal** | **Fatamorgana (*Sarāb*):** Usaha kerdil, mandul & sia-sia | **Buah Tamadun:** Menghasilkan kebangkitan nyata |
+> | **Sasaran Tertinggi**| Terperangkap dlm perbalahan cabang kecil | **Kepimpinan Dunia (*Siyādatud-Dunyā*):** Menegakkan sistem Islam |
+>
+> 🧭 **Kaidah Emas Haraki:** *"Matlamat adalah penggerak utama perjuangan. Tanpa kejelasan matlamat, segala pengorbanan hanyalah tenaga yang dibazirkan di padang fatamorgana!"*
 
 ---
 
 ### 8. Sumber-Sumber Rujukan Matlamat Kami (مصادر غايتنا - Maṣādiru Ghāyatinā)
 
 Itulah risalah agung yang ingin disampaikan oleh Ikhwanul Muslimin kepada sekelian manusia, dan diharapkan agar umat Islam memahaminya dengan kefahaman yang sebenar-benarnya serta berusaha menegakkannya dengan segenap daya usaha yang ada.
+
 Ikhwanul Muslimin mencedok matlamat perjuangan ini daripada sumber mata air Al-Quran yang jernih, daripada Sunnah Nabawiyyah yang suci, dan daripada lembaran sirah kegemilangan para Salafus Soleh. Kami sama sekali tidak mereka-reka matlamat ini daripada angan-angan kami sendiri, tidak menirunya daripada teori-teori Barat yang tempang, dan tidak meminjamnya daripada ideologi-ideologi ciptaan manusia yang fana.
+
 Inilah risalah yang kami serukan kepada kamu dengan penuh ketelusan, tanpa sebarang kekeliruan, dan tanpa dicemari oleh sebarang kepentingan peribadi:
 
 > **رَبَّنَا ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِٱلْحَقِّ وَأَنتَ خَيْرُ ٱلْفَـٰتِحِينَ ۝٨٩**
@@ -261,6 +303,17 @@ Inilah risalah yang kami serukan kepada kamu dengan penuh ketelusan, tanpa sebar
 > *"Ya Tuhan kami, berilah keputusan antara kami dan kaum kami dengan kebenaran (secara adil); dan Engkaulah sebaik-baik Pemberi keputusan."*
 > — **Surah al-A‘rāf: 89**
 
+---
+
+> ### 📚 INFOGRAFIK PEDAGOGI: TIGA SUMBER RUJUKAN MANHAJ DAKWAH (مصادر غايتنا)
+>
+> | Sumber Manhaj | Entiti Syarak | Peranan & Kedudukan Haraki |
+> | :--- | :--- | :--- |
+> | **1. Al-Quran al-Karim** | Mata air wahyu mukjizat | Sumber primer akidah, syariat & kaedah peradaban insani |
+> | **2. As-Sunnah an-Nabawiyyah** | Teladan praktikal maksum | Model amali peribadi, amal jemaah & pengurusan tata negara |
+> | **3. Sirah Salafus Soleh** | Rekod kegemilangan *Khairu Ummah*| Bukti sejarah keberkesanan sistem Islam memimpin dunia |
+>
+> 🛡️ **Prinsip Ketulenan Fikrah:** *"Matlamat dakwah ini dicedok murni daripada wahyu dan sirah salaf — bukan angan-angan rekaan, bukan pinjaman ideologi fana, dan bukan ciplakan teori Barat yang tempang!"*
 
 ---
 

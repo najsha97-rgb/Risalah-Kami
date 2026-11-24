@@ -3585,3 +3585,197 @@ body {
 .orientasi-mandat-banner .creed-text strong {
   color: #FCD34D;
 }
+
+/* ==========================================================================
+   KEWALIAN RABBANI VS KOLONIALISME BARAT (Risalah 02 Fasal 05)
+   ========================================================================== */
+.grid-kewalian-2,
+.grid-muhasabah-2,
+.grid-kausaliti-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+}
+
+.kewalian-card,
+.muhasabah-card,
+.kausaliti-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.kewalian-card.islami,
+.muhasabah-card.rabbani,
+.kausaliti-card.siyadah {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.kewalian-card.islami:hover,
+.muhasabah-card.rabbani:hover,
+.kausaliti-card.siyadah:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+
+.kewalian-card.barat {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.kewalian-card.barat:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+
+.muhasabah-card.kebendaan,
+.kausaliti-card.fatamorgana {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.muhasabah-card.kebendaan:hover,
+.kausaliti-card.fatamorgana:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+
+.kewalian-trait,
+.muhasabah-trait,
+.kausaliti-trait,
+.sumber-trait {
+  font-size: 0.74rem;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.kewalian-card.islami .kewalian-trait,
+.muhasabah-card.rabbani .muhasabah-trait,
+.kausaliti-card.siyadah .kausaliti-trait {
+  color: #34D399;
+}
+
+.kewalian-card.barat .kewalian-trait {
+  color: #F87171;
+}
+
+.muhasabah-card.kebendaan .muhasabah-trait,
+.kausaliti-card.fatamorgana .kausaliti-trait {
+  color: #FBBF24;
+}
+
+.kewalian-sub,
+.muhasabah-sub,
+.kausaliti-sub,
+.sumber-sub {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+.kewalian-mandat-banner,
+.muhasabah-banner,
+.kausaliti-banner,
+.sumber-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.85rem;
+  padding: 0.7rem 0.9rem;
+  border-radius: 8px;
+}
+
+.kewalian-mandat-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(14, 165, 233, 0.12) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+.kewalian-mandat-banner .creed-text {
+  font-size: 0.78rem;
+  color: #A7F3D0;
+  line-height: 1.45;
+}
+
+.muhasabah-banner {
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.35);
+}
+.muhasabah-banner .creed-text {
+  font-size: 0.78rem;
+  color: #FCA5A5;
+  line-height: 1.45;
+}
+
+.kausaliti-banner {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.12) 0%, rgba(16, 185, 129, 0.12) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.35);
+}
+.kausaliti-banner .creed-text {
+  font-size: 0.78rem;
+  color: #FEF3C7;
+  line-height: 1.45;
+}
+
+/* ==========================================================================
+   TIGA SUMBER RUJUKAN MANHAJ DAKWAH (Risalah 02 Fasal 08)
+   ========================================================================== */
+.grid-sumber-3 {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.65rem;
+}
+
+.sumber-card {
+  padding: 0.7rem 0.85rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+}
+
+.sumber-card.quran {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.sumber-card.quran:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.sumber-card.quran .sumber-trait {
+  color: #34D399;
+}
+
+.sumber-card.sunnah {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.sumber-card.sunnah:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.sumber-card.sunnah .sumber-trait {
+  color: #FBBF24;
+}
+
+.sumber-card.salaf {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.sumber-card.salaf:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.sumber-card.salaf .sumber-trait {
+  color: #38BDF8;
+}
+
+.sumber-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(245, 158, 11, 0.15) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+}
+.sumber-banner .creed-text {
+  font-size: 0.78rem;
+  color: #D1FAE5;
+  line-height: 1.45;
+}
+.sumber-banner .creed-text strong {
+  color: #FCD34D;
+}
