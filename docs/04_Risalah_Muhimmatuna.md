@@ -322,21 +322,30 @@ Kelengkapan bekalan kami tidak lain adalah kelengkapan para Salafus Soleh terdah
     6. Beriman kepada Peranan Jiwa Mereka Sendiri: Bahawa mereka adalah kelompok jemaah yang telah terpilih oleh takdir Ilahi untuk menyelamatkan seluruh umat manusia, dan Allah telah mencatatkan kemuliaan agung tersebut bagi mereka!
   
 
-  Tiga Bukti Amali Pengorbanan Para Sahabat
-  Mereka mendengar seruan penyeru memanggil kepada keimanan lalu mereka segera menyahutnya dengan penuh keimanan. Dan mereka mengetahui dengan seyakin-yakinnya bahawa dakwah ini tidak akan menang melainkan dengan jihad, pengorbanan, mencurahkan segala-galanya, dan mendahulukan keselamatan akidah mengatasi keselamatan nyawa dan harta:
-  
-    Seorang daripada mereka memeluk kematian sambil melaungkan penuh gembira: "Aku berlari menuju kepada Allah tanpa membawa sebarang bekalan dunia!"
-    Seorang daripada mereka menyumbangkan seluruh harta bendanya seraya berkata: "Aku tinggalkan untuk ahli keluargaku Allah dan Rasul-Nya!"
-    Dan seorang lagi daripada mereka mara gagah tatkala pedang musuh terhunus di lehernya seraya bersyair: "Dan aku tidak peduli tatkala aku dibunuh gugur sebagai seorang muslim, di atas lambung mana jua aku tersungkur rebah pada jalan Allah!"
-  
-  Demikianlah keperibadian mereka: kejujuran dalam jihad, keagungan dalam pengorbanan, dan kemurahan dalam sumbangan bakti. Dan demikianlah pula kami berusaha membentuk diri kami... Maka jihad adalah sebahagian daripada bekalan senjata kami!
+  Pengorbanan Para Sahabat & Janji Pertolongan Allah
+  Dan mereka mendengar seruan Ar-Rahman (Allah Yang Maha Pemurah) menyeru mereka:
 
-> **وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ ۝**
+> **قُلْ إِن كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ إِلَيْكُم مِّنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ ۝**
 >
-> *"Dan sesungguhnya Allah pasti menolong sesiapa yang menolong (agama)-Nya; sesungguhnya Allah adalah Maha Kuat, lagi Maha Perkasa."*
-> — **Surah Al-Ḥajj (22): 40**
+> *"Katakanlah (wahai Muhammad): 'Jika bapa-bapa kamu, anak-anak kamu, saudara-mara kamu, isteri-isteri kamu, kaum keluarga kamu, harta kekayaan yang kamu usahakan, perniagaan yang kamu bimbangi kerugiannya, dan rumah-rumah kediaman yang kamu sukai adalah lebih kamu cintai daripada Allah dan Rasul-Nya serta berjihad pada jalan-Nya, maka tunggulah sehinggalah Allah mendatangkan ketetapan (perintah)-Nya.' "*
+> — **Surah At-Tawbah (9): 24**
 
-Dan sesudah kesemua bekalan ini, kami amat yakin dan tenang dengan janji pertolongan Allah; kerana Allah tidak sekali-kali memungkiri janji-Nya!
+  Maka mereka memasang telinga dan menyahut amaran peringatan itu, lalu mereka melepaskan segala-galanya (daripada kecintaan dunia); jiwa mereka merelakannya dengan penuh lapang dada, hati mereka reda sepenuhnya, dan mereka bergembira dengan jual beli (perjanjian ketaatan) yang telah mereka meterai bersama Allah:
+  
+    Salah seorang daripada mereka mendakap kematian sambil melaungkan: "Berlari menuju kepada Allah tanpa sebarang bekalan!"
+    Dan seorang lagi mempersembahkan seluruh hartanya seraya berkata: "Aku tinggalkan untuk keluargaku Allah dan Rasul-Nya!"
+    Dan seorang lagi melangkah gagah tatkala pedang berada di lehernya seraya mendendangkan syair:
+    "Dan aku tidak peduli tatkala aku dibunuh gugur sebagai seorang muslim,
+    di atas lambung mana jua aku tersungkur rebah pada jalan Allah."
+  
+  Demikianlah keadaan mereka: kejujuran dalam jihad, keagungan dalam pengorbanan, dan kelapangan dalam memberi dan berkorban. Dan demikianlah pula kami berusaha untuk menjadi seperti mereka... Maka jihad adalah sebahagian daripada bekalan kelengkapan kami juga.
+
+  Dan kami sesudah semua ini amat meyakini pertolongan Allah, serta berasa tenang dan tenteram terhadap janji-Nya:
+
+> **وَلَيَنصُرَنَّ اللَّهُ مَن يَنصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ ۝ الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ الْمُنكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ ۝**
+>
+> *"Dan sesungguhnya Allah pasti menolong sesiapa yang menolong (agama)-Nya; sesungguhnya Allah adalah Maha Kuat, lagi Maha Perkasa. (Iaitu) mereka yang jika Kami berikan kekuasaan dan keteguhan di bumi, mereka mendirikan solat, menunaikan zakat, menyuruh kepada yang makruf, dan melarang daripada yang mungkar; dan bagi Allah jualah kesudahan segala urusan."*
+> — **Surah Al-Ḥajj (22): 40–41**
 
 
 ---
