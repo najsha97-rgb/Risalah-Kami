@@ -2962,3 +2962,104 @@ body {
 .watan-creed-banner .creed-text strong {
   color: #FFFFFF;
 }
+
+
+/* ==========================================================================
+   NERACA KEBANGSAAN (Risalah 01 Fasal 15)
+   ========================================================================== */
+.grid-qawmiyyah-4 {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.65rem;
+}
+
+.qawm-card {
+  padding: 0.65rem 0.8rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+}
+
+.qawm-card .sys-icon {
+  font-size: 1.15rem;
+  margin-top: 2px;
+}
+
+.qawm-card .sys-text strong {
+  font-size: 0.85rem;
+  margin-bottom: 2px;
+  line-height: 1.25;
+}
+
+.qawm-trait {
+  font-size: 0.74rem;
+  color: #CBD5E1;
+  display: block;
+  margin-bottom: 3px;
+  line-height: 1.3;
+}
+
+.qawm-status {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+.qawm-status em {
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Qawmiyyah Diterima */
+.qawm-diterima {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.05);
+}
+.qawm-diterima:hover {
+  background: rgba(16, 185, 129, 0.12);
+  transform: translateY(-1px);
+}
+.qawm-diterima .sys-num {
+  background: rgba(16, 185, 129, 0.25) !important;
+  color: #34D399 !important;
+}
+.qawm-diterima .qawm-status em { color: #34D399; }
+
+/* Qawmiyyah Ditolak */
+.qawm-ditolak {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.05);
+}
+.qawm-ditolak:hover {
+  background: rgba(239, 68, 68, 0.12);
+  transform: translateY(-1px);
+}
+.qawm-ditolak .sys-num {
+  background: rgba(239, 68, 68, 0.25) !important;
+  color: #F87171 !important;
+}
+.qawm-ditolak .qawm-status em { color: #F87171; }
+
+/* Qawm Creed Banner */
+.qawm-creed-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: 0.85rem;
+  padding: 0.65rem 0.85rem;
+  background: rgba(16, 185, 129, 0.08);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  border-radius: 8px;
+}
+.qawm-creed-banner .creed-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+.qawm-creed-banner .creed-text {
+  font-size: 0.78rem;
+  color: #34D399;
+  line-height: 1.45;
+}
+.qawm-creed-banner .creed-text strong {
+  color: #FFFFFF;
+}

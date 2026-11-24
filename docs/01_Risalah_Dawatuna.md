@@ -103,7 +103,14 @@ Menetapkan neraca Islam terhadap patriotisme (al-waṭaniyyah) menerusi taksonom
 * 🗺️ **Sempadan Watan Mukmin:** Merangkumi setiap jengkal bumi yang melaungkan kalimah tauhid!
 
 ### [FASAL 15 • KEBANGSAAN ISLAM] 15. Pendirian Terhadap Sentimen Kebangsaan (القومية - Al-Qawmiyyah)
-Memperincikan neraca terhadap sentimen kebangsaan (al-qawmiyyah): menerima kebangsaan yang meneladani kemuliaan salaf soleh, memperkukuh persaudaraan, dan menegakkan keadilan; tetapi menolak sekeras-kerasnya kebangsaan berasaskan takabbur jahiliah dan penindasan kaum lain. Menegaskan bahawa nasab tertinggi mukmin adalah ikatan akidah Islam.
+Menetapkan neraca Islam terhadap sentimen kebangsaan (al-qawmiyyah) menerusi empat kategori pemisah antara kemuliaan akhlak dengan asabiyyah jahiliah:
+
+🌍 **INFOGRAFIK NERACA 4 BENTUK KEBANGSAAN (AL-QAWMIYYAH):**
+* 🌟 **1. Kebangsaan Kemuliaan** (*Qawmiyyat al-Majd*) ➔ Meneladani akhlak & pengorbanan salaf. ✅ *Status:* Pembakar semangat amal kebajikan.
+* 🤝 **2. Kebangsaan Khidmat** (*Qawmiyyat al-Ummah*) ➔ Mendahulukan islah & kebajikan kaum sendiri. ✅ *Status:* Tuntutan silaturahim & ihsan kerabat.
+* ⚠️ **3. Kebangsaan Jahiliah** (*Qawmiyyah Jāhiliyyah*) ➔ Fanatik suku & bangga keturunan. ❌ *Status:* Asabiyyah jahiliah yang diharamkan syarak.
+* 🛑 **4. Kebangsaan Fasisme** (*Qawmiyyat al-‘Udwān*) ➔ Dakwaan ras unggul & menindas kaum lain. ❌ *Status:* Pencerobohan fasisme zalim yang ditolak mutlak.
+* 👑 **Ikatan Akidah Mengatasi Segalanya:** Nasab tertinggi mukmin adalah akidah Islam yang memadamkan kasta keturunan!
 
 ### [FASAL 16 • FIQH KHILAF] 16. Fiqh Ikhtilaf: Menghadapi Khilaf Fiqh & Mazhab (أمام الخلافات الدينية)
 Menggariskan prinsip Fiqh Ikhtilaf yang matang dalam menangani khilaf fiqh dan mazhab: berlapang dada dalam masalah cabang (furū‘), bersatu dalam perkara pokok (uṣūl), bekerjasama dalam perkara yang disepakati, dan bertolak ansur dalam perkara yang diperselisihkan demi memelihara perpaduan saf umat.
