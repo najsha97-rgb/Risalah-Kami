@@ -877,6 +877,17 @@ Dan sekiranya engkau meneliti sedalam-dalamnya ajaran Islam, pasti engkau akan m
 Isu-isu antarabangsa moden seperti globalisme, kebangsaan, sosialisme, kapitalisme, pembahagian kekayaan yang adil, imbangan antara pengeluar dengan pengguna, serta segala wacana falsafah yang membingungkan para pemikir dunia hari ini—sesungguhnya kami meyakini bahawa Islam telah menyelami sedalam-dalamnya intipati isu-isu tersebut, dan telah menetapkan sistem peradaban yang menjamin umat manusia meraih segala kebaikan dan keadilan, serta terselamat daripada segala malapetaka dan kehancuran!
 Dan bukanlah ini tempatnya untuk menghuraikan segala perincian tersebut dalam risalah yang ringkas ini; kerana tujuan kami di sini adalah menegaskan apa yang kami imani dan menjelaskan kepada manusia asas apa yang kami serukan kepada mereka. Dan kami memiliki kesempatan-kesempatan lain untuk menghuraikan setiap perincian manhaj ini secara tuntas.
 
+---
+
+> ### 🧭 INFOGRAFIK PEDAGOGI: 3 TINGKATAN KESYUMULAN MANHAJ ISLAM
+>
+> | Tingkatan Dimensi | Ruang Lingkup Manhaj | Matlamat Pembinaan Peradaban |
+> | :--- | :--- | :--- |
+> | **🌱 Individu & Keluarga (*Al-Fard wal-Usrah*)** | Pembersihan akal, ibadah ikhlas & rumahtangga sakinah | Melahirkan peribadi beriman & benteng keluarga kukuh |
+> | **⚖️ Masyarakat & Ekonomi (*Al-Mujtama‘ wal-Māl*)** | Pengharaman riba, zakat & keadilan hak pasaran | Menghapuskan monopoli & merapatkan jurang kemiskinan |
+> | **🌍 Ufuk Tamadun Sejagat (*An-Niẓām al-Ḥaḍārī*)** | Keadilan antarabangsa, perjanjian damai & rahmat | Menyelamatkan manusia drpd kehancuran materialisme |
+>
+> 📖 **Prinsip Kesempurnaan Wahyu:** *"Dan Kami tidak mengutuskan engkau (wahai Muhammad) melainkan sebagai rahmat bagi sekalian alam!" (Al-Anbiya': 107)*
 
 ---
 
@@ -886,6 +897,16 @@ Dan apabila Ikhwanul Muslimin meyakini hakikat ini sepenuhnya, maka kami menuntu
 Kami meyakini bahawa setiap manifestasi kebangkitan yang bertentangan dengan kaedah-kaedah Islam dan bertembung dengan hukum-hakam Al-Quran adalah satu eksperimen yang rosak dan pasti gagal, yang hanya akan menyebabkan bangsa-bangsa keluar daripadanya dengan menanggung pengorbanan besar yang sia-sia tanpa sebarang faedah! Maka adalah jauh lebih baik bagi bangsa-bangsa yang ingin bangkit untuk mengambil jalan pintas yang paling selamat dengan mengikuti hukum-hakam syariat Islam.
 Dan Ikhwanul Muslimin sama sekali tidak mengkhususkan seruan dakwah ini kepada satu negeri tertentu tanpa negeri-negeri Islam yang lain. Sebaliknya kami melontarkannya sebagai satu pekikan laungan yang kami harapkan sampai ke telinga para pemimpin, pembesar, dan tokoh di setiap pelusuk bumi yang warganya menganut agama Islam. Dan sesungguhnya Ikhwanul Muslimin mengambil peluang keemasan ini—ketika negara-negara Islam sedang bersatu padu dan berusaha membina masa depan mereka di atas asas-asas yang kukuh berlandaskan prinsip kemajuan, ketamadunan, dan pembangunan sejati.
 
+---
+
+> ### ⚖️ INFOGRAFIK PEDAGOGI: ITTIBA' SYARIAT VS EKSPERIMEN SEKULAR
+>
+> | Haluan Pilihan | Sifat & Kaedah Pelaksanaan | Natijah Akhir Terhadap Watan |
+> | :--- | :--- | :--- |
+> | **✨ Mengikut Syariat (*Ittibā‘us-Syarī‘ah*)** | **Jalan Pintas Selamat:** Mengambil hukum-hakam wahyu Al-Quran | Menjimatkan korban, memelihara maruah & menjamin nusrah Ilahi |
+> | **⚠️ Eksperimen Sekular (*At-Tajārib al-Fāsidah*)** | **Peniruan Buta:** Meniru sistem asing yang lapuk & rosak | Membazirkan usia generasi, kehampaan jiwa & kehancuran berulang |
+>
+> 📢 **Peringatan Haraki:** *"Sebarang kebangkitan yang bertentangan dengan Al-Quran adalah eksperimen yang rosak dan pasti menemui jalan buntu!"*
 
 ---
 
@@ -974,6 +995,19 @@ Setiap umat daripada umat-umat Islam memiliki perlembagaan umum (*dustūr ‘ām
 
   Maka apabila engkau membaca Al-Quranul Karim, meneliti hadis-hadis Nabi ﷺ yang agung, dan menelaah sirah generasi terbilang ini, engkau akan menyaksikan suatu hakikat yang menyejukkan pandangan matamu dan memenuhi pendengaran serta hatimu dengan keimanan!
 
+---
+
+> ### 🛡️ INFOGRAFIK PEDAGOGI: 5 TUNTUTAN ISLAH SYARIAT
+>
+> | Bidang Tuntutan | Seruan Asas Al-Imam | Kaedah & Sasaran Islah |
+> | :--- | :--- | :--- |
+> | **⚖️ Perundangan (*Aṣliḥūl-Qānūn*)** | Kembalikan Kanun Wahyu | Gantikan undang-undang sekular dgn syariat & hudud pencegah |
+> | **🏛️ Penampilan Sosial (*Aṣliḥū Maẓharal-Ijtimā‘*)** | Sucikan Ruang Awam | Hapuskan pelacuran berlesen, premis arak & iklan maksiat |
+> | **🛡️ Budaya & Akhlak (*Hāribūl-Ibāḥiyyah*)** | Perangi Hedonisme Liar | Sekat hiburan liar & angkat nilai kesucian maruah (*‘iffah*) |
+> | **📚 Pendidikan (*Naẓẓimūt-Ta‘līm*)** | Reformasi Kurikulum | Padukan sains & teknologi dgn akidah tauhid dan sahsiah rijal |
+> | **🤝 Muamalat & Sosial (*Intafi‘ū bi-Ikhā’ Ikhwānikum*)** | Hidupkan Solidariti | Amal model persaudaraan ekonomi kabilah Asy‘ariyyin |
+>
+> ⚖️ **Amaran Al-Quran:** *"Dan sesiapa yang tidak berhukum dengan apa yang diturunkan oleh Allah, maka mereka itulah orang-orang yang kafir!" (Al-Ma'idah: 44)*
 
 ---
 
@@ -1004,6 +1038,16 @@ Inilah persaudaraan Islam yang mengisytiharkan nilai kemanusiaan sejagat (أخو
   Maka dengan kefahaman ini, meluaslah ufuk tanah air Islam melangkaui sempadan geografi yang sempit dan batas perkauman darah kepada tanah air prinsip-prinsip yang luhur dan akidah yang suci murni—hakikat-hakikat yang dijadikan oleh Allah sebagai hidayah dan cahaya bagi sekalian alam.
   Dan Islam tatkala menanamkan rasa kemuliaan ini ke dalam jiwa anak-anaknya, mewajibkan ke atas mereka satu kefardhuan yang lazim untuk mempertahankan tanah air Islam daripada pencerobohan penceroboh, membebaskannya daripada rampasan perampas, serta membentenginya daripada kerakusan musuh!
 
+---
+
+> ### 🌍 INFOGRAFIK PEDAGOGI: DUA BUAH AGUNG PERSAUDARAAN AKIDAH
+>
+> | Buah Persaudaraan | Makna & Hakikat Perjuangan | Kesan Terhadap Umat & Dunia |
+> | :--- | :--- | :--- |
+> | **🕊️ Pembebasan Insani Sejagat (*Taḥqīqul-Insāniyyah*)** | Meleburkan kebangsaan sempit (*‘asabiyyah*); pejuang ikhlas semata-mata kerana Allah | Tiada kasta penakluk angkuh atau warga tertindas; lahir kasih sayang sejati |
+> | **🗺️ Ufuk Tanah Air Islam Meluas (*Ufuqul-Waṭan al-Islāmī*)** | Setiap jengkal bumi beriman adalah sebahagian tanah air Islam | Meruntuhkan sempadan geografis sempit; wajib dibela setiap tanah air muslim |
+>
+> 🌍 **Ufuk Watan Sejati:** *"Tanah air muslim adalah tanah air akidah dan prinsip—di mana sahaja dilaungkan kalimah Allah, di situlah tanah tumpah darah kita!"*
 
 ---
 

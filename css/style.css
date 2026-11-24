@@ -4652,3 +4652,226 @@ body {
   font-size: 0.8rem;
   line-height: 1.45;
 }
+
+
+/* ==========================================================================
+   MANHAJ SYUMUL, ITTIBA' SYARIAT, 5 TUNTUTAN ISLAH, UKHUWAH SEJAGAT (R02 F25-F28)
+   ========================================================================== */
+.grid-manhaj-3 {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.65rem;
+}
+
+.grid-ittiba-2,
+.grid-ukhuwah-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+}
+
+.grid-tuntutan-5 {
+  grid-template-columns: repeat(auto-fit, minmax(185px, 1fr));
+  gap: 0.65rem;
+}
+
+.manhaj-card,
+.ittiba-card,
+.tuntutan-card,
+.ukhuwah-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 25: Manhaj Syumul */
+.manhaj-card.individu {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.manhaj-card.individu:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.manhaj-card.individu .manhaj-trait {
+  color: #38BDF8;
+}
+
+.manhaj-card.keadilan {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.manhaj-card.keadilan:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.manhaj-card.keadilan .manhaj-trait {
+  color: #34D399;
+}
+
+.manhaj-card.tamadun {
+  border-left: 3.5px solid #8B5CF6 !important;
+  background: rgba(139, 92, 246, 0.06);
+}
+.manhaj-card.tamadun:hover {
+  background: rgba(139, 92, 246, 0.14);
+  transform: translateY(-1px);
+}
+.manhaj-card.tamadun .manhaj-trait {
+  color: #A78BFA;
+}
+
+.manhaj-trait,
+.ittiba-trait,
+.tuntutan-trait,
+.ukhuwah-trait {
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.3px;
+  display: block;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+.manhaj-sub,
+.ittiba-sub,
+.tuntutan-sub,
+.ukhuwah-sub {
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--text-muted, #94a3b8);
+  display: block;
+}
+
+/* Fasal 26: Ittiba' Syariat vs Eksperimen Sekular */
+.ittiba-card.syariat-jaya {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.ittiba-card.syariat-jaya:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.ittiba-card.syariat-jaya .ittiba-trait {
+  color: #34D399;
+}
+
+.ittiba-card.sekular-gagal {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.ittiba-card.sekular-gagal:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.ittiba-card.sekular-gagal .ittiba-trait {
+  color: #F87171;
+}
+
+/* Fasal 27: 5 Tuntutan Islah */
+.tuntutan-card.qanun {
+  border-left: 3.5px solid #3B82F6 !important;
+  background: rgba(59, 130, 246, 0.06);
+}
+.tuntutan-card.qanun:hover {
+  background: rgba(59, 130, 246, 0.14);
+  transform: translateY(-1px);
+}
+.tuntutan-card.qanun .tuntutan-trait {
+  color: #60A5FA;
+}
+
+.tuntutan-card.ijtima {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.tuntutan-card.ijtima:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.tuntutan-card.ijtima .tuntutan-trait {
+  color: #FBBF24;
+}
+
+.tuntutan-card.ibahiyyah {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.tuntutan-card.ibahiyyah:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.tuntutan-card.ibahiyyah .tuntutan-trait {
+  color: #F87171;
+}
+
+.tuntutan-card.talim {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.tuntutan-card.talim:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.tuntutan-card.talim .tuntutan-trait {
+  color: #34D399;
+}
+
+.tuntutan-card.ikha {
+  border-left: 3.5px solid #8B5CF6 !important;
+  background: rgba(139, 92, 246, 0.06);
+}
+.tuntutan-card.ikha:hover {
+  background: rgba(139, 92, 246, 0.14);
+  transform: translateY(-1px);
+}
+.tuntutan-card.ikha .tuntutan-trait {
+  color: #A78BFA;
+}
+
+/* Fasal 28: Dua Buah Ukhuwah */
+.ukhuwah-card.insaniyyah {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.ukhuwah-card.insaniyyah:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.ukhuwah-card.insaniyyah .ukhuwah-trait {
+  color: #34D399;
+}
+
+.ukhuwah-card.watan {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: linear-gradient(180deg, rgba(14, 165, 233, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(14, 165, 233, 0.35);
+  box-shadow: 0 4px 15px rgba(14, 165, 233, 0.12);
+}
+.ukhuwah-card.watan:hover {
+  background: linear-gradient(180deg, rgba(14, 165, 233, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.ukhuwah-card.watan .ukhuwah-trait {
+  color: #38BDF8;
+}
+
+.manhaj-banner,
+.ittiba-banner,
+.tuntutan-banner,
+.ukhuwah-banner {
+  margin-top: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 6px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
