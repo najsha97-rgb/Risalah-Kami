@@ -325,52 +325,78 @@ Maka Ikhwan telah meneliti segala wasilah dan jalan untuk mencapai matlamat pemb
 
 ### 6. Kedudukan Salat (منزلة الصلاة)
 
-Maka apabila Ikhwanul Muslimin telah memilih agama Islam sebagai wasilah asasi untuk mentarbiah dan memperbaharui jiwa umat, perkara pertama yang mereka hadapkan pandangan mereka kepadanya adalah: KEDUDUKAN SOLAT (منزلة الصلاة).
-Ikhwanul Muslimin memandang solat bukan sekadar pergerakan anggota badan yang kaku, bukan senaman fizikal yang hampa, dan bukan adat kebiasaan turun-temurun yang dilakukan tanpa kehadiran hati. Sebaliknya, solat di sisi Ikhwan adalah mikraj rohani (*mi‘rāj ar-rūḥ*), stesen pembekalan tenaga ketuhanan, dan madrasah harian pembinaan disiplin insan pejuang!
+Sesungguhnya engkau telah mengetahui—semoga Allah memuliakanmu—bahawa Ikhwanul Muslimin memandang Islam sebagai sebaik-baik wasilah untuk mendidik jiwa mereka, memperbaharui roh mereka, dan menyucikan akhlak mereka. Lalu mereka mencedok akidah mereka daripada cahayanya, dan meneguk sumber kefahaman mereka daripada limpahannya.
 
-  Hakikat Solat Yang Membentuk Peribadi Rabbani
-  Solat yang bagaimanakah yang difahami dan ditegakkan oleh Ikhwan? Iaitu:
-  
-    Solat yang di dalamnya hati hadir tunduk menghadap Rabbul Jalil, melupakan sejenak segala hiruk-pikuk keduniaan yang menipu, dan merendahkan dahi sujud di atas debu bumi di hadapan Maha Pencipta sekalian alam:
-  
-  
-> **قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ ۝ ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ ۝**
+Dan engkau amat maklum bahawa kedudukan salat dalam Islam laksana kedudukan kepala pada jasad. Ia adalah tiang agamanya, tunjang penyokongnya, rukun utamanya, syiarnya, manifestasinya yang abadi, serta buktinya yang kekal. Di samping itu, salat adalah penyejuk mata (*qurratu ‘ain*), ketenangan nurani (*rāḥat aḍ-ḍamīr*), keintiman jiwa, kegembiraan hati, dan jambatan penghubung antara hamba dengan Tuhannya. Ia merupakan tangga mikraj yang dinaiki oleh roh-roh para pencinta Ilahi menuju martabat *‘Illiyyīn* yang tertinggi, lalu mereka mengecapi kelazatan berdamping dengan Allah, bersukaria di taman-taman kesucian (*riyāḍ al-quds*), dan terhimpun padanya segala punca kebahagiaan dari alam ghaib mahupun alam nyata.
+
+Dan itulah kilauan cahaya yang menyinari jiwa sesiapa yang menyalakan sumbunya, serta kemanisan yang dirasai oleh sesiapa yang mengecapi madunya. Demi Tuhanmu! Pernahkah engkau melihat pemandangan yang lebih indah, lebih manis, lebih mempesonakan, dan lebih jelas daripada susuk hamba yang khusyuk, tekun beribadah, rukuk, sujud, dan patuh berdiri pada waktu malam kerana takutkan azab hari akhirat dan mengharapkan rahmat Tuhannya? Tatkala mata manusia lain lena beradu, kelopak mata tertutup rapat, lambung-lambung berbaring tenang di tempat tidur, dan setiap pencinta bersendirian bersama kekasihnya, lalu terdengarlah seruan munajat daripada kalangan arifin yang merindu:
+
+> ⚖️ **[MUNAJAT CINTA ILAHI • KERINDUAN WAKTU MALAM]**
 >
-> *"Sesungguhnya berjayalah orang-orang yang beriman; Iaitu mereka yang khusyuk dalam solat mereka."*
-> — **Surah Al-Mu’minūn (23): 1–2**
-
-  
-    Solat yang membuahkan kesan pembersihan moral dalam kehidupan seharian, mencabut sifat sombong, riak, dengki, dan mencegah pelakunya daripada terjerumus ke dalam lembah maksiat dan kezaliman:
-  
-  
-> **إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ ۗ**
+> **سَهَرُ العُيُونِ لِغَيْرِ وَجْهِكَ ضَائِعُ ۞ وَبُكَاؤُهُنَّ لِغَيْرِ فَقْدِكَ بَاطِلُ**
 >
-> *"Sesungguhnya solat itu mencegah daripada perbuatan keji dan mungkar; dan sesungguhnya mengingati Allah adalah lebih besar (faedahnya dan keutamaannya)."*
-> — **Surah Al-‘Ankabūt (29): 45**
+> *"Berjaganya mata pada waktu malam untuk selain wajah-Mu adalah suatu yang sia-sia,*  
+> *Dan tangisan titisan air mata mereka kerana selain kehilangan reda-Mu adalah kebatilan semata-mata."*
 
-  
-    Solat yang menjadi perisai dan kubu pertahanan tatkala jiwa diserang kegelisahan, kepayahan hidup, dan keperitan menempuh ranjau perjuangan:
-  
-  
-> **وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ ۝**
+Aduhai saudaraku! Sesungguhnya satu saat daripada suasana munajat ini adalah jauh lebih bermanfaat kepada hati, lebih mendalam kesannya kepada jiwa, dan lebih menyucikan roh daripada seribu nasihat lisan, seribu lakonan pementasan, dan seribu syarahan kata-kata! Cubalah engkau hayati, nescaya engkau akan menyaksikannya! Dan kerana suatu rahsia yang agunglah hal ini disebut dalam lisan Al-Quran sebagai tanda ihsan:
+
+> **إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُحْسِنِينَ ۝ كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ ۝ وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ ۝**
 >
-> *"Dan mintalah pertolongan (kepada Allah) dengan jalan sabar dan solat; dan sesungguhnya solat itu amat berat, melainkan kepada orang-orang yang khusyuk."*
-> — **Surah Al-Baqarah (2): 45**
+> *"Sesungguhnya mereka sebelum itu di dunia adalah orang-orang yang berbuat kebaikan (ihsan). Mereka sedikit sekali tidur pada waktu malam. Dan pada akhir-akhir malam mereka memohon keampunan (kepada Allah)."*
+> — **Surah Adh-Dhāriyāt (51): 16–18**
 
-  Menghidupkan Solat Berjemaah di Cawangan Ikhwan
-  Oleh yang demikian, engkau akan menyaksikan di setiap cawangan Ikhwanul Muslimin—daripada ibu pejabat agung hinggalah ke ranting-ranting yang paling terpencil di ceruk kampung—perkara pertama yang mereka bina dan imarahkan adalah Masjid dan Musolla.
-  Para pendakwah Ikhwan mendisiplinkan diri dan anggota mereka untuk memelihara solat fardhu secara berjemaah pada awal waktu. Mereka memandang bahawa saf-saf solat berjemaah yang tersusun rapi—di mana bahu bertemu bahu, kaki bertemu kaki, tanpa membezakan antara orang kaya dan orang miskin, antara pemimpin dan rakyat jelata—adalah gambaran praktikal yang paling agung bagi kesatuan umat Islam!
-  Di sanalah mereka belajar erti ketaatan mutlak kepada kepimpinan yang adil (*ita‘atul-imam*); selagi mana imam itu berdiri tegak di atas landasan hukum Allah, seluruh makmum wajib tunduk dan patuh mengikutinya. Namun sekiranya imam itu terlupa atau tersilap dalam bacaan atau perbuatan, setiap makmum berhak dan berkewajipan untuk menegurnya dengan ucapan "Subḥānallāh!" secara tertib dan beradab!
+Malah, kehairananmu pasti bertambah dan kekagumanmu semakin berlipat ganda tatkala engkau mendapati bahawa dalam kalangan orang yang bertugas untuk dakwah Islam dan menduduki kerusi hadapan dalam memperjuangkan isu Islam, ada yang mengabaikan urusan salat dan memperkecilkan kepentingannya! Seolah-olah Nabi ﷺ tidak pernah menegaskan bahawa salat itu adalah tiang agama dan fardhu utama orang beriman, dan seolah-olah mereka tidak pernah mendengar sabda baginda ﷺ:
 
-> ⚖️ **[SYAIR KEKHUSYUKAN DAN PENYERAHAN JIWA DALAM SOLAT]**
-> **إِذَا مَا قُمْتَ فِي المِحْرَابِ فَارْهَبْ ۞ جَلَالَ اللهِ وَاخْشَعْ فِي المَقَامِوَسَلْهُ العَفْوَ عَنْ زَلَلٍ وَخَوْفٍ ۞ فَإِنَّ العَفْوَ مَطْلَبُ كُلِّ سَامِي**
+> **«لَيْسَ بَيْنَ العَبْدِ وَالشِّرْكِ إِلَّا تَرْكُ الصَّلَاةِ، فَإِذَا تَرَكَهَا فَقَدْ أَشْرَكَ»**
 >
-> *"“Apabila engkau berdiri di mihrab ibadah, maka rasailah kegerunanTerhadap keagungan Allah dan khusyuklah pada kedudukanmu yang mulia;Dan pohonlah keampunan-Nya daripada keterlanjuran dan rasa takut,Kerana sesungguhnya keampunan Ilahi adalah matlamat setiap jiwa yang luhur!”"*
+> *"Tiada pemisah antara seorang hamba dengan syirik melainkan meninggalkan salat; maka apabila dia meninggalkannya, sesungguhnya dia telah melakukan syirik."*
 
-  Qiamullail & Hubungan Hati dengan Langit
-  Bukan sekadar solat fardhu lima waktu, bahkan Ikhwanul Muslimin mendidik para anggota mereka untuk menghidupkan malam-malam mereka dengan Qiamullail (Solat Malam), merintih di hadapan Ilahi tatkala mata manusia lain sedang lena dibuai mimpi.
-  Mereka meyakini dengan penuh keimanan bahawa tiada bekalan yang lebih ampuh untuk menanggung bebanan dakwah yang berat dan menentang kezaliman thaghut di muka bumi melainkan dengan bermunajat kepada Allah pada keheningan sepertiga malam terakhir, memohon keampunan, petunjuk, dan ketabahan hati.
-  Maka adakah orang yang melihat sebuah jemaah mendidik ribuan pemudanya menjaga solat lima waktu secara berjemaah, menghidupkan masjid-masjid yang dahulunya sunyi sepi, dan bangun bertahajud di tengah malam, masih ragu-ragu untuk mengakui bahawa mereka adalah golongan yang beramal secara praktikal?!
+Namun kita tidak berniat membuang masa untuk meyakinkan golongan ini terhadap sesuatu hakikat yang sudah lebih terang daripada waktu pagi, lebih benderang daripada cahaya, dan lebih nyata daripada matahari. Sebaliknya kita memohon kepada Allah buat diri kita dan mereka kesempurnaan hidayah serta taufik yang bulat.
+
+Selain golongan tersebut, kita berhadapan pula dengan dua golongan umat Islam yang lain:
+
+**1. Golongan Pertama: Majoriti Terbesar dan Bilangan yang Paling Ramai**  
+Mereka ini menunaikan salat secara mekanikal dan kaku yang mereka warisi daripada nenek moyang mereka, lalu menjadi tabiat rutin dengan peredaran hari dan silih bergantinya tahun. Mereka tidak mengenali rahsia-rahsia salat dan tidak merasai kesan-kesannya. Cukuplah bagi salah seorang daripada mereka sekadar menuturkan lafaz-lafaz perkataan, melakukan gerak-geri tubuh, dan mengulang-ulang perbuatan lahiriah, lalu beredar dengan sangkaan bahawa dia telah menunaikan fardhu, telah mendirikan salat, terselamat daripada seksaan, dan memperolehi pahala...
+
+Hakikatnya, ini hanyalah suatu sangkaan ilusi yang tiada hakikat padanya! Ucapan dan perbuatan dalam salat ini tidak lain hanyalah jasad luaran, yang mana rohnya adalah kefahaman (*al-fahm*), tiangnya adalah kekhusyukan (*al-khusyū‘*), dan paksinya adalah penghayatan jiwa (*at-ta’aththur*). Diriwayatkan dalam sebuah hadis:
+
+> **«إِنَّمَا الصَّلَاةُ تَمَسْكُنٌ وَتَوَاضُعٌ وَتَضَرُّعٌ وَتَأَوُّهٌ... إِلَخْ»**
+>
+> *"Sesungguhnya salat itu adalah sikap merendah diri, ketundukan, permohonan yang tulus, dan rintihan jiwa..."*
+> — *(Diriwayatkan oleh At-Tirmizi dan An-Nasa'i)*
+
+Oleh sebab itulah engkau melihat kebanyakan manusia tidak mendapat manfaat daripada salat mereka, dan salat mereka tidak dapat mencegah mereka daripada perbuatan keji dan mungkar. Padahal jika salat itu sempurna, nescaya ia membuahkan penyucian jiwa, pembersihan hati, dan menghalang pelakunya daripada melakukan dosa serta menceroboh perkara yang diharamkan.
+
+**2. Golongan Kedua: Kelompok Sedikit yang Memahami Rahsia Salat**  
+Golongan manusia yang sedikit dan amat jarang ditemui ini memahami rahsia-rahsia salat, lalu bersungguh-sungguh merealisasikannya dan berusaha menyempurnakannya. Mereka bersalat dengan penuh khusyuk, tadabbur, tenang tenteram (*iṭmi’nān*), dan tafakur. Mereka keluar daripada salat dalam keadaan telah mengecapi kemanisan ibadah, tersentuh dengan getaran ketaatan, dan disinari cahaya Allah yang dilimpahkan kepada orang-orang yang menghubungkan jiwa mereka dengan keagungan ma’rifat-Nya.
+
+Disebutkan dalam hadis:
+
+> **«مَنْ صَلَّى صَلَاةً لِوَقْتِهَا، وَأَسْبَغَ وُضُوءَهَا، وَأَتَمَّ رُكُوعَهَا وَسُجُودَهَا وَخُشُوعَهَا، عَرَجَتْ وَهِيَ بَيْضَاءُ مُسْفِرَةٌ تَقُولُ: حَفِظَكَ اللَّهُ كَمَا حَفِظْتَنِي. وَمَنْ صَلَّاهَا لِغَيْرِ وَقْتِهَا، وَلَمْ يُسْبِغْ وُضُوءَهَا، وَلَمْ يُتِمَّ رُكُوعَهَا وَلَا سُجُودَهَا وَلَا خُشُوعَهَا، عَرَجَتْ وَهِيَ سَوْدَاءُ مُظْلِمَةٌ تَقُولُ: ضَيَّعَكَ اللَّهُ كَمَا ضَيَّعْتَنِي، حَتَّى إِذَا كَانَتْ حَيْثُ شَاءَ اللَّهُ لُفَّتْ كَمَا يُلَفُّ الثَّوْبُ الخَلَقُ فَيُضْرَبُ بِهَا وَجْهُهُ»**
+>
+> *"Sesiapa yang mendirikan salat tepat pada waktunya, menyempurnakan wuduknya, serta menyempurnakan rukuknya, sujudnya, dan kekhusyukannya, nescaya salat itu akan naik ke langit dalam keadaan putih berseri-seri seraya berkata: 'Semoga Allah memeliharamu sebagaimana engkau telah memeliharaku.' Dan sesiapa yang menunaikannya di luar waktunya, tidak menyempurnakan wuduknya, tidak menyempurnakan rukuknya, sujudnya, dan kekhusyukannya, nescaya salat itu akan naik dalam keadaan hitam pekat kelam seraya berkata: 'Semoga Allah mensia-siakanmu sebagaimana engkau telah mensia-siakanku.' Sehinggalah apabila ia sampai ke tempat yang dikehendaki Allah, ia dilipat sebagaimana dilipatnya pakaian yang koyak-rabak, lalu dipukulkan ke wajah pelakunya."*
+
+Oleh sebab itulah darjat manusia berbeza-beza dan ganjaran pahala mereka berlainan, walaupun rupa bentuk zahir salat mereka, perkataan, dan perbuatannya kelihatan serupa.
+
+Dan atas dasar inilah generasi Salafussoleh *ridhwanullāhi ‘alaihim* memberikan perhatian yang sangat besar untuk menghadirkan hati mereka dalam setiap salat dan mengecapi puncak khusyuk dalam ibadah mereka. Kerana itulah sifat pertama yang digunakan oleh Allah untuk menyifatkan golongan yang beriman ialah:
+
+> **ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ ۝**
+>
+> *"Iaitu mereka yang khusyuk dalam salat mereka."*
+> — **Surah Al-Mu’minūn (23): 2**
+
+Ikhwanul Muslimin memahami hakikat ini, lalu mereka melatih dan mendidik diri mereka dengannya serta berusaha membiasakannya. Dan di antara manifestasi amali mereka yang paling utama ialah: **Memperelokkan salat (*an yuḥsinū aṣ-ṣalāh*)**. Mereka meyakini bahawa dengan cara ini, mereka sedang menelusuri jalan yang paling dekat untuk memperbaharui jiwa dan menyucikan roh:
+
+> **يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ ۝**
+>
+> *"Wahai orang-orang yang beriman! Mintalah pertolongan (kepada Allah) dengan sabar dan salat; sesungguhnya Allah menyertai orang-orang yang sabar."*
+> — **Surah Al-Baqarah (2): 153**
+
+Maka wahai saudaraku Muslim: Fahamilah perkara ini dengan sebaik-baiknya, jadilah contoh ihsan dalam salatmu, dan yakinlah bahawa langkah amali yang pertama sesama kita ialah kita **memperelokkan salat dan zakat**.
+
+Kedua-duanya adalah dua kefardhuan yang dijadikan oleh Allah sebagai pagar benteng agama dan manifestasi syariat. Allah telah menggandingkan kedua-duanya dalam banyak ayat di dalam Kitab-Nya yang mulia sebagai peringatan terhadap keagungan keutamaan kedua-duanya dan menzahirkan ketinggian darjatnya, iaitu: Salat dan Zakat. Melalui kewajipan yang pertama (Salat), eloklah hubungan antara engkau dengan Allah; dan melalui kewajipan yang kedua (Zakat), eloklah hubungan antara engkau dengan sesama makhluk.
+
+Dan adakah di alam wujud ini melainkan Pencipta (*Khāliq*) dan makhluk? Maka apabila urusan seorang manusia telah elok dengan kedua-duanya, sesungguhnya dia telah mencapai kemuncak kebaikan dan tiba di mercu kebahagiaan yang hakiki!
 
 
 ---
