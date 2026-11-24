@@ -502,51 +502,147 @@ Dan tidakkah Ikhwanul Muslimin melihat pada pencapaian ini sebagai realisasi kep
 
 ### 8. Jihad Adalah Kemuliaan Kami (الجهـاد عزّنـا)
 
-Telah berlalu seminggu yang lalu di mana saya tidak sempat menyapa para pembaca yang budiman dengan lintasan fikiran yang dicurahkan oleh hati dan diungkapkan oleh rasa cinta mengenai usaha-usaha gigih Ikhwanul Muslimin. Dan saya tidak merahsiakan daripada para pembaca bahawa saya mendapati rasa ralat dan tusukan dhamir; bukan kerana kami gemar menunjuk-nunjuk amal perbuatan kepada manusia atau menzahirkan usaha kami demi kemegahan—kerana sesungguhnya Allah Maha Mengetahui bahawa Ikhwanul Muslimin beramal semata-mata mengharapkan wajah Allah dan mendambakan keredaan-Nya tanpa menuntut balasan mahupun pujian daripada sesiapa—tetapi kerana kami amat mencintai untuk menyampaikan dakwah ini kepada masyarakat dan menerangkan arah tuju kami, moga-moga kami menemui para pembantu yang menyokong kebajikan ini!
+Telah berlalu minggu yang lalu tanpa sempat saya menyapa para pembaca yang budiman dengan lintasan fikiran yang dicurahkan oleh rasa cinta dan dilimpahi oleh sanubari mengenai usaha-usaha gigih Ikhwanul Muslimin.
 
-Sesungguhnya setiap hari yang berlalu tanpa umat ini beramal untuk bangkit daripada kelalaiannya akan melemparkan kebangkitannya ke belakang dalam tempoh yang amat panjang. Dan dalam dakwah Ikhwan—sekiranya manusia memahaminya—terdapat penyelamat; dalam manhaj mereka—sekiranya umat mengikutinya—terdapat kejayaan; dan dalam usaha mereka—sekiranya dibantu—terdapat harapan yang mekar!
+Dan saya tidak menyembunyikan daripada para pembaca yang budiman bahawa saya merasakan pedihnya kerugian dan tusukan nurani (*waḥz aḍ-ḍamīr*) kerana hal itu; bukanlah kerana kami gemar menunjuk-nunjuk amal kami kepada manusia atau menzahirkan usaha kami demi kemegahan, kerana sesungguhnya Allah Maha Mengetahui bahawa Ikhwanul Muslimin beramal semata-mata mengharapkan wajah Allah dan mendambakan keredaan-Nya, tanpa menanti balasan mahupun ucapan terima kasih daripada sesiapa pun. Mereka meyakini bahawa mereka hanyalah sekadar menunaikan sebahagian kecil daripada apa yang diwajibkan oleh Islam ke atas putera-puteranya, dan mereka masih menganggap diri mereka cuai dan serba kekurangan.
 
-  Puncak Tertinggi Syariat Islam: Jihad fi Sabilillah
-  Telah diriwayatkan dalam hadis yang sahih bahawa Sayyidina Mu‘ādh bin Jabal RA pernah berjalan bersama Rasulullah ﷺ, lalu Baginda ﷺ bersabda kepadanya:
-  
-> 📜 **[HADIS AGUNG SAYYIDINA MU‘ADH IBN JABAL RA • TONGGAK & PUNCAK ISLAM]**
-> **رَأْسُ هَذَا الأَمْرِ الإِسْلَامُ، وَعَمُودُهُ الصَّلَاةُ، وَذِرْوَةُ سَنَامِهِ الجِهَادُ فِي سَبِيلِ اللهِ**
+Akan tetapi, kami ingin menyampaikan dakwah kami kepada masyarakat, menjelaskan arah tuju kami kepada mereka, dan menyingkap hakikat diri kami yang sebenar; moga-moga kami menemui dalam kalangan mereka para pembantu yang menyokong kebajikan dan penunjuk jalan menuju kebaikan, agar faedahnya berlipat ganda, jarak perjuangan menjadi dekat, matlamat semakin menghampiri, dan tercapailah apa yang kita harapkan daripada islah yang menyeluruh serta penyelamatan yang segera.
+
+Sesungguhnya setiap hari yang berlalu tanpa umat ini bertindak melakukan amal untuk bangkit daripada kelalaian dan kejatuhannya, nescaya akan melemparkan kebangkitannya ke belakang dalam tempoh yang amat panjang. Dan sesungguhnya dalam dakwah Ikhwan—sekiranya manusia memahaminya—terdapat penyelamat; dan dalam manhaj mereka—sekiranya umat mengikutinya—terdapat kejayaan; dan dalam usaha gigih mereka—sekiranya mereka dibantu—terdapat harapan yang besar. Dan tiadalah pertolongan dan kemenangan melainkan dari sisi Allah Yang Maha Perkasa, lagi Maha Bijaksana.
+
+Amma ba'd: Telah diriwayatkan dalam hadis sahih apa yang bermaksud bahawa Mu‘ādh *radhiyallāhu ‘anhu* pernah berjalan bersama Rasulullah ﷺ, lalu Baginda ﷺ bersabda kepadanya:
+> *(“Jika engkau mahu, wahai Mu‘ādh, aku akan khabarkan kepadamu tentang kepala urusan ini, tiang penegaknya, dan puncak ketinggiannya.”)*
+
+Sesungguhnya kepala bagi urusan ini adalah bersaksi bahawa tiada Tuhan yang berhak disembah melainkan Allah semata-mata tiada sekutu bagi-Nya dan bahawa Muhammad adalah hamba-Nya dan utusan-Nya; dan tiang penegak bagi urusan ini adalah mendirikan salat dan menunaikan zakat; manakala puncak ketinggian kubahnya (*dhirwatu as-sanām*) adalah berjihad pada jalan Allah.
+
+> *(“Hanyasanya aku diperintahkan untuk memerangi manusia sehinggalah mereka mendirikan salat, menunaikan zakat, dan bersaksi bahawa tiada Tuhan yang berhak disembah melainkan Allah semata-mata tiada sekutu bagi-Nya dan bahawa Muhammad adalah hamba-Nya dan utusan-Nya. Maka apabila mereka telah melakukan yang demikian itu, sesungguhnya mereka telah berpegang teguh dan terpeliharalah daripada aku darah-darah mereka dan harta-harta benda mereka melainkan dengan haknya, dan perkiraan hisab mereka terserah kepada Allah ‘Azza wa Jalla. Dan demi Tuhan yang jiwa Muhammad berada di tangan-Nya! Tiadalah pucatnya wajah dan tiadalah berdebunya kaki dalam sesuatu amalan yang dituntut dengannya darjat-darjat syurga selepas salat fardhu yang menyamai jihad pada jalan Allah; dan tiadalah yang lebih memberatkan neraca timbangan amal seseorang hamba seperti haiwan tunggangannya yang mati (tanfaqu — iaitu mati kehabisan tenaga) pada jalan Allah atau digunakan untuk membawa bebanan pada jalan Allah.”)*
+
+Demikianlah takrifan yang digariskan oleh Nabi ﷺ bagi agama Islam, dan Baginda adalah insan yang paling mengenali hakikat Islam. Dan sesungguhnya Ikhwanul Muslimin sama sekali tidak membawa manusia kepada ajaran selain Islam dan prinsip-prinsip Islam, dan tidak menempuh melainkan jalan-jalan manhaj Islam serta cabang-cabang syariat Islam. Saya telah menceritakan kepadamu tentang pendirian mereka mengenai salat dan zakat, serta apa yang mereka tuntut daripada diri mereka sendiri dan daripada masyarakat terhadap kedua-duanya, yang mana kedua-duanya adalah tonggak urusan agama dan tunjangnya.
+
+Maka izinkan saya sekarang bercakap kepadamu mengenai **Ikhwanul Muslimin para Mujahidin**, dan apakah yang mereka tuntut daripada diri mereka sendiri dan daripada masyarakat terhadap **Jihad pada jalan Allah**, sedangkan jihad itu adalah puncak ketinggian (*dhirwatu as-sanām*) bagi Islam:
+
+#### 1. Emosi Keimanan yang Membara Terhadap Maruah Islam
+Sebahagian daripada jihad dalam Islam, wahai saudaraku yang dikasihi, ialah: memiliki emosi jiwa yang hidup dan kuat, yang melimpah-ruah dengan rasa kasih mendalam terhadap kemuliaan dan keagungan Islam; dahagakan kedaulatan dan kekuatannya; menangis hiba dan sedih mengenangkan kelemahan yang menimpa kaum muslimin dan kehinaan yang membelenggu mereka; serta menyala-nyala kepedihan melihat keadaan yang tidak diredai oleh Allah, tidak diredai oleh Nabi Muhammad ﷺ, dan tidak diredai oleh mana-mana jiwa yang muslim dan hati yang mukmin.  
+*(“Dan sesiapa yang tidak mempedulikan urusan kaum muslimin, maka dia bukanlah daripada kalangan mereka,”)* sebagaimana yang dinyatakan dalam hadis yang sahih.
+
+Kerana perkara seumpama inilah hati hancur lebur menanggung kepedihan:
+
+> ⚖️ **[RATAPAN JIWA TERHADAP KEMUNDURAN UMAT]**
 >
-> *"Kepala bagi segala urusan ini adalah Islam (mengucap dua kalimah syahadah), tiang penegaknya adalah mendirikan solat, dan puncak ketinggiannya yang paling agung adalah berjihad pada jalan Allah!"*
-
-  Baginda ﷺ menegaskan bahawa kepala segala urusan ini adalah bersaksi bahawa tiada Tuhan melainkan Allah dan Muhammad pesuruh Allah; asas penegaknya adalah mendirikan solat dan menunaikan zakat; dan kemuncak ketinggian kubahnya yang paling agung (*dhirwatu sanāmih*) adalah berjihad pada jalan Allah!
-  Demikianlah takrifan yang digariskan oleh Baginda Rasulullah ﷺ bagi agama Islam, dan Baginda adalah insan yang paling mengenali hakikat Islam. Dan Ikhwanul Muslimin sama sekali tidak membawa manusia kepada ajaran selain daripada Islam, dan tidak menempuh melainkan jalan-jalan syiar Islam yang luhur!
-
-  Tiga Darjat Jihad Yang Dihidupkan Oleh Ikhwanul Muslimin
-  Apakah yang dikehendaki oleh Ikhwanul Muslimin daripada diri mereka dan daripada masyarakat dalam persoalan jihad ini? Sesungguhnya jihad dalam Islam mengandungi beberapa darjat keimanan:
-  
-  1. Darjat Pertama: Emosi Jiwa Yang Cemburu Terhadap Maruah Islam
-  Iaitu perasaan hidup yang bergelora di dalam dada, melimpah-ruah dengan rasa rindu mendalam terhadap kemuliaan Islam dan keagungannya; dahagakan kedaulatan dan kekuatannya; menangis hiba dan sedih mengenangkan kelemahan yang menimpa kaum muslimin dan kehinaan yang membelenggu mereka; serta menyala-nyala kepedihan melihat realiti umat yang sama sekali tidak diredai oleh Allah, tidak diredai oleh Rasulullah ﷺ, dan tidak diredai oleh mana-mana jiwa yang beriman!
-  
-> 📜 **[MUTIARA HADIS • KEPEDULIAN TERHADAP URUSAN UMAT ISLAM]**
-> **مَنْ لَمْ يَهْتَمَّ بِأَمْرِ المُسْلِمِينَ فَلَيْسَ مِنْهُمْ**
+> **لِمِثْلِ هَذَا يَذُوبُ القَلْبُ مِنْ كَمَدٍ ۞ إِنْ كَانَ فِي القَلْبِ إِسْلَامٌ وَإِيمَانُ**
 >
-> *"Barangsiapa yang tidak mempedulikan urusan kaum muslimin, maka dia bukanlah daripada kalangan mereka!"*
+> *"Kerana malapetaka sebeginilah hati cair luluh menanggung kesedihan,*  
+> *Sekiranya di dalam hati itu masih ada Islam dan keimanan!"*
 
-  2. Darjat Kedua: Jihad Harta, Pena dan Pengorbanan Material
-  Iaitu menyumbangkan sebahagian daripada harta benda, wang ringgit, tenaga, fikiran, tulisan dan masa lapang untuk memperkuatkan pertahanan umat, membantu keluarga para pejuang, membiayai kelengkapan dakwah, dan menyebarkan risalah kebenaran ke segenap ufuk. Ikhwan mendidik setiap anggotanya agar tidak kedekut mengorbankan wang saku dan harta mereka demi menjamin kelangsungan gerakan Islam.
+#### 2. Berfikir Serius Merencana Jalan Pembebasan Umat
+Dan sebahagian daripada jihad pada jalan Allah, wahai saudaraku yang dikasihi, ialah: kegelisahan yang berterusan dan kesedihan yang mendalam ini mendorongmu untuk berfikir secara bersungguh-sungguh mencari jalan kejayaan dan meneliti jalan pembebasan umat; meluangkan masa yang panjang dalam renungan yang mendalam untuk meneliti jalan-jalan amal dan mencari pelbagai helah strategi, moga-moga engkau menemui jalan keluar bagi umatmu atau menemukan penyelamat baginya. Dan niat seseorang mukmin itu lebih baik daripada amalannya, dan Allah Maha Mengetahui pandangan mata yang khianat dan apa yang disembunyikan oleh dada-dada manusia.
 
-  3. Darjat Ketiga: Kesiapsiagaan Berkorban Jiwa Raga (*Al-Jihad bin-Nafs*)
-  Iaitu kemuncak pengorbanan di mana seorang muslim melatih fizikalnya menjadi gagah, mendisiplinkan jiwanya dengan keberanian menentang thaghut, dan sentiasa bersiap-sedia untuk menyahut seruan mempertahankan kedaulatan tanah air Islam tatkala maruah agamanya dicabar oleh penceroboh asing!
-  
-> **كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًۭا وَهُوَ خَيْرٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًۭا وَهُوَ شَرٌّۭ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ ۝**
+#### 3. Mengorbankan Masa, Harta, dan Kehendak Diri Demi Islam
+Dan sebahagian daripada jihad pada jalan Allah, wahai saudaraku yang dikasihi, ialah: engkau melepaskan sebahagian daripada masa lapangmu, sebahagian daripada hartamu, dan sebahagian daripada kehendak peribadimu demi kebaikan Islam dan anak-anak kaum muslimin. Sekiranya engkau seorang pemimpin, maka untuk keperluan kepimpinanlah engkau membelanjakannya; dan sekiranya engkau seorang pengikut, maka dalam membantu para da'i penyeru kebenaranlah engkau bertindak; dan pada setiap satunya ada kebaikan, dan kepada kedua-duanya Allah menjanjikan balasan yang terbaik (*al-ḥusnā*). Firman Allah Tabāraka wa Ta‘ālā:
+
+> **مَا كَانَ لِأَهْلِ الْمَدِينَةِ وَمَنْ حَوْلَهُمْ مِنَ الْأَعْرَابِ أَنْ يَتَخَلَّفُوا عَنْ رَسُولِ اللَّهِ وَلَا يَرْغَبُوا بِأَنْفُسِهِمْ عَنْ نَفْسِهِ ۚ ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌ وَلَا نَصَبٌ وَلَا مَخْمَصَةٌ فِي سَبِيلِ اللَّهِ وَلَا يَطَئُونَ مَوْطِئًا يَغِيظُ الْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّ نَيْلًا إِلَّا كُتِبَ لَهُمْ بِهِ عَمَلٌ صَالِحٌ ۚ إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ ۝ وَلَا يُنْفِقُونَ نَفَقَةً صَغِيرَةً وَلَا كَبِيرَةً وَلَا يَقْطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمْ لِيَجْزِيَهُمُ اللَّهُ أَحْسَنَ مَا كَانُوا يَعْمَلُونَ ۝**
 >
-> *"Diwajibkan ke atas kamu berperang (untuk menentang pencerobohan), padahal berperang itu adalah perkara yang kamu benci; dan boleh jadi kamu membenci sesuatu perkara padahal ia amat baik bagi kamu, dan boleh jadi kamu menyukai sesuatu perkara padahal ia amat buruk bagi kamu. Dan (ingatlah), Allah jualah Yang Maha Mengetahui (segalanya), sedangkan kamu tidak mengetahuinya."*
-> — **Surah Al-Baqarah (2): 216**
+> *"Tidaklah patut bagi penduduk Madinah dan orang-orang Arab Badwi yang di sekeliling mereka tidak turut serta bersama Rasulullah (pergi berperang), dan tidak patut bagi mereka mencintai diri mereka sendiri melebihi diri Rasulullah. Yang demikian itu kerana sesungguhnya mereka tidak ditimpa dahaga, kepenatan, dan kelaparan pada jalan Allah; dan tidak memijak sesuatu tempat yang menimbulkan kemarahan orang-orang kafir; dan tidak menimpakan sesuatu bencana kepada musuh, melainkan dituliskan bagi mereka dengannya suatu amalan soleh. Sesungguhnya Allah tidak mensia-siakan pahala orang-orang yang berbuat kebaikan (ihsan). Dan tidaklah mereka membelanjakan sesuatu nafkah, sama ada kecil atau besar, dan tidak melintasi sesuatu lembah, melainkan dituliskan bagi mereka (pahalanya), supaya Allah membalas mereka dengan sebaik-baik balasan bagi apa yang telah mereka kerjakan."*
+> — **Surah At-Tawbah (9): 120–121**
 
-> ⚖️ **[SYAIR SEMANGAT JIHAD & KESYAHIDAN]**
-> **وَلَسْتُ أُبَالِي حِينَ أُقْتَلُ مُسْلِمًا ۞ عَلَى أَيِّ جَنْبٍ كَانَ فِي اللهِ مَصْرَعِيوَذَلِكَ فِي ذَاتِ الإِلَهِ وَإِنْ يَشَأْ ۞ يُبَارِكْ عَلَى أَوْصَالِ شِلْوٍ مُمَزَّعِ**
+#### 4. Amar Ma'ruf, Nahi Mungkar dan Menasihati Demi Agama
+Dan sebahagian daripada jihad pada jalan Allah, wahai saudaraku yang dikasihi, ialah: engkau menyuruh kepada kebaikan dan mencegah daripada kemungkaran; menasihati kerana Allah, kitab-Nya, rasul-Nya, para pemimpin kaum muslimin serta orang awam mereka; dan menyeru ke jalan Tuhanmu dengan hikmah serta pengajaran yang baik (*al-maw‘iẓah al-ḥasanah*). Tiadalah sesuatu kaum itu meninggalkan budaya saling menasihati melainkan mereka akan ditimpa kehinaan, dan tidaklah mereka mengabaikan tugas amar ma'ruf nahi mungkar melainkan mereka akan ditinggalkan tanpa pertolongan:
+
+> **لُعِنَ الَّذِينَ كَفَرُوا مِنْ بَنِي إِسْرَائِيلَ عَلَىٰ لِسَانِ دَاوُودَ وَعِيسَى ابْنِ مَرْيَمَ ۚ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ ۝ كَانُوا لَا يَتَنَاهَوْنَ عَنْ مُنْكَرٍ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا يَفْعَلُونَ ۝**
 >
-> *"“Dan aku tidak peduli tatkala aku dibunuh gugur sebagai seorang muslim,Di atas lambung mana jua aku tersungkur rebah pada jalan Allah;Dan kematian itu adalah semata-mata kerana membela Zat Ilahi, dan jika Dia menghendaki,Dia pasti memberkati setiap cebisan anggota badanku yang hancur berkecai!”"*
+> *"Orang-orang kafir daripada Bani Israil telah dilaknat melalui lidah Nabi Daud dan Nabi Isa putera Maryam. Yang demikian itu adalah disebabkan mereka menderhaka dan selalu melampaui batas. Mereka sentiasa tidak berlarang-larangan daripada perbuatan mungkar yang mereka lakukan. Demi sesungguhnya, amat buruklah apa yang telah mereka lakukan!"*
+> — **Surah Al-Mā’idah (5): 78–79**
 
-  Jihad Ikhwan: Membina Kekuatan untuk Kedamaian Hakiki
-  Ikhwanul Muslimin bukanlah peminat keganasan dan bukan pencetus huru-hara, tetapi Ikhwan meyakini bahawa kebenaran tanpa kekuatan yang mengawalnya akan diinjak-injak oleh kebatilan. Mereka mendidik generasi muda agar mencintai kematian syahid di jalan Allah melebihi kecintaan musuh terhadap kehidupan dunia yang fana!
-  Maka apabila Ikhwan melatih ribuan pemuda memiliki ketahanan fizikal, kecekalan rohani, dan kesiapsiagaan berkorban nyawa demi menegakkan kalimah Allah, adakah masih ada orang yang ragu-ragu mengakui bahawa Ikhwan adalah sebuah gerakan yang amat praktikal?!
+#### 5. Memboikot dan Berlepas Diri Daripada Golongan yang Memusuhi Agama
+Dan sebahagian daripada jihad pada jalan Allah, wahai saudaraku yang dikasihi, ialah: engkau berlepas diri (*an tatanakkara*) daripada sesiapa yang berpaling ingkar daripada agamanya, dan engkau memulaukan sesiapa yang memusuhi Allah dan rasul-Nya; maka tidak ada lagi antara engkau dengannya sebarang hubungan kemesraan, urusan perniagaan, makan bersama, mahupun minum bersama. Dinyatakan dalam hadis:
+> *(“Sesungguhnya kecacatan pertama yang meresap ke dalam kalangan Bani Israil adalah apabila seorang lelaki bertemu lelaki yang lain lalu dia berkata: 'Wahai si polan! Bertakwalah kepada Allah dan tinggalkanlah apa yang engkau lakukan ini, kerana sesungguhnya ia tidak halal bagimu!' Kemudian keesokan harinya dia menemuinya lagi dalam keadaan lelaki itu masih melakukan perbuatan dosanya, namun hal itu tidak menghalangnya untuk menjadi teman makannya, teman minumnya, dan teman duduknya. Maka tatkala mereka berbuat demikian, Allah mengunci dan melagakan hati sebahagian mereka dengan sebahagian yang lain.”)*
+
+#### 6. Menjadi Tentera Allah, Kesiapsiagaan Jiwa Raga & Melawan Kezaliman Pemerintah
+Dan sebahagian daripada jihad pada jalan Allah, wahai saudaraku yang dikasihi, ialah: engkau menjadi seorang tentera bagi Allah; engkau wakafkan jiwa ragamu dan harta bendamu untuk-Nya tanpa menyisakan sedikit pun daripadanya. Maka apabila maruah dan keagungan Islam diancam, kemuliaan Islam diinjak-injak, dan nafiri kebangkitan ditiup untuk mengembalikan kegemilangan Islam, engkaulah orang pertama yang menyahut seruan itu dan orang pertama yang mara ke medan jihad:
+
+> **إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ ۝**
+>
+> *"Sesungguhnya Allah telah membeli daripada orang-orang yang beriman akan jiwa mereka dan harta benda mereka dengan (balasan) bahawa mereka akan beroleh syurga."*
+> — **Surah At-Tawbah (9): 111**
+
+Dan disebutkan dalam hadis:
+> *(“Sesiapa yang mati sedangkan dia tidak pernah berperang (pada jalan Allah) dan tidak pernah terlintas di dalam jiwanya niat untuk berperang, nescaya dia mati di atas salah satu cabang daripada cabang-cabang kemunafikan.”)*  
+> — *(Diriwayatkan oleh Muslim, Abu Daud, dan An-Nasa'i).*  
+
+Dan dengan cara inilah terzahir apa yang dikehendaki oleh Allah daripada penyebaran risalah Islam sehinggalah ia merata ke seluruh pelusuk muka bumi.
+
+Dan sebahagian daripada jihad pada jalan Allah, wahai saudaraku yang dikasihi, ialah: engkau berusaha menegakkan neraca keadilan, membaiki urusan sesama makhluk, membela orang yang dizalimi, dan menentang serta menghalang tangan orang yang zalim tidak kira betapa tinggi kedudukan pangkatnya dan kekuasaannya.
+
+Diriwayatkan dalam hadis daripada Abu Sa‘īd Al-Khudrī *radhiyallāhu ‘anhu*, daripada Nabi ﷺ, Baginda bersabda:
+> *(“Sebaik-baik jihad adalah menyatakan perkataan yang benar di hadapan pemerintah atau penguasa yang zalim.”)*  
+> — *(Diriwayatkan oleh Abu Daud dan diriwayatkan oleh Al-Bukhari dengan maknanya).*
+
+Dan daripada Jābir *radhiyallāhu ‘anhu*, Rasulullah ﷺ bersabda:
+> *(“Penghulu para syuhada ialah Hamzah bin Abdul Muttalib, dan seorang lelaki yang berdiri di hadapan pemerintah yang zalim lalu dia menyuruhnya kepada kebaikan dan melarangnya daripada kemungkaran, lalu pemerintah itu membunuhnya.”)*  
+> — *(Diriwayatkan oleh Ibn Majah dengan sanad yang sahih).*
+
+#### 7. Kasih Kepada Para Mujahidin & Ikhlas Mendoakan Mereka
+Dan sebahagian daripada jihad pada jalan Allah Tabāraka wa Ta‘ālā sekiranya engkau belum berpeluang atau tidak mampu melakukan sesuatu pun daripada semua peringkat di atas, ialah: engkau mencintai para mujahidin dengan sepenuh hatimu, dan menasihati mereka dengan ketulusan pandanganmu; dan sesungguhnya Allah telah mencatatkan bagimu dengan sebab itu pahala yang besar dan membebaskanmu daripada beban pertanggungjawaban.
+
+Maka janganlah sekali-kali engkau bersikap selain daripada itu, nescaya Allah akan mencop meterai ke atas hatimu dan mengazabmu dengan azab yang seberat-beratnya:
+
+> **لَيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضَىٰ وَلَا عَلَى الَّذِينَ لَا يَجِدُونَ مَا يُنْفِقُونَ حَرَجٌ إِذَا نَصَحُوا لِلَّهِ وَرَسُولِهِ ۚ مَا عَلَى الْمُحْسِنِينَ مِنْ سَبِيلٍ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ ۝ وَلَا عَلَى الَّذِينَ إِذَا مَا أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَا أَجِدُ مَا أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوْا وَأَعْيُنُهُمْ تَفِيضُ مِنَ الدَّمْعِ حَزَنًا أَلَّا يَجِدُوا مَا يُنْفِقُونَ ۝ إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَسْتَأْذِنُونَكَ وَهُمْ أَغْنِيَاءُ ۚ رَضُوا بِأَنْ يَكُونُوا مَعَ الْخَوَالِفِ وَطَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَعْلَمُونَ ۝**
+>
+> *"Tiada dosa (kerana tidak turut berperang) ke atas orang-orang yang lemah, orang-orang yang sakit, dan orang-orang yang tidak mempunyai apa-apa yang hendak dibelanjakan, apabila mereka bersikap ikhlas kepada Allah dan rasul-Nya. Tiada jalan (untuk menyalahkan) orang-orang yang berbuat kebaikan (ihsan); dan Allah Maha Pengampun, lagi Maha Mengasihani. Dan tiada juga dosa ke atas orang-orang yang apabila mereka datang kepadamu supaya engkau memberi kenderaan kepada mereka, engkau berkata: 'Aku tidak mendapati kenderaan untuk membawa kamu,' lalu mereka berpaling sedangkan mata mereka berlinangan air mata bercucuran kerana sedih bahawa mereka tidak mempunyai apa-apa yang dapat dibelanjakan (untuk turut berjihad). Sesungguhnya jalan (untuk menyalahkan dan menghukum) hanyalah ke atas orang-orang yang meminta izin kepadamu (untuk tidak pergi berperang) padahal mereka orang-orang kaya. Mereka reda berada bersama-sama orang yang tinggal (kaum wanita dan kanak-kanak), dan Allah telah memeteraikan hati mereka, sehingga mereka tidak mengetahui (akibat buruknya)."*
+> — **Surah At-Tawbah (9): 91–93**
+
+---
+
+### Di Manakah Kedudukan Ikhwanul Muslimin dalam Peringkat-Peringkat Jihad Ini?
+
+Setelah dihuraikan sebahagian daripada martabat-martabat jihad dalam Islam dan tingkatan-tingkatannya ini, maka di manakah kedudukan Ikhwanul Muslimin daripada tingkatan-tingkatan ini?
+
+**1. Rasa Sedih dan Kepiluan Hati:**  
+Adapun tentang rasa sedih dan kepiluan hati mereka terhadap apa yang menimpa kaum muslimin: maka Allah mengetahui bahawa salah seorang daripada mereka merasakan kepedihan yang mencairkan luluhkan tangkai hatinya, menyentuh dasar jiwanya yang paling dalam, menusuk sanubarinya, dan menghalangnya pada banyak waktu daripada bersenang-lenang bersama keluarganya serta mengecapi segala kelazatan dan keindahan yang ada di dunia ini.
+
+**2. Pemikiran Berterusan Mencari Jalan Pembebasan:**  
+Adapun tentang pemikiran mereka mencari jalan pembebasan umat: maka Allah mengetahui bahawa tiada satu fikiran pun yang menguasai akal mereka, tiada satu perancangan pun yang memikat emosi mereka, dan tiada satu urusan pun yang menyibukkan benak mereka seperti urusan kebangkitan ini, yang telah menguasai kepala mereka, merajai hati mereka, serta menenggelamkan perasaan dan fikiran mereka.
+
+**3. Pengorbanan Masa dan Harta:**  
+Adapun tentang pengorbanan masa dan harta mereka pada jalan ini: cukuplah bagimu menziarahi mana-mana kelab atau cawangan mereka, nescaya engkau akan menyaksikan mata-mata yang layu kerana berjaga malam, wajah-wajah yang pucat keletihan menanggung kerja keras, dan tubuh-tubuh yang lesu keletihan dek kepenatan yang berterusan; sedangkan jiwa mereka tetap muda mekar dengan keimanan dan teguh perkasa dengan akidahnya. Pemuda-pemuda yang menghabiskan malam mereka sehingga melepasi waktu tengah malam membongkok tekun di atas meja tulis atau bekerja di kelab mereka, tatkala rakan-rakan sebaya mereka sedang leka dalam hiburan, keseronokan, dan perbualan kosong malam hari. Betapa banyak mata yang berjaga malam demi membela mata yang sedang tidur lena! Dan hanyasanya kami mengharapkan ganjaran pahala itu di sisi Allah dan kami sama sekali tidak mengungkit-ungkitnya:
+
+> **بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ إِنْ كُنْتُمْ صَادِقِينَ ۝**
+>
+> *"Bahkan Allah jualah yang melimpahkan kurnia-Nya kepadamu dengan memimpin kamu kepada iman, jika kamu orang-orang yang benar."*
+> — **Surah Al-Ḥujurāt (49): 17**
+
+Dan sekiranya engkau bertanya tentang wang ringgit yang dibelanjakan untuk dakwah mereka: tiadalah ia melainkan harta mereka yang sedikit yang mereka sumbangkan dengan penuh kemurahan hati, kerelaan, ketenangan, dan ketenteraman jiwa. Dan sesungguhnya mereka memuji Allah tatkala pengorbanan harta mereka meningkat daripada darjat bermurah hati dengan barang-barang kemewahan (*kamāliyyāt*) kepada darjat menjimatkan dan mencatu keperluan asas hidup mereka (*ḍarūriyyāt*), lalu menginfakkan apa yang dijimatkan itu pada jalan dakwah:
+
+> **وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ ۝**
+>
+> *"Dan sesiapa yang dipelihara daripada kebakhilan dirinya, maka merekalah orang-orang yang berjaya."*
+> — **Surah Al-Ḥasyr (59): 9**
+
+Betapa bahagianya kita sekiranya Allah menerima persembahan kerdil ini daripada kita, padahal segala kurniaan itu adalah daripada-Nya dan kembali kepada-Nya jua.
+
+**4. Amar Ma'ruf dan Nahi Mungkar:**  
+Adapun tentang usaha mereka menyuruh kepada kebaikan dan mencegah daripada kemungkaran: sesungguhnya mereka telah memulakannya daripada diri mereka sendiri, kemudian kepada ahli keluarga dan rumah tangga mereka, kemudian kepada saudara-mara dan sahabat handai mereka, dengan bersenjatakan kesabaran, ketenangan, hikmah kebijaksanaan, serta pengajaran yang baik (*al-maw‘iẓah al-ḥasanah*). Dan tidakkah engkau melihat penerbitan akhbar majalah mereka ini melainkan sebagai salah satu manifestasi amar ma'ruf dan nahi mungkar? Dan tidakkah engkau melihat nasihat-nasihat dan ucapan-ucapan mereka melainkan jalan ke arah matlamat ini?
+
+**5. Menyempurnakan Baki Darjat Jihad:**  
+Adapun tentang baki darjat-darjat jihad yang lain, maka ia adalah kewajipan jemaah secara keseluruhan; dan menjadi kewajipan jemaahlah untuk menyahut seruannya. Dan sesungguhnya Ikhwanul Muslimin dalam barisan generasi perintis pertama ini tidak pernah lokek mencurahkan daya upaya dan tidak pernah menahan sebarang tenaga; mereka mengetahui kedudukan jihad ini dalam Islam dan mereka mengetahui bahawa Nabi ﷺ telah bersabda:
+> *(“Sesiapa yang bertemu Allah tanpa ada sebarang bekas dan kesan daripada jihad, nescaya dia bertemu Allah dalam keadaan ada kecacatan/kelompangan padanya.”)*  
+> — *(Diriwayatkan oleh At-Tirmizi dan Ibn Majah).*  
+
+Dan mereka sentiasa memohon kepada Allah agar mengurniakan taufik untuk bertemu dengan-Nya tanpa ada sebarang kecacatan dan kekurangan pada diri mereka.
+
+Dan sesungguhnya Allah Ta‘ālā telah berfirman kepada Nabi-Nya:
+
+> **لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ الْمُؤْمِنِينَ ۝**
+>
+> *"Engkau tidak dibebani melainkan ke atas dirimu sendiri; dan bangkitkanlah semangat orang-orang yang beriman (untuk berjuang)."*
+> — **Surah An-Nisā’ (4): 84**
+
+Dan sesungguhnya kita amat berharap agar dengan penjelasan ini kita telah menyampaikan seruan kepada jemaah, dan moga-moga suara ini telah sampai meresap ke dalam jiwa mereka lalu menemui tanah yang subur, yang dengannya bertambahlah bilangan para petugas yang beramal dan tersusunlah saf-saf para pejuang mujahidin:
+
+> **وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ ۝**
+>
+> *"Dan orang-orang yang berjihad pada jalan Kami, nescaya Kami akan tunjukkan kepada mereka jalan-jalan Kami; dan sesungguhnya Allah benar-benar berserta orang-orang yang berbuat kebaikan (ihsan)."*
+> — **Surah Al-‘Ankabūt (29): 69**
 
 
 ---
