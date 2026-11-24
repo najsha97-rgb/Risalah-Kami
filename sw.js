@@ -3,7 +3,7 @@
  * Offline Cache First Strategy
  */
 
-const CACHE_NAME = 'risalah-kami-v101';
+const CACHE_NAME = 'risalah-kami-v102';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

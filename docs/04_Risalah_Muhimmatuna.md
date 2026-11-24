@@ -58,22 +58,43 @@ Menggariskan dua misi agung: (1) Membendung gelombang kebendaan di tanah air Isl
 * 🌟 **8. Roh Kepimpinan Umum** (*Ar-Rūh al-‘Ām*) — Amanah Keseimbangan Duniawi & Ukhrawi
 
 ### [FASAL 07 • MARATIBUL AMAL] 07. Rantaian 6 Peringkat Sasaran Kami (مَرَاتِبُ أَهْدَافِنَا السِّتَّة)
-Merumuskan strategi bertahap pembinaan tamadun (Marātibul ‘Amal): (1) Individu Muslim, (2) Rumah Tangga Muslim, (3) Masyarakat Muslim, (4) Pembebasan Tanah Air, (5) Kerajaan Islam, dan (6) Kepimpinan Peradaban Dunia (Ustāziyyatul ‘Ālam).
+Merumuskan strategi bertahap pembinaan tamadun (Marātibul ‘Amal):
+1. **Individu Muslim (إصلاح النفس):** Akidah sahih, akhlak mulia, intelek berilmu & mampu berdikari.
+2. **Rumah Tangga Muslim (تكوين البيت):** Rumahtangga sakinah mendidik zuriat berteraskan wahyu.
+3. **Masyarakat Muslim (إرشاد المجتمع):** Dakwah makruf, banteras mungkar & institusi kebajikan.
+4. **Pembebasan Tanah Air (تحرير الوطن):** Merdeka drpd penjajahan fizikal, ekonomi & pemikiran.
+5. **Kerajaan Islam Rabbani (إصلاح الحكومة):** Pemerintahan adil mendaulatkan kanun syariat Allah.
+6. **Kepimpinan Dunia (أستاذية العالم):** Mengembalikan khilafah memimpin manusia dengan keadilan.
 
 ### [FASAL 08 • ENAM BEKALAN IMAN HARAKI] 08. Bekalan dan Senjata Kami (عُـدَّتُـنَـا)
-Menegaskan kelengkapan bekalan perjuangan (‘Uddatunā) berasaskan Enam Rukun Keimanan Haraki generasi sahabat: (1) Beriman kepada Allah dan pertolongan-Nya, (2) Beriman kepada Rasulullah ﷺ dan kepimpinan baginda, (3) Beriman kepada keluhuran manhaj Al-Quran, (4) Beriman kepada kesucian ukhuwah persaudaraan, (5) Beriman kepada kesempurnaan ganjaran akhirat, dan (6) Beriman kepada amanah peranan diri sebagai umat penyelamat; disempurnakan dengan kesiapsiagaan jihad dan pengorbanan mutlak.
+Menegaskan kelengkapan bekalan perjuangan (‘Uddatunā) berasaskan 6 Rukun Keimanan Haraki:
+1. **Iman kpd Allah:** Thiqah mutlak kpd pemeliharaan dan nusrah Ilahi.
+2. **Iman kpd Manhaj:** Keyakinan Al-Quran perlembagaan terbaik dunia.
+3. **Iman kpd Ukhuwah:** Tautan hati meleburkan kepentingan peribadi dlm saf.
+4. **Iman kpd Ganjaran:** Tiada titisan peluh dan darah sia-sia di sisi Allah.
+5. **Iman Kemenangan:** Janji pertolongan Allah pasti tiba tepat pada masanya.
+6. **Iman Peranan Umat:** Pewaris risalah kenabian menyelamatkan dunia.
 
 ### [FASAL 09 • REALISME PERJUANGAN] 09. Antara Khayalan dan Hakikat (بين الخيال و الحقيقة)
-Menangkis tuduhan skeptis kononnya misi kebangkitan Islam ini satu khayalan dan igauan kosong. Membuktikan melalui sunnatullah sejarah bahawa setiap tamadun bermula daripada cita-cita yang dianggap mustahil, sebagaimana janji kemenangan Nabi ﷺ sewaktu menggali parit Khandaq. Fakta sejarah melakarkan bukti realiti bahawa kerajaan Rom dan Parsi tumbang dan tunduk di bawah hegemoni Islam!
+Menangkis tuduhan skeptis kononnya misi kebangkitan Islam satu khayalan:
+- **Tuduhan Skeptis:** Golongan berjiwa kerdil menganggap cita-cita daulah igauan mustahil.
+- **Realisme Sunnah Sejarah:** Mukjizat Khandaq membuktikan janji kejatuhan Rom & Parsi menjadi kenyataan nyata di hadapan mata dunia!
 
 ### [FASAL 10 • PERANAN KERAJAAN ISLAM] 10. Andai Kita Mempunyai Kerajaan Islam yang Sejati (لو كانت لنا حكومة)
-Menghuraikan impak luar biasa andai wujud sebuah kerajaan Islam yang berdaulat, merdeka jiwanya, dan faham akan keagungan syariat. Menegaskan kaedah: orang yang tidak memiliki sesuatu tidak mampu memberikannya (fāqidul syai’ lā yu‘ṭīh), lantas harapan diletakkan kepada pemuda bertarbiah rabbani.
+Menghuraikan impak luar biasa andai wujud sebuah kerajaan Islam yang berdaulat:
+- **Kerajaan Boneka Sekular:** Hilang jati diri, tunduk kpd asing & abai syariat.
+- **Kerajaan Islam Rabbani:** Perisai syariat, membasmi riba & membela hak rakyat (*Kaidah Sayyidina Uthman: Kuasa pemerintah melengkapkan Al-Quran*).
 
 ### [FASAL 11 • IDENTITI FIKRAH SYUMUL] 11. Hakikat dan Identiti Fikrah Kami (طبيعة فكرتنـا)
-Menolak empat pengelasan sempit: Ikhwan bukanlah parti politik partisan, bukan persatuan kebajikan biasa, bukan tarekat sufi pasif, dan bukan kelab sukan terhad. Fikrah ini adalah Islam itu sendiri dalam kesyumulan akidah, ibadah, perundangan, dan peradaban (Identiti Rabbani: Fikrah, Akidah, Nizam dan Manhaj).
+Menolak pengkotak-katikan sempit; menegaskan identiti kesyumulan Islam:
+- **4 Penafian Label:** Bukan parti partisan, persatuan kebajikan kaku, tarekat uzlah, atau kelab sukan terhad.
+- **Identiti Islam Syumul:** Fikrah kami adalah Islam itu sendiri merangkumi dakwah, siasah, ekonomi, ibadah & jihad.
 
 ### [FASAL 12 • SERUAN KETEGUHAN BAI‘AH] 12. Khatimah Haraki: Seruan Keteguhan Langkah & Bai‘ah Perjuangan (خاتمة حركية)
-Menggemakan pesanan terakhir yang membakar semangat agar para pejuang tidak merendahkan martabat dakwah atau berkompromi dengan kebatilan. Menuntut bai‘ah amal, kesabaran menanggung onak duri perjalanan, serta keyakinan bulat bahawa masa depan adalah milik Islam. Kemuliaan itu kepada mereka yang menerima seruan kebenaran, beriman dengannya dan bergerak berjuang dalam kesatuan.
+Mahkota penutup Tetralogi Risalah:
+1. **Kemuliaan Martabat Dakwah:** Jangan sesekali merendahkan nilai dirimu di hadapan gerakan kebendaan.
+2. **Huluran Tangan & Bai‘ah Amal:** Ikrarkan kesetiaan berjuang mencurahkan harta, masa dan jiwa.
+3. **Masa Depan Milik Islam:** Fajar Islam pasti menyingsing memimpin peradaban dunia dengan keadilan!
 
 ---
 
@@ -401,6 +422,20 @@ Secara konkrit, praktikal, dan bertahap (*marāḥil ‘amaliyyah*), apa yang ka
     
   </ol>
 
+---
+
+> ### 🪜 INFOGRAFIK PEDAGOGI: RANTAIAN 6 PERINGKAT MARATIBUL AMAL
+>
+> | Peringkat Sasaran | Ruang Lingkup Amal | Matlamat Pembinaan Tamadun |
+> | :--- | :--- | :--- |
+> | **🌱 1. Individu Muslim (*Iṣlāḥun-Nafs*)** | Akidah sahih, ibadah lurus & jasmani kuat | Membina batu bata asas rijal mukmin |
+> | **🏡 2. Rumah Tangga (*Takwīnul-Bait*)** | Didik keluarga, sakinah & syiar wahyu | Benteng pertama ketahanan moral umat |
+> | **🤝 3. Masyarakat (*Irsyādul-Mujtama‘*)** | Sebar makruf & banteras kemungkaran | Membina persekitaran sosial yang salih |
+> | **🗺️ 4. Bebas Watan (*Taḥrīrul-Waṭan*)** | Halau penjajahan fizikal & pemikiran | Menjamin kemerdekaan kedaulatan tanah air |
+> | **🏛️ 5. Kerajaan Islam (*Iṣlāḥul-Ḥukūmah*)** | Daulatkan kanun syariat & keadilan syura | Melindungi hak rakyat & membendung maksiat |
+> | **👑 6. Kepimpinan Dunia (*Ustādhiyyatul-‘Ālam*)** | Pimpin seluruh alam dgn rahmat wahyu | Membimbing peradaban manusia ke jalan Allah |
+>
+> 🧭 **Prinsip Bertahap:** *"Kami tidak melompat peringkat; kebangkitan khilafah bermula daripada pembersihan jiwa individu dan rumahtangga muslim!"*
 
 ---
 
@@ -486,6 +521,20 @@ Kelengkapan bekalan kami tidak lain adalah kelengkapan para Salafus Soleh terdah
 > *"Dan sesungguhnya Allah pasti menolong sesiapa yang menolong (agama)-Nya; sesungguhnya Allah adalah Maha Kuat, lagi Maha Perkasa. (Iaitu) mereka yang jika Kami berikan kekuasaan dan keteguhan di bumi, mereka mendirikan solat, menunaikan zakat, menyuruh kepada yang makruf, dan melarang daripada yang mungkar; dan bagi Allah jualah kesudahan segala urusan."*
 > — **Surah Al-Ḥajj (22): 40–41**
 
+---
+
+> ### 💎 INFOGRAFIK PEDAGOGI: 6 RUKUN KEIMANAN HARAKI PEJUANG
+>
+> | Rukun Keimanan (*‘Uddatunā*) | Intipati Keyakinan Jiwa | Kesan Terhadap Kekuatan Saf |
+> | :--- | :--- | :--- |
+> | **☝️ 1. Iman kpd Allah** | Thiqah mutlak kpd nusrah & pemeliharaan Ilahi | Bebas drpd ketakutan kpd thoghut dan musuh |
+> | **📜 2. Iman kpd Manhaj** | Yakin Al-Quran perlembagaan mutlak terbaik | Kebal drpd terpedaya dgn dakyah sekular |
+> | **🤝 3. Iman kpd Ukhuwah** | Tautan hati suci meleburkan kepentingan ego | Saf tersusun rapi laksana bangunan kukuh |
+> | **🎁 4. Iman kpd Ganjaran** | Yakin syurga menanti setiap titisan pengorbanan | Rela infaq harta dan jiwa tanpa berkira |
+> | **🏆 5. Iman Kemenangan** | Yakin janji Allah pasti terlaksana tepat pada masanya | Menepis keputusasaan menempuh jalan panjang |
+> | **👑 6. Iman Peranan Umat** | Yakin diri pewaris risalah penyelamat dunia | Melahirkan keperibadian rijal berjiwa da'i |
+>
+> 💎 **Senjata Pejuang:** *"Inilah kelengkapan kami yang paling ampuh: keimanan waja yang tidak dapat dibeli dengan wang dan tidak goyah dengan ugutan!"*
 
 ---
 
@@ -530,6 +579,16 @@ Mereka yang mendengar seruan ini pasti akan berkata dalam keraguan dan sinis: "I
 > *"Maka bersabarlah engkau (wahai Muhammad); sesungguhnya janji Allah itu adalah benar, dan jangan sekali-kali orang-orang yang tidak meyakini (kebenaran) itu menggelisahkanmu atau menggoyahkan keteguhanmu."*
 > — **Surah Ar-Rūm (30): 60**
 
+---
+
+> ### ⚡ INFOGRAFIK PEDAGOGI: REALISME SEJARAH VS TUDUHAN KHAYALAN
+>
+> | Pandangan | Hujah & Dalil Realiti | Iktibar Kepada Pejuang Kebangkitan |
+> | :--- | :--- | :--- |
+> | **🌧️ Tuduhan Skeptis & Sinis** | "Misi kebangkitan ini igauan mimpi mustahil" | Pandangan sempit mereka yang lemah jiwa dan tiada iman |
+> | **⚡ Realisme Mukjizat Khandaq** | Nabi ﷺ janjikan kejatuhan Parsi-Rom sewaktu lapar terkepung | Janji wahyu bertukar menjadi realiti sejarah gemilang |
+>
+> ⚡ **Hukum Sejarah:** *"Apa yang disangka khayalan oleh golongan lemah hari ini, adalah hakikat realiti yang akan dimahkotakan oleh generasi pejuang esok!"*
 
 ---
 
@@ -559,6 +618,16 @@ Kalaulah kita memiliki sebuah kerajaan Islam yang benar keislamannya, jujur keim
   
   Ini bukanlah tugas mereka lagi, wahai saudaraku Ikhwan! Kerana pelbagai pengalaman telah membuktikan kelemahan mutlak mereka daripada menunaikannya. Sebaliknya, ini adalah tugas generasi baharu yang sedang meningkat ini! Oleh itu, perelokkanlah seruan dakwah kepadanya, bersungguh-sungguhlah dalam membina dan mentarbiahnya, serta didiklah ia dengan kemerdekaan jiwa dan hati, kemerdekaan fikiran dan akal, serta kemerdekaan jihad dan amal. Isikanlah rohnya yang bersemangat waja dengan keagungan Islam dan keindahan Al-Quran, serta gandingkanlah ia sebagai tentera di bawah panji dan kibaran bendera Muhammad ﷺ; nescaya tidak lama lagi kamu akan menyaksikan lahir daripadanya sosok pemimpin muslim sejati yang berjihad memerangi hawa nafsunya sendiri dan membahagiakan orang lain!
 
+---
+
+> ### 🏛️ INFOGRAFIK PEDAGOGI: PERANAN KERAJAAN ISLAM SEJATI
+>
+> | Jenis Kerajaan | Sifat & Orientasi Dasar | Kesan Kepada Agama & Rakyat |
+> | :--- | :--- | :--- |
+> | **⚠️ Kerajaan Boneka Sekular** | Hilang roh; tunduk kpd telunjuk hegemoni asing | Meminggirkan syariat, suburkan maksiat & tindas rakyat |
+> | **👑 Kerajaan Islam Rabbani** | Merdeka jiwa; perisai wahyu & tegakkan keadilan | Daulatkan Al-Quran, basmi riba & lindungi maruah umat |
+>
+> 🏛️ **Kaidah Sayyidina Uthman r.a.:** *"Sesungguhnya Allah mencegah dengan kekuasaan pemerintah apa yang tidak dapat dicegah oleh Al-Quran semata-mata!"*
 
 ---
 
@@ -592,6 +661,16 @@ Fahamilah hakikat identiti dakwah kamu ini dengan sejelas-jelasnya:
 > *"Dan demi sesungguhnya, kamu akan mengetahui kebenaran beritanya (Al-Quran) selepas suatu masa lagi."*
 > — **Surah Ṣād (38): 88**
 
+---
+
+> ### 💎 INFOGRAFIK PEDAGOGI: 4 PENAFIAN LABEL VS KESYUMULAN ISLAM
+>
+> | Pengelasan | Skop & Batasan | Kedudukan Ikhwanul Muslimin |
+> | :--- | :--- | :--- |
+> | **🚫 4 Label Sempit** | Parti politik kerusi, persatuan kebajikan, tarekat uzlah, kelab sukan | **Bukan Sekadar Label Ini!** Menolak pengkotak-katikan sekular |
+> | **👑 Identiti Syumul** | Fikrah, akidah, nizam kenegaraan & manhaj peradaban | **Islam Itu Sendiri!** Paduan rohani, siasah, ekonomi & jihad |
+>
+> 💎 **Takrifan Agung:** *"Fikrah kami adalah Islam itu sendiri dalam segenap pengertian, nilai, hukum, dan keindahan peradabannya!"*
 
 ---
 
@@ -625,3 +704,15 @@ Inilah kedudukan martabat kamu yang mulia! Maka janganlah sesekali kamu merendah
 > — **Surah Al-An‘ām (6): 153**
 
 **<span dir="rtl">ـ حسن البنا</span>** (Ḥasan al-Bannā)
+
+---
+
+> ### 👑 INFOGRAFIK PEDAGOGI: KHATIMAH HARAKI & MAHKOTA BAI'AH
+>
+> | Paksi Amanah | Tuntutan Haraki Al-Imam | Tekad Pejuang Rabbani |
+> | :--- | :--- | :--- |
+> | **🛡️ Kemuliaan Martabat Dakwah** | Jangan sesekali rendah nilai dirimu | Bersambung terus dgn wahyu Ilahi; tolak kompromi dasar |
+> | **🤝 Huluran Tangan & Bai'ah Amal** | Hulur tangan ikrarkan taat setia | Sedia curah masa, harta dan darah di jalan Allah |
+> | **🌅 Fajar Masa Depan Gemilang** | Masa depan dunia adalah milik Islam | Yakin fajar kemenangan pasti menyingsing memimpin alam |
+>
+> 👑 **Seruan Bai'ah Terakhir:** *"Dan katakanlah (wahai Muhammad): Beramallah kamu, maka Allah, Rasul-Nya, dan orang-orang yang beriman akan melihat amal kamu!" (At-Tawbah: 105)*

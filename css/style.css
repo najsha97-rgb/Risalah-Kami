@@ -5766,3 +5766,274 @@ body {
   font-size: 0.8rem;
   line-height: 1.45;
 }
+
+
+/* ==========================================================================
+   RISALAH 04: MUHIMMATUNA (FASAL 07-12 GRAND FINALE)
+   ========================================================================== */
+.grid-maratib-6,
+.grid-uddatuna-6 {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.65rem;
+}
+
+.grid-realisme-2,
+.grid-kerajaan-2,
+.grid-identiti-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+}
+
+.grid-khatimah-r04-3 {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.65rem;
+}
+
+.maratib-card,
+.uddatuna-card,
+.realisme-card,
+.kerajaan-card,
+.identiti-card,
+.khatimah-r04-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 07: Maratibul Amal */
+.maratib-card.individu {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.maratib-card.individu:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.maratib-card.individu .maratib-trait { color: #38BDF8; }
+
+.maratib-card.rumah {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.maratib-card.rumah:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.maratib-card.rumah .maratib-trait { color: #34D399; }
+
+.maratib-card.masyarakat {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.maratib-card.masyarakat:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.maratib-card.masyarakat .maratib-trait { color: #FBBF24; }
+
+.maratib-card.watan {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.maratib-card.watan:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.maratib-card.watan .maratib-trait { color: #F87171; }
+
+.maratib-card.kerajaan {
+  border-left: 3.5px solid #8B5CF6 !important;
+  background: rgba(139, 92, 246, 0.06);
+}
+.maratib-card.kerajaan:hover {
+  background: rgba(139, 92, 246, 0.14);
+  transform: translateY(-1px);
+}
+.maratib-card.kerajaan .maratib-trait { color: #A78BFA; }
+
+.maratib-card.alam {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.14) 0%, rgba(15, 23, 42, 0.7) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  box-shadow: 0 4px 18px rgba(16, 185, 129, 0.18);
+}
+.maratib-card.alam:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.24) 0%, rgba(15, 23, 42, 0.9) 100%);
+  transform: translateY(-2px);
+}
+.maratib-card.alam .maratib-trait { color: #34D399; }
+
+/* Fasal 08: Uddatuna */
+.uddatuna-card.allah { border-left: 3.5px solid #0EA5E9 !important; background: rgba(14, 165, 233, 0.06); }
+.uddatuna-card.allah .uddatuna-trait { color: #38BDF8; }
+
+.uddatuna-card.manhaj { border-left: 3.5px solid #10B981 !important; background: rgba(16, 185, 129, 0.06); }
+.uddatuna-card.manhaj .uddatuna-trait { color: #34D399; }
+
+.uddatuna-card.ukhuwah { border-left: 3.5px solid #F59E0B !important; background: rgba(245, 158, 11, 0.06); }
+.uddatuna-card.ukhuwah .uddatuna-trait { color: #FBBF24; }
+
+.uddatuna-card.jaza { border-left: 3.5px solid #8B5CF6 !important; background: rgba(139, 92, 246, 0.06); }
+.uddatuna-card.jaza .uddatuna-trait { color: #A78BFA; }
+
+.uddatuna-card.nasr { border-left: 3.5px solid #3B82F6 !important; background: rgba(59, 130, 246, 0.06); }
+.uddatuna-card.nasr .uddatuna-trait { color: #60A5FA; }
+
+.uddatuna-card.dawr {
+  border-left: 3.5px solid #EF4444 !important;
+  background: linear-gradient(180deg, rgba(239, 68, 68, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(239, 68, 68, 0.35);
+}
+.uddatuna-card.dawr .uddatuna-trait { color: #F87171; }
+
+.uddatuna-card:hover { transform: translateY(-1px); }
+
+/* Fasal 09: Realisme */
+.realisme-card.khayalan {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.realisme-card.khayalan:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.realisme-card.khayalan .realisme-trait { color: #F87171; }
+
+.realisme-card.khandaq {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.realisme-card.khandaq:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.realisme-card.khandaq .realisme-trait { color: #34D399; }
+
+/* Fasal 10: Kerajaan Islam */
+.kerajaan-card.boneka {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.kerajaan-card.boneka:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.kerajaan-card.boneka .kerajaan-trait { color: #FBBF24; }
+
+.kerajaan-card.rabbani {
+  border-left: 3.5px solid #3B82F6 !important;
+  background: linear-gradient(180deg, rgba(59, 130, 246, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(59, 130, 246, 0.35);
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.12);
+}
+.kerajaan-card.rabbani:hover {
+  background: linear-gradient(180deg, rgba(59, 130, 246, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.kerajaan-card.rabbani .kerajaan-trait { color: #60A5FA; }
+
+/* Fasal 11: Identiti Syumul */
+.identiti-card.label {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.identiti-card.label:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.identiti-card.label .identiti-trait { color: #F87171; }
+
+.identiti-card.syumul {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.identiti-card.syumul:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.identiti-card.syumul .identiti-trait { color: #34D399; }
+
+/* Fasal 12: Khatimah Bai'ah */
+.khatimah-r04-card.martabat {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.khatimah-r04-card.martabat:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.khatimah-r04-card.martabat .khatimah-r04-trait { color: #38BDF8; }
+
+.khatimah-r04-card.baiah {
+  border-left: 3.5px solid #F59E0B !important;
+  background: linear-gradient(180deg, rgba(245, 158, 11, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  box-shadow: 0 4px 15px rgba(245, 158, 11, 0.12);
+}
+.khatimah-r04-card.baiah:hover {
+  background: linear-gradient(180deg, rgba(245, 158, 11, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.khatimah-r04-card.baiah .khatimah-r04-trait { color: #FBBF24; }
+
+.khatimah-r04-card.fajar {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.14) 0%, rgba(15, 23, 42, 0.7) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  box-shadow: 0 4px 18px rgba(16, 185, 129, 0.18);
+}
+.khatimah-r04-card.fajar:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.24) 0%, rgba(15, 23, 42, 0.9) 100%);
+  transform: translateY(-2px);
+}
+.khatimah-r04-card.fajar .khatimah-r04-trait { color: #34D399; }
+
+.maratib-trait,
+.uddatuna-trait,
+.realisme-trait,
+.kerajaan-trait,
+.identiti-trait,
+.khatimah-r04-trait {
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.3px;
+  display: block;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+.maratib-sub,
+.uddatuna-sub,
+.realisme-sub,
+.kerajaan-sub,
+.identiti-sub,
+.khatimah-r04-sub {
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--text-muted, #94a3b8);
+  display: block;
+}
+
+.maratib-banner,
+.uddatuna-banner,
+.realisme-banner,
+.kerajaan-banner,
+.identiti-banner,
+.khatimah-r04-banner {
+  margin-top: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 6px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
