@@ -2214,3 +2214,10 @@ body {
   border-top: 4px solid #EAB308;
   background: linear-gradient(180deg, rgba(234, 179, 8, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
 }
+
+/* Penjajaran Rapi Kurungan Bersama Teks Arab */
+.arabic-inline-wrap {
+  display: inline-block !important;
+  white-space: nowrap !important;
+  vertical-align: baseline;
+}
