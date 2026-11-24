@@ -232,7 +232,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Ekstrak teks Arab dari tajuk fasal jika ada (cth: (المصارحة - Al-Muṣāraḥah) atau (المقياس))
     const arMatch = sec.title.match(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\s\.\,\?\:\!ـ\-]*[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]|[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])/);
     bannerArabicGold.textContent = arMatch ? arMatch[0].trim() : (sec.title_ar || risalah.arabic_title);
-    
+
     // Tajuk bersih BM di bawah banner (buang nombor pendua dan kurungan Arab)
     const cleanHeading = sec.title
       .replace(/^\s*\d+[\.\-\)]\s*/, '')
@@ -515,7 +515,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Theme Switcher
-    
+
     // Font Compare Bar Pill Buttons (Amiri Gold by default)
     const fontCompareBar = document.getElementById('fontCompareBar');
     if (fontCompareBar) {
