@@ -4005,3 +4005,229 @@ body {
 .qawmiyyah-rabbani-banner .creed-text strong {
   color: #FCD34D;
 }
+
+/* ==========================================================================
+   KEMULIAAN, KEKUATAN TAUHID, NASAB LUHUR & REALITI IMPIAN (R02 F13-F16)
+   ========================================================================== */
+.grid-izzah-2,
+.grid-nasab-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+}
+
+.grid-quwwah-3,
+.grid-impian-3 {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.65rem;
+}
+
+.izzah-card,
+.quwwah-card,
+.nasab-card,
+.impian-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 13: Kemuliaan */
+.izzah-card.jahiliyyah {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.izzah-card.jahiliyyah:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.izzah-card.jahiliyyah .izzah-trait {
+  color: #F87171;
+}
+
+.izzah-card.rabbani {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.izzah-card.rabbani:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.izzah-card.rabbani .izzah-trait {
+  color: #34D399;
+}
+
+.izzah-trait,
+.quwwah-trait,
+.nasab-trait,
+.impian-trait {
+  font-size: 0.74rem;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.izzah-sub,
+.quwwah-sub,
+.nasab-sub,
+.impian-sub {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+/* Fasal 14: Kekuatan */
+.quwwah-card.thiqah {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.quwwah-card.thiqah:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.quwwah-card.thiqah .quwwah-trait {
+  color: #38BDF8;
+}
+
+.quwwah-card.hasbunallah {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.quwwah-card.hasbunallah:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.quwwah-card.hasbunallah .quwwah-trait {
+  color: #34D399;
+}
+
+.quwwah-card.syajaah {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.quwwah-card.syajaah:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.quwwah-card.syajaah .quwwah-trait {
+  color: #FBBF24;
+}
+
+/* Fasal 15: Nasab Luhur */
+.nasab-card.luhur {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.nasab-card.luhur:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.nasab-card.luhur .nasab-trait {
+  color: #34D399;
+}
+
+.nasab-card.asabiyyah {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.nasab-card.asabiyyah:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.nasab-card.asabiyyah .nasab-trait {
+  color: #F87171;
+}
+
+/* Fasal 16: Impian Realiti */
+.impian-card.fasa1 {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.impian-card.fasa1:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.impian-card.fasa1 .impian-trait {
+  color: #38BDF8;
+}
+
+.impian-card.fasa2 {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.impian-card.fasa2:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.impian-card.fasa2 .impian-trait {
+  color: #FBBF24;
+}
+
+.impian-card.fasa3 {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.impian-card.fasa3:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.impian-card.fasa3 .impian-trait {
+  color: #34D399;
+}
+
+/* Banners */
+.izzah-banner,
+.quwwah-banner,
+.nasab-banner,
+.impian-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.85rem;
+  padding: 0.7rem 0.9rem;
+  border-radius: 8px;
+}
+
+.izzah-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(245, 158, 11, 0.12) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+.izzah-banner .creed-text {
+  font-size: 0.78rem;
+  color: #D1FAE5;
+  line-height: 1.45;
+}
+
+.quwwah-banner {
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.15) 0%, rgba(16, 185, 129, 0.12) 100%);
+  border: 1px solid rgba(14, 165, 233, 0.35);
+}
+.quwwah-banner .creed-text {
+  font-size: 0.78rem;
+  color: #BAE6FD;
+  line-height: 1.45;
+}
+
+.nasab-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(14, 165, 233, 0.12) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+.nasab-banner .creed-text {
+  font-size: 0.78rem;
+  color: #A7F3D0;
+  line-height: 1.45;
+}
+
+.impian-banner {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(16, 185, 129, 0.12) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+}
+.impian-banner .creed-text {
+  font-size: 0.78rem;
+  color: #FEF3C7;
+  line-height: 1.45;
+}
+.impian-banner .creed-text strong {
+  color: #FCD34D;
+}

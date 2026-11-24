@@ -58,16 +58,16 @@ Memperjelaskan pendirian tegas harakah terhadap politik dengan neraca wahyu:
 Menolak doktrin kebangsaan sempit berasaskan sempadan tanah atau kabilah darah. Menegaskan **Tiga Paksi Kebangsaan Rabbani**: (1) Ikatan Asas Tauhid yang menyatukan setiap muslim, (2) Nasab Tertinggi Takwa melangkaui nasab Qais dan Tamim (*Abī al-Islāmu Lā Aba Lī Siwāh*), dan (3) Ufuk Watan Islam yang merangkumi setiap bumi yang mengesakan Allah.
 
 ### [FASAL 13 • KEMULIAAN AKIDAH] 13. Tiada Kemuliaan Melebihi Ini (ليس بعد ذلك عزة - Laisa Ba‘da Zālik ‘Izzah)
-Membandingkan kebanggaan manusia terhadap jasa nenek moyang fana dengan kemuliaan mukmin yang bernasabkan wahyu Allah. Menegaskan bahawa tiada lagi darjat kemuliaan yang lebih tinggi daripada menjadi hamba Allah dan pengikut setia Rasulullah ﷺ.
+Menegaskan bahawa kemuliaan hakiki adalah milik Allah seluruhnya (Surah An-Nisa’: 139). Membandingkan secara kontras antara **Kemuliaan Hakiki Rabbani** (menjadi insan Rabbani yang berpegang dengan Kitabullah) dengan **Kemuliaan Palsu Jahiliah** (menagih ihsan di sisi musuh dan berbangga dengan tulang-temulang nenek moyang fana).
 
 ### [FASAL 14 • KEKUATAN TAUHID] 14. Sumber Kekuatan yang Paling Agung (أعظم مصادر القوة - A‘ẓamu Maṣādiril-Quwwah)
-Mendedahkan bahawa sumber kekuatan teragung seorang muslim berakar umbi daripada keyakinan mutlak kepada Allah yang Maha Berkuasa. Mukmin yang bersandar kepada Allah tidak akan gentar menghadapi sebarang ancaman kuasa zalim di muka bumi ini.
+Mendedahkan **Tiga Perisai Kekuatan Teragung Seorang Mukmin**: (1) *Thiqah Billāh* yang meyakini kemenangan mutlak bersama Allah (Surah Ali ‘Imran: 160), (2) *Ḥasbunallāh wa Ni‘mal Wakīl* yang mengubah ancaman musuh menjadi lonjakan keimanan (Surah Ali ‘Imran: 173), dan (3) *Keberanian Berprinsip* yang melenyapkan rasa gentar terhadap sebarang ketumbukan dunia.
 
 ### [FASAL 15 • NASAB TERTINGGI] 15. Kebangsaan Kami Bernasab Luhur (قوميتنا عالية النسبة - Qawmiyyatunā ‘Āliyatu-Nisbah)
-Menegaskan bahawa nasab kebangsaan Islam adalah nasab yang paling suci kerana ia berasaskan ketakwaan dan penyembahan kepada Tuhan Yang Maha Esa (Surah Al-Hujurat: 13), melangkaui ikatan tanah, darah, dan kasta ciptaan manusia.
+Menggariskan perbezaan antara **Kebangsaan Bernasab Luhur** yang berteraskan tauhid dan persaudaraan sejagat dengan **Asabiyyah Jahiliah Sempit** yang didorong oleh ketaksuban kabilah darah dan ketamakan hegemoni yang membakar api permusuhan antara bangsa.
 
 ### [FASAL 16 • REALITI IMPIAN] 16. Impian Semalam Adalah Realiti Hari Ini (أحلام الأمس و حقائق اليوم)
-Menangkis tuduhan skeptis bahawa gagasan kesatuan khilafah Islam adalah angan-angan mustahil. Menegaskan hukum sejarah bahawa apa yang dianggap mimpi pada masa lampau telah menjadi realiti hari ini berkat keimanan, kesabaran, dan kesinambungan amal pejuang.
+Menangkis tuduhan skeptis bahawa kebangkitan Islam adalah angan-angan khayalan. Membentangkan **Tiga Fasa Transformasi Sejarah**: (1) Impian & Wawasan (*Aḥlāmul-Ams*), (2) Amal, Sabar & Pengorbanan Istiqamah, dan (3) Realiti Sejarah Hari Ini (*Ḥaqā’iqul-Yaum*) yang membuktikan kemenangan pasti merekah di tangan rijal yang beriman.
 
 ### [FASAL 17 • MISI SEORANG MUSLIM] 17. Misi Seorang Muslim (مهمة المسلم)
 Merumuskan misi asasi setiap muslim berpandukan Surah Al-Hajj (ayat 77–78): menunaikan ibadah peribadi (solat, ruku', sujud), melaksanakan kebajikan sosial, dan menggalas jihad fi sabilillah demi membimbing kemanusiaan kepada nur Islam.
@@ -480,6 +480,7 @@ Manakala seorang yang lain menjawab pertanyaan orang yang bertanya tentang ketur
 ### 13. Tiada Kemuliaan Melebihi Ini (ليس بعد ذلك عزة - Laisa Ba‘da Zālik ‘Izzah)
 
 Wahai saudaraku yang budiman! Manusia itu hanyalah berbangga-bangga dengan nasab keturunan mereka kerana melihat keagungan dan kemuliaan pada amal jasa nenek moyang mereka, serta bermatlamat meniupkan roh maruah dan harga diri ke dalam jiwa anak-anak generasi mereka.
+
 Tidakkah engkau melihat bahawa penyandaran nasabmu kepada Allah Tabāraka wa Ta‘ālā adalah setinggi-tinggi matlamat kemuliaan dan keagungan yang dicita-citakan oleh para pejuang kebenaran? Allah berfirman:
 
 > **ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًۭا ۝١٣٩**
@@ -494,12 +495,24 @@ Apakah kemuliaan yang lebih agung daripada engkau melihat dirimu sebagai insan R
 > *"Tidak wajar bagi seseorang manusia yang Allah berikan kepadanya Kitab, hikmah hukum dan kenabian, kemudian dia berkata kepada manusia: Hendaklah kamu menjadi penyembah-penyembahku selain dari Allah; tetapi (sepatutnya dia berkata): Hendaklah kamu menjadi orang-orang Rabbani (yang ikhlas mengabdi kepada Allah) dengan sebab kamu sentiasa mengajarkan Kitab Allah itu dan dengan sebab kamu sentiasa mempelajarinya."*
 > — **Surah Āli ‘Imrān: 79**
 
+---
+
+> ### 👑 INFOGRAFIK PEDAGOGI: DUA PUNCA KEMULIAAN (ليس بعد ذلك عزة)
+>
+> | Dimensi Kemuliaan | Kemuliaan Hakiki Rabbani | Kemuliaan Palsu Jahiliah |
+> | :--- | :--- | :--- |
+> | **Punca Pergantungan**| Zat Allah Yang Maha Perkasa [An-Nisa’: 139] | Menagih ihsan di sisi musuh & kuasa fana |
+> | **Identiti Peribadi** | **Insan Rabbani:** Beramal dgn Kitabullah [Āli ‘Imrān: 79] | Berbangga dgn tulang kabilah nenek moyang |
+> | **Natijah Akhir** | Ketinggian maruah abadi di dunia dan akhirat | Kehinaan, keruntuhan maruah & kehampaan |
+>
+> 🌟 **Kemuliaan Rabbani:** *"Kemuliaan itu seluruhnya milik Allah! Tiada darjat kemuliaan yang lebih agung daripada menjadi hamba Allah yang ikhlas di atas muka bumi ini."*
 
 ---
 
 ### 14. Sumber Kekuatan yang Paling Agung (أعظم مصادر القوة - A‘ẓamu Maṣādiril-Quwwah)
 
 Dalam penyandaran nasab kepada Al-Haq Tabāraka wa Ta‘ālā ini terdapat satu pengertian mendalam yang hanya mampu diselami oleh sesiapa yang benar-benar memahaminya: iaitu limpahan keimanan yang meluas dan keyakinan teguh terhadap kejayaan yang membanjiri sanubarimu!
+
 Ketika itu, engkau tidak akan berasa takut kepada manusia keseluruhannya dan tidak akan gentar menghadapi dunia sekalipun, walau mereka berdiri menentangmu demi merosakkan akidahmu atau mencacatkan prinsipmu:
 
 > **ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًۭا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ ۝١٧٣**
@@ -514,22 +527,47 @@ Kerana kekuatan keyakinan inilah, seorang pejuang mukmin yang bersandarkan sokon
 > *"Jika Allah menolong kamu, maka tidak ada sesiapa pun yang dapat mengalahkan kamu; dan jika Dia membiarkan kamu, maka siapakah lagi yang dapat menolong kamu sesudah itu? Dan hanya kepada Allahlah hendaknya orang-orang yang beriman itu bertawakal."*
 > — **Surah Āli ‘Imrān: 160**
 
+---
+
+> ### ⚡ INFOGRAFIK PEDAGOGI: 3 PERISAI KEKUATAN TERAGUNG SEORANG MUKMIN
+>
+> | Perisai Kekuatan | Nas Sandaran Wahyu | Manifestasi Keperibadian Daie |
+> | :--- | :--- | :--- |
+> | **1. Thiqah Billāh** | Surah Āli ‘Imrān: 160 (*Lā Ghāliba Lakum*) | Yakin pertolongan Allah mengatasi segenap kekuatan teknologi musuh |
+> | **2. Hasbunallāh** | Surah Āli ‘Imrān: 173 (*Ni‘mal Wakīl*) | Ancaman ketumbukan musuh hanya menambah keimanan & keazaman |
+> | **3. Keberanian Hakiki** | Pergantungan bulat kpd Allah | Berdiri teguh mempertahankan prinsip tanpa gentar ancaman manusia |
+>
+> 🛡️ **Prinsip Kekuatan:** *"Jika Allah menolong kamu, maka tidak ada sesiapa pun yang dapat mengalahkan kamu! Mukmin yang bersandar kepada Allah mustahil dapat digeruni oleh sebarang ketumbukan dunia."*
 
 ---
 
 ### 15. Kebangsaan Kami Bernasab Luhur (قوميتنا عالية النسبة - Qawmiyyatunā ‘Āliyatu-Nisbah)
 
 Inilah hakikat konsep kebangsaan kami (قوميتنا): iaitu satu ikatan kebangsaan yang bernasab maha luhur, mengalir daripada pertautan akidah Tauhid yang bersih. Ia tidak terikat pada sempadan tanah dan darah yang sempit, tidak berbangga dengan tulang-temulang nenek moyang jahiliah, dan tidak bermusuhan dengan bangsa lain atas dasar warna kulit atau suku kaum.
-Kebangsaan kami adalah kebangsaan yang bersandarkan prinsip kebenaran sejagat, mengangkat martabat insan menjadi hamba Allah yang merdeka, dan menghimpunkan seluruh umat manusia di bawah payung keadilan syariat Ilahi.
-Dan di sana terdapat satu lagi makna keluhuran sosial yang agung dalam penisbahan manusia kepada Allah Tabāraka wa Ta‘ālā: iaitu persaudaraan antara bangsa-bangsa, perpaduan saling membantu antara kelompok masyarakat, serta penghapusan segala ketamakan dan nafsu haloba yang ditiupkan oleh sentimen ‘aṣabiyyah (kebangsaan sempit) yang sentiasa menyalakan api persengketaan dan permusuhan antara umat. Maka siapakah lagi yang dapat menyelamatkan dunia ini dengan menghimpunkan manusia secara perkasa di sekeliling panji Allah...?
 
+Kebangsaan kami adalah kebangsaan yang bersandarkan prinsip kebenaran sejagat, mengangkat martabat insan menjadi hamba Allah yang merdeka, dan menghimpunkan seluruh umat manusia di bawah payung keadilan syariat Ilahi.
+
+Dan di sana terdapat satu lagi makna keluhuran sosial yang agung dalam penisbahan manusia kepada Allah Tabāraka wa Ta‘ālā: iaitu **persaudaraan antara bangsa-bangsa, perpaduan saling membantu antara kelompok masyarakat, serta penghapusan segala ketamakan dan nafsu haloba yang ditiupkan oleh sentimen ‘aṣabiyyah (kebangsaan sempit)** yang sentiasa menyalakan api persengketaan dan permusuhan antara umat. Maka siapakah lagi yang dapat menyelamatkan dunia ini dengan menghimpunkan manusia secara perkasa di sekeliling panji Allah...?
+
+---
+
+> ### 🤝 INFOGRAFIK PEDAGOGI: DUA PARADIGMA KEBANGSAAN
+>
+> | Dimensi Penilaian | Kebangsaan Bernasab Luhur | Asabiyyah Jahiliah Sempit |
+> | :--- | :--- | :--- |
+> | **Paksi Ikatan** | Akidah Tauhid & Keadilan Syariat | Sempadan tanah & warna kulit |
+> | **Hubungan Antara Bangsa**| Persaudaraan sejagat & saling membantu | Permusuhan, syak wasangka & hegemoni |
+> | **Kesan Kemanusiaan** | Menyelamatkan dunia di bawah panji Allah | Menyalakan peperangan & kemusnahan ummah |
+>
+> 🌍 **Misi Penyelamat:** *"Siapakah lagi yang mampu menyelamatkan dunia daripada api permusuhan asabiyyah melainkan dakwah yang menghimpunkan manusia secara perkasa di sekeliling panji keadilan Allah?"*
 
 ---
 
 ### 16. Impian Semalam Adalah Realiti Hari Ini (أحلام الأمس و حقائق اليوم)
 
-Kata-kata ini mungkin sudah terlalu lama tidak didengari oleh umat Islam, sehingga ia kelihatan asing dan sukar difahami oleh mereka. Boleh jadi ada yang berkata: "Mengapakah jemaah ini menulis tentang makna-makna yang mustahil dicapai ini? Mengapakah mereka berenang di alam khayalan dan angan-angan?"
-Bertenanglah, wahai saudara-saudaraku se-Islam dan seakidah! Sesungguhnya apa yang kamu lihat pada hari ini sebagai perkara yang kabur dan jauh, pada pandangan generasi awal Islam adalah perkara asas yang amat dekat (badīhī qarīb). Dan jihad kamu tidak akan berbuah sehinggalah perkara ini menjadi jelas demikian juga dalam pandangan kamu. Percayalah, kaum muslimin terdahulu memahami daripada Al-Quran tatkala pertama kali dibacakan kepada mereka apa yang kami bentangkan kepada kamu pada hari ini.
+Kata-kata ini mungkin sudah terlalu lama tidak didengari oleh umat Islam, sehingga ia kelihatan asing dan sukar difahami oleh mereka. Boleh jadi ada yang berkata: *"Mengapakah jemaah ini menulis tentang makna-makna yang mustahil dicapai ini? Mengapakah mereka berenang di alam khayalan dan angan-angan?"*
+
+Bertenanglah, wahai saudara-saudaraku se-Islam dan seakidah! Sesungguhnya apa yang kamu lihat pada hari ini sebagai perkara yang kabur dan jauh, pada pandangan generasi awal Islam adalah perkara asas yang amat dekat (*badīhī qarīb*). Dan jihad kamu tidak akan berbuah sehinggalah perkara ini menjadi jelas demikian juga dalam pandangan kamu. Percayalah, kaum muslimin terdahulu memahami daripada Al-Quran tatkala pertama kali dibacakan kepada mereka apa yang kami bentangkan kepada kamu pada hari ini.
 
 > **۞ أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌۭ مِّنْهُمْ فَـٰسِقُونَ ۝١٦**
 >
@@ -537,8 +575,20 @@ Bertenanglah, wahai saudara-saudaraku se-Islam dan seakidah! Sesungguhnya apa ya
 > — **Surah al-Ḥadīd: 16**
 
 Saya berterus-terang kepada kamu bahawa inilah akidah yang menjadi nafas hidup para anggota Ikhwanul Muslimin. Dengannya mereka mengharapkan kebaikan dan di atas jalannya mereka bersedia mati. Mereka melihat padanya segala kenikmatan, keindahan, kebahagiaan dan kebenaran yang didambakan oleh jiwa mereka:
+
 Wahai Ikhwan! Jika kamu bersetuju dengan kami di atas asas ini, maka ketahuilah bahawa penisbahan kamu kepada Allah mewajibkan kamu menghargai tugas yang dipikulkan ke atas pundak kamu, lalu kamu bangkit beramal dan berkorban di jalannya. Maka adakah kamu bersedia melaksanakannya?
 
+---
+
+> ### 🌅 INFOGRAFIK PEDAGOGI: 3 FASA TRANSFORMASI SEJARAH (أحلام وحقائق)
+>
+> | Fasa Transformasi | Ciri-Ciri Sunnatullah | Pengajaran Haraki |
+> | :--- | :--- | :--- |
+> | **1. Impian Semalam (*Aḥlāmul-Ams*)** | Gagasan awal yang dicemuh oleh golongan skeptis | Setiap kebangkitan besar bermula drpd cita-cita keimanan |
+> | **2. Amal & Kesabaran (*Al-Jahd waṣ-Ṣabr*)** | Pengorbanan berterusan generasi amilin | Menyambung mata rantai perjuangan tanpa putus asa |
+> | **3. Realiti Hari Ini (*Ḥaqā’iqul-Yaum*)** | Janji Allah terlaksana menjadi fakta sejarah | Kejayaan adalah milik mereka yang yakin dan istiqamah |
+>
+> 🧭 **Keyakinan Haraki:** *"Apa yang dianggap khayalan semalam telah menjadi kenyataan hari ini! Gagasan kebangkitan Islam bukanlah angan-angan kosong, melainkan hakikat pasti yang sedang dibina oleh rijal yang beriman!"*
 
 ---
 
