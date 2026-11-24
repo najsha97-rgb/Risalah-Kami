@@ -103,13 +103,15 @@ Keadaan seperti saudaraku ini amat banyak kami temui dalam kalangan saudara-saud
   Kisah ini seumpama apa yang diceritakan: kononnya seorang nelayan telah berjaya menangkap seekor ikan yang besar. Tiba-tiba dia melihat di dasar air seketul kulit kerang yang disangkanya mengandungi sebutir mutiara berharga. Maka dia mencampakkan ikan yang telah berada di tangannya lalu menyelam mengambil kulit kerang tersebut. Apabila dibukanya, kerang itu kosong tiada mutiara, lalu dia menyesali kecuaiannya. Tidak lama kemudian dia menangkap seekor anak ikan kecil, lalu terpandang pula sebutir mutiara yang sebenar di dalam air, namun dia menyangkanya hanyalah kulit kerang kosong yang menipu. Maka dia mengabaikan mutiara itu dan berpada dengan anak ikan kecilnya, lalu terlepaslah daripadanya limpahan kekayaan yang amat bernilai!
   Atau seumpama kisah seekor itik di sebuah kolam: ia melihat bayang-bayang di dalam air lalu menyangkanya seekor ikan. Maka ia menjunamkan paruhnya berkali-kali untuk menangkapnya sehinggalah ia keletihan dan meninggalkannya dalam keadaan marah dan kecewa. Selepas itu, seekor ikan yang sebenar berenang melintas di hadapannya, tetapi itik itu menyangkanya hanyalah bayang-bayang ilusi yang menipu lalu ia membiarkannya pergi. Akibatnya ia terlepas peluang keemasan dan rugi daripada memperolehi makanan yang dihajatinya!
 
+Inilah nota-nota peringatan jujur yang kami bentangkan di hadapan anak-anak Islam yang ikhlas bersemangat yang mendambakan amal untuk Islam; dan kami berkeyakinan ia amat wajar diberi pertimbangan yang mendalam.
+Kami menyeru mereka dengan seruan Ikhwanul Muslimin: Hendaklah mereka mencuba dan tidak berpangku tangan; hendaklah mereka berpadu tenaga—sekiranya mereka melihat kebaikan maka sokonglah ia, dan sekiranya mereka melihat kebengkokan maka luruskanlah ia! Jangan sesekali pengalaman lalu yang pahit menjadi dinding penghalang antara diri mereka dengan kemaraan ke hadapan. Kami menaruh harapan yang tinggi bahawa mereka akan menyaksikan dalam diri Ikhwan apa yang menyejukkan pandangan mata mereka, insya-Allah Ta‘ālā; dan kami akan merumuskan sebahagian daripada bukti amali tersebut dalam fasal-fasal yang menyusul.
+
+  Hayati Permisalan al-Quran al-Karim
+
 > **أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ ۝**
 >
 > *"Maka adakah orang yang berjalan teraba-raba terjerumus di atas mukanya lebih mendapat hidayah petunjuk, ataukah orang yang berjalan tegak tegap di atas jalan yang lurus?"*
 > — **Surah Al-Mulk (67): 22**
-
-Inilah nota-nota peringatan jujur yang kami bentangkan di hadapan anak-anak Islam yang ikhlas bersemangat yang mendambakan amal untuk Islam; dan kami berkeyakinan ia amat wajar diberi pertimbangan yang mendalam.
-Kami menyeru mereka dengan seruan Ikhwanul Muslimin: Hendaklah mereka mencuba dan tidak berpangku tangan; hendaklah mereka berpadu tenaga—sekiranya mereka melihat kebaikan maka sokonglah ia, dan sekiranya mereka melihat kebengkokan maka luruskanlah ia! Jangan sesekali pengalaman lalu yang pahit menjadi dinding penghalang antara diri mereka dengan kemaraan ke hadapan. Kami menaruh harapan yang tinggi bahawa mereka akan menyaksikan dalam diri Ikhwan apa yang menyejukkan pandangan mata mereka, insya-Allah Ta‘ālā; dan kami akan merumuskan sebahagian daripada bukti amali tersebut dalam fasal-fasal yang menyusul.
 
 
 ---
