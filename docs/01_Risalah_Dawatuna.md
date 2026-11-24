@@ -64,7 +64,11 @@ Menegaskan bahawa dakwah Islam tidak menerima komitmen separuh masa atau tawar-m
 Menyeru manusia kepada suatu prinsip (al-mabda') yang jelas, kukuh batasannya, dan disepakati oleh seluruh umat iaitu Islam itu sendiri. Kebahagiaan dan kejayaan umat manusia hanya akan tercapai apabila mereka berpegang kepada prinsip yang telah terbukti membina tamadun teragung dunia ini.
 
 ### [FASAL 08 • KEIMANAN HIDUP] 8. Dua Jenis Keimanan: Lesu vs Menyala-Nyala (إيمانان - Īmānāni)
-Membezakan antara iman yang lesu, terbius, dan pasif di dalam dada masyarakat dengan keimanan sejati yang hidup, menyala-nyala, dan mencetuskan amal pembaharuan. Ikhwanul Muslimin bertekad menghidupkan semula bara keimanan agar ia bergerak memandu tindakan dan memimpin realiti kehidupan.
+Membezakan secara kontras antara dua jenis keimanan dalam jiwa masyarakat berhadapan tanggungjawab amal pembaharuan:
+
+⚡ **INFOGRAFIK KONTRAS DUA JENIS KEIMANAN:**
+* 💤 **1. Iman Terbius & Lesu** (*Īmānun Nā’im wa Khādir*) ➔ Bersemangat di pentas pidato tetapi leka selepas majlis bersurai. ⚠️ *Gejala:* Tiada amal nyata, kontradiksi peribadi & hanyut dalam kelesuan.
+* 🔥 **2. Iman Hidup & Membara** (*Īmānun Mulhattib wa Yaqiẓ*) ➔ Sentiasa terjaga, perkasa dan memandu tindakan realiti. ✅ *Tuntutan:* Tunduk kepada hukum syariat, istiqamah beramal & rela berkorban demi menegakkan prinsip.
 
 ### [FASAL 09 • ANALISIS ZAMAN] 9. Gelombang Seruan & Ideologi Semasa (دعوات - Da‘awāt)
 Menganalisis pertembungan pelbagai ideologi, doktrin politik, dan teori moden di Timur dan Barat yang saling bersaing merebut pengaruh jiwa manusia. Di tengah-tengah kebingungan ini, dakwah Islam hadir sebagai satu-satunya sistem hidup rabbani yang mampu memuaskan akal dan menenteramkan jiwa manusia sejagat.
@@ -257,6 +261,12 @@ Namun begitu gelora ucapan reda dan majlis bersurai, setiap orang melupakan keim
 Tidakkah engkau tersenyum hairan tatkala melihat seorang tokoh pemikir, aktivis, dan cendekiawan dalam dua jam yang berdampingan pada siang hari: dalam satu jam dia menjadi ateis bersama kaum ateis, dan pada jam berikutnya dia menjadi ahli ibadah bersama kaum yang beribadah?!
 
 Kelesuan, kelupaan, kelalaian, lena tidur, atau apa jua istilah yang engkau kehendaki inilah yang mendorong kami berusaha membangunkan kembali **Prinsip Kita** — yang hakikatnya adalah prinsip yang telah diakui oleh kaum kami — di dalam jiwa umat yang kami cintai ini.
+
+> ⚡ **[RUMUSAN PEDAGOGI KONTRAS DUA JENIS KEIMANAN]**
+> Al-Imam Hasan al-Banna menganalisis jurang antara dua jenis keimanan dalam jiwa masyarakat:
+> 1. 💤 **Iman Terbius & Lesu (إيمان مخدر ونائم)** ➔ Berkhayal mahu meruntuhkan gunung ketika berpidato, tetapi leka dan tiada amal nyata selepas majlis bersurai.
+> 2. 🔥 **Iman Hidup & Membara (إيمان ملتهب ويقظ)** ➔ Sentiasa terjaga, memandu tingkah laku harian, tunduk kepada syariat, dan sedia berkorban secara berterusan.
+
 
 ---
 
