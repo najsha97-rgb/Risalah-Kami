@@ -212,7 +212,12 @@ Jika demikian hakikatnya realiti dunia hari ini, maka apakah sebenarnya misi dan
 > — **Surah At-Taḥrīm (66): 6**
 
   7. Sistem Pembinaan Sahsiah Peribadi (نظام الفرد في سلوكه الخاص)
-  Membentuk peribadi insan yang merdeka jiwanya, bersih hatinya, mantap akidahnya, dan luhur budi pekertinya mengikut akhlak Nabawi.
+  Membentuk peribadi insan yang merdeka jiwanya, bersih hatinya, mantap akidahnya, dan luhur budi pekertinya mengikut akhlak Nabawi, bagi merealisasikan kejayaan yang dimaksudkan oleh firman Allah Taala:
+
+> **قَدْ أَفْلَحَ مَن زَكَّىٰهَا ۝**
+>
+> *"Sesungguhnya berjayalah orang yang menyucikan jiwanya."*
+> — **Surah Asy-Syams (91): 9**
 
   8. Roh Kepimpinan dan Amanah Umum (الروح العام في الأمة)
   Roh ketuhanan yang menguasai setiap jiwa rakyat dan pemimpin, mengimbangi antara tuntutan akhirat dan keperluan duniawi tanpa melakukan kerosakan:
