@@ -45,7 +45,7 @@ Menghuraikan impak luar biasa andai wujud sebuah kerajaan Islam yang berdaulat, 
 Menolak empat pengelasan sempit: Ikhwan bukanlah parti politik partisan, bukan persatuan kebajikan biasa, bukan tarekat sufi pasif, dan bukan kelab sukan terhad. Fikrah ini adalah Islam itu sendiri dalam kesyumulan akidah, ibadah, perundangan, dan peradaban (Identiti Rabbani: Fikrah, Akidah, Nizam dan Manhaj).
 
 ### [FASAL 12 • SERUAN KETEGUHAN BAI‘AH] 12. Khatimah Haraki: Seruan Keteguhan Langkah & Bai‘ah Perjuangan (خاتمة حركية)
-Menggemakan pesanan terakhir yang membakar semangat agar para pejuang tidak merendahkan martabat dakwah atau berkompromi dengan kebatilan. Menuntut bai‘ah amal, kesabaran menanggung onak duri perjalanan, serta keyakinan bulat bahawa masa depan adalah milik Islam.
+Menggemakan pesanan terakhir yang membakar semangat agar para pejuang tidak merendahkan martabat dakwah atau berkompromi dengan kebatilan. Menuntut bai‘ah amal, kesabaran menanggung onak duri perjalanan, serta keyakinan bulat bahawa masa depan adalah milik Islam. Kemuliaan itu kepada mereka yang menerima seruan kebenaran, beriman dengannya dan bergerak berjuang dalam kesatuan.
 
 ---
 

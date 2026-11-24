@@ -1625,7 +1625,7 @@ var RISALAH_DATA = [
       {
         "badge": "FASAL 12 • SERUAN KETEGUHAN BAI‘AH",
         "title": "12. Khatimah Haraki: Seruan Keteguhan Langkah & Bai‘ah Perjuangan (خاتمة حركية)",
-        "brief": "Menggemakan pesanan terakhir yang membakar semangat agar para pejuang tidak merendahkan martabat dakwah atau berkompromi dengan kebatilan. Menuntut bai‘ah amal, kesabaran menanggung onak duri perjalanan, serta keyakinan bulat bahawa masa depan adalah milik Islam.",
+        "brief": "Menggemakan pesanan terakhir yang membakar semangat agar para pejuang tidak merendahkan martabat dakwah atau berkompromi dengan kebatilan. Menuntut bai‘ah amal, kesabaran menanggung onak duri perjalanan, serta keyakinan bulat bahawa masa depan adalah milik Islam. Kemuliaan itu kepada mereka yang menerima seruan kebenaran, beriman dengannya dan bergerak berjuang dalam kesatuan.",
         "start_sec": 11
       }
     ],
