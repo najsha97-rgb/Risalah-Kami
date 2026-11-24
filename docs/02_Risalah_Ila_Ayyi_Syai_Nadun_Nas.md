@@ -7,6 +7,102 @@
 
 ---
 
+## 📌 RINGKASAN INTISARI ILMIAH SETIAP FASAL (30 FASAL)
+
+Risalah *Ilā Ayyi Syai’in Nad‘ūn-Nās? (Kepada Apakah Kita Menyeru Manusia?)* merupakan manifesto haraki yang membongkar matlamat kewujudan umat Islam dan asas peradaban rabbani. Berikut adalah intisari eksekutif bagi setiap 30 fasal secara terperinci:
+
+### [FASAL 01 • MUKADIMAH] 1. Mukadimah (تمـهـيد - Tamhīd)
+Menegaskan kepentingan menetapkan neraca kefahaman yang tepat sebelum memulakan dialog dakwah agar tidak timbul salah faham dan kekeliruan fikrah. Imam Hasan al-Banna mengajak pembaca meneliti seruan Ikhwan dengan minda yang terbuka dan adil, melangkaui khabar angin dan prasangka luaran.
+
+### [FASAL 02 • NERACA PENILAIAN] 2. Neraca Penilaian (المقياس - Al-Miqyās)
+Meletakkan Al-Quran al-Karim sebagai neraca mutlak (al-miqyās) dalam mengukur kebenaran dakwah, matlamat perjuangan, dan wasilah amali. Menyeru seluruh manusia menimbang seruan Ikhwan berpandukan neraca wahyu ini: sekiranya selari maka wajib didokong, dan jika menyimpang maka tolaklah ia.
+
+### [FASAL 03 • SERUAN KASIH SAYANG] 3. Wahai Kaum Kami! (يا قومنا - Yā Qawmanā)
+Menyeru kaum sebangsa dan seakidah dengan penuh rasa kasih sayang yang mendalam, mengingatkan bahawa Al-Quran adalah mukjizat agung yang memadukan usul akidah dan kaedah kemasyarakatan. Kitabullah hadir bukan sekadar bacaan ritual, tetapi pedoman pembina tamadun yang pernah mengeluarkan manusia daripada kegelapan jahiliah.
+
+### [FASAL 04 • MATLAMAT KEHIDUPAN] 4. Matlamat Kehidupan Menurut Al-Quran (غاية الحياة في القرآن - Ghāyatul-Ḥayāh fil-Qur’ān)
+Mengklasifikasikan haluan hidup manusia kepada 4 orientasi menurut Al-Quran: (1) pemburu syahwat haiwani, (2) pengejar perhiasan duniawi fana, (3) penyebar fitnah kerosakan, dan (4) para mukmin yang mengabdikan hidup demi memimpin manusia ke jalan kebenaran (al-wisāyah).
+
+### [FASAL 05 • KEWALIAN RABBANI] 5. Kewalian Muslim: Pengorbanan, Bukan Eksploitasi (وصاية المسلم تضحية لا استفادة - Wiṣāyatul-Muslim)
+Menghuraikan hakikat kepimpinan duniawi mukmin (wiṣāyatul-muslim): ia adalah kontrak perhambaan kepada Allah melalui bai'ah jual beli jiwa raga (Surah At-Tawbah: 111). Kewalian ini bertujuan membimbing dan berkorban demi keadilan manusia, bukan untuk menjajah, mengaut kekayaan, atau menindas bangsa lain.
+
+### [FASAL 06 • MUHASABAH UMAT] 6. Di Manakah Umat Islam daripada Matlamat Ini? (أين المسلمون من هذه الغاية؟)
+Membuat muhasabah pedih terhadap kemerosotan umat Islam moden yang hanyut mengejar kebendaan dan terpesona dengan acuan hidup penjajah Barat. Menyeru umat kembali menghayati matlamat kewalian rabbani agar maruah peradaban mereka yang hilang dapat dipulihkan semula.
+
+### [FASAL 07 • KETETAPAN MATLAMAT] 7. Matlamat Adalah Asas Segala Tindakan (الغاية أصل الأعمال - Al-Ghāyatu Aṣlul-A‘māl)
+Menegaskan kaedah falsafah haraki bahawa kejelasan matlamat adalah penentu ketepatan wasilah dan tindakan. Kerancuan hidup umat hari ini berpunca daripada hilangnya kompas matlamat kewujudan, lalu Ikhwan tampil menggariskan semula tujuan asasi penciptaan insan.
+
+### [FASAL 08 • SUMBER SAHIH] 8. Sumber-Sumber Rujukan Matlamat Kami (مصادر غايتنا - Maṣādiru Ghāyatinā)
+Mengisytiharkan bahawa matlamat dakwah Ikhwan bukanlah rekaan fikiran manusia atau ideologi ciptaan semasa, sebaliknya dipetik secara murni daripada Kitabullah, Sunnah Nabawiyyah, dan keteladanan generasi Salafus Soleh yang terbukti melahirkan peradaban agung.
+
+### [FASAL 09 • PENGORBANAN PEMUDA] 9. Renungan Terbuka: Pengorbanan Jiwa Pemuda Dakwah (استطراد - Istiṭrād)
+Menjawab kekaguman pemerhati terhadap kebangkitan luar biasa para pemuda Ikhwan yang sanggup meninggalkan kemewahan dunia demi jalan dakwah. Rahsianya terletak pada sentuhan nurani keimanan yang menyedarkan mereka bahawa pengorbanan di jalan Allah adalah semulia-mulia perniagaan akhirat.
+
+### [FASAL 10 • KEWANGAN MANDIRI] 10. Dari Manakah Datangnya Wang/Dana? (من أين المال ؟ - Min Ainal-Māl?)
+Membongkar persoalan sumber pembiayaan gerakan: dakwah ini dibiayai sepenuhnya oleh wang poket para anggotanya sendiri yang berkorban daripada nafkah harian mereka. Menolak kebergantungan kepada dana asing atau bantuan bersyarat demi memelihara kedaulatan, maruah, dan kebebasan membuat keputusan dakwah.
+
+### [FASAL 11 • POLITIK ISLAM] 11. Kami dan Politik Siasah (نحن و السياسة - Naḥnu was-Siyāsah)
+Memperjelaskan pendirian harakah terhadap politik: jika politik dimanifestasikan sebagai pembebasan tanah air, kedaulatan syariat, dan kemaslahatan rakyat, maka itulah intipati Islam. Namun jika politik bermaksud fanatik kepartian dan perebutan kuasa kotor, maka Ikhwan berlepas diri daripadanya.
+
+### [FASAL 12 • KEBANGSAAN RABBANI] 12. Kebangsaan Kami dan Di Atas Asas Apakah Ia Berpijak? (قوميتنا وعلى أي أساس ترتكز؟)
+Menolak faham kebangsaan sekular yang membataskan kesetiaan pada sempadan tanah dan warna kulit. Menegaskan bahawa asas kebangsaan seorang muslim berpijak di atas kalimah Tauhid: setiap muslim adalah saudara sebangsa, dan setiap bumi yang bertauhid adalah tanah airnya.
+
+### [FASAL 13 • KEMULIAAN AKIDAH] 13. Tiada Kemuliaan Melebihi Ini (ليس بعد ذلك عزة - Laisa Ba‘da Zālik ‘Izzah)
+Membandingkan kebanggaan manusia terhadap jasa nenek moyang fana dengan kemuliaan mukmin yang bernasabkan wahyu Allah. Menegaskan bahawa tiada lagi darjat kemuliaan yang lebih tinggi daripada menjadi hamba Allah dan pengikut setia Rasulullah ﷺ.
+
+### [FASAL 14 • KEKUATAN TAUHID] 14. Sumber Kekuatan yang Paling Agung (أعظم مصادر القوة - A‘ẓamu Maṣādiril-Quwwah)
+Mendedahkan bahawa sumber kekuatan teragung seorang muslim berakar umbi daripada keyakinan mutlak kepada Allah yang Maha Berkuasa. Mukmin yang bersandar kepada Allah tidak akan gentar menghadapi sebarang ancaman kuasa zalim di muka bumi ini.
+
+### [FASAL 15 • NASAB TERTINGGI] 15. Kebangsaan Kami Bernasab Luhur (قوميتنا عالية النسبة - Qawmiyyatunā ‘Āliyatu-Nisbah)
+Menegaskan bahawa nasab kebangsaan Islam adalah nasab yang paling suci kerana ia berasaskan ketakwaan dan penyembahan kepada Tuhan Yang Maha Esa (Surah Al-Hujurat: 13), melangkaui ikatan tanah, darah, dan kasta ciptaan manusia.
+
+### [FASAL 16 • REALITI IMPIAN] 16. Impian Semalam Adalah Realiti Hari Ini (أحلام الأمس و حقائق اليوم)
+Menangkis tuduhan skeptis bahawa gagasan kesatuan khilafah Islam adalah angan-angan mustahil. Menegaskan hukum sejarah bahawa apa yang dianggap mimpi pada masa lampau telah menjadi realiti hari ini berkat keimanan, kesabaran, dan kesinambungan amal pejuang.
+
+### [FASAL 17 • MISI SEORANG MUSLIM] 17. Misi Seorang Muslim (مهمة المسلم)
+Merumuskan misi asasi setiap muslim berpandukan Surah Al-Hajj (ayat 77–78): menunaikan ibadah peribadi (solat, ruku', sujud), melaksanakan kebajikan sosial, dan menggalas jihad fi sabilillah demi membimbing kemanusiaan kepada nur Islam.
+
+### [FASAL 18 • HAK KEMANUSIAAN] 18. Hak Kemanusiaan (حق الإنسانية)
+Menghuraikan hak manusia sejagat untuk menerima hidayah wahyu. Menjadi kewajipan umat Islam menyampaikan dakwah dengan hujah dan hikmah, serta membebaskan manusia daripada belenggu kezaliman sistem ciptaan hawa nafsu.
+
+### [FASAL 19 • HAK & KEKUATAN] 19. Mengawal Kebenaran dengan Kekuatan (حراسة الحق بالقوة - Ḥirāsatul-Ḥaqqi bil-Quwwah)
+Mengemukakan falsafah bahawa kebenaran yang tidak dikawal oleh kekuatan akan mudah dipijak oleh kebatilan. Islam mewajibkan persediaan kekuatan fizikal dan ketenteraan semata-mata untuk memelihara kedamaian, mempertahankan keadilan, dan menghalang pencerobohan zalim.
+
+### [FASAL 20 • KESEIMBANGAN SYAKHSIYAH] 20. Rahib di Malam Hari, Pahlawan di Siang Hari (رهبان بالليل فرسان بالنهار - Ruhbānun bil-Lail Fursānun bin-Nahār)
+Memaparkan model keseimbangan syakhsiyah generasi sahabat: bermunajat khusyuk dan menangis di hadapan Allah pada kegelapan malam, namun tangkas memacu kuda jihad menegakkan kebenaran pada siang hari tanpa gentar.
+
+### [FASAL 21 • PEMBUKAAN ISLAM] 21. Pembukaan Sebagai Bimbingan dan Pengislahan (الفتح إرشاد وإصلاح - Al-Fatḥu Irsyādun wa Iṣlāḥ)
+Menegaskan bahawa pembukaan kota-kota (futuhat) oleh tentera Islam pada zaman salaf berteraskan misi islah, bimbingan, dan keadilan sejagat; sangat berbeza dengan penjajahan kuasa Barat yang rakus merompak kekayaan dan mencabuli kemerdekaan bangsa jajahan.
+
+### [FASAL 22 • KESEDARAN BANGKIT] 22. Sudah Tiba Masanya untuk Kita Fahami (آن لنا أن نفهم - Āna Lanā An Nafham)
+Menyeru umat Islam bangkit daripada lena kelalaian dan memahami semula hakikat risalah mereka. Menegaskan bahawa masa untuk berdebat secara teoritikal telah berlalu, dan kini tiba masanya beramal secara tersusun untuk menyelamatkan masa depan ummah.
+
+### [FASAL 23 • TITIK PERMULAAN] 23. Dari Mana Kita Bermula? (من أين نبدأ؟ - Min Aina Nabda'?)
+Menjawab soalan pokok kebangkitan: kebangkitan umat mestilah bermula dengan membina jiwa insan (tarbiyatun-nufūs) berasaskan iman, perpaduan, dan cita-cita pengorbanan sebelum melangkah kepada perubahan struktur undang-undang dan kenegaraan.
+
+### [FASAL 24 • ROH VS KEBENDAAN] 24. Antara Dua Kekuatan: Rohani dan Kebendaan (بين القوتين: الروح والمادة - Bainal-Quwwatain)
+Menepis anggapan bahawa kekurangan kelengkapan kebendaan menghalang kemenangan. Menegaskan bahawa kekuatan rohani, kecekalan jiwa, dan pergantungan kepada Allah adalah penentu utama yang mengatasi jentera kebendaan sebagaimana dibuktikan dalam Perang Badar.
+
+### [FASAL 25 • MANHAJ SYUMUL] 25. Manhaj yang Jelas dan Syumul (المنهاج الواضح - Al-Minhājul-Wāḍiḥ)
+Membentangkan keunggulan manhaj Islam yang merangkumi segenap sudut: akidah yang membebaskan fikiran, ibadah yang membersihkan jiwa, perundangan yang adil, serta akhlak yang meninggikan martabat kemanusiaan.
+
+### [FASAL 26 • TUNTUTAN ITTIBA‘] 26. Kita Wajib Mengikut Syariat Islam (لا بد من أن نتبع - Lā Budda An Nattabi‘)
+Menegaskan kewajipan qat'i bagi pemerintah dan rakyat untuk tunduk kepada syariat Allah dalam segenap perundangan negara, seraya menolak hukum ciptaan manusia yang bercanggah dengan wahyu Ilahi.
+
+### [FASAL 27 • LIMA TUNTUTAN ISLAH] 27. Awasilah Penyimpangan: Lima Tuntutan Perundangan & Sosial (احذروا الانحراف - Iḥdharūl-Inḥirāf)
+Memberi amaran keras terhadap bahaya taklid buta kepada Barat. Mengemukakan lima tuntutan islah mendesak: (1) Perundangan Islam, (2) Reformasi Pendidikan, (3) Pemeliharaan Adab Awam, (4) Pembanterasan Riba & Kezaliman Ekonomi, dan (5) Persaudaraan Sejagat.
+
+### [FASAL 28 • PERSAUDARAAN SEJAGAT] 28. Persaudaraan Sejagat & Ufuk Tanah Air Islam (أخوة تعلن الإنسانية - Ukhuwwatun Tu‘linul-Insāniyyah)
+Mengisytiharkan dua buah hasil agung ukhuwah Islamiah: (1) peleburan perkauman sempit dalam persaudaraan insan sejagat, dan (2) perluasan tanah air Islam yang merangkumi setiap bumi tempat dilaungkan syahadah.
+
+### [FASAL 29 • JALAN PANJANG DAKWAH] 29. Jalan Ini Panjang, Namun Tiada Jalan Lain Selainnya (طريق طويلة ... و الواجب أولاً - Ṭarīqun Ṭawīlah)
+Mengakui bahawa jalan dakwah ini panjang, berliku, dan penuh mehnah tribulasi; namun ia adalah satu-satunya jalan keselamatan. Menyeru para pejuang mendahulukan kewajipan amal berbanding menuntut hak, serta bersabar menanti janji pertolongan Allah.
+
+### [FASAL 30 • MODEL SUNNAH KEBANGKITAN] 30. Sunnah Kebangkitan: Model 5 Fasa Pembinaan Bangsa Melalui Kisah Nabi Musa AS (قصة أمة تتكون - Qiṣṣatu Ummatin Tatakawwan)
+Membentangkan model 5 fasa sunnatullah dalam pembentukan umat berpandukan Surah Al-Qasas: (1) Kelemahan & Penindasan, (2) Hidayah & Pilihan Pemimpin, (3) Pentarbiyahan Jiwa, (4) Ujian & Pengorbanan, dan (5) Kemenangan & Tamkin (Kekuasaan Memakmurkan Bumi).
+
+---
+
 ### 1. Mukadimah (تمـهـيد - Tamhīd)
 
 Bismillāhir-Raḥmānir-Raḥīm.
