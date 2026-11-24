@@ -44,16 +44,18 @@ Menegaskan kaedah falsafah haraki: matlamat menentukan ketepatan wasilah dan keb
 Mengisytiharkan tripod tiga sumber rujukan utama manhaj dakwah: (1) **Al-Quran al-Karim** sebagai mata air wahyu yang jernih, (2) **As-Sunnah an-Nabawiyyah** sebagai teladan praktikal maksum, dan (3) **Sirah Salafus Soleh** sebagai bukti sejarah *Khairu Ummah*. Menolak sebarang ideologi ciptaan fana dan teori Barat yang tempang.
 
 ### [FASAL 09 • PENGORBANAN PEMUDA] 9. Renungan Terbuka: Pengorbanan Jiwa Pemuda Dakwah (استطراد - Istiṭrād)
-Menjawab kekaguman pemerhati terhadap kebangkitan luar biasa para pemuda Ikhwan yang sanggup meninggalkan kemewahan dunia demi jalan dakwah. Rahsianya terletak pada sentuhan nurani keimanan yang menyedarkan mereka bahawa pengorbanan di jalan Allah adalah semulia-mulia perniagaan akhirat.
+Menjawab kekaguman pemerhati terhadap kebangkitan luar biasa para pemuda Ikhwan yang sanggup meninggalkan kemewahan dunia demi jalan dakwah. Memperincikan **Tiga Dimensi Pengorbanan Pemuda**: (1) Minda & Waktu yang berjaga malam memikirkan umat, (2) Tenaga & Keringat yang beramal tanpa menuntut upah, dan (3) Wang Poket Sendiri yang diinfaqkan daripada nafkah harian yang sempit.
 
 ### [FASAL 10 • KEWANGAN MANDIRI] 10. Dari Manakah Datangnya Wang/Dana? (من أين المال ؟ - Min Ainal-Māl?)
-Membongkar persoalan sumber pembiayaan gerakan: dakwah ini dibiayai sepenuhnya oleh wang poket para anggotanya sendiri yang berkorban daripada nafkah harian mereka. Menolak kebergantungan kepada dana asing atau bantuan bersyarat demi memelihara kedaulatan, maruah, dan kebebasan membuat keputusan dakwah.
+Membongkar falsafah kemandirian pembiayaan dakwah: gerakan ini berdiri tegak di atas tiang keimanan sebelum wang, dan akidah sebelum harta. Membandingkan secara kontras antara **Kemandirian Dana Poket Sendiri** yang melahirkan kebebasan berdaulat dengan **Dana Asing Bersyarat** yang menggadaikan maruah perjuangan.
 
 ### [FASAL 11 • POLITIK ISLAM] 11. Kami dan Politik Siasah (نحن و السياسة - Naḥnu was-Siyāsah)
-Memperjelaskan pendirian harakah terhadap politik: jika politik dimanifestasikan sebagai pembebasan tanah air, kedaulatan syariat, dan kemaslahatan rakyat, maka itulah intipati Islam. Namun jika politik bermaksud fanatik kepartian dan perebutan kuasa kotor, maka Ikhwan berlepas diri daripadanya.
+Memperjelaskan pendirian tegas harakah terhadap politik dengan neraca wahyu:
+- **Politik Daulat Syariat (السياسة الشرعية):** Membebaskan watan daripada penjajah, menegakkan undang-undang Allah, dan membela keadilan rakyat — inilah intipati Islam yang didokong.
+- **Politik Kepartian Sempit (السياسة الحزبية):** Fanatik puak, perebutan kerusi peribadi, fitnah dan perpecahan — Ikhwan berlepas diri daripadanya.
 
 ### [FASAL 12 • KEBANGSAAN RABBANI] 12. Kebangsaan Kami dan Di Atas Asas Apakah Ia Berpijak? (قوميتنا وعلى أي أساس ترتكز؟)
-Menolak faham kebangsaan sekular yang membataskan kesetiaan pada sempadan tanah dan warna kulit. Menegaskan bahawa asas kebangsaan seorang muslim berpijak di atas kalimah Tauhid: setiap muslim adalah saudara sebangsa, dan setiap bumi yang bertauhid adalah tanah airnya.
+Menolak doktrin kebangsaan sempit berasaskan sempadan tanah atau kabilah darah. Menegaskan **Tiga Paksi Kebangsaan Rabbani**: (1) Ikatan Asas Tauhid yang menyatukan setiap muslim, (2) Nasab Tertinggi Takwa melangkaui nasab Qais dan Tamim (*Abī al-Islāmu Lā Aba Lī Siwāh*), dan (3) Ufuk Watan Islam yang merangkumi setiap bumi yang mengesakan Allah.
 
 ### [FASAL 13 • KEMULIAAN AKIDAH] 13. Tiada Kemuliaan Melebihi Ini (ليس بعد ذلك عزة - Laisa Ba‘da Zālik ‘Izzah)
 Membandingkan kebanggaan manusia terhadap jasa nenek moyang fana dengan kemuliaan mukmin yang bernasabkan wahyu Allah. Menegaskan bahawa tiada lagi darjat kemuliaan yang lebih tinggi daripada menjadi hamba Allah dan pengikut setia Rasulullah ﷺ.
@@ -320,17 +322,33 @@ Inilah risalah yang kami serukan kepada kamu dengan penuh ketelusan, tanpa sebar
 ### 9. Renungan Terbuka: Pengorbanan Jiwa Pemuda Dakwah (استطراد - Istiṭrād)
 
 Ramai daripada saudara-saudara kita—yang amat kita kasihi dengan sepenuh hati kita dan kita wakafkan hidup kita demi kebaikan serta kemaslahatan mereka—sering bertanya kepada kami dengan penuh kehairanan:
-"Apakah rahsia di sebalik kesungguhan Ikhwanul Muslimin? Apakah punca pengorbanan luar biasa ini? Dan mengapakah para pemuda kamu rela memerah keringat dan mengorbankan waktu muda mereka tanpa menuntut sebarang habuan?"
+
+*"Apakah rahsia di sebalik kesungguhan Ikhwanul Muslimin? Apakah punca pengorbanan luar biasa ini? Dan mengapakah para pemuda kamu rela memerah keringat dan mengorbankan waktu muda mereka tanpa menuntut sebarang habuan?"*
+
 Alangkah rindunya saya sekiranya saudara-saudara yang bertanya itu dapat melihat sendiri keadaan para pemuda Ikhwanul Muslimin! Mata mereka berjaga malam tatkala manusia lain lena diulit mimpi, akal fikiran mereka sentiasa sibuk memikirkan nasib umat, dan mereka beramal sepanjang malam serta di hujung-hujung siang tanpa mengharapkan sebarang upah bayaran mahupun ganjaran kebendaan.
+
 Setiap seorang daripada mereka mengeluarkan wang saku daripada nafkah hariannya sendiri yang sempit demi membiayai penerbitan risalah dakwah, membantu saudara yang memerlukan, dan menjayakan program kebaikan. Mereka tidak meminta bantuan daripada mana-mana pihak, dan mereka tidak bergantung harap melainkan semata-mata kepada pertolongan Allah Yang Maha Esa.
 
+---
+
+> ### 🌟 INFOGRAFIK PEDAGOGI: 3 DIMENSI PENGORBANAN PEMUDA DAKWAH
+>
+> | Dimensi Pengorbanan | Manifestasi Amali Haraki | Buah & Natijah Rohani |
+> | :--- | :--- | :--- |
+> | **1. Minda & Waktu (*As-Sahar wal-Fikr*)** | Mata berjaga malam memikirkan umat tatkala orang lain tidur | Melahirkan pemikiran strategik & empati ummah |
+> | **2. Tenaga & Keringat (*Al-Jahd wal-Kadh*)**| Beramal sepanjang siang dan malam tanpa mengharapkan upah | Membina ketahanan fizikal & keikhlasan amal |
+> | **3. Wang Poket Sendiri (*Nafaqat al-Jaib*)** | Berinfaq daripada belanja nafkah harian yang sempit | Menjamin kemandirian & maruah perjuangan dakwah |
+>
+> ✨ **Rahsia Pengorbanan Pemuda:** *"Jiwa yang telah disinari nurani keimanan tidak lagi memandang habuan duniawi fana, kerana mereka meyakini bahawa pengorbanan di jalan Allah adalah semulia-mulia perniagaan akhirat!"*
 
 ---
 
 ### 10. Dari Manakah Datangnya Wang/Dana? (من أين المال ؟ - Min Ainal-Māl?)
 
-Saudara-saudara yang memerhatikan Ikhwanul Muslimin dari kejauhan sering kali tertanya-tanya: "Dari manakah datangnya dana bagi membiayai segala aktiviti, pejabat, cawangan, dan penerbitan dakwah yang meluas ini?" Malah ada yang berbisik dengan sangkaan bahawa kami menerima dana luar atau sokongan pihak tertentu.
-Saya menjawab pertanyaan mereka ini dengan jawapan yang tegas dan tulus: Sesungguhnya dakwah keagamaan berdiri tegak di atas tiang keimanan sebelum wang ringgit, dan di atas asas akidah sebelum kemewahan harta benda.
+Saudara-saudara yang memerhatikan Ikhwanul Muslimin dari kejauhan sering kali tertanya-tanya: *"Dari manakah datangnya dana bagi membiayai segala aktiviti, pejabat, cawangan, dan penerbitan dakwah yang meluas ini?"* Malah ada yang berbisik dengan sangkaan bahawa kami menerima dana luar atau sokongan pihak tertentu.
+
+Saya menjawab pertanyaan mereka ini dengan jawapan yang tegas dan tulus: **Sesungguhnya dakwah keagamaan berdiri tegak di atas tiang keimanan sebelum wang ringgit, dan di atas asas akidah sebelum kemewahan harta benda.**
+
 Harta yang sedikit namun disertai keimanan yang besar dan keberkatan yang melimpah ruah adalah jauh lebih mencukupi bagi mencapai kejayaan kaum yang beribadah berbanding limpahan emas berjuta-juta yang kosong daripada roh keikhlasan:
 
 > **يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَيُرْبِى ٱلصَّدَقَـٰتِ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ ۝٢٧٦**
@@ -345,16 +363,41 @@ Dan firman Allah Tabāraka wa Ta‘ālā:
 > *"Dan sesuatu riba (tambahan) yang kamu berikan agar dia bertambah pada harta manusia, maka riba itu tidak menambah pada sisi Allah. Dan apa yang kamu berikan berupa zakat yang kamu maksudkan untuk mencapai keradhaan Allah, maka (yang berbuat demikian) itulah orang-orang yang melipatgandakan (pahalanya)."*
 > — **Surah ar-Rūm: 39**
 
+---
+
+> ### 🪙 INFOGRAFIK PEDAGOGI: DUA PARADIGMA PEMBIAYAAN DAKWAH
+>
+> | Ciri-Ciri Utama | Kemandirian Dana Sendiri (التمويل الذاتي) | Dana Asing & Tajaan Bersyarat |
+> | :--- | :--- | :--- |
+> | **Punca Sumber** | Infaq ikhlas poket anggota & nafkah harian | Pihak luar berkepentingan atau penaja modal |
+> | **Kedaulatan Keputusan**| Merdeka 100%, bebas menyuarakan kebenaran | Terikat dengan telunjuk & agenda penaja luar |
+> | **Natijah Syarak** | **Berkat & Subur:** Allah melipatgandakan pahala | **Haram/Syubhat:** Riba dan bantuan yang melenyapkan maruah |
+>
+> 🛡️ **Prinsip Kemandirian Haraki:** *"Dakwah yang hidup daripada poket warganya sendiri adalah dakwah yang memiliki kedaulatan mutlak dan mustahil dapat dibeli oleh mana-mana kuasa dunia!"*
 
 ---
 
 ### 11. Kami dan Politik Siasah (نحن و السياسة - Naḥnu was-Siyāsah)
 
-Ada pula golongan lain yang mengatakan: "Sesungguhnya Ikhwanul Muslimin adalah puak politik, seruan dakwah mereka adalah dakwah politik, dan di sebalik matlamat keagamaan ini ada cita-cita kuasa yang tersembunyi!"
-Wahai kaum kami! Kami menyeru kamu sedangkan Al-Quran berada di tangan kanan kami, Sunnah Nabawiyyah di tangan kiri kami, dan amalan para Salafus Soleh menjadi teladan ikutan kami. Kami menyeru kamu kepada Islam: akidahnya, ibadahnya, akhlaknya, dan perundangannya.
-Sekiranya pihak yang memegang urusan kepimpinan menamakan tuntutan membebaskan negara daripada belenggu penjajah, memerdekakan rakyat, membersihkan undang-undang daripada pencemaran asing, dan menegakkan syariat Islam sebagai 'politik', maka ketahuilah bahawa itulah politik yang menjadi inti pati Islam dan kami tidak pernah menafikannya!
-Wahai kaum kami: Janganlah kamu terhijab oleh istilah-istilah sehingga kamu buta daripada melihat hakikat yang sebenar. Janganlah nama-nama menutupi matlamat perjuangan yang mulia, dan janganlah kepalsuan luaran memalingkan kamu daripada intisari kebenaran!
+Ada pula golongan lain yang mengatakan: *"Sesungguhnya Ikhwanul Muslimin adalah puak politik, seruan dakwah mereka adalah dakwah politik, dan di sebalik matlamat keagamaan ini ada cita-cita kuasa yang tersembunyi!"*
 
+Wahai kaum kami! Kami menyeru kamu sedangkan **Al-Quran berada di tangan kanan kami, Sunnah Nabawiyyah di tangan kiri kami, dan amalan para Salafus Soleh menjadi teladan ikutan kami.** Kami menyeru kamu kepada Islam: akidahnya, ibadahnya, akhlaknya, dan perundangannya.
+
+Sekiranya pihak yang memegang urusan kepimpinan menamakan tuntutan membebaskan negara daripada belenggu penjajah, memerdekakan rakyat, membersihkan undang-undang daripada pencemaran asing, dan menegakkan syariat Islam sebagai **'politik'**, maka ketahuilah bahawa itulah politik yang menjadi inti pati Islam dan kami berbangga untuk berjuang di atas landasannya!
+
+Namun, sekiranya yang mereka maksudkan dengan politik itu adalah perebutan kuasa kepartian yang sempit, perbalahan merebut kerusi kuasa yang fana, perpecahan saf anak bangsa, serta tipu daya adu domba yang melalaikan daripada membina umat, maka demi Allah, Ikhwanul Muslimin berlepas diri daripadanya dan tidak sekali-kali akan mencemarkan dakwah ini dengan kekotoran tersebut!
+
+---
+
+> ### 🏛️ INFOGRAFIK PEDAGOGI: NERACA DUA WAJAH POLITIK (نحن والسياسة)
+>
+> | Dimensi Siasah | Politik Daulat Syariat (السياسة الشرعية) | Politik Kepartian Sempit (السياسة الحزبية) |
+> | :--- | :--- | :--- |
+> | **Matlamat Utama** | Memerdekakan watan & mendaulatkan syariat Allah | Merebut kerusi kuasa & jawatan peribadi |
+> | **Sikap Terhadap Umat**| Menyatukan saf, membela rakyat & menegakkan keadilan | Memecahbelahkan bangsa & menyalakan taksub puak |
+> | **Hukum & Pendirian** | **Teras Islam:** Wajib didokong & diperjuangkan | **Kotor & Ditolak:** Ikhwan berlepas diri daripadanya |
+>
+> ⚖️ **Ketetapan Haraki:** *"Al-Quran di tangan kanan kami, Sunnah di tangan kiri kami! Sekiranya memperjuangkan kedaulatan syariat dan kemerdekaan tanah air dinamakan politik, maka itulah politik Islam yang kami dokong dan kami sedia berkorban kerananya!"*
 
 ---
 
@@ -408,20 +451,29 @@ Dalam hadis qudsi yang diriwayatkan oleh Rasulullah ﷺ daripada Tuhannya:
 
 Oleh sebab itulah, para Salafus Soleh lebih mengutamakan untuk mengangkat nasab mereka kepada Allah Tabāraka wa Ta‘ālā, dan menjadikan asas hubungan serta paksi amal mereka adalah untuk merealisasikan nasab yang mulia ini. Maka salah seorang daripada mereka bersyair:
 
-> ⚖️ **[SYAIR KEMULIAAN UBUDIYYAH]**
 > **لَا تَدْعُنِي إِلَّا بِيَا عَبْدَهَا ۞ فَإِنَّهُ أَشْرَفُ أَسْمَائِي**
 >
-> *"Janganlah engkau memanggilku melainkan dengan panggilan: Wahai hamba-Nya!
-    Kerana sesungguhnya panggilan kehambaan kepada Allah itulah semulia-mulia namaku."*
+> *“Janganlah engkau memanggilku melainkan dengan panggilan: Wahai hamba-Nya!<br>
+> Kerana sesungguhnya panggilan kehambaan kepada Allah itulah semulia-mulia namaku.”*
 
 Manakala seorang yang lain menjawab pertanyaan orang yang bertanya tentang keturunan bapanya, adakah dia berketurunan Tamim atau Qais:
 
-> ⚖️ **[SYAIR NASAB ISLAM (NAHAR BIN TAUSI‘AH)]**
 > **أَبِي الإِسْلَامُ لَا أَبَ لِي سِوَاهُ ۞ إِذَا افْتَخَرُوا بِقَيْسٍ أَوْ تَمِيمِ**
 >
-> *"Bapaku adalah Islam, tiada bagiku bapa selainnya!
-    Tatkala orang ramai berbangga-bangga dengan keturunan Qais atau Tamim."*
+> *“Bapaku adalah Islam, tiada bagiku bapa selainnya!<br>
+> Tatkala orang ramai berbangga-bangga dengan keturunan Qais atau Tamim.”*
 
+---
+
+> ### 🌍 INFOGRAFIK PEDAGOGI: 3 PAKSI KEBANGSAAN RABBANI BERASASKAN TAUHID
+>
+> | Paksi Kebangsaan | Hakikat Syarak & Haraki | Implikasi Hubungan Ummah |
+> | :--- | :--- | :--- |
+> | **1. Asas Tauhid (*Rābiṭatut-Tawḥīd*)** | Akidah penyembahan Tuhan Yang Esa | Setiap mukmin adalah saudara sebangsa tanpa beza ras |
+> | **2. Nasab Takwa (*Nasabut-Taqwā*)** | *Abī al-Islāmu Lā Aba Lī Siwāh* | Menolak taksub darah kabilah Qais atau Tamim [Al-Hujurat: 13] |
+> | **3. Ufuk Watan (*Ufuq al-Waṭan*)** | Setiap bumi bertauhid adalah tanah air | Sempadan watan tidak disekat garis sempadan kolonial |
+>
+> 🕌 **Nasab Haraki:** *"Bapaku adalah Islam, tiada bagiku bapa selainnya tatkala manusia lain berbangga dengan nasab darah dan keturunan fana! Ubudiyyah kepada Allah adalah semulia-mulia nasab kami!"*
 
 ---
 

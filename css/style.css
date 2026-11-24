@@ -3779,3 +3779,229 @@ body {
 .sumber-banner .creed-text strong {
   color: #FCD34D;
 }
+
+/* ==========================================================================
+   PENGORBANAN PEMUDA, DANA MANDIRI, POLITIK & KEBANGSAAN (R02 F09-F12)
+   ========================================================================== */
+.grid-pemuda-3,
+.grid-qawmiyyah-rabbani-3 {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.65rem;
+}
+
+.grid-dana-2,
+.grid-politik-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+}
+
+.pemuda-card,
+.dana-card,
+.politik-card,
+.qawmiyyah-rabbani-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 09: Pemuda */
+.pemuda-card.waktu {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.pemuda-card.waktu:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.pemuda-card.waktu .pemuda-trait {
+  color: #38BDF8;
+}
+
+.pemuda-card.keringat {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.pemuda-card.keringat:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.pemuda-card.keringat .pemuda-trait {
+  color: #FBBF24;
+}
+
+.pemuda-card.poket {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.pemuda-card.poket:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.pemuda-card.poket .pemuda-trait {
+  color: #34D399;
+}
+
+.pemuda-trait,
+.dana-trait,
+.politik-trait,
+.qawmiyyah-rabbani-trait {
+  font-size: 0.74rem;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.pemuda-sub,
+.dana-sub,
+.politik-sub,
+.qawmiyyah-rabbani-sub {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+/* Fasal 10: Dana */
+.dana-card.mandiri {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.dana-card.mandiri:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.dana-card.mandiri .dana-trait {
+  color: #34D399;
+}
+
+.dana-card.asing {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.dana-card.asing:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.dana-card.asing .dana-trait {
+  color: #F87171;
+}
+
+/* Fasal 11: Politik */
+.politik-card.syariah {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.politik-card.syariah:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.politik-card.syariah .politik-trait {
+  color: #34D399;
+}
+
+.politik-card.hizbi {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.politik-card.hizbi:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.politik-card.hizbi .politik-trait {
+  color: #F87171;
+}
+
+/* Fasal 12: Kebangsaan Rabbani */
+.qawmiyyah-rabbani-card.tauhid {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.qawmiyyah-rabbani-card.tauhid:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.qawmiyyah-rabbani-card.tauhid .qawmiyyah-rabbani-trait {
+  color: #34D399;
+}
+
+.qawmiyyah-rabbani-card.takwa {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.qawmiyyah-rabbani-card.takwa:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.qawmiyyah-rabbani-card.takwa .qawmiyyah-rabbani-trait {
+  color: #FBBF24;
+}
+
+.qawmiyyah-rabbani-card.watan {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.qawmiyyah-rabbani-card.watan:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.qawmiyyah-rabbani-card.watan .qawmiyyah-rabbani-trait {
+  color: #38BDF8;
+}
+
+/* Banners */
+.pemuda-banner,
+.dana-banner,
+.politik-banner,
+.qawmiyyah-rabbani-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.85rem;
+  padding: 0.7rem 0.9rem;
+  border-radius: 8px;
+}
+
+.pemuda-banner {
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.12) 0%, rgba(16, 185, 129, 0.12) 100%);
+  border: 1px solid rgba(14, 165, 233, 0.35);
+}
+.pemuda-banner .creed-text {
+  font-size: 0.78rem;
+  color: #BAE6FD;
+  line-height: 1.45;
+}
+
+.dana-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(245, 158, 11, 0.12) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+.dana-banner .creed-text {
+  font-size: 0.78rem;
+  color: #A7F3D0;
+  line-height: 1.45;
+}
+
+.politik-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(14, 165, 233, 0.12) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+.politik-banner .creed-text {
+  font-size: 0.78rem;
+  color: #D1FAE5;
+  line-height: 1.45;
+}
+
+.qawmiyyah-rabbani-banner {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(16, 185, 129, 0.12) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+}
+.qawmiyyah-rabbani-banner .creed-text {
+  font-size: 0.78rem;
+  color: #FEF3C7;
+  line-height: 1.45;
+}
+.qawmiyyah-rabbani-banner .creed-text strong {
+  color: #FCD34D;
+}
