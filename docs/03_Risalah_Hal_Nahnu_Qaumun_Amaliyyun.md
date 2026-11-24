@@ -198,7 +198,9 @@ Sebaliknya, umat ini wajib mempersiapkan dirinya untuk suatu perjuangan yang pan
 
 Dan umat ini wajib mengetahui bahawa kalimah 'jihad' (*al-jihād*) itu berakar daripada perkataan 'jerih payah' (*al-juhd*), sedangkan *al-juhd* itu adalah keletihan dan kepenatan yang berterusan. Dan tiada kerehatan bersama jihad sehinggalah medan perjuangan meletakkan bebanan senjatanya; dan tatkala fajar subuh menyingsing, barulah rombongan musafir memuji kepayahan perjalanan malam:
 
+> ⚖️ **[PEPATAH ARAB HARAKI • JERIH PAYAH JIHAD]**  
 > **وَعِنْدَ الصَّبَاحِ يَحْمَدُ الْقَوْمُ السُّرَى**  
+>  
 > *"Dan tatkala waktu pagi menjelang tiba, barulah rombongan musafir memuji kepayahan perjalanan malam."*
 
 Dan tiadalah bagi umat ini sebarang kelengkapan bekalan di jalan yang sunyi lagi menggerunkan ini melainkan jiwa yang beriman, keazaman yang kuat lagi benar, kemurahan hati dengan pelbagai pengorbanan, serta keberanian meluru mara tatkala berlakunya malapetaka yang dahsyat. Dan tanpa semua ini, umat pasti akan ditewaskan dalam urusannya dan kegagalan pasti menjadi sekutu akrab anak-anak watannya.

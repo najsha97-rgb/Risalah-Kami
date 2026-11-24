@@ -939,6 +939,18 @@ body {
   text-shadow: 0 0 14px rgba(255, 215, 0, 0.32);
 }
 
+.verse-arabic {
+  font-family: 'Amiri', serif !important;
+  font-size: 1.55rem !important;
+  font-weight: 700 !important;
+  color: var(--gold-amiri, #FBBF24) !important;
+  text-shadow: 0 0 14px rgba(255, 215, 0, 0.35);
+  direction: rtl;
+  text-align: center;
+  line-height: 2.2 !important;
+  margin-bottom: 0.85rem;
+}
+
 /* 2. Terjemahan di Bawah */
 .quran-translation {
   color: var(--text-main);
