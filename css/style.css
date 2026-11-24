@@ -4875,3 +4875,160 @@ body {
   font-size: 0.8rem;
   line-height: 1.45;
 }
+
+
+/* ==========================================================================
+   JALAN INI PANJANG & 5 FASA KEBANGKITAN NABI MUSA AS (R02 F29-F30 FINALE)
+   ========================================================================== */
+.grid-jalan-3 {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.65rem;
+}
+
+.grid-musa-5 {
+  grid-template-columns: repeat(auto-fit, minmax(185px, 1fr));
+  gap: 0.65rem;
+}
+
+.jalan-card,
+.musa-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 29: Jalan Ini Panjang */
+.jalan-card.sosiologi {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.jalan-card.sosiologi:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.jalan-card.sosiologi .jalan-trait {
+  color: #38BDF8;
+}
+
+.jalan-card.sejarah {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.jalan-card.sejarah:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.jalan-card.sejarah .jalan-trait {
+  color: #FBBF24;
+}
+
+.jalan-card.kewajipan {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.jalan-card.kewajipan:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.jalan-card.kewajipan .jalan-trait {
+  color: #34D399;
+}
+
+.jalan-trait,
+.musa-trait {
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.3px;
+  display: block;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+.jalan-sub,
+.musa-sub {
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--text-muted, #94a3b8);
+  display: block;
+}
+
+/* Fasal 30: 5 Fasa Kisah Nabi Musa AS */
+.musa-card.daaf {
+  border-left: 3.5px solid #94A3B8 !important;
+  background: rgba(148, 163, 184, 0.06);
+}
+.musa-card.daaf:hover {
+  background: rgba(148, 163, 184, 0.14);
+  transform: translateY(-1px);
+}
+.musa-card.daaf .musa-trait {
+  color: #CBD5E1;
+}
+
+.musa-card.zaamah {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.musa-card.zaamah:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.musa-card.zaamah .musa-trait {
+  color: #38BDF8;
+}
+
+.musa-card.siraa {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.musa-card.siraa:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.musa-card.siraa .musa-trait {
+  color: #FBBF24;
+}
+
+.musa-card.imaan {
+  border-left: 3.5px solid #8B5CF6 !important;
+  background: rgba(139, 92, 246, 0.06);
+}
+.musa-card.imaan:hover {
+  background: rgba(139, 92, 246, 0.14);
+  transform: translateY(-1px);
+}
+.musa-card.imaan .musa-trait {
+  color: #A78BFA;
+}
+
+.musa-card.intisar {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.14) 0%, rgba(15, 23, 42, 0.7) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  box-shadow: 0 4px 18px rgba(16, 185, 129, 0.18);
+}
+.musa-card.intisar:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.24) 0%, rgba(15, 23, 42, 0.9) 100%);
+  transform: translateY(-2px);
+}
+.musa-card.intisar .musa-trait {
+  color: #34D399;
+}
+
+.jalan-banner,
+.musa-banner {
+  margin-top: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 6px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.45;
+}

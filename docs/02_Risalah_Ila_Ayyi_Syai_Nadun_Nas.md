@@ -1083,6 +1083,17 @@ Maka puak yang manakah antara dua golongan ini yang lebih baik kedudukannya dan 
 > *"Dan (ingatlah) ketika suatu umat di antara mereka berkata: 'Mengapa kamu menasihati kaum yang Allah akan membinasakan mereka atau mengazab mereka dengan azab yang amat keras?' Mereka menjawab: 'Untuk melepaskan diri daripada kesalahan di hadapan Tuhan kamu (ma'dhiratan ilā rabbikum), dan mudah-mudahan mereka bertakwa.' Maka apabila mereka melupakan apa yang telah diperingatkan kepada mereka, Kami selamatkan orang-orang yang melarang daripada perbuatan jahat itu, dan Kami timpakan orang-orang yang zalim itu dengan azab seksa yang amat berat, disebabkan mereka berlaku fasik."*
 > — **Surah Al-A‘rāf (7): 164-165**
 
+---
+
+> ### 🧭 INFOGRAFIK PEDAGOGI: DUA SUDUT PANDANG & PRINSIP AMAL
+>
+> | Sudut Pandang & Disiplin | Hujah & Dalil Realiti | Sikap Amilin Menghadapi Jalan Panjang |
+> | :--- | :--- | :--- |
+> | **🔭 Sudut Sosiologi (*Naẓrah Ijtimā‘iyyah*)** | Hakikat hari ini adalah impian semalam; impian hari ini hakikat esok | Menolak keputusasaan; yakin cita-cita Islam pasti terealisasi |
+> | **📜 Sudut Sejarah (*Naẓrah Tārīkhiyyah*)** | Kebangkitan sentiasa bermula drpd kelemahan & kesabaran | Mengambil teladan kegigihan salafus soleh menundukkan empayar |
+> | **⚡ Kewajipan Dahulu (*Al-Wājibu Awwalan*)** | Tugas kita beramal; hasil kemenangan adalah ketetapan Allah | Terus berjuang tanpa gelisah; andai gugur tetap beroleh syahid |
+>
+> 🧭 **Prinsip Keteguhan:** *"Kewajipan kita adalah beramal di atas jalan kebenaran; hasil dan kemenangan adalah ketetapan Allah yang pasti tiba tepat pada masanya!"*
 
 ---
 
@@ -1205,3 +1216,17 @@ Dan sesungguhnya Al-Quran telah membentangkan di hadapan kita satu model agung s
   
 
 Inilah sunnatullah kebangkitan umat: ia bermula daripada kelemahan, melahirkan kepimpinan rabbani, mengharungi pertembungan sengit, dimatangkan dengan keimanan dan ketabahan menghadapi ujian, dan akhirnya dimahkotakan dengan pertolongan serta kemenangan daripada Allah Yang Maha Perkasa lagi Maha Bijaksana!
+
+---
+
+> ### 👑 INFOGRAFIK PEDAGOGI: 5 FASA SUNNATULLAH KEBANGKITAN NABI MUSA AS
+>
+> | Fasa Kebangkitan | Ujian & Peristiwa Sejarah | Iktibar & Kaedah Sunnatullah |
+> | :--- | :--- | :--- |
+> | **1. Kelemahan (*Al-Ḍa‘f*)** | Penindasan zalim thoghut Firaun terhadap Bani Israel | Kemuncak kezaliman thoghut petanda awal kitaran kehancuran |
+> | **2. Kepimpinan (*Az-Za‘āmah*)** | Kelahiran Musa AS & asuhan wahyu di istana musuh | Perubahan menuntut kepimpinan rabbani berintegriti wahyu |
+> | **3. Pertembungan (*Aṣ-Ṣirā‘*)** | Tekanan berlipat ganda dihadapi dgn sabar & istiqamah | Pertembungan adalah tapisan sunnatullah mematangkan saf |
+> | **4. Kematangan Iman (*Al-Īmān*)** | Pengorbanan total ahli sihir bertaubat mendepani ugutan salib | Kemenangan bermula apabila jiwa merdeka drpd takut manusia |
+> | **5. Kemenangan (*Al-Intiṣār*)** | Laut Merah terbelah menenggelamkan Firaun; pewarisan tamkin | Janji Allah pasti terlaksana bagi hamba yang ikhlas berjuang |
+>
+> 👑 **Khatimah Sunnah Risalah:** *"Bermula daripada kelemahan, melahirkan kepimpinan rabbani, mengharungi pertembungan sengit, dimatangkan iman pengorbanan, dan dimahkotakan pertolongan serta kedaulatan tamkin daripada Allah!"*
