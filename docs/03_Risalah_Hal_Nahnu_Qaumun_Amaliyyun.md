@@ -46,7 +46,16 @@ Bukanlah untuk mereka ini kami menulis, dan bukanlah kepada mereka kami berucap 
 
   Golongan Berjiwa Ikhlas yang Amat Berharga
   Namun, di sana terdapat satu kelompok manusia yang lain: bilangannya sedikit tetapi sumbangan amalnya amat luar biasa; kehadiran mereka jarang ditemui tetapi amat diberkati dan bertuah. Individu daripada golongan inilah yang melontarkan soalan ini kepadamu apabila engkau mengajaknya bersama-sama menyokong dakwah, bukan kerana memperlekeh, tetapi didorong oleh ghirah (cemburu suci terhadap agama) dan keikhlasan yang mendalam! Hatinya dipenuhi rasa cemburu melihat kemuliaan Islam terinjak; dia adalah seorang pejuang yang gigih beramal dan mendambakan jalan amal yang membuahkan hasil agar dia dapat terjun ke dalamnya dengan penuh keberanian. Dia seorang mujahid, namun pandangannya tercari-cari medan yang benar-benar dapat menzahirkan kepahlawanan sejati. Dia telah lama memerhatikan gelagat manusia, mengkaji pelbagai pertubuhan, dan mengamati banyak persatuan, namun belum menemui apa yang dapat memuaskan dahaga jiwanya, menenangkan kegelisahan sanubarinya, menyejukkan gejolak perasaannya, dan memuaskan kesedaran dhamir nuraninya. Seandainya dia menemui jalan itu, nescaya dialah orang pertama yang berdiri di saf hadapan, kekuatannya di medan perjuangan menyamai seribu orang pejuang biasa, dan dialah sang juara yang memecut mendahului di gelanggang para pekerja dakwah!
-  Kepada kelompok insan mulia dan berjiwa bersih inilah saya arahkan bicara dalam risalah ini, dan dengannyalah saya bertukar fikiran serta berkongsi harapan. Penawar hati saya adalah kerana Ikhwanul Muslimin amat menyayangi orang-orang yang ikhlas ini dan amat mendambakan kehadiran mereka, bersedia menundukkan sayap kelembutan dan persaudaraan kepada mereka, serta membuka seluas-luasnya ruang hati dan minda untuk bekerjasama demi menegakkan agama Allah.
+  Kelompok ini merupakan mata rantai yang hilang dan permata idaman yang dicari-cari. Dan saya berkeyakinan penuh bahawa sekiranya seruan ini sampai menyapa ke telinganya, dan lubuk hatinya menyambut bisikan kebenaran ini, dia tidak akan menjadi melainkan salah seorang daripada dua peribadi: sama ada seorang pekerja yang turut beramal bersama para pejuang yang gigih, atau seorang yang menaruh simpati dan kasih sayang daripada kalangan para pencinta dakwah; dan tidak sekali-kali dia akan menjadi selain daripada itu selama-lamanya! Kerana sesungguhnya sekiranya dia belum bersedia berkorban untuk fikrah ini, dia sama sekali tidak akan sesekali memusuhi atau menentangnya.
+
+  Maka kepada kelompok inilah kami menulis... kepada merekalah kami berucap, dan bersama merekalah kami bertukar kefahaman... Dan sesungguhnya Allah Yang Maha Esa jua yang memilih tentera-tentera-Nya dan menyeleksi golongan saf terpilih daripada para pekerja ikhlas untuk agama-Nya:
+
+> **إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ ۝**
+>
+> *"Sesungguhnya engkau (wahai Muhammad) tidak dapat memberi petunjuk kepada sesiapa yang engkau kasihi, tetapi Allah jualah yang memberi petunjuk kepada sesiapa yang dikehendaki-Nya; dan Dialah yang lebih mengetahui tentang orang-orang yang layak menerima petunjuk."*
+> — **Surah Al-Qaṣaṣ (28): 56**
+
+  Dan mudah-mudahan kita diberikan taufik ke arah apa yang kita tuju... Dan sesungguhnya Allah sentiasa menyatakan kebenaran dan Dialah yang memimpin ke jalan yang lurus!
 
 
 ---
