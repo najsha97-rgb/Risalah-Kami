@@ -269,16 +269,56 @@ Maka Ikhwan telah meneliti segala wasilah dan jalan untuk mencapai matlamat pemb
 > *"Apa yang ada di sisi kamu akan lenyap habis, dan apa yang ada di sisi Allah adalah kekal abadi."*
 > — **Surah An-Naḥl (16): 96**
 
+> **قُلْ إِن كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ إِلَيْكُم مِّنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ ۝**
+>
+> *"Katakanlah (wahai Muhammad): 'Jika bapa-bapa kamu, anak-anak kamu, saudara-mara kamu, isteri-isteri (atau suami-suami) kamu, kaum keluarga kamu, harta kekayaan yang kamu usahakan, perniagaan yang kamu bimbangi akan merugi, dan rumah-rumah kediaman yang kamu sukai—adalah lebih kamu cintai daripada Allah dan Rasul-Nya serta daripada berjihad pada jalan-Nya, maka tunggulah sehingga Allah mendatangkan ketetapan-Nya (azab-Nya)'. Dan Allah tidak memberi petunjuk kepada kaum yang fasik."*
+> — **Surah At-Tawbah (9): 24**
+
   Agama Bersatu Rapi dengan Fitrah Manusiawi
   Agama yang menghimpunkan segala keagungan ini, kemudian ia menyapa fitrah manusiawi dengan penuh kelembutan, bercampur mesra dengan lubuk hati, dan berpadu sebati dengan jiwa; maka jiwa bersatu dengannya dan ia bersatu dengan jiwa. Ia meresap ke dalam zarah-zarah roh dan berjalan seiringan dengan akal fikiran yang sihat, tidak sekali-kali menyimpang daripadanya dan akal tidak menolaknya.
   Maka si peladang di ladangnya berasa tenang dan gembira dengannya, si tukang di kilangnya berasa bahagia bersamanya, anak kecil di madrasahnya memahaminya dengan mudah, sang ilmuwan ulung menikmati kelazatan dan kemanisannya dalam penyelidikan ilmiahnya, dan sang ahli falsafah mencapai ketinggian hikmah dalam renungan tadabburnya!
   Pernahkah engkau melihat di muka bumi ini suatu kekuasaan ke atas jiwa manusia yang lebih agung daripada kekuasaan agama? Pernahkah engkau menyaksikan dalam sejarah tamadun manusia suatu pengaruh yang lebih mendalam dalam kehidupan bangsa dan umat melebihi pengaruh agama? Dan adakah engkau pernah melihat pengaruh para failasuf dan ilmuwan mampu menandingi pengaruh mendalam yang ditinggalkan oleh para Rasul dan Anbiya' AS?
   Tidak sekali-kali, demi Allah! Kerana sesungguhnya agama adalah cetusan cahaya daripada roh Ilahi yang mengalir ke dalam zarah-zarah jiwa ini dan fitrahnya; ia menerangi kegelapannya, menyinari sanubarinya dengan petunjuk Tuhan, dan membimbing langkahnya menuju kebahagiaan dunia dan akhirat!
 
-  Ikhwanul Muslimin Memilih Wasilah Rabbani
-  Maka apabila Ikhwanul Muslimin telah memahami hakikat yang agung ini, mereka tidak ragu-ragu walau sekelip mata untuk menetapkan agama Islam sebagai satu-satunya wasilah asasi untuk mentarbiah generasi, membina semula jiwa umat, dan menggerakkan kebangkitan tamadun.
-  Mereka tidak meniru falsafah kebendaan Barat yang tandus, tidak meminjam teori-teori sosiologi ciptaan manusia yang pincang, dan tidak mengekori slogan-slogan sekular yang mengasingkan agama daripada pentas kehidupan. Sebaliknya, mereka kembali kepada mata air wahyu yang murni—kepada Al-Quran dan As-Sunnah—sebagai manhaj pembinaan jiwa yang telah terbukti berjaya melahirkan generasi terbaik dalam sejarah umat manusia!
-  Dan dalam fasal yang seterusnya, kita akan melihat bagaimana Ikhwanul Muslimin memulakan langkah praktikal mereka dengan wasilah pertama daripada wasilah-wasilah agama ini: iaitu KEDUDUKAN SOLAT dalam pembinaan rijal dan jemaah.
+  Tiga Dimensi Keagungan Agama Menurut Al-Quran
+
+  **Agama:** Iaitu yang meninggi dengan kesucian dan keagungannya mengatasi setiap jiwa, menjulang tinggi di atas setiap kepala, terlalu agung daripada sebarang rekaan manusia, serta bersih daripada taklid buta dan tiruan; lalu dengan itu ia menyatukan antara hati-hati, mempertautkan antara jiwa-jiwa, memotong punca persengketaan, dan meleraikan akar-akar perselisihan. Dan ia menambahkan lagi keteguhan serta kekuatan ini dengan mengarahkan seluruh hati kepada Allah semata-mata, memalingkan jiwa daripada kepentingan peribadi, ketamakan duniawi, syahwat dan kelazatan nafsu, serta mengangkat darjat matlamat dan amalan ke maqam golongan yang ikhlas lagi benar—iaitu mereka yang semata-mata menuntut wajah keredaan Allah melalui amal mereka, tanpa mengharapkan sebarang balasan mahupun ucapan terima kasih:
+
+> **شَرَعَ لَكُم مِّنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۝**
+>
+> *"Dia telah mensyariatkan bagi kamu sebahagian daripada agama sebagaimana apa yang telah diwasiatkan-Nya kepada Nuh, dan apa yang telah Kami wahyukan kepadamu (wahai Muhammad), serta apa yang telah Kami wasiatkan kepada Ibrahim, Musa, dan Isa, iaitu: 'Tegakkanlah agama ini dan janganlah kamu berpecah-belah padanya'."*
+> — **Surah Asy-Syūrā (42): 13**
+
+  **Agama:** Iaitu yang mengangkat nilai kesetiaan menepati janji (*al-wafā'*) ke darjat kesyahidan, menganggapnya sebagai kewajipan fardu yang akan dituntut dan dipersoalkan di hadapan Allah kelak, suatu keutamaan luhur untuk mendekatkan diri kepada Allah dengannya, serta menjadi bukti nyata ke atas sifat kelelakian yang sempurna (*ar-rujūlah al-kāmilah*) dan keazaman yang tulus benar:
+
+> **مِّنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا تَبْدِيلًا ۝ لِّيَجْزِيَ اللَّهُ الصَّادِقِينَ بِصِدْقِهِمْ ۝**
+>
+> *"Di antara orang-orang yang beriman itu ada tokoh-tokoh rijal yang menepati apa yang telah mereka janjikan kepada Allah; maka di antara mereka ada yang telah gugur syahid (menunaikan janjinya), dan di antara mereka ada yang sedang menunggu-nunggu (saat syahidnya), sedang mereka sedikit pun tidak mengubah (janji setia mereka). Supaya Allah memberikan balasan pahala kepada orang-orang yang benar disebabkan kebenaran mereka."*
+> — **Surah Al-Aḥzāb (33): 23–24**
+
+  **Agama:** Iaitu titik himpunan segala pemikiran yang tepat, pusat sandaran cita-cita yang pelbagai cabang, serta lambang aspirasi individu, sosial, kebangsaan, dan sejagat—dan ungkapan itu adalah ungkapan yang amat mendalam maksudnya:
+
+> **وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ ۝**
+>
+> *"Padahal bagi Allah jualah kemuliaan itu, dan bagi Rasul-Nya serta bagi orang-orang yang beriman; akan tetapi orang-orang munafik itu tidak mengetahui."*
+> — **Surah Al-Munāfiqūn (63): 8**
+
+  Ketetapan Ikhwan: Agama Sebagai Wasilah Asasi & Piagam Akidah
+
+  Sebahagian kaum berpandangan untuk membaiki akhlak umat melalui jalan ilmu dan kebudayaan; sebahagian yang lain melihat pembaikan melalui jalan sastera dan seni; yang lain pula melihat bahawa pembaikan ini hendaklah melalui kaedah-kaedah politik; dan selain mereka menempuh jalan sukan dan riadah fizikal.
+
+  Dan kesemua mereka itu sama ada menepati sasaran dalam menentukan pengertian istilah-istilah ini ataupun tersilap, sama ada menghampiri kebenaran ataupun menjauh daripadanya—dan bukanlah di sini ruang untuk mengkritik dan memperincikannya. Namun apa yang ingin saya tegaskan ialah: **Sesungguhnya Ikhwanul Muslimin berpandangan bahawa wasilah yang paling berkesan dan paling ampuh dalam membaiki jiwa-jiwa umat adalah: (AGAMA - الدين).**
+
+  Dan mereka melihat di samping itu bahawa agama Islam telah menghimpunkan segala kebaikan wasilah-wasilah ini serta bersih daripada segala keburukannya; maka jiwa-jiwa mereka berasa tenteram dengannya dan dada-dada mereka berasa lapang bersamanya. Maka wasilah amali mereka yang pertama dalam menyucikan jiwa dan memperbaharui roh adalah: **(PENETAPAN WASILAH DAN PEMILIHAN PRINSIP - تحديد الوسيلة واختيار المبدأ)**. Dan di atas asas inilah digubal **(Akidah Ikhwanul Muslimin - عقيدة الإخوان المسلمين)** yang disaring tulen daripada Kitabullah dan Sunnah Rasul-Nya, tidak terkeluar daripada kedua-duanya walau sehelai rambut pun!
+
+  Dan Ikhwan telah memfardukan ke atas diri mereka untuk memelihara akidah ini, melazimi batas-batasnya, melaksanakan nas-nasnya, dan menunaikan ikrar perjanjiannya.
+
+  Dan saya berkeyakinan penuh bahawa ia merupakan suatu wasilah amali yang unggul dalam mentarbiah jiwa dan meluruskan akhlak. Dan bersempena dengan kesempatan ini, saya mengingatkan setiap saudara Muslim bahawa adalah menjadi kewajipannya untuk memelihara akidahnya dan beramal bersungguh-sungguh melaksanakan segala tuntutan ikrar janjinya:
+
+> **يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ ۝**
+>
+> *"Wahai orang-orang yang beriman! Bertakwalah kamu kepada Allah, dan hendaklah kamu berada bersama orang-orang yang benar (jujur dan menepati janji)."*
+> — **Surah At-Tawbah (9): 119**
 
 
 ---
