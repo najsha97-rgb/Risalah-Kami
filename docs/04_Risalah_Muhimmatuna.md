@@ -12,10 +12,14 @@
 Risalah *Muhimmatunā (Misi dan Tugas Kami)* merupakan pelan tindakan strategik dan perisytiharan identiti dakwah dalam membina 8 sistem kenegaraan serta rantaian 6 peringkat sasaran amal kebangkitan Islam. Berikut adalah intisari eksekutif bagi setiap 12 fasal secara terperinci:
 
 ### [FASAL 01 • SUARA TENANG] 01. Mukadimah: Suara Tenang di Tengah Kebisingan Zaman (مقدمة: نتقدم بدعوتنا)
-Mengisytiharkan penampilan dakwah dengan nada yang tenang dan berwibawa di tengah hiruk-pikuk pertelingkahan parti dan fitnah zaman. Dakwah ini merendah diri namun lebih teguh daripada gunung, terpelihara daripada riak kepalsuan, dan bertujuan murni memimpin jiwa manusia menuju kebenaran hakiki.
+Mengisytiharkan penampilan dakwah dengan nada yang tenang dan berwibawa di tengah hiruk-pikuk pertelingkahan parti dan fitnah zaman:
+- **Kebisingan Kepartian:** Teriakan perebutan kuasa musiman, mencaci lawan, dan fitnah perpecahan.
+- **Suara Tenang Dakwah:** Bimbingan rabbani penuh kasih sayang; merendah diri di hadapan kebenaran tetapi teguh laksana gunung mempertahankan prinsip wahyu.
 
 ### [FASAL 02 • SERUAN PERTAMA] 02. Di Bawah Sinar Seruan Pertama (على ضـوء الدعـوة الأولـى)
-Mengaitkan seruan Ikhwanul Muslimin secara langsung dengan wahyu pertama kenabian: perintah "Bangunlah serta berikanlah peringatan!" (Surah Al-Muddaththir). Menegaskan bahawa umat sedang dilanda tidur lena kelalaian dan hanya seruan tajdid yang berani mampu mengejutkan mereka daripada lena kemunduran.
+Mengaitkan seruan dakwah secara langsung dengan wahyu pertama kenabian:
+- **Lena Kealpaan:** Umat dibius rasa putus asa dan menganggap kemunduran sebagai takdir abadi.
+- **Gema "Qum Fa-Andhir!":** Seruan tajdid yang berani menyalakan obor kebangkitan dan memecahkan belenggu ketakutan umat.
 
 ### [FASAL 03 • JURANG REALITI UMAT] 03. Di Manakah Kita daripada Ajaran Islam? (أين نحن من تعاليم الإسلام؟)
 Membongkar jurang pemisah yang luas antara realiti semasa umat dengan petunjuk al-Quran yang melahirkan keterasingan sistem hidup.
@@ -31,10 +35,14 @@ Membongkar jurang pemisah yang luas antara realiti semasa umat dengan petunjuk a
 * 👤 **8. Sahsiah & Akhlak Individu** (*Nizām al-Fard*) ➔ Dikuasai Hawa Nafsu & Hilang Muraqabah Ilahi
 
 ### [FASAL 04 • ARUS TAKLID BARAT] 04. Gelombang Taklid Buta Terhadap Barat (موجة التقليد الأعمى للغرب)
-Mendedahkan bahaya gelombang penjajahan pemikiran dan taklid buta terhadap gaya hidup Barat sekular. Arus ini meracuni generasi muda, meruntuhkan keperibadian Islam, dan menjadikan umat tawanan budaya hedonistik yang memisahkan agama daripada urusan dunia.
+Mendedahkan bahaya gelombang penjajahan pemikiran dan taklid buta terhadap gaya hidup Barat:
+- **Arus Taklid Melulu (*Tayyār at-Taqlīd*):** Meniru fesyen liar, pergaulan bebas, dan keruntuhan moral sekular.
+- **Benteng Keaslian Islam (*Al-Aṣālah*):** Menguasai teknologi moden sambil membentengi akidah dan maruah dengan Al-Quran.
 
 ### [FASAL 05 • KRISIS TAMADUN BARAT] 05. Menilai Hakikat Tamadun Materialistik Barat (تقويم الحضارة الغربية المادية)
-Menilai secara objektif tamadun Barat: walaupun maju dari sudut sains, teknologi, dan kebendaan, ia bangkrap dari sudut rohani dan akhlak. Kegagalan ini melahirkan kekosongan jiwa, keruntuhan institusi keluarga, dan kezaliman imperialisme global.
+Menilai secara objektif tamadun Barat:
+- **Kemajuan Sains & Teknologi:** Pencapaian industri dan teknologi moden yang wajar dipelajari dan dimanfaatkan.
+- **Kebangkrapan Rohani & Moral:** Kehampaan spiritual, keruntuhan institusi keluarga, dan ketamakan perang imperialisme.
 
 ### [FASAL 06 • MISI ASASI & SISTEM] 06. Misi Kami: Dua Misi Asasi & 8 Sistem Kenegaraan (مـهـمّتنـا إجمالاً وتفصيلاً)
 Menggariskan dua misi agung: (1) Membendung gelombang kebendaan di tanah air Islam, dan (2) Mempersembahkan Islam sebagai alternatif penyelamat dunia.
@@ -85,6 +93,16 @@ Maka kami tampil ke hadapan mengemukakan dakwah kami—dakwah الإخوان ا�
   Ia adalah seruan yang sunyi daripada penampilan palsu dan kilauan fatamorgana yang menipu (خالية من المظاهر والبهرج الكاذب)... namun ia sentiasa dinaungi dan dilingkungi oleh keagungan kebenaran, pesona wahyu Ilahi, serta keindahan hakikat yang sempurna!
   Ia adalah seruan yang suci bersih daripada kerakusan nafsu tamak, agenda tersembunyi, dan manfaat peribadi yang fana (بريئة من الأطماع والأغراض والمنافع الشخصية الزائلة)... sebaliknya ia melimpah-ruah dengan kecintaan pengorbanan dan penebusan jiwa (*al-fidā’*) pada jalan Allah—Tuhan yang telah menurunkan Al-Quran sebagai petunjuk bagi seluruh manusia serta penjelasan-penjelasan mengenai petunjuk itu dan pembeza antara hak dan batil!
 
+---
+
+> ### 🕊️ INFOGRAFIK PEDAGOGI: SUARA TENANG DAKWAH VS KEBISINGAN PARTI
+>
+> | Paradigma Penampilan | Sifat & Kaedah Seruan | Natijah Kepada Umat |
+> | :--- | :--- | :--- |
+> | **📢 Kebisingan Kepartian** | Teriakan perebutan kerusi, cercaan lawan & fitnah musiman | Perpecahan saf, kekeliruan massa & permusuhan sesama warga |
+> | **🕊️ Suara Tenang Dakwah** | Bimbingan kasih sayang, merendah diri & teguh laksana gunung | Menyejukkan hati, menyatukan saf & memimpin kpd kebenaran |
+>
+> 🧭 **Prinsip Seruan:** *"Kami tidak meninggikan suara kerana marah atau berebut dunia; kami menyeru manusia dengan ketenangan hakiki yang memulihkan sanubari!"*
 
 ---
 
@@ -114,6 +132,16 @@ Serta dilaungkan oleh lisan wahyu yang suci kepada junjungan besar Nabi Muhammad
 
 Inilah sinar wahyu terawal yang menjadi inspirasi kebangkitan kami. Dakwah ini bukan ciptaan manusia dan bukan rekaan falsafah moden; sebaliknya ia adalah penerusan amanah agung daripada Rasulullah ﷺ untuk memperingatkan sekalian manusia tentang hakikat kewujudan dan tujuan hidup mereka di muka bumi.
 
+---
+
+> ### ⚡ INFOGRAFIK PEDAGOGI: GEMA "QUM FA-ANDHIR!" MENGEJUTKAN LENA
+>
+> | Keadaan Umat & Seruan | Hakikat Realiti & Tindakan | Impak Kebangkitan |
+> | :--- | :--- | :--- |
+> | **😴 Lena Kealpaan Umat** | Dibius keputusasaan; menganggap kemunduran takdir kekal | Tunduk pasrah di hadapan imperialisme budaya dan politik musuh |
+> | **⚡ Gema Wahyu Pertama** | Seruan *"Qum Fa-Andhir!"* (Bangunlah & berikan peringatan) | Memecahkan belenggu ketakutan & menyalakan obor tajdid peradaban |
+>
+> 📖 **Seruan Wahyu:** *"Wahai orang yang berselimut! Bangunlah serta berikanlah peringatan!" (Al-Muddaththir: 1–2)*
 
 ---
 
@@ -155,6 +183,22 @@ Namun demikian, bersikap jujurlah dalam memberikan jawapan, nescaya kamu akan me
   Adakah ini petunjuk junjungan besar Nabi Muhammad ﷺ yang dengannya baginda berhasrat mengeluarkan seluruh manusia daripada kegelapan jahiliah menuju kepada cahaya kebenaran?!
   Adakah ini perundangan Al-Quran yang merawat segala penyakit umat dan krisis masyarakat, serta meletakkan kaedah yang paling halus dan sistem yang paling bijaksana bagi islah dan kebangkitan tamadun?!
 
+---
+
+> ### ⚠️ INFOGRAFIK PEDAGOGI: 8 BIDANG KETERASINGAN SISTEM UMAT
+>
+> | Bidang Sistem | Petunjuk Syariat Al-Quran | Realiti Keterasingan Semasa |
+> | :--- | :--- | :--- |
+> | **🏛️ Pemerintahan** | Keadilan Syura & kedaulatan hukum Allah | Dikuasai autokrasi sekular & diktator |
+> | **🌐 Antarabangsa** | Ukhuwah sejagat & diplomasi bermaruah | Menjadi pak turut kuasa hegemoni asing |
+> | **⚖️ Kehakiman** | Keadilan Hudud pencegah jenayah | Mengimport kanun Eropah yang lapuk |
+> | **🛡️ Pertahanan** | Kesiapsiagaan tentera jihad membela watan | Dijangkiti al-wahan (cinta dunia takut mati) |
+> | **💰 Ekonomi** | Zakat adil & perkongsian berkat tanpa riba | Dikuasai lintah darat riba & monopoli kapitalis |
+> | **📚 Pendidikan** | Integrasi ilmu moden dengan akidah tauhid | Dualisme sekular melahirkan generasi keliru |
+> | **👨‍👩‍👧‍👦 Keluarga** | Benteng maruah sakinah, mawaddah & rahmah | Keruntuhan moral, perceraian & pergaulan bebas |
+> | **👤 Sahsiah** | Tazkiyatun-nafs & akhlak terpuji Rasulullah | Dikuasai nafsu hedonistik & hilang muraqabah |
+>
+> ⚠️ **Muhasabah:** *"Di manakah letaknya kedudukan kita pada hari ini daripada ajaran Islam yang serba syumul dan sempurna ini?!"*
 
 ---
 
@@ -175,6 +219,16 @@ Adalah menjadi satu kebenaran yang wajib kita akui bahawa satu gelombang kuat ya
   
   Adalah menjadi kewajipan kita untuk mengakui dengan jujur bahawa kita telah jauh tersasar daripada petunjuk Islam, prinsip-prinsipnya, dan kaedah-kaedahnya. Islam sama sekali tidak menolak untuk kita mencedok perkara-perkara yang bermanfaat dan mengambil hikmah di mana sahaja ia ditemui; namun Islam menolak sekeras-kerasnya tindakan meniru secara membabi-buta dalam setiap perkara terhadap golongan yang tidak mempunyai sebarang pegangan dengan agama Allah, mencampakkan akidah, kefardhuan, hudud, dan hukum-hakam Islam semata-mata untuk mengejar orang-orang yang telah difitnah oleh dunia dan disesatkan oleh syaitan!
 
+---
+
+> ### 🛡️ INFOGRAFIK PEDAGOGI: ARUS TAKLID BUTA VS KEASLIAN ISLAM
+>
+> | Arus Budaya | Bentuk & Ciri-Ciri | Natijah Kepada Identiti Watan |
+> | :--- | :--- | :--- |
+> | **🌪️ Taklid Melulu Barat** | Meniru fesyen liar, pergaulan bebas & tolak agama | Menghakis jati diri, meracuni moral & memadam maruah |
+> | **🛡️ Keaslian Islam (*Al-Aṣālah*)** | Keteguhan akidah & penapisan berpandukan wahyu | Ambil sains dan teknologi berfaedah; tolak kerosakan moral |
+>
+> ⚠️ **Peringatan Strategik:** *"Kekalahan fizikal boleh ditebus dalam sekelip mata; tetapi kekalahan jiwa kerana taklid buta akan melenyapkan tamadun!"*
 
 ---
 
@@ -204,6 +258,16 @@ Adakah segala kemajuan kebendaan ini berjaya membawa kebahagiaan sejati kepada m
   Dan adakah setakat itu sahaja kecacatannya?
   Tidakkah kita menyaksikan sendiri bagaimana sistem-sistem, ajaran-ajaran, dan falsafah-falsafah kebendaan ini—bahkan dalam teori sains dan angka-angka statistiknya sekalipun—saling bercanggahan, saling merobohkan, dan saling menghancurkan antara satu sama lain? Sehingga akhirnya umat manusia kembali daripada mengharungi pengalaman panjang dan pengorbanan raksasa tersebut dengan rasa kepahitan kegagalan, kehampaan harapan, dan kepedihan kerugian yang tiada tara!
 
+---
+
+> ### ⚖️ INFOGRAFIK PEDAGOGI: PENILAIAN KRITIKAL TAMADUN BARAT
+>
+> | Dimensi Tamadun | Aspek Penilaian Objektif | Kesan Kepada Manusiawi |
+> | :--- | :--- | :--- |
+> | **⚙️ Kemajuan Sains & Asbab** | Kejayaan industri, perubatan & kemudahan teknologi | Wajar dipelajari dan dikuasai oleh umat Islam |
+> | **🥀 Kebangkrapan Rohani & Nilai** | Ketiadaan iman, kehampaan spiritual & keruntuhan moral | Mencetuskan kemurungan, bunuh diri & peperangan dunia |
+>
+> ⚖️ **Diagnosis Tepat:** *"Tamadun Barat laksana gergasi bertubuh sasa tetapi buta matanya dan mati jiwanya; dunia memerlukan bimbingan roh Islam!"*
 
 ---
 
@@ -290,6 +354,18 @@ Jika demikian hakikatnya realiti dunia hari ini, maka apakah sebenarnya misi dan
 > *"Dan tuntutlah dengan apa yang telah dikurniakan oleh Allah kepadamu akan kebahagiaan hari akhirat, dan janganlah engkau melupakan bahagianmu daripada (keperluan) dunia; dan berbuat baiklah (kepada manusia) sebagaimana Allah telah berbuat baik kepadamu, dan janganlah engkau melakukan kerosakan di muka bumi; sesungguhnya Allah tidak suka kepada orang-orang yang berbuat kerosakan."*
 > — **Surah Al-Qaṣaṣ (28): 77**
 
+---
+
+> ### 👑 INFOGRAFIK PEDAGOGI: DUA MISI ASASI & 8 SISTEM KENEGARAAN ISLAM
+>
+> | Dua Misi Agung | Sasaran Strategik Haraki | Matlamat Akhir |
+> | :--- | :--- | :--- |
+> | **🛡️ Misi 1: Membendung Gelombang Barat** | Bebaskan tanah air & pemikiran umat drpd sekularisme | Kemerdekaan hakiki watan Islam |
+> | **🌍 Misi 2: Islam Penyelamat Manusia** | Tampilkan Islam sebagai alternatif peradaban dunia | Rahmat dan keadilan bagi sekalian alam |
+>
+> 🏛️ **8 Sistem Kenegaraan Islam:** (1) Pemerintahan Syura, (2) Diplomasi Damai Antarabangsa, (3) Kehakiman Syariat, (4) Pertahanan Jihad, (5) Ekonomi Bebas Riba, (6) Keluarga Sakinah, (7) Sahsiah Takwa, (8) Roh Kepimpinan Amanah.
+>
+> 👑 **Ketetapan Misi:** *"Inilah misi agung kami: membebaskan watan dan memimpin peradaban di atas landasan keadilan syariat Allah!"*
 
 ---
 

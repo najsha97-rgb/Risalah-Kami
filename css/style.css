@@ -5560,3 +5560,209 @@ body {
   font-size: 0.8rem;
   line-height: 1.45;
 }
+
+
+/* ==========================================================================
+   RISALAH 04: MUHIMMATUNA (FASAL 01-06)
+   ========================================================================== */
+.grid-suara-2,
+.grid-sinar-2,
+.grid-taklid-2,
+.grid-tamadun-barat-2,
+.grid-duamisi-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+}
+
+.grid-penyimpangan-8,
+.grid-sistem-8 {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.65rem;
+}
+
+.suara-card,
+.sinar-card,
+.taklid-card,
+.tamadun-barat-card,
+.duamisi-card,
+.sistem-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 01: Suara Tenang */
+.suara-card.parti {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.suara-card.parti:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.suara-card.parti .suara-trait {
+  color: #F87171;
+}
+
+.suara-card.tenang {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.suara-card.tenang:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.suara-card.tenang .suara-trait {
+  color: #34D399;
+}
+
+/* Fasal 02: Seruan Pertama */
+.sinar-card.lena {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.sinar-card.lena:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.sinar-card.lena .sinar-trait {
+  color: #FBBF24;
+}
+
+.sinar-card.seruan {
+  border-left: 3.5px solid #3B82F6 !important;
+  background: linear-gradient(180deg, rgba(59, 130, 246, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(59, 130, 246, 0.35);
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.12);
+}
+.sinar-card.seruan:hover {
+  background: linear-gradient(180deg, rgba(59, 130, 246, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.sinar-card.seruan .sinar-trait {
+  color: #60A5FA;
+}
+
+/* Fasal 04: Taklid Buta */
+.taklid-card.barat {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.taklid-card.barat:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.taklid-card.barat .taklid-trait {
+  color: #F87171;
+}
+
+.taklid-card.asalah {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.taklid-card.asalah:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.taklid-card.asalah .taklid-trait {
+  color: #34D399;
+}
+
+/* Fasal 05: Penilaian Tamadun Barat */
+.tamadun-barat-card.sains {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.tamadun-barat-card.sains:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.tamadun-barat-card.sains .tamadun-barat-trait {
+  color: #38BDF8;
+}
+
+.tamadun-barat-card.bangkrap {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.tamadun-barat-card.bangkrap:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.tamadun-barat-card.bangkrap .tamadun-barat-trait {
+  color: #F87171;
+}
+
+/* Fasal 06: Dua Misi Asasi */
+.duamisi-card.benteng {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.duamisi-card.benteng:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.duamisi-card.benteng .duamisi-trait {
+  color: #FBBF24;
+}
+
+.duamisi-card.penyelamat {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.12);
+}
+.duamisi-card.penyelamat:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.duamisi-card.penyelamat .duamisi-trait {
+  color: #34D399;
+}
+
+.suara-trait,
+.sinar-trait,
+.taklid-trait,
+.tamadun-barat-trait,
+.duamisi-trait {
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.3px;
+  display: block;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+.suara-sub,
+.sinar-sub,
+.taklid-sub,
+.tamadun-barat-sub,
+.duamisi-sub {
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--text-muted, #94a3b8);
+  display: block;
+}
+
+.suara-banner,
+.sinar-banner,
+.taklid-banner,
+.tamadun-barat-banner,
+.duamisi-banner {
+  margin-top: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 6px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
