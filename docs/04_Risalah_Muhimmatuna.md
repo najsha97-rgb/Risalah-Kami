@@ -405,6 +405,8 @@ Kalaulah kita memiliki sebuah kerajaan Islam yang benar keislamannya, jujur keim
   Kita melihat ideologi Komunisme mempunyai sebuah negara kuasa besar (Kesatuan Soviet) yang melaungkannya, berdakwah kepadanya, membelanjakan jutaan wang pada jalannya, memaksa rakyat mengikutinya, dan mengerahkan segala jentera negaranya demi mempropagandakannya ke sekeliling dunia!
   Begitu juga ideologi Fasisme dan Kapitalisme mempunyai negara-negara penaja yang sanggup berperang dan berhabis harta demi mempertahankan kepentingannya!
   Namun sebaliknya, kita tidak menemukan sebuah kerajaan Islam pun yang bangkit menunaikan kewajipan berdakwah kepada Islam—sebuah agama yang telah menghimpunkan segala kebaikan dan menolak segala keburukan sistem-sistem dunia tersebut!
+
+  Dan mempersembahkannya kepada bangsa-bangsa lain sebagai suatu sistem sejagat yang padanya terkandung penyelesaian yang benar, jelas, lagi menenangkan bagi seluruh permasalahan kemanusiaan; sedangkan Islam telah pun menjadikan dakwah itu sebagai satu kewajipan yang mesti, dan memfardukannya ke atas umat Islam—sama ada secara bangsa mahupun jemaah—jauh sebelum sistem-sistem moden ini diciptakan, dan sebelum dunia mengenali sistem propaganda dakyah:
   
 > **وَلْتَكُن مِّنكُمْ أُمَّةٌۭ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ ۝**
 >
