@@ -649,41 +649,90 @@ Dan sesungguhnya kita amat berharap agar dengan penjelasan ini kita telah menyam
 
 ### 9. Mengembalikan Tiga Hak Al-Quran (حــق القرآن)
 
-Setelah kita membicarakan perihal Solat, Zakat, dan Jihad, kini sampailah giliran kita menghadap kepada PERLEMBAGAAN AGUNG UMAT ISLAM: AL-QURANUL KARIM (حق القرآن).
-Ikhwanul Muslimin mendapati bahawa malapetaka paling besar yang menimpa umat Islam pada zaman mutakhir ini berpunca daripada pengabaian hak-hak Al-Quran. Umat Islam telah menzalimi Kitab Suci mereka sendiri apabila menurunkannya daripada takhta perlembagaan negara dan panduan hidup seharian, lalu menjadikannya sekadar tangkal azimat penghias dinding rumah, alunan lagu di majlis keramaian, atau bacaan kenduri arwah semata-mata, sedangkan hukum-hakam dan syariatnya ditinggalkan dan diabaikan!
+Tidak pernah aku melihat sesuatu yang hilang lenyap tetapi disangka terpelihara, dan yang diabaikan tetapi disangka diberi perhatian yang mendalam, melebihi nasib Al-Quranul Karim dalam kalangan umat kita hari ini! Allah telah menurunkan Al-Quranul Karim sebagai sebuah Kitab yang tersusun rapi (*kitāban muḥkaman*), sistem kehidupan yang syumul (*niẓāman syāmilan*), dan paksi penegak bagi urusan agama mahupun urusan dunia:
 
-  Tiga Hak Asasi Al-Quran Ke Atas Umat Islam
-  Ikhwanul Muslimin menegaskan bahawa Al-Quranul Karim mempunyai Tiga Hak Utama yang wajib ditunaikan oleh setiap muslim secara praktikal:
-  
-  1. Hak Tilawah dan Tartil (حق التلاوة والترتيل)
-  Iaitu membacanya dengan tartil, memelihara hukum tajwid, mengelokkan suara dengannya, dan menjadikan tilawah Al-Quran sebagai wirid harian yang tidak pernah ditinggalkan walau sesibuk mana pun jadual harian. Ikhwan mendidik setiap anggotanya memiliki wirid tilawah harian sekurang-kurangnya satu juzuk sehari, mencontohi tradisi para Salafus Soleh!
-  
-> ⚖️ **[SYAIR KELUHURAN TILAWAH SYAHID SAYYIDINA UTHMAN RA]**
-> **تَمَنَّى كِتَابَ اللَّهِ أَوَّلَ لَيْلَةٍ ۞ وَآخِرَهُ لَاقَى حِمَامَ المَقَادِرِضَحَّوْا بِأَشْمَطَ عُنْوَانُ السُّجُودِ بِهِ ۞ يُقَطِّعُ اللَّيْلَ تَسْبِيحًا وَقُرْآنَا**
->
-> *"“Baginda mendambakan Kitabullah pada awal malamnya,Dan pada akhir malamnya baginda menemui takdir maut sebagai syahid;Mereka membunuh seorang tua yang beruban, yang dahinya bercahaya tanda sujud,Yang menghidupkan malam-malamnya dengan tasbih dan alunan Al-Quran!”"*
-
-  2. Hak Tadabbur dan Tafahhum (حق التدبر والتفهم)
-  Iaitu menghayati makna-makna ayatnya yang mendalam, menyelami rahsia-rahsia pengajarannya, dan memahaminya sebagai mukjizat ilmiah yang kekal abadi. Al-Quran tidak diturunkan untuk dibaca seperti membaca mantera magis tanpa faham, tetapi diturunkan untuk menggerakkan minda dan menyedarkan sanubari:
-  
-> **كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌۭ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ ۝**
->
-> *"(Al-Quran ini) sebuah Kitab yang Kami turunkan kepadamu penuh dengan berkat, supaya mereka mentadabbur (menghayati) ayat-ayatnya, dan supaya beringat orang-orang yang mempunyai akal fikiran."*
-> — **Surah Ṣād (38): 29**
-
-  3. Hak Pengamalan dan Pelaksanaan (حق العمل والتحكيم)
-  Inilah hak yang paling agung dan paling banyak diabaikan oleh umat hari ini: iaitu menjadikan Al-Quran sebagai undang-undang asas perlembagaan negara, sumber mutlak perundangan syariat, serta neraca pemutus bagi segala urusan ekonomi, politik, pendidikan, dan hubungan antarabangsa!
-  Adalah suatu jenayah akidah yang amat dahsyat apabila sebuah negara yang majoriti penduduknya mengaku muslim mencampakkan hukum Al-Quran ke belakang, lalu menggantikannya dengan undang-undang sekular ciptaan Rom, Perancis atau Barat yang dicedok secara membuta-tuli!
-  
-> **لَّا يَأْتِيهِ ٱلْبَـٰطِلُ مِنۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِۦ ۖ تَنزِيلٌۭ مِّنْ حَكِيمٍ حَمِيدٍۢ ۝**
+> **لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ ۝**
 >
 > *"Yang tidak dapat didatangi sebarang kepalsuan dari hadapannya dan tidak juga dari belakangnya; ia diturunkan dari Tuhan Yang Maha Bijaksana, lagi Maha Terpuji."*
 > — **Surah Fuṣṣilat (41): 42**
 
-  Ketegasan Generasi Salaf Menjadikan Al-Quran Hakim Tertinggi
-  Generasi awal Salafus Soleh amat memahami kedudukan Al-Quran ini. Amirul Mukminin Umar bin al-Khattab RA dan Sayyidina Abu Bakar As-Siddiq RA tidak pernah membenarkan sebarang keputusan diputuskan melainkan setelah merujuk kepada Kitabullah terlebih dahulu.
-  Begitu juga para imam agung tabi'in seperti Sa‘īd bin al-Musayyib dan generasi selepas mereka; mereka menjadikan Kitabullah sebagai neraca pemutus bagi segala urusan kehidupan dunia dan akhirat. Kedaulatan dan kemuliaan umat tertegak selagi mana Al-Quran berdaulat ke atas akal, sistem perundangan, dan kepimpinan masyarakat!
-  Dan Ikhwanul Muslimin telah menterjemahkan ketiga-tiga hak ini ke dalam bentuk praktikal: ribuan madrasah tahfiz Al-Quran diasaskan, halaqah tadabbur digerakkan di seluruh cawangan, dan di pentas politik, Ikhwan bangkit menuntut secara berani agar Al-Quran dijadikan perlembagaan tertinggi negara!
+Dan saya berkeyakinan bahawa matlamat-matlamat paling utama yang wajib ditunaikan oleh umat Islam terhadap Al-Quranul Karim terangkum dalam Tiga Tuntutan Asasi (*Tsalātsatu Maqāṣid*):
+
+1. **Pertama:** Memperbanyakkan tilawahnya, beribadah dengan membacanya, dan mendekatkan diri (*at-taqarrub*) kepada Allah Tabāraka wa Ta‘ālā melaluinya;
+2. **Kedua:** Menjadikannya sumber rujukan bagi hukum-hakam agama dan syariatnya; daripadanyalah hukum diambil, diistinbatkan, dicedok, dan dipelajari;
+3. **Ketiga:** Menjadikannya asas bagi hukum-hakam urusan dunia; daripadanyalah peraturan dicedok dan ke atas peruntukan-peruntukannya yang bijaksana segala urusan dilaksanakan.
+
+Itulah matlamat-matlamat dan tujuan-tujuan paling utama yang kerananya Allah menurunkan Kitab-Nya, mengutuskan dengannya Nabi-Nya, dan meninggalkannya di tengah-tengah kita selepas pemergian Baginda sebagai penasihat yang mengingatkan, hakim yang adil, serta neraca timbangan yang lurus.
+
+Sesungguhnya generasi Salaf *ridhwānullāhi ‘alaihim* telah memahami matlamat-matlamat ini dengan kefahaman yang mendalam, lalu mereka bangkit merealisasikannya dengan sebaik-baik penegakan: ada dalam kalangan mereka yang mengkhatamkan Al-Quran dalam tempoh tiga hari, ada yang mengkhatamkannya dalam tujuh hari, dan ada yang membacanya dalam tempoh yang lebih singkat atau lebih panjang daripada itu.
+
+Bahkan ada dalam kalangan mereka, sekiranya terhalang atau tersibuk daripada menyelesaikan wirid bacaan Al-Qurannya, dia akan tetap membuka mushaf dan membaca beberapa potong ayat yang mulia seraya berkata:  
+> *(“Supaya aku tidak tergolong dalam kalangan orang-orang yang menjadikan Al-Quran ini sesuatu yang dipinggirkan dan ditinggalkan!”)*
+
+Maka Al-Quran adalah musim bunga bagi hati mereka dan wirid bagi ibadah harian mereka yang mereka baca pada keheningan waktu malam dan di celah-celah siang hari. Dan semoga Allah meredai Khalifah Ketiga, Sayyidina Uthman bin Affan *radhiyallāhu ‘anhu*, yang tidak pernah melepaskan mushaf daripada genggamannya tatkala kepungan pemberontak telah berada di hadapan pintu rumahnya dan mata pedang telah terhunus di lehernya:
+
+> ⚖️ **[RATAPAN KEIKHLASAN SYAHID SAYYIDINA UTHMAN RA]**
+>
+> **تَمَنَّى كِتَابَ اللَّهِ أَوَّلَ لَيْلَةٍ ۞ وَآخِرَهُ لَاقَى حِمَامَ المَقَادِرِ**
+>
+> *"Baginda mendambakan Kitabullah pada permulaan malamnya,*  
+> *Dan pada penghujung malamnya baginda menemui takdir maut sebagai syahid."*
+
+Dan semoga Allah merahmati penyair yang tidak mendapati ungkapan yang lebih tepat dalam meratap pemergiannya melainkan dengan melantunkan:
+
+> ⚖️ **[RATAPAN PENYAIR TERHADAP KEMATIAN KHALIFAH UTHMAN RA]**
+>
+> **ضَحَّوْا بِأَشْمَطَ عُنْوَانُ السُّجُودِ بِهِ ۞ يُقَطِّعُ اللَّيْلَ تَسْبِيحًا وَقُرْآنَا**
+>
+> *"Mereka menyembelih seorang lelaki tua beruban yang dahinya bercahaya tanda sujud,*  
+> *Yang menghidupkan malam-malamnya dengan tasbih dan alunan Al-Quran!"*
+
+Dan engkau, sekiranya engkau meneliti lembaran biografi mereka, engkau tidak akan menemui seorang pun daripada mereka yang meminggirkan Kitabullah atau meninggalkan tilawahnya walau selama seminggu, apatah lagi sebulan suntuk, apatah lagi bertahun-tahun dan berzaman-zaman lamanya!
+
+Dan saya tidak berhasrat memanjangkan kalam dengan membentangkan apa yang telah disinari oleh kitab-kitab sirah dan diterangi oleh cahaya gemilangnya lembaran kitab-kitab sejarah.
+
+Dan tatkala mereka ingin mengistinbatkan hukum-hakam bagi agama Allah, Al-Quran adalah sumber rujukan mereka yang pertama; dan apakah yang lebih layak menjadi sumber pertama sekiranya bukan Kitabullah? Dan engkau sendiri melihat bagaimana Al-Mustafa ﷺ telah memperakui ketetapan Mu‘ādh tatkala Baginda bertanya kepadanya dengan apakah dia akan menghukum, lalu Mu‘ādh menjawab: *(“Dengan Kitabullah,”)* di mana beliau memulakannya dengan Al-Quran terlebih dahulu, kemudian barulah mengiringinya dengan As-Sunnah yang suci.
+
+Dan engkau telah mengetahui bahawa Umar *radhiyallāhu ‘anhu* pernah melarang sebahagian besar para sahabat yang mulia daripada terlalu banyak menyampaikan hadis-hadis dan riwayat peristiwa kepada orang awam yang baru memeluk Islam, sehinggalah mereka terlebih dahulu mendalami dan memahami Kitabullah serta mengetahui halal dan haramnya.
+
+Dan engkau telah mengetahui juga bahawa para imam agung dalam kalangan pemuka Tabi'in dan Tabi' Tabi'in dengan ihsan, seperti Sa‘īd bin al-Musayyib, tidak membenarkan orang ramai mencatat dan membukukan fatwa-fatwa mereka kerana bimbang manusia akan berpaling daripada Kitabullah kepada kata-kata mereka. Sesungguhnya Sa‘īd pernah merampas dan mengoyakkan helaian catatan daripada tangan seseorang yang mencatat fatwanya seraya menegur dengan tegas:  
+> *(“Adakah engkau mengambil kata-kataku dan engkau tinggalkan Kitabullah, kemudian engkau pergi ke sana ke mari seraya berkata: 'Telah berkata Sa‘īd, telah berkata Sa‘īd!' Hendaklah engkau berpegang teguh kepada Kitabullah dan Sunnah Rasul-Nya!”)*
+
+Tidakkah engkau melihat daripada bukti-bukti ini dan selainnya bahawa generasi Salafussoleh *ridhwānullāhi ‘alaihim* telah meletakkan Kitabullah Ta‘ālā sebagai pokok kepada segala pokok (*aṣl al-uṣūl*) yang daripadanya mereka mengistinbatkan agama Allah dan hukum-hakam-Nya?
+
+Dan tidaklah urusan undang-undang dunia di sisi mereka berjalan melainkan berpandukan apa yang diperintahkan oleh Al-Quran dan tunduk patuh di bawah ketetapan hukumnya: hak-hak ditunaikan, batasan hudud ditegakkan, hukum-hakam dilaksanakan, dan segala perintah berkuat kuasa tanpa ada pembatalan (*ilghā’*), tiada penangguhan (*ta‘ṭīl*), tiada alasan dalih (*ta‘līl*), dan tiada penyelewengan takwil (*ta’wīl*)!
+
+Demikianlah keadaannya pada zaman ketika Islam masih segar bugar, buah pohon agamanya ranum lebat, dan tatkala kaum muslimin memahami hikmah kehadiran Al-Quran di tengah-tengah mereka sebagaimana yang diajarkan oleh Tuhan Al-Quran dan Nabi Al-Quran:
+
+> **كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِيَدَّبَّرُوا آيَاتِهِ وَلِيَتَذَكَّرَ أُولُو الْأَلْبَابِ ۝**
+>
+> *"Sebuah Kitab yang Kami turunkan kepadamu penuh dengan berkat, supaya mereka mentadabbur (menghayati) ayat-ayatnya, dan supaya orang-orang yang mempunyai akal fikiran beringat."*
+> — **Surah Ṣād (38): 29**
+
+Kemudian, berlalulah zaman kegemilangan negara tersebut, dan lenyaplah kewibawaan agung yang dahulunya dimiliki oleh Al-Quran ke atas akal dan sanubari manusia. Lidah dan minda mereka telah diserapi oleh racun kejahilan bahasa (*lūthah al-‘ujmah*), sehingga akhirnya umat berada di satu lembah manakala Al-Quran berada di lembah yang lain, dan jurang antara kedua-duanya sejauh jarak antara timur dan barat:
+
+> ⚖️ **[JURANG KETERASINGAN UMAT DENGAN AL-QURAN]**
+>
+> **سَارَتْ مُشَرِّقَةً وَسِرْتُ مُغَرِّبًا ۞ شَتَّانَ بَيْنَ مُشَرِّقٍ وَمُغَرِّبِ**
+>
+> *"Ia (Al-Quran) berjalan menuju ke timur sedangkan aku menuju ke barat,*  
+> *Alangkah jauhnya perbezaan antara arah timur dan arah barat!"*
+
+Adapun beribadah dengan membaca Al-Quran dan mentilawahkannya pada waktu malam dan siang hari, maka amat sedikit dalam kalangan kita yang memberi perhatian dan mengamalkannya. Manakala sebahagian besar golongan ahli ibadah yang lain, mereka disibukkan dengan wirid-wirid, hizib-hizib, amalan harian, dan selawat-selawat yang disusun oleh diri mereka sendiri atau yang direka oleh syeikh-syeikh mereka, sehingga dengannya mereka meninggalkan Kitabullah dan menggantikannya dengan amalan-amalan tersebut dari segi hafazan, tumpuan, ibadah, tilawah, alunan, dan pengulangan!
+
+Bukannya kita mengharamkan pembacaan wirid-wirid yang sahih, dan bukanlah kita mahu menghalang orang ramai daripada mengamalkan doa-doa dan hizib-hizib yang tidak menyalahi zahir syariat. Namun kita berkata kepada mereka: **Kitabullah adalah yang paling utama untuk didahulukan!** Susunlah untuk diri kamu bahagian-bahagian bacaan (hizib) daripadanya yang dapat menyambungkan hatimu dengan Al-Quran dan mengikat rohmu dengan limpahan cahaya dan sinaran petunjuknya; kemudian berzikirlah kepada Allah selepas itu dengan apa jua lafaz zikir yang kamu kehendaki yang bertepatan dengan hukum-hakam agama. Adapun jika kamu mengabaikan Al-Quran secara keseluruhan dan menjadikan seluruh ibadahmu berpaksikan apa yang kamu reka sendiri atau apa yang direka oleh orang lain untuk kamu, maka itu adalah perbuatan meminggirkan Kitabullah dan mensia-siakan hak-haknya!
+
+Al-Quran pada zaman terdahulu adalah penyeri salat-salat, namun hari ini ia telah berubah menjadi sekadar penyeri majlis-majlis kenduri keraian; ia dahulunya adalah neraca keadilan di mahkamah-mahkamah, namun kini menjadi sekadar hiburan halwa telinga para pendengar pada musim-musim tertentu; ia dahulunya adalah permata teras (*wāsiṭah al-‘iqd*) dalam khutbah dan syarahan nasihat, namun kini bertukar menjadi loket perhiasan pada kalung rantai dan tangkal azimat!
+
+Tidakkah aku benar tatkala aku berkata: *“Tidak pernah aku melihat sesuatu yang hilang lenyap tetapi disangka terpelihara melebihi nasib Kitabullah!”* Betapa suatu percanggahan yang amat aneh dalam pendirian kita di hadapan Al-Quran: kita mendakwa mengagungkannya—tiada syak padanya; kita mendakwa membelanya—tiada syak padanya; dan kita mendakwa mendekatkan diri kepada Allah melaluinya—tiada syak padanya. Akan tetapi wahai kaumku: Kamu telah tersilap menempuh jalan pengagungan, kamu telah menyimpang daripada landasan membelanya, dan kamu telah tersesat daripada jalan sebenar mendekatkan diri kepada Allah melaluinya!
+
+Bukankah termasuk dalam perbuatan mensia-siakan Kitabullah apabila engkau melihat pusat-pusat daerah yang dahulunya melahirkan ribuan penghafaz Al-Quran yang dikecualikan daripada kerahan tentera (*al-qur‘ah al-‘askariyyah*), kini telah menjadi kosong sunyi daripada sesiapa yang menghafaznya dan tampil memohon pengecualian kerananya?
+
+Dan bukankah termasuk dalam mensia-siakan Kitabullah apabila engkau melihat seorang pelajar melangkah masuk ke Al-Azhar Asy-Syarif dalam keadaan menghafaz Al-Quran kerana hafazan itu menjadi syarat kemasukannya, namun kemudian dia tamat pengajian daripadanya dalam keadaan dia telah melupakannya, kerana hafazan Al-Quran tidak lagi disyaratkan dalam sijil tauliah akhirnya pada penghujung tempoh pengajiannya?! Maka engkau akan mendapati: sekiranya dia keluar menjadi imam yang mengimamkan salat orang ramai, dia membaca secara cuai dan terhad; sekiranya dia menjadi penceramah, dia terpaksa bergantung kepada pak-pak lebai hafiz kampung dalam khutbah dan kuliahnya; dan sekiranya dia menjadi peguam atau hakim, dia terpaksa membuka mushaf semata-mata untuk membetulkan baris ayat-ayat yang dipetiknya daripada Kitabullah!
+
+Sesungguhnya kita benar-benar telah mensia-siakan Kitabullah, seolah-olah ia di tengah-tengah kita hanyalah sebuah artifak purba (*kitāb atharī*) yang tidak lagi berkuat kuasa kesannya dan tidak lagi dilaksanakan hukum-hakamnya! Dan inilah hakikatnya punca utama bagi segala bencana malapetaka dan keburukan yang menimpa diri kita.
+
+Maka apabila engkau telah mengetahui hakikat ini, wahai pembaca yang budiman... ketahuilah bahawa **Ikhwanul Muslimin berusaha dengan penuh kesungguhan untuk menjadi orang pertama yang kembali kepada Kitabullah**: mereka beribadah dengan mentilawahkannya, mencari petunjuk dalam memahami kata-kata para imam agung melalui ayat-ayatnya, menuntut manusia melaksanakan hukum-hakamnya, serta menyeru masyarakat bersama-sama mereka untuk merealisasikan matlamat ini, yang merupakan semulia-mulia matlamat hidup seorang muslim; dan bagi Allah jualah segala urusan, sebelum dan selepasnya.
 
 
 ---
