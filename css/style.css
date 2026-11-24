@@ -4231,3 +4231,229 @@ body {
 .impian-banner .creed-text strong {
   color: #FCD34D;
 }
+
+/* ==========================================================================
+   MISI MUSLIM, HAK KEMANUSIAAN, HAK & KEKUATAN, RAHIB-PAHLAWAN (R02 F17-F20)
+   ========================================================================== */
+.grid-misi-2,
+.grid-tahap-2,
+.grid-sahabat-2 {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+}
+
+.grid-hak-kekuatan-3 {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.65rem;
+}
+
+.misi-card,
+.tahap-card,
+.hak-kekuatan-card,
+.sahabat-card {
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Fasal 17: Misi */
+.misi-card.fardiyyah {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: rgba(14, 165, 233, 0.06);
+}
+.misi-card.fardiyyah:hover {
+  background: rgba(14, 165, 233, 0.14);
+  transform: translateY(-1px);
+}
+.misi-card.fardiyyah .misi-trait {
+  color: #38BDF8;
+}
+
+.misi-card.ijtimaiyyah {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.misi-card.ijtimaiyyah:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.misi-card.ijtimaiyyah .misi-trait {
+  color: #34D399;
+}
+
+.misi-trait,
+.tahap-trait,
+.hak-kekuatan-trait,
+.sahabat-trait {
+  font-size: 0.74rem;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.misi-sub,
+.tahap-sub,
+.hak-kekuatan-sub,
+.sahabat-sub {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+/* Fasal 18: Tahap Dakwah */
+.tahap-card.hujah {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.06);
+}
+.tahap-card.hujah:hover {
+  background: rgba(16, 185, 129, 0.14);
+  transform: translateY(-1px);
+}
+.tahap-card.hujah .tahap-trait {
+  color: #34D399;
+}
+
+.tahap-card.pedang {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.06);
+}
+.tahap-card.pedang:hover {
+  background: rgba(245, 158, 11, 0.14);
+  transform: translateY(-1px);
+}
+.tahap-card.pedang .tahap-trait {
+  color: #FBBF24;
+}
+
+/* Fasal 19: Hak & Kekuatan */
+.hak-kekuatan-card.lemah {
+  border-left: 3.5px solid #94A3B8 !important;
+  background: rgba(148, 163, 184, 0.06);
+}
+.hak-kekuatan-card.lemah:hover {
+  background: rgba(148, 163, 184, 0.14);
+  transform: translateY(-1px);
+}
+.hak-kekuatan-card.lemah .hak-kekuatan-trait {
+  color: #CBD5E1;
+}
+
+.hak-kekuatan-card.tirani {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.06);
+}
+.hak-kekuatan-card.tirani:hover {
+  background: rgba(239, 68, 68, 0.14);
+  transform: translateY(-1px);
+}
+.hak-kekuatan-card.tirani .hak-kekuatan-trait {
+  color: #F87171;
+}
+
+.hak-kekuatan-card.seimbang {
+  border-left: 3.5px solid #10B981 !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.15);
+}
+.hak-kekuatan-card.seimbang:hover {
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%);
+  transform: translateY(-2px);
+}
+.hak-kekuatan-card.seimbang .hak-kekuatan-trait {
+  color: #34D399;
+  font-weight: 800;
+}
+.hak-kekuatan-card.seimbang .sys-num {
+  background: #10B981 !important;
+  color: #FFFFFF !important;
+}
+
+/* Fasal 20: Rahib & Pahlawan */
+.sahabat-card.malam {
+  border-left: 3.5px solid #0EA5E9 !important;
+  background: radial-gradient(circle at top, rgba(14, 165, 233, 0.12) 0%, rgba(15, 23, 42, 0.8) 100%);
+  border: 1px solid rgba(14, 165, 233, 0.3);
+}
+.sahabat-card.malam:hover {
+  background: radial-gradient(circle at top, rgba(14, 165, 233, 0.2) 0%, rgba(15, 23, 42, 0.9) 100%);
+  transform: translateY(-2px);
+}
+.sahabat-card.malam .sahabat-trait {
+  color: #38BDF8;
+}
+
+.sahabat-card.siang {
+  border-left: 3.5px solid #F59E0B !important;
+  background: radial-gradient(circle at top, rgba(245, 158, 11, 0.12) 0%, rgba(15, 23, 42, 0.8) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+.sahabat-card.siang:hover {
+  background: radial-gradient(circle at top, rgba(245, 158, 11, 0.2) 0%, rgba(15, 23, 42, 0.9) 100%);
+  transform: translateY(-2px);
+}
+.sahabat-card.siang .sahabat-trait {
+  color: #FBBF24;
+}
+
+/* Banners */
+.misi-banner,
+.tahap-banner,
+.hak-kekuatan-banner,
+.sahabat-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.85rem;
+  padding: 0.7rem 0.9rem;
+  border-radius: 8px;
+}
+
+.misi-banner {
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.15) 0%, rgba(16, 185, 129, 0.12) 100%);
+  border: 1px solid rgba(14, 165, 233, 0.35);
+}
+.misi-banner .creed-text {
+  font-size: 0.78rem;
+  color: #BAE6FD;
+  line-height: 1.45;
+}
+
+.tahap-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(245, 158, 11, 0.12) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+.tahap-banner .creed-text {
+  font-size: 0.78rem;
+  color: #D1FAE5;
+  line-height: 1.45;
+}
+
+.hak-kekuatan-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(14, 165, 233, 0.15) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+}
+.hak-kekuatan-banner .creed-text {
+  font-size: 0.78rem;
+  color: #A7F3D0;
+  line-height: 1.45;
+}
+.hak-kekuatan-banner .creed-text strong {
+  color: #FCD34D;
+}
+
+.sahabat-banner {
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.15) 0%, rgba(245, 158, 11, 0.15) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+}
+.sahabat-banner .creed-text {
+  font-size: 0.78rem;
+  color: #FEF3C7;
+  line-height: 1.45;
+}
+.sahabat-banner .creed-text strong {
+  color: #FCD34D;
+}

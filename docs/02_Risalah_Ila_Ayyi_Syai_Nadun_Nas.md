@@ -70,16 +70,16 @@ Menggariskan perbezaan antara **Kebangsaan Bernasab Luhur** yang berteraskan tau
 Menangkis tuduhan skeptis bahawa kebangkitan Islam adalah angan-angan khayalan. Membentangkan **Tiga Fasa Transformasi Sejarah**: (1) Impian & Wawasan (*Aḥlāmul-Ams*), (2) Amal, Sabar & Pengorbanan Istiqamah, dan (3) Realiti Sejarah Hari Ini (*Ḥaqā’iqul-Yaum*) yang membuktikan kemenangan pasti merekah di tangan rijal yang beriman.
 
 ### [FASAL 17 • MISI SEORANG MUSLIM] 17. Misi Seorang Muslim (مهمة المسلم)
-Merumuskan misi asasi setiap muslim berpandukan Surah Al-Hajj (ayat 77–78): menunaikan ibadah peribadi (solat, ruku', sujud), melaksanakan kebajikan sosial, dan menggalas jihad fi sabilillah demi membimbing kemanusiaan kepada nur Islam.
+Merumuskan dua sayap misi asasi muslim berpandukan Surah Al-Hajj (ayat 77–78): (1) **Misi Individu (*Muhimmah Fardiyyah*)** melalui rukuk, sujud, tauhid murni dan berbuat kebajikan, serta (2) **Misi Kemasyarakatan (*Muhimmah Ijtima'iyyah*)** melalui kesatuan saf dan jihad fi sabilillah membimbing kemanusiaan (*Syuhadā’ ‘alā an-Nās*).
 
 ### [FASAL 18 • HAK KEMANUSIAAN] 18. Hak Kemanusiaan (حق الإنسانية)
-Menghuraikan hak manusia sejagat untuk menerima hidayah wahyu. Menjadi kewajipan umat Islam menyampaikan dakwah dengan hujah dan hikmah, serta membebaskan manusia daripada belenggu kezaliman sistem ciptaan hawa nafsu.
+Menegaskan bahawa hak paling asasi bagi kemanusiaan adalah menerima hidayah wahyu. Menggariskan dua tahap metodologi dakwah: (1) mendahulukan bimbingan hujah dan hikmah (*bi al-ḥujjah wa al-burhān*), dan (2) menggunakan kekuatan perisai jihad apabila hujah dizalimi dan kezaliman bermaharajalela menindas manusia.
 
 ### [FASAL 19 • HAK & KEKUATAN] 19. Mengawal Kebenaran dengan Kekuatan (حراسة الحق بالقوة - Ḥirāsatul-Ḥaqqi bil-Quwwah)
-Mengemukakan falsafah bahawa kebenaran yang tidak dikawal oleh kekuatan akan mudah dipijak oleh kebatilan. Islam mewajibkan persediaan kekuatan fizikal dan ketenteraan semata-mata untuk memelihara kedamaian, mempertahankan keadilan, dan menghalang pencerobohan zalim.
+Mengemukakan falsafah gandingan emas bahawa kebenaran tanpa kekuatan akan dipijak kebatilan, manakala kekuatan tanpa kebenaran melahirkan tirani kejam. Menegaskan bahawa kekuatan dalam Islam diwajibkan semata-mata sebagai benteng memelihara kedamaian dan mendaulatkan keadilan syariat.
 
 ### [FASAL 20 • KESEIMBANGAN SYAKHSIYAH] 20. Rahib di Malam Hari, Pahlawan di Siang Hari (رهبان بالليل فرسان بالنهار - Ruhbānun bil-Lail Fursānun bin-Nahār)
-Memaparkan model keseimbangan syakhsiyah generasi sahabat: bermunajat khusyuk dan menangis di hadapan Allah pada kegelapan malam, namun tangkas memacu kuda jihad menegakkan kebenaran pada siang hari tanpa gentar.
+Memaparkan kemuncak model keseimbangan syakhsiyah generasi sahabat: khusyuk merintih di mihrab ibadat pada kegelapan malam (*Ruhbānun bil-Lail* sambil merintih: *Yā dunyā ghurrī ghayrī!*), namun tangkas mengaum bagaikan singa di atas pelana kuda jihad membela keadilan pada siang hari (*Fursānun bin-Nahār*).
 
 ### [FASAL 21 • PEMBUKAAN ISLAM] 21. Pembukaan Sebagai Bimbingan dan Pengislahan (الفتح إرشاد وإصلاح - Al-Fatḥu Irsyādun wa Iṣlāḥ)
 Menegaskan bahawa pembukaan kota-kota (futuhat) oleh tentera Islam pada zaman salaf berteraskan misi islah, bimbingan, dan keadilan sejagat; sangat berbeza dengan penjajahan kuasa Barat yang rakus merompak kekayaan dan mencabuli kemerdekaan bangsa jajahan.
@@ -602,65 +602,106 @@ Misi seorang muslim yang sejati diringkaskan oleh Allah Tabāraka wa Ta‘ālā 
 > — **Surah al-Ḥajj: 77–78**
 
 Ini adalah kalimah yang tiada kesamaran dan tiada kekaburan padanya. Demi Allah, ia memiliki kemanisan dan keindahan uslub; ia sejelas waktu pagi dan seterang cahaya mentari. Ia memenuhi pendengaran dan meresap ke dalam lubuk hati tanpa meminta izin. Tidakkah umat Islam mendengarnya sebelum ini? Atau adakah mereka mendengarnya tetapi hati mereka telah terkunci rapat sehingga tidak mampu memahami dan mentadabburnya?
+
 Allah memerintahkan kaum muslimin agar rukuk dan sujud, mendirikan solat yang merupakan teras ibadah dan tiang seri Islam, menyembah Allah tanpa mensyirikkan-Nya dengan sesuatu, dan melakukan kebajikan sedaya upaya mereka. Tatkala Allah memerintahkan mereka melakukan kebajikan, Dia sekali gus melarang mereka daripada melakukan kejahatan, kerana pangkal kebajikan adalah meninggalkan kejahatan. Alangkah ringkas dan mendalamnya ayat ini!
+
 Lalu Allah menjanjikan kejayaan, kemenangan dan keberuntungan atas amalan tersebut. Inilah misi individu (*al-muhimmah al-fardiyyah*) bagi setiap muslim yang wajib dilaksanakannya secara bersendirian mahupun berjemaah.
 
+---
+
+> ### 🕊️ INFOGRAFIK PEDAGOGI: DUA SAYAP MISI SEORANG MUSLIM
+>
+> | Dimensi Misi | Tuntutan Nas [Al-Ḥajj: 77-78] | Peranan & Manifestasi Haraki |
+> | :--- | :--- | :--- |
+> | **1. Misi Individu (*Muhimmah Fardiyyah*)** | Rukuk, sujud, tauhid & kebajikan | Membersihkan jiwa (*tazkiyah*), membina integriti & ketakwaan |
+> | **2. Misi Kemasyarakatan (*Muhimmah Ijtima'iyyah*)**| Jihad fi sabilillah & kesatuan saf | Menyelamatkan manusia drpd kegelapan & menjadi saksi (*Syuhadā’*) |
+>
+> 🧭 **Mandat Wahyu:** *"Rukuklah, sujudlah, sembahlah Tuhanmu, perbuatlah kebajikan, dan berjihadlah kamu pada jalan Allah dengan jihad yang sebenar-benarnya!"*
+
+---
+
+> ### 🕊️ INFOGRAFIK PEDAGOGI: DUA SAYAP MISI SEORANG MUSLIM
+>
+> | Dimensi Misi | Tuntutan Nas [Al-Ḥajj: 77-78] | Peranan & Manifestasi Haraki |
+> | :--- | :--- | :--- |
+> | **1. Misi Individu (*Muhimmah Fardiyyah*)** | Rukuk, sujud, tauhid & kebajikan | Membersihkan jiwa (*tazkiyah*), membina integriti & ketakwaan |
+> | **2. Misi Kemasyarakatan (*Muhimmah Ijtima'iyyah*)**| Jihad fi sabilillah & kesatuan saf | Menyelamatkan manusia drpd kegelapan & menjadi saksi (*Syuhadā’*) |
+>
+> 🧭 **Mandat Wahyu:** *"Rukuklah, sujudlah, sembahlah Tuhanmu, perbuatlah kebajikan, dan berjihadlah kamu pada jalan Allah dengan jihad yang sebenar-benarnya!"*
 
 ---
 
 ### 18. Hak Kemanusiaan (حق الإنسانية)
 
-Kemudian Allah memerintahkan mereka selepas itu agar berjihad di jalan Allah dengan jihad yang sebenar-benarnya dengan menyebarkan dakwah ini dan meluaskannya dalam kalangan manusia melalui hujah dan bukti (bi al-ḥujjah wa al-burhān). Sekiranya manusia tetap berdegil memilih kezaliman, pencerobohan dan keangkuhan, barulah dihadapi dengan kekuatan pedang dan senjata:
+Kemudian Allah memerintahkan mereka selepas itu agar berjihad di jalan Allah dengan jihad yang sebenar-benarnya dengan menyebarkan dakwah ini dan meluaskannya dalam kalangan manusia melalui hujah dan bukti (*bi al-ḥujjah wa al-burhān*). Sekiranya manusia tetap berdegil memilih kezaliman, pencerobohan dan keangkuhan, barulah dihadapi dengan kekuatan pedang dan senjata:
 
-> ⚖️ **[SYAIR PENJAGAAN KEBENARAN DENGAN KEKUATAN]**
 > **وَالنَّاسُ إِذْ ظَلَمُوا البُرْهَانَ وَاعْتَسَفُوا ۞ فَالْحَرْبُ أَجْدَى عَلَى الدُّنْيَا مِنَ السِّلْمِ**
 >
-> *"Dan apabila manusia menzalimi hujah kebenaran serta bertindak sewenang-wenangnya menindas,Maka peperangan (mempertahankan hak) adalah jauh lebih membawa maslahat bagi dunia berbanding kedamaian yang hina."*
+> *“Dan apabila manusia menzalimi hujah kebenaran serta bertindak sewenang-wenangnya menindas,<br>
+> Maka peperangan (mempertahankan hak) adalah jauh lebih membawa maslahat bagi dunia berbanding kedamaian yang hina.”*
 
+---
+
+> ### 🤝 INFOGRAFIK PEDAGOGI: DUA TAHAP MENYAMPAIKAN HAK KEMANUSIAAN
+>
+> | Tahap Dakwah | Kaedah Perlaksanaan | Sasaran & Syarat Syarak |
+> | :--- | :--- | :--- |
+> | **Tahap I: Hujah & Hikmah (*Al-Burhān*)** | Dialog terbuka, bukti rasional & nasihat baik | Asas utama dakwah tanpa sebarang paksaan [Al-Baqarah: 256] |
+> | **Tahap II: Perisai Jihad (*Al-Quwwah*)** | Ketegasan mempertahankan kebenaran | Digunakan hanya apabila hujah ditekan & kezaliman bermaharajalela |
+>
+> 🕊️ **Hak Kemanusiaan:** *"Hak paling asasi bagi kemanusiaan adalah menerima nur hidayah Al-Quran. Hujah dan hikmah adalah pedoman asas, manakala ketegasan adalah perisai membendung penindasan!"*
 
 ---
 
 ### 19. Mengawal Kebenaran dengan Kekuatan (حراسة الحق بالقوة - Ḥirāsatul-Ḥaqqi bil-Quwwah)
 
-Alangkah bijaksananya ungkapan kata mutiara: "Kekuatan adalah jalan paling terjamin untuk menegakkan kebenaran; dan alangkah indahnya apabila kekuatan dan kebenaran berjalan seiringan bergandingan tangan!"
-Maka jihad pada jalan menyebarkan dakwah Islamiah—apatah lagi memelihara kesucian syiar dan kehormatan Islam—merupakan kewajipan fardhu yang diwajibkan oleh Allah ke atas kaum muslimin sebagaimana Dia memfardukan ke atas mereka puasa, solat, haji, zakat, melakukan kebajikan, dan meninggalkan kemungkaran. Allah mewajibkannya ke atas mereka dan menyeru mereka kepadanya, dan Allah sama sekali tidak memberi kemaafan dalam perkara ini kepada sesiapa pun yang memiliki daya kekuatan dan kemampuan. Dan sesungguhnya ia merupakan ayat pencegah yang amat menggentarkan dan peringatan pengajaran yang amat mendalam:
+Alangkah bijaksananya ungkapan kata mutiara: *"Kekuatan adalah jalan paling terjamin untuk menegakkan kebenaran; dan alangkah indahnya apabila kekuatan dan kebenaran berjalan seiringan bergandingan tangan!"*
 
-> **ٱنفِرُوا۟ خِفَافًۭا وَثِقَالًۭا وَجَـٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ ۝**
+Maka jihad pada jalan menyebarkan dakwah Islamiah—apatah lagi memelihara kesucian syiar dan kehormatan Islam—merupakan kewajipan fardhu yang diwajibkan oleh Allah ke atas kaum muslimin sebagaimana Dia memfardukan ke atas mereka puasa, solat, haji, zakat, melakukan kebajikan, dan meninggalkan kemungkaran. Allah mewajibkannya ke atas mereka dan menyeru mereka kepadanya, dan Allah sama sekali tidak memberi kelonggaran kepada sesiapa pun untuk meninggalkannya selagi mana dia memiliki keupayaan.
+
+---
+
+> ### 🛡️ INFOGRAFIK PEDAGOGI: FALSAFAH KEBENARAN & KEKUATAN
 >
-> *"Pergilah kamu beramai-ramai (untuk berperang pada jalan Allah), sama ada dengan keadaan ringan ataupun dengan keadaan berat; dan berjihadlah dengan harta benda dan jiwa raga kamu pada jalan Allah. Yang demikian itu adalah amat baik bagi kamu, jika kamu mengetahui."*
-> — **Surah At-Tawbah (9): 41**
-
-Dan sesungguhnya Allah telah menyingkap rahsia taklif ini serta hikmah di sebalik kewajipan fardhu yang diwajibkan ke atas kaum muslimin selepas perintah ini. Allah menerangkan kepada mereka bahawa Dia telah memilih mereka, mengkhususkan mereka, dan menyaring mereka mengatasi seluruh umat manusia yang lain untuk menjadi pengurus yang adil bagi makhluk-Nya, pemegang amanah ke atas syariat-Nya, khalifah-khalifah di bumi-Nya, dan para pewaris Rasul-Nya dalam mengemban dakwah ini. Allah mempermudahkan agama ini untuk mereka, memperkemaskan pensyariatan-Nya, meringankan hukum-hakam-Nya, dan menjadikannya berdaya laku serta sesuai bagi setiap zaman dan tempat sehingga ia dapat diterima oleh seluruh dunia, dan kemanusiaan dapat melihat padanya cita-cita yang diidamkan dan harapan yang dinanti-nantikan:
-
-> **هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍۢ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ ۚ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَـٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ ۚ**
+> | Kombinasi Sifat | Hakikat Realiti | Natijah Peradaban |
+> | :--- | :--- | :--- |
+> | **Kebenaran Tanpa Kekuatan** | Lemah & terpinggir | Mudah dipijak dan dirampas oleh kebatilan |
+> | **Kekuatan Tanpa Kebenaran** | Tirani & imperialisme | Melahirkan kezaliman, penindasan & kerosakan |
+> | **Kebenaran Berpadu Kekuatan** | **Keadilan Syariat Islam** | Memelihara kedamaian, hak asasi & membebaskan manusia |
 >
-> *"Dialah yang memilih kamu (untuk memikul agama-Nya), dan Dia tidak menjadikan untuk kamu sebarang kesempitan dalam agama; (ikutilah) agama bapa kamu Ibrahim; Dialah yang menamakan kamu orang-orang Islam dari dahulu dan juga dalam (Al-Quran) ini, supaya Rasulullah (Muhammad) menjadi saksi ke atas kamu dan kamu pula menjadi saksi ke atas seluruh manusia..."*
-> — **Surah Al-Ḥajj (22): 78**
-
-Dan itulah misi kemasyarakatan (al-muhimmah al-ijtimā‘iyyah) yang diserukan oleh Allah kepada sekalian kaum muslimin keseluruhannya: iaitu agar mereka bersatu padu menjadi satu saf, satu ketumbukan yang padu, dan satu kekuatan yang ampuh; serta agar mereka menjadi bala tentera penyelamat yang membebaskan manusia dan membimbing mereka ke jalan yang lurus.
-
+> 🗡️ **Gandingan Emas Haraki:** *"Kekuatan adalah jalan paling terjamin untuk menegakkan kebenaran; dan alangkah indahnya apabila kekuatan dan kebenaran berjalan seiringan bergandingan tangan!"*
 
 ---
 
 ### 20. Rahib di Malam Hari, Pahlawan di Siang Hari (رهبان بالليل فرسان بالنهار - Ruhbānun bil-Lail Fursānun bin-Nahār)
 
 Kemudian Allah Yang Maha Benar Tabāraka wa Ta‘ālā memperjelaskan kepada manusia selepas itu tentang ikatan pertautan antara taklif-taklif fardhu peribadi seperti solat dan puasa dengan taklif-taklif kemasyarakatan (seperti jihad dan islah), dan bahawa taklif yang pertama adalah wasilah penyedia kepada taklif yang kedua, manakala akidah yang sahih adalah asas tunjang kepada kedua-duanya sekali. Ini bertujuan agar tidak ada ruang alasan bagi seseorang untuk berpangku tangan daripada kewajipan fardhu peribadi dengan beralasan kononnya dia sedang berkhidmat untuk kebajikan masyarakat, dan agar tidak ada pula ruang alasan bagi orang lain untuk berpangku tangan daripada berjuang untuk masyarakat dengan beralasan kononnya dia sedang sibuk beribadat tenggelam dalam hubungan peribadinya dengan Tuhannya! Alangkah halusnya, alangkah bijaksananya hikmah ini, dan siapakah yang lebih benar perkataannya daripada Allah?
+
 Wahai kaum muslimin! Beribadat menyembah Tuhan kamu dan berjihad pada jalan meneguhkan kedudukan agama kamu serta memuliakan syariat kamu—inilah misi dan tugas hakiki kamu dalam kehidupan ini. Sekiranya kamu menunaikannya dengan sebenar-benar penunaian, maka kamulah golongan yang beroleh kemenangan. Sebaliknya, sekiranya kamu hanya menunaikan sebahagiannya sahaja atau kamu mengabaikan keseluruhannya, maka kepada kamulah saya kemukakan firman Allah Tabāraka wa Ta‘ālā:
 
 > **أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًۭا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ ۝ فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ**
 >
 > *"Maka adakah kamu menyangka bahawa Kami menciptakan kamu secara sia-sia (tanpa sebarang tujuan), dan bahawa kamu tidak akan dikembalikan kepada Kami? Maka Maha Tinggilah Allah, Raja Yang Sebenar-benarnya..."*
-> — **Surah Al-Mu’minūn (23): 115-116**
+> — **Surah Al-Mu’minūn: 115–116**
 
 Berasaskan pengertian mendalam inilah lahirnya sifat-sifat keperibadian para sahabat junjungan Nabi Muhammad ﷺ—mereka yang merupakan insan-insan pilihan Allah daripada kalangan makhluk-Nya dan generasi salafus soleh daripada hamba-hamba-Nya:
 
-> 📜 **[SIFAT RIJAL WAHYU • KESEIMBANGAN ROHANI & JIHAD]**
 > **«رُهْبَانٌ بِاللَّيْلِ، فُرْسَانٌ بِالنَّهَارِ... يَا دُنْيَا غُرِّي غَيْرِي!»**
 >
 > *"Rahib di malam hari, pahlawan berkuda di siang hari... Engkau melihat salah seorang daripada mereka pada waktu malam berdiri khusyuk di mihrabnya, menggenggam janggutnya, menangis tersedu-sedu bagaikan orang yang dirundung duka sambil merintih: 'Wahai dunia, pergilah tipu orang lain selain aku!' Namun apabila fajar menyingsing dan semboyan perang memanggil, dia bertukar menjadi singa garang di atas pelana kudanya, mengaum sehingga menggoncangkan segenap penjuru medan pertempuran!"*
 
 Demi Allah, perhatikanlah! Di manakah dalam sejarah umat manusia engkau dapat menemukan keselarasan yang begitu menakjubkan dan gandingan yang begitu unik ini antara urusan dunia dengan kerohanian akhirat, serta antara ketundukan hati di mihrab ibadat dengan keperkasaan pedang di medan jihad? Tiada tempat lain melainkan dalam peribadi agung para sahabat Rasulullah ﷺ yang dididik di bawah acuan wahyu Al-Quran!
 
+---
+
+> ### 🐎 INFOGRAFIK PEDAGOGI: KESEIMBANGAN SYAKHSIYAH SAHABAT
+>
+> | Dimensi Keperibadian | Sifat & Amalan Rabbani | Natijah Rohani & Haraki |
+> | :--- | :--- | :--- |
+> | **🌙 Rahib di Malam Hari (*Ruhbānun bil-Lail*)** | Khusyuk di mihrab, air mata taubat & rintihan kehambaan | Jiwa zuhud, hati bersih drpd tipuan fana (*Yā Dunyā Ghurrī Ghayrī*) |
+> | **🐎 Pahlawan di Siang Hari (*Fursānun bin-Nahār*)** | Singa perkasa di atas pelana kuda jihad membela hak | Menggoncangkan kezaliman musuh & menegakkan daulat syariat |
+>
+> 👑 **Syahsiah Rijal Wahyu:** *"Tiada tempat lain dalam sejarah manusia yang mengharmonikan ketundukan hati di mihrab ibadat dengan keperkasaan pedang di medan jihad melainkan dalam peribadi para sahabat Nabi ﷺ!"*
 
 ---
 
