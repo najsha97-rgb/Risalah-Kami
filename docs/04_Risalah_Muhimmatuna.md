@@ -152,6 +152,14 @@ Jika demikian hakikatnya realiti dunia hari ini, maka apakah sebenarnya misi dan
   Tugas utama kita secara umum ialah: Berdiri teguh menghadapi gelombang tamadun kebendaan yang melampau ini, iaitu tamadun yang berteraskan keseronokan nafsu dan syahwat, yang telah menenggelamkan bangsa-bangsa Islam dan mengheret mereka jauh daripada kepimpinan Nabi Muhammad ﷺ serta petunjuk Al-Quranul Karim.
   Misi kita adalah menarik kembali bangsa kita dan menyelamatkan umat kita daripada cengkaman arus kebinasaan ini, sehinggalah tanah air kita bersih daripada pengaruhnya, dan umat kita kembali berdaulat di bawah naungan syariat Islam. Kita tidak akan berhenti setakat sempadan tanah air kita; sebaliknya kita berazam membawa obor kebenaran ini ke seluruh pelusuk dunia, mengibarkan panji Al-Quran di segenap benua, sehingga seluruh umat manusia dapat diselamatkan daripada kezaliman materialisme menuju kepada keadilan dan kedamaian Islam!
 
+  Sehinggalah seluruh dunia melaungkan dan mengagungkan nama Baginda Nabi ﷺ, seluruh alam meyakini ajaran-ajaran Al-Quran, dan naungan Islam yang rendang lagi subur terbentang luas di atas muka bumi. Pada saat itulah akan tercapai bagi setiap muslim apa yang diidam-idamkannya; maka tiada lagi sebarang fitnah dan jadilah seluruh agama itu milik Allah semata-mata, serta:
+
+> **لِلَّهِ الْأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ ۚ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ ۝ بِنَصْرِ اللَّهِ ۚ يَنْصُرُ مَنْ يَشَاءُ ۖ وَهُوَ الْعَزِيزُ الرَّحِيمُ ۝**
+>
+> *"Hanya bagi Allah jualah segala urusan sebelum dan selepasnya; dan pada hari itu bergembiralah orang-orang yang beriman, dengan pertolongan Allah; Dia menolong sesiapa yang dikehendaki-Nya, dan Dialah Yang Maha Perkasa, lagi Maha Mengasihani."*
+> — **Surah Ar-Rūm (30): 4–5**
+
+
   B. Misi Secara Terperinci: Rekabentuk Lapan Sistem Negara Islam (مهمتنا تفصيلاً)
   Adapun secara terperinci, misi kita adalah menegakkan sistem kehidupan yang menyeluruh—bermula di Mesir terlebih dahulu, memandangkan ia berada di barisan hadapan negara-negara umat Islam:
   
