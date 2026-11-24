@@ -2596,3 +2596,110 @@ body {
 .sys-pillar-active .sys-text strong {
   color: #FBBF24 !important;
 }
+
+
+/* ==========================================================================
+   MATRIKS 4 TIPOLOGI MANUSIA (Risalah 01 Fasal 05)
+   ========================================================================== */
+.grid-typology-4 {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.65rem;
+}
+
+.typo-card {
+  padding: 0.6rem 0.75rem;
+  border-radius: 8px;
+  align-items: flex-start;
+  transition: all 0.2s ease;
+}
+
+.typo-card .sys-icon {
+  font-size: 1.1rem;
+  margin-top: 2px;
+}
+
+.typo-card .sys-text strong {
+  font-size: 0.85rem;
+  margin-bottom: 2px;
+  line-height: 1.25;
+}
+
+.typo-trait {
+  font-size: 0.74rem;
+  color: #CBD5E1;
+  display: block;
+  margin-bottom: 3px;
+  line-height: 1.3;
+}
+
+.typo-action {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  display: block;
+  line-height: 1.35;
+}
+
+.typo-action em {
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* 1. Mukmin */
+.typo-mukmin {
+  border-left: 3.5px solid #10B981 !important;
+  background: rgba(16, 185, 129, 0.05);
+}
+.typo-mukmin:hover {
+  background: rgba(16, 185, 129, 0.12);
+  transform: translateY(-1px);
+}
+.typo-mukmin .sys-num {
+  background: rgba(16, 185, 129, 0.25) !important;
+  color: #34D399 !important;
+}
+.typo-mukmin .typo-action em { color: #34D399; }
+
+/* 2. Ragu-Ragu */
+.typo-ragu {
+  border-left: 3.5px solid #F59E0B !important;
+  background: rgba(245, 158, 11, 0.05);
+}
+.typo-ragu:hover {
+  background: rgba(245, 158, 11, 0.12);
+  transform: translateY(-1px);
+}
+.typo-ragu .sys-num {
+  background: rgba(245, 158, 11, 0.25) !important;
+  color: #FBBF24 !important;
+}
+.typo-ragu .typo-action em { color: #FBBF24; }
+
+/* 3. Oportunis */
+.typo-oportunis {
+  border-left: 3.5px solid #F97316 !important;
+  background: rgba(249, 115, 22, 0.05);
+}
+.typo-oportunis:hover {
+  background: rgba(249, 115, 22, 0.12);
+  transform: translateY(-1px);
+}
+.typo-oportunis .sys-num {
+  background: rgba(249, 115, 22, 0.25) !important;
+  color: #FB923C !important;
+}
+.typo-oportunis .typo-action em { color: #FB923C; }
+
+/* 4. Prejudis */
+.typo-prejudis {
+  border-left: 3.5px solid #EF4444 !important;
+  background: rgba(239, 68, 68, 0.05);
+}
+.typo-prejudis:hover {
+  background: rgba(239, 68, 68, 0.12);
+  transform: translateY(-1px);
+}
+.typo-prejudis .sys-num {
+  background: rgba(239, 68, 68, 0.25) !important;
+  color: #F87171 !important;
+}
+.typo-prejudis .typo-action em { color: #F87171; }

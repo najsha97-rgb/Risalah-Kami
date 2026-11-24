@@ -49,7 +49,13 @@ Menolak keras sikap mengungkit jasa dan budi dalam perjuangan berasaskan firman 
 * 🤲 **Tonggak 4: Kurnia Milik Allah** (*Lillāhil-Faḍlu wal-Minnah*) ➔ Tidak mengungkit jasa & tawakal bulat
 
 ### [FASAL 05 • TIPOLOGI MANUSIA] 5. Empat Golongan Manusia (أصناف أربعة - Aṣnāf Arba‘ah)
-Mengelaskan manusia ketika berhadapan dakwah kepada 4 golongan: (1) Mukmin yang terus menyahut seruan, (2) Ragu-ragu yang memerlukan bimbingan hujah, (3) Oportunis yang menanti habuan duniawi, dan (4) Berprasangka yang menolak kerana prejudis. Duat dituntut bersikap sabar, menyantuni setiap kategori dengan hikmah, dan mendoakan hidayah sebagaimana teladan Rasulullah ﷺ.
+Mengelaskan manusia ketika berhadapan dakwah kepada 4 golongan berserta kaedah penyantunan berhikmah:
+
+👥 **INFOGRAFIK MATRIKS 4 TIPOLOGI MANUSIA BERHADAPAN DAKWAH:**
+* 🌟 **1. Golongan Mukmin** (*Mu’min*) ➔ Yakin & bersedia beramal. 👉 *Tindakan Duat:* Segera gabung saf & berkorban amal nyata.
+* 🔍 **2. Golongan Ragu-Ragu** (*Mutaraddid*) ➔ Belum jelas kebenaran seruan. 👉 *Tindakan Duat:* Diberi masa, telaah risalah & dampingi secara hikmah.
+* ⚖️ **3. Golongan Oportunis** (*Naf‘ī*) ➔ Mengejar habuan & laba duniawi. 👉 *Tindakan Duat:* Peringatan ikhlas & tiada kompromi habuan fana.
+* 🤲 **4. Golongan Prejudis** (*Mutaḥāmil*) ➔ Kacamata hitam & curiga. 👉 *Tindakan Duat:* Sabar, terus santuni & doakan hidayah (*"Allāhumma-ghfir li-qawmī..."*).
 
 ### [FASAL 06 • PENGORBANAN MUTLAK] 6. Pengorbanan Total & Penyerahan Mutlak (الفناء - Al-Fanā')
 Menegaskan bahawa dakwah Islam tidak menerima komitmen separuh masa atau tawar-menawar; ia menuntut pengorbanan total (al-fanā') jiwa, harta, masa, dan tenaga. Pendakwah mestilah bersiap siaga menyerahkan segalanya demi dakwah berpandukan Surah At-Tawbah (ayat 24) sebelum mengharapkan kemenangan daripada Allah.
