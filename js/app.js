@@ -383,7 +383,6 @@ document.addEventListener('DOMContentLoaded', () => {
   function renderActiveSection() {
     const risalah = getCurrentRisalah();
     const sec = risalah.sections[state.currentSectionIndex];
-    currentModalSummaryContext = { risalah, summaryItem, sec, idx: state.currentSectionIndex };
     if (!sec) return;
 
     // Update Subheading Banner
@@ -676,6 +675,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const sec = risalah.sections[state.currentSectionIndex];
+    currentModalSummaryContext = { risalah, summaryItem, sec, idx: state.currentSectionIndex };
 
     if (summaryItem) {
       modalSummaryBadge.textContent = summaryItem.badge || `FASAL ${String(state.currentSectionIndex + 1).padStart(2, '0')}`;
