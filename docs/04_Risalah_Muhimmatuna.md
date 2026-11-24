@@ -444,7 +444,7 @@ Fahamilah hakikat identiti dakwah kamu ini dengan sejelas-jelasnya:
   
 
 > 📜 **[WARISAN RISALAH • KAMI ADALAH PENERUS PANJI RASULULLAH ﷺ]**
-> **نَحْنُ أَيُّهَا النَّاسُ ـ وَلَا فَخْرَ ـ أَصْحَابُ رَسُولِ اللهِ، وَحَمَلَةُ رَايَتِهِ مِنْ بَعْدِهِ، وَرَافِعُو لِوَائِهِ كَمَا رَفَعُوهُ، وَنَاشِرُو لِوَائِهِ كَمَا نَشَرُوهُ، وَحَافِظُو قُرْآنِهِ كَمَا حَفِظُوهُ، وَمُبَلِّغُو دَعْوَتِهِ كَمَا بَلَّغُوهُ.**
+> **نَحْنُ أَيُّهَا النَّاسُ ـ وَلَا فَخْرَ ـ أَصْحَابُ رَسُولِ اللهِ، وَحَمَلَةُ رَايَتِهِ مِنْ بَعْدِهِ، وَرَافِعُو لِوَائِهِ كَمَا رَفَعُوهُ، وَنَاشِرُو لِوَائِهِ كَمَا نَشَرُوهُ، وَحَافِظُو قُرْآنِهِ كَمَا حَفِظُوهُ، وَالْمُبَشِّرُونَ بِدَعْوَتِهِ كَمَا بَشَّرُوا، وَرَحْمَةُ اللهِ لِلْعَالَمِينَ.**
 >
 > *"Wahai sekelian manusia, kita ini—tanpa bermegah diri—adalah penerus sahabat Rasulullah ﷺ, pembawa panji baginda sesudahnya, penegak benderanya sebagaimana mereka menegakkannya, penyebar risalahnya sebagaimana mereka menyebarkannya, pemelihara Al-Quran sebagaimana mereka memeliharanya, dan pembawa khabar gembira dakwahnya sebagaimana mereka menyampaikannya, serta rahmat Allah bagi sekalian alam!"*
 
