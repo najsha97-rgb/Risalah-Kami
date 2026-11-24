@@ -141,7 +141,11 @@ Mendiagnosis secara klinikal enam gejala penyakit kronik yang melumpuhkan segena
 Meniupkan roh optimisme dan melarang keras sikap berputus asa terhadap masa depan umat Islam. Membuktikan sunnatullah sejarah bahawa setiap kejatuhan pasti disusuli fajar kebangkitan, dan tiada pemisah antara umat dengan kemenangan melainkan hilangnya putus asa serta berputiknya tekad juang yang membara.
 
 ### [FASAL 20 • TIGA RUKUN WASILAH] 20. Tiga Rukun Utama Wasilah Kebangkitan (الأركان الثلاثة - Al-Arkān al-Thalāthah)
-Menggariskan tiga rukun wasilah amali bagi menjayakan transformasi umat: (1) Manhaj yang Sahih berteraskan al-Quran dan Sunnah, (2) Barisan Penggerak yang Beriman yang berdisiplin dan ikhlas berkorban, dan (3) Kepimpinan yang Tegas lagi Dipercayai yang membimbing saf perjuangan menuju keredaan Allah.
+Menggariskan tiga rukun wasilah amali bagi menjayakan transformasi umat:
+- **1. Manhaj yang Sahih (المنهاج الصحيح):** Al-Quran dan Sunnah yang tulen dan segar (*ghaḍḍah* & *naqiyyah*), bersih daripada tokok tambah dan pencemaran asing (*al-dakhā'il*).
+- **2. Barisan Penggerak yang Beriman (العاملون المؤمنون):** Generasi amilin berdisiplin yang melatih diri beramal tegas tanpa kompromi (*taṭbīqan lā hawādata fīh*), ikhlas berkorban dan yakin pertolongan Allah.
+- **3. Kepimpinan yang Tegas lagi Dipercayai (القيادة الحازمة الموثوق بها):** Qiyadah berwibawa yang menyatukan saf, ditaati dan memandu bahtera mengharungi badai ujian zaman.
+> *Keseimbangan Wasilah: Manhaj sebagai kompas pedoman, Amilin sebagai enjin penggerak, dan Qiyadah sebagai nahkoda bahtera amal!*
 
 ### [FASAL 21 • KHATIMAH BAI‘AH] 21. Penutup: Seruan Bergabung Bahu (خاتمة)
 Menutup risalah dengan metafora agung Nabi Yusuf AS: meletakkan setiap jiwa mukmin sebagai 'Yusuf' yang bertanggungjawab mentakwil dan merealisasikan mimpi kebangkitan umat. Menyeru pembaca menghulurkan tangan berbai'ah dalam saf amal, bersatu melangkah di atas jalan dakwah, dan bertawakal sepenuhnya kepada Allah.
@@ -636,12 +640,6 @@ Kerana ayat-ayat seperti inilah wahai saudaraku — dan ia amat banyak di dalam 
 
 Adapun wasilah praktikal yang saya janjikan untuk berbicara mengenainya kepada kamu, ia berputar di atas **Tiga Rukun Asasi**:
 
-> ### 🌟 TIGA RUKUN UTAMA WASILAH KEBANGKITAN (الأركان الثلاثة)
-> 
-> 1. **المنهاج الصحيح (Al-Minhāj aṣ-Ṣaḥīḥ):** *Al-Quran, Sunnah & Syariat yang Tulen — Bersih daripada unsur asing dan rekaan.*
-> 2. **العاملون المؤمنون (Al-‘Āmilūn al-Mu’minūn):** *Barisan Amilin yang Beriman, Ikhlas & Berdisiplin — Pelaksanaan tanpa tawar-menawar.*
-> 3. **القيادة الحازمة الموثوق بها (Al-Qiyādah al-Ḥāzimah):** *Kepimpinan Tegas, Berwibawa & Dipercayai — Qiyadah yang menyatukan saf.*
-
 #### 1. Manhaj yang Sahih (المنهاج الصحيح - Al-Minhāj al-Ṣaḥīḥ)
 Iaitu manhaj yang ditemui oleh Ikhwanul Muslimin di dalam Kitabullah, Sunnah Rasul-Nya, dan hukum-hakam Islam tatkala difahami oleh umat Islam di atas wajahnya yang sebenar — dalam keadaan segar (*ghaḍḍah*), suci murni (*naqiyyah*), jauh daripada unsur-unsur asing (*al-dakhā'il*) dan rekaan fitnah (*al-muftarayāt*). Maka mereka menumpukan sepenuh perhatian untuk mendalami Islam di atas asas ini dengan kajian yang mudah, luas, dan merangkumi segenap sudut (*dirāsah sahlatun wāsi‘atun mustaw‘ibah*).
 
@@ -650,6 +648,18 @@ Oleh sebab itulah, Ikhwanul Muslimin mendidik dan melatih diri mereka sendiri un
 
 #### 3. Kepimpinan yang Tegas lagi Diyakini (القيادة الحازمة الموثوق بها - Al-Qiyādah al-Ḥāzimah al-Mawthūq bihā)
 Ikhwanul Muslimin telah menemui kepimpinan yang tegas lagi diyakini ini; oleh itu mereka sentiasa patuh dan taat kepadanya, serta bergerak melaksanakan tugas perjuangan di bawah kibaran panjinya.
+
+---
+
+> ### 🏛️ INFOGRAFIK PEDAGOGI: MATRIKS TIGA RUKUN WASILAH KEBANGKITAN
+>
+> | Rukun | Entiti & Hakikat Syarak | Ciri-Ciri Utama Haraki | Peranan Strategik |
+> | :--- | :--- | :--- | :--- |
+> | **I. Manhaj Sahih** (*Al-Minhāj aṣ-Ṣaḥīḥ*) | Al-Quran & Sunnah tulen (*ghaḍḍah* & *naqiyyah*) | Bebas drpd unsur asing (*al-dakhā'il*) & rekaan (*muftarayāt*) | **Kompas Pedoman:** Menjamin ketulenan fikrah & orientasi dakwah |
+> | **II. Amilin Beriman** (*Al-‘Āmilūn al-Mu’minūn*) | Barisan pendakwah terlatih & berdisiplin | Amal tegas tanpa kompromi (*lā hawādata fīh*), ikhlas & thiqah | **Enjin Penggerak:** Menterjemah teori ke medan amal nyata |
+> | **III. Qiyadah Tegas** (*Al-Qiyādah al-Ḥāzimah*) | Kepimpinan berwibawa & diyakini | Ditaati, berwawasan tajam, menyatukan saf & berani | **Nahkoda Bahtera:** Memandu perjuangan menempuh badai cabaran |
+>
+> **Keseimbangan Tiga Rukun:** *"Manhaj tanpa Amilin adalah teori kaku; Amilin tanpa Qiyadah adalah gerombolan berkecamuk; Qiyadah tanpa Manhaj adalah kebinasaan. Kesepaduan ketiganya adalah jaminan kejayaan!"*
 
 ---
 
