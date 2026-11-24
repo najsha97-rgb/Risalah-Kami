@@ -28,7 +28,7 @@ Bukti nyata bagi kesemua empat golongan ini ialah: apabila engkau mengejutkan me
 
 Perumpamaan mereka ini tidak ubah seperti sebuah kisah yang diceritakan: kononnya seorang lelaki telah menyediakan pedang yang tajam berkilat, tombak yang runcing, perisai dan senjata lengkap, lalu setiap malam dia memandang kagum kepada kelengkapan perangnya sambil berangan-angan bahawa tiada seorang pahlawan pun yang mampu menandingi keberaniannya. Namun apabila musuh benar-benar mara ke medan dan debu pertempuran berkepul ke udara, dia lari lintang-pukang mencampakkan senjatanya ke bumi! Sebagaimana bait syair menyebutkan:
 
-> ⚖️ **[SYAIR SIKAP PENYEBUT DALIH & PENGCUT]**
+> ⚖️ **[SYAIR SIKAP PENYEBUT DALIH & PENGECUT]**
 > **وَإِذَا مَا خَلَا الجَبَانُ بِأَرْضٍ ۞ طَلَبَ الطَّعْنَ وَحْدَهُ وَالنِّزَالَا**
 >
 > *"“Dan apabila sang pengecut bersendirian di padang yang sunyi,Dia berpura-pura menuntut tikaman pedang dan mencabar pertarungan gagah sendirian!”"*
