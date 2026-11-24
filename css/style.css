@@ -2237,3 +2237,168 @@ body {
   white-space: nowrap !important;
   vertical-align: baseline;
 }
+
+
+/* ==========================================================================
+   Intisari Fasal & Quick Summary Modal Styling (Pilihan 3)
+   ========================================================================== */
+.banner-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.btn-quick-summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.4rem 0.95rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  font-family: var(--font-body, inherit);
+  color: #F59E0B;
+  background: rgba(245, 158, 11, 0.12);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+
+.btn-quick-summary i {
+  color: #FBBF24;
+  font-size: 0.88rem;
+}
+
+.btn-quick-summary:hover {
+  background: rgba(245, 158, 11, 0.22);
+  border-color: #F59E0B;
+  box-shadow: 0 0 14px rgba(245, 158, 11, 0.45);
+  transform: translateY(-1px);
+}
+
+/* Highlighted Active Summary Card in Grid */
+.summary-card.active-highlight-card {
+  border: 2px solid #F59E0B !important;
+  background: linear-gradient(145deg, rgba(20, 50, 38, 0.95) 0%, rgba(12, 32, 24, 0.98) 100%) !important;
+  box-shadow: 0 0 24px rgba(245, 158, 11, 0.35), 0 8px 30px rgba(0, 0, 0, 0.6) !important;
+  position: relative;
+  transform: scale(1.015);
+  z-index: 2;
+}
+
+.summary-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.active-reading-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.68rem;
+  font-weight: 800;
+  color: #FDE047;
+  background: rgba(245, 158, 11, 0.25);
+  border: 1px solid rgba(253, 224, 71, 0.4);
+  padding: 2px 8px;
+  border-radius: 12px;
+  letter-spacing: 0.04em;
+}
+
+/* Quick Summary Modal Card */
+.summary-modal-card {
+  max-width: 620px;
+  border: 1.5px solid rgba(245, 158, 11, 0.45);
+  background: linear-gradient(145deg, rgba(14, 38, 30, 0.98) 0%, rgba(8, 22, 17, 0.99) 100%);
+  box-shadow: 0 16px 45px rgba(0, 0, 0, 0.7), 0 0 30px rgba(245, 158, 11, 0.2);
+}
+
+.summary-modal-badge {
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  color: #FBBF24;
+  background: rgba(245, 158, 11, 0.15);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  padding: 4px 12px;
+  border-radius: 14px;
+}
+
+.summary-modal-body {
+  padding: 1.5rem 1.6rem;
+}
+
+.summary-modal-title {
+  font-family: var(--font-outfit, sans-serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  line-height: 1.5;
+  margin-bottom: 0.85rem;
+}
+
+.summary-modal-divider {
+  height: 2px;
+  background: linear-gradient(90deg, #F59E0B 0%, transparent 100%);
+  margin-bottom: 1.15rem;
+}
+
+.summary-modal-brief {
+  font-family: var(--font-body, 'Merriweather', serif);
+  font-size: 1.04rem;
+  color: #E2E8F0;
+  line-height: 1.85;
+}
+
+.summary-modal-footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.4rem;
+  background: rgba(0, 0, 0, 0.25);
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  flex-wrap: wrap;
+}
+
+.btn-modal-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.55rem 1.1rem;
+  font-size: 0.86rem;
+  font-weight: 700;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: var(--font-body, inherit);
+}
+
+.btn-modal-view-all {
+  background: transparent;
+  color: #CBD5E1;
+  border: 1px solid rgba(203, 213, 225, 0.3);
+}
+
+.btn-modal-view-all:hover {
+  color: #FFFFFF;
+  background: rgba(255, 255, 255, 0.08);
+  border-color: #FFFFFF;
+}
+
+.btn-modal-close-main {
+  background: var(--emerald-primary, #059669);
+  color: #FFFFFF;
+  border: 1px solid var(--emerald-light, #10B981);
+}
+
+.btn-modal-close-main:hover {
+  background: #10B981;
+  box-shadow: 0 0 14px rgba(16, 185, 129, 0.45);
+}

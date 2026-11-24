@@ -207,7 +207,12 @@
             <span class="banner-tag" id="bannerSectionNumber">FASAL 01</span>
             <span class="banner-arabic-gold" id="bannerArabicGold">المُصَارَحَة</span>
           </div>
-          <h3 class="banner-title" id="activeSectionHeading">Tajuk Fasal</h3>
+          <div class="banner-bottom">
+            <h3 class="banner-title" id="activeSectionHeading">Tajuk Fasal</h3>
+            <button id="btnQuickSummary" class="btn-quick-summary" title="Buka Intisari Fasal Ini">
+              <i class="fas fa-bolt"></i> <span>Intisari Fasal</span>
+            </button>
+          </div>
         </div>
 
         <!-- Chapter Reader Article -->
@@ -479,6 +484,31 @@
             </div>
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Quick Fasal Summary (Intisari Fasal Ini) -->
+  <div id="summaryModal" class="modal-backdrop">
+    <div class="modal-card summary-modal-card">
+      <div class="modal-header">
+        <div class="summary-modal-badge" id="modalSummaryBadge">FASAL 01 • MUKADIMAH</div>
+        <button class="modal-close-btn" id="modalSummaryCloseBtn" aria-label="Tutup Intisari">
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+      <div class="modal-body summary-modal-body">
+        <h3 class="summary-modal-title" id="modalSummaryTitle">Tajuk Fasal</h3>
+        <div class="summary-modal-divider"></div>
+        <p class="summary-modal-brief" id="modalSummaryBrief">Teks intisari fasal...</p>
+      </div>
+      <div class="summary-modal-footer">
+        <button class="btn-modal-action btn-modal-view-all" id="modalViewAllBtn">
+          <i class="fas fa-layer-group"></i> <span>Lihat Semua Ringkasan</span>
+        </button>
+        <button class="btn-modal-action btn-modal-close-main" id="modalCloseActionBtn">
+          <i class="fas fa-check"></i> <span>Tutup & Sambung Baca</span>
+        </button>
       </div>
     </div>
   </div>

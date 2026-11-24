@@ -60,6 +60,15 @@ document.addEventListener('DOMContentLoaded', () => {
   const searchResults = document.getElementById('searchResults');
   const searchClearBtn = document.getElementById('searchClearBtn');
 
+  const btnQuickSummary = document.getElementById('btnQuickSummary');
+  const summaryModal = document.getElementById('summaryModal');
+  const modalSummaryBadge = document.getElementById('modalSummaryBadge');
+  const modalSummaryCloseBtn = document.getElementById('modalSummaryCloseBtn');
+  const modalSummaryTitle = document.getElementById('modalSummaryTitle');
+  const modalSummaryBrief = document.getElementById('modalSummaryBrief');
+  const modalViewAllBtn = document.getElementById('modalViewAllBtn');
+  const modalCloseActionBtn = document.getElementById('modalCloseActionBtn');
+
   const downloadModalBtn = document.getElementById('downloadModalBtn');
   const downloadModal = document.getElementById('downloadModal');
   const downloadCloseBtn = document.getElementById('downloadCloseBtn');
@@ -299,25 +308,41 @@ document.addEventListener('DOMContentLoaded', () => {
     summaryGrid.innerHTML = '';
     if (!risalah.summary || risalah.summary.length === 0) {
       summaryGrid.innerHTML = '<p class="text-muted" style="padding:1.5rem;">Tiada ringkasan khusus untuk risalah ini.</p>';
-      return;
+      return null;
     }
+
+    let activeCard = null;
 
     risalah.summary.forEach((item, idx) => {
       const card = document.createElement('div');
       card.className = 'summary-card';
+
+      const targetSecIdx = (item.start_sec !== undefined) ? item.start_sec : idx;
+      const isCurrentActive = (targetSecIdx === state.currentSectionIndex);
+
+      if (isCurrentActive) {
+        card.classList.add('active-highlight-card');
+        activeCard = card;
+      }
+
       const headerBadge = item.badge || `FASAL ${String(idx + 1).padStart(2, '0')}`;
       card.innerHTML = `
-        <div class="summary-card-header">${headerBadge}</div>
+        <div class="summary-card-header">
+          <span>${headerBadge}</span>
+          ${isCurrentActive ? '<span class="active-reading-indicator"><i class="fas fa-bookmark"></i> SEDANG DIBACA</span>' : ''}
+        </div>
         <h4>${formatTitleArabic(item.title)}</h4>
         <p>${item.brief}</p>
       `;
       card.addEventListener('click', () => {
-        state.currentSectionIndex = (item.start_sec !== undefined) ? item.start_sec : idx;
+        state.currentSectionIndex = targetSecIdx;
         switchViewMode('full');
         renderActiveSection();
       });
       summaryGrid.appendChild(card);
     });
+
+    return activeCard;
   }
 
   // Render Quotes View
@@ -431,14 +456,66 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const risalah = getCurrentRisalah();
-    if (mode === 'summary') renderSummary(risalah);
-    if (mode === 'quotes') renderQuotes(risalah);
-    if (mode === 'full') renderActiveSection();
-
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (mode === 'summary') {
+      const activeCard = renderSummary(risalah);
+      if (activeCard) {
+        setTimeout(() => {
+          activeCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }, 120);
+      } else {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    }
+    if (mode === 'quotes') {
+      renderQuotes(risalah);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    if (mode === 'full') {
+      renderActiveSection();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   }
 
-  // Setup Event Listeners
+  // Quick Summary Modal Handlers (Pilihan 3)
+  function openSummaryModal() {
+    const risalah = getCurrentRisalah();
+    if (!risalah) return;
+
+    let summaryItem = null;
+    if (risalah.summary && risalah.summary.length > 0) {
+      summaryItem = risalah.summary.find(s => s.start_sec === state.currentSectionIndex);
+      if (!summaryItem && risalah.summary[state.currentSectionIndex]) {
+        summaryItem = risalah.summary[state.currentSectionIndex];
+      }
+      if (!summaryItem) {
+        for (let i = risalah.summary.length - 1; i >= 0; i--) {
+          if (risalah.summary[i].start_sec !== undefined && state.currentSectionIndex >= risalah.summary[i].start_sec) {
+            summaryItem = risalah.summary[i];
+            break;
+          }
+        }
+      }
+    }
+
+    const sec = risalah.sections[state.currentSectionIndex];
+
+    if (summaryItem) {
+      modalSummaryBadge.textContent = summaryItem.badge || `FASAL ${String(state.currentSectionIndex + 1).padStart(2, '0')}`;
+      modalSummaryTitle.innerHTML = formatTitleArabic(summaryItem.title || (sec ? sec.title : ''));
+      modalSummaryBrief.textContent = summaryItem.brief;
+    } else if (sec) {
+      modalSummaryBadge.textContent = `FASAL ${String(state.currentSectionIndex + 1).padStart(2, '0')}`;
+      modalSummaryTitle.innerHTML = formatTitleArabic(sec.title);
+      modalSummaryBrief.textContent = 'Intisari ringkasan khusus untuk fasal ini sedang diselaraskan.';
+    }
+
+    summaryModal.classList.add('open');
+  }
+
+  function closeSummaryModal() {
+    summaryModal.classList.remove('open');
+  }
+
   function setupEventListeners() {
     // Risalah Tabs
     risalahTabs.forEach(tab => {
@@ -567,6 +644,27 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Download Modal Handlers
+    if (btnQuickSummary) {
+      btnQuickSummary.addEventListener('click', openSummaryModal);
+    }
+    if (modalSummaryCloseBtn) {
+      modalSummaryCloseBtn.addEventListener('click', closeSummaryModal);
+    }
+    if (modalCloseActionBtn) {
+      modalCloseActionBtn.addEventListener('click', closeSummaryModal);
+    }
+    if (summaryModal) {
+      summaryModal.addEventListener('click', (e) => {
+        if (e.target === summaryModal) closeSummaryModal();
+      });
+    }
+    if (modalViewAllBtn) {
+      modalViewAllBtn.addEventListener('click', () => {
+        closeSummaryModal();
+        switchViewMode('summary');
+      });
+    }
+
     downloadModalBtn.addEventListener('click', () => downloadModal.classList.add('open'));
     downloadCloseBtn.addEventListener('click', () => downloadModal.classList.remove('open'));
     downloadModal.addEventListener('click', (e) => {
