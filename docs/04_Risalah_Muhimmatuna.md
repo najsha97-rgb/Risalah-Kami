@@ -18,7 +18,17 @@ Mengisytiharkan penampilan dakwah dengan nada yang tenang dan berwibawa di tenga
 Mengaitkan seruan Ikhwanul Muslimin secara langsung dengan wahyu pertama kenabian: perintah "Bangunlah serta berikanlah peringatan!" (Surah Al-Muddaththir). Menegaskan bahawa umat sedang dilanda tidur lena kelalaian dan hanya seruan tajdid yang berani mampu mengejutkan mereka daripada lena kemunduran.
 
 ### [FASAL 03 • JURANG REALITI UMAT] 03. Di Manakah Kita daripada Ajaran Islam? (أين نحن من تعاليم الإسلام؟)
-Membongkar jurang pemisah yang luas antara realiti semasa umat dengan petunjuk al-Quran merangkumi 8 bidang teras: pemerintahan, hubungan diplomatik, kehakiman undang-undang, ketenteraan, ekonomi, pendidikan, institusi kekeluargaan, dan akhlak peribadi.
+Membongkar jurang pemisah yang luas antara realiti semasa umat dengan petunjuk al-Quran yang melahirkan keterasingan sistem hidup.
+
+⚠️ **INFOGRAFIK 8 BIDANG PENYIMPANGAN SISTEM UMAT:**
+* 🏛️ **1. Pemerintahan Dalaman** (*Nizām al-Hukm*) ➔ Tersasar daripada Syura & Keadilan Rabbani
+* 🌐 **2. Hubungan Antarabangsa** (*Nizām al-‘Alāqāt*) ➔ Mengikut Telunjuk Kuasa Sekular Menindas
+* ⚖️ **3. Kehakiman & Perundangan** (*Nizām al-Qadā’*) ➔ Menolak Syariat & Mencedok Kanun Eropah
+* 🛡️ **4. Pertahanan & Ketenteraan** (*Nizām ad-Difā‘*) ➔ Kehilangan Roh Jihad & Kesiapsiagaan
+* 💰 **5. Kewangan & Ekonomi** (*Nizām al-Māl*) ➔ Dikuasai Riba & Monopoli Menindas
+* 📚 **6. Kebudayaan & Pendidikan** (*Nizām at-Ta‘līm*) ➔ Pemisahan Ilmu daripada Iman
+* 👨‍👩‍👧‍👦 **7. Keluarga & Rumahtangga** (*Nizām al-Usrah*) ➔ Keruntuhan Moral & Pergaulan Bebas
+* 👤 **8. Sahsiah & Akhlak Individu** (*Nizām al-Fard*) ➔ Dikuasai Hawa Nafsu & Hilang Muraqabah Ilahi
 
 ### [FASAL 04 • ARUS TAKLID BARAT] 04. Gelombang Taklid Buta Terhadap Barat (موجة التقليد الأعمى للغرب)
 Mendedahkan bahaya gelombang penjajahan pemikiran dan taklid buta terhadap gaya hidup Barat sekular. Arus ini meracuni generasi muda, meruntuhkan keperibadian Islam, dan menjadikan umat tawanan budaya hedonistik yang memisahkan agama daripada urusan dunia.
