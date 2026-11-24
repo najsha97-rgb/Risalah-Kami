@@ -2402,3 +2402,99 @@ body {
   background: #10B981;
   box-shadow: 0 0 14px rgba(16, 185, 129, 0.45);
 }
+
+
+/* ==========================================================================
+   INFOGRAFIK 8 SISTEM KENEGARAAN ISLAM (Risalah 04 Fasal 06)
+   ========================================================================== */
+.summary-card-brief {
+  font-size: 0.86rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.systems-infographic {
+  margin-top: 0.95rem;
+  padding: 0.85rem;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(245, 158, 11, 0.28);
+  border-radius: 10px;
+}
+
+.infographic-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  color: #FBBF24;
+  background: rgba(245, 158, 11, 0.12);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  padding: 3px 9px;
+  border-radius: 6px;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+}
+
+.systems-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.5rem;
+}
+
+.system-item {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-left: 3px solid #10B981;
+  padding: 0.45rem 0.65rem;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.system-item:hover {
+  background: rgba(16, 185, 129, 0.12);
+  border-color: rgba(16, 185, 129, 0.35);
+  transform: translateY(-1px);
+}
+
+.system-item .sys-num {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: rgba(16, 185, 129, 0.22);
+  color: #34D399;
+  font-size: 0.7rem;
+  font-weight: 800;
+  flex-shrink: 0;
+}
+
+.system-item .sys-icon {
+  font-size: 1rem;
+  flex-shrink: 0;
+  line-height: 1;
+}
+
+.system-item .sys-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.25;
+}
+
+.system-item .sys-text strong {
+  font-size: 0.8rem;
+  color: #F8FAFC;
+  font-weight: 700;
+}
+
+.system-item .sys-text small {
+  font-size: 0.71rem;
+  color: #94A3B8;
+  margin-top: 1px;
+}

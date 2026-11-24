@@ -332,7 +332,7 @@ document.addEventListener('DOMContentLoaded', () => {
           ${isCurrentActive ? '<span class="active-reading-indicator"><i class="fas fa-bookmark"></i> SEDANG DIBACA</span>' : ''}
         </div>
         <h4>${formatTitleArabic(item.title)}</h4>
-        <p>${item.brief}</p>
+        <div class="summary-card-brief">${item.brief}</div>
       `;
       card.addEventListener('click', () => {
         state.currentSectionIndex = targetSecIdx;
@@ -502,7 +502,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (summaryItem) {
       modalSummaryBadge.textContent = summaryItem.badge || `FASAL ${String(state.currentSectionIndex + 1).padStart(2, '0')}`;
       modalSummaryTitle.innerHTML = formatTitleArabic(summaryItem.title || (sec ? sec.title : ''));
-      modalSummaryBrief.textContent = summaryItem.brief;
+      modalSummaryBrief.innerHTML = summaryItem.brief;
     } else if (sec) {
       modalSummaryBadge.textContent = `FASAL ${String(state.currentSectionIndex + 1).padStart(2, '0')}`;
       modalSummaryTitle.innerHTML = formatTitleArabic(sec.title);

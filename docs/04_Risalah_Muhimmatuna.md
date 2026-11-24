@@ -27,7 +27,17 @@ Mendedahkan bahaya gelombang penjajahan pemikiran dan taklid buta terhadap gaya 
 Menilai secara objektif tamadun Barat: walaupun maju dari sudut sains, teknologi, dan kebendaan, ia bangkrap dari sudut rohani dan akhlak. Kegagalan ini melahirkan kekosongan jiwa, keruntuhan institusi keluarga, dan kezaliman imperialisme global.
 
 ### [FASAL 06 • MISI ASASI & SISTEM] 06. Misi Kami: Dua Misi Asasi & 8 Sistem Kenegaraan (مـهـمّتنـا إجمالاً وتفصيلاً)
-Menggariskan dua misi agung: (1) Membendung gelombang kebendaan di tanah air Islam, dan (2) Mempersembahkan Islam sebagai alternatif penyelamat dunia. Memperincikan kerangka pembinaan 8 sistem kenegaraan berteraskan syariat wahyu.
+Menggariskan dua misi agung: (1) Membendung gelombang kebendaan di tanah air Islam, dan (2) Mempersembahkan Islam sebagai alternatif penyelamat dunia.
+
+📊 **INFOGRAFIK 8 SISTEM KENEGARAAN ISLAM:**
+* 🏛️ **1. Pemerintahan Dalaman** (*Nizām al-Hukm*) — Kedaulatan Hukum Syariat & Keadilan Syura
+* 🌐 **2. Hubungan Antarabangsa** (*Nizām al-‘Alāqāt*) — Diplomasi Damai & Persaudaraan Sejagat
+* ⚖️ **3. Kehakiman & Perundangan** (*Nizām al-Qadā’*) — Supremasi Undang-undang Ilahi & Kesaksamaan
+* 🛡️ **4. Ketenteraan & Pertahanan** (*Nizām al-Quwwah*) — Kesiapsiagaan Jihad & Tentera Berakhlak
+* 💰 **5. Ekonomi & Kewangan** (*Nizām al-Māl*) — Mandiri, Agihan Kekayaan Adil & Bebas Riba
+* 👨‍👩‍👧‍👦 **6. Rumahtangga & Keluarga** (*Nizām al-Usrah*) — Pembinaan Generasi Soleh & Benteng Maruah
+* 👤 **7. Sahsiah Peribadi** (*Nizām al-Fard*) — Tazkiyatun-Nafs & Budi Pekerti Nabawi
+* 🌟 **8. Roh Kepimpinan Umum** (*Ar-Rūh al-‘Ām*) — Amanah Keseimbangan Duniawi & Ukhrawi
 
 ### [FASAL 07 • MARATIBUL AMAL] 07. Rantaian 6 Peringkat Sasaran Kami (مَرَاتِبُ أَهْدَافِنَا السِّتَّة)
 Merumuskan strategi bertahap pembinaan tamadun (Marātibul ‘Amal): (1) Individu Muslim, (2) Rumah Tangga Muslim, (3) Masyarakat Muslim, (4) Pembebasan Tanah Air, (5) Kerajaan Islam, dan (6) Kepimpinan Peradaban Dunia (Ustāziyyatul ‘Ālam).
