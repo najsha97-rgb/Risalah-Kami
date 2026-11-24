@@ -65,9 +65,12 @@ Bukanlah untuk mereka ini kami menulis, dan bukanlah kepada mereka kami berucap 
 Kepada saudara yang ikhlas dan berjiwa sensitif terhadap maruah Islam inilah saya tujukan ucapan ini pada peringkat awal. Saya berkata kepadanya: Saya amat memahami perasaan yang bergolak dalam hatimu, dan saya amat mengerti rasa putus asa yang mencengkam jiwamu apabila engkau berinteraksi dengan manusia dan pertubuhan-pertubuhan yang ada. Engkau mungkin melihat dirimu seumpama penyair yang melantunkan keluh-kesah:
 
 > ⚖️ **[KECENDERUNGAN MENYENDIRI KERANA UJIAN SAHABAT]**
-> **وَزُهْدِي فِي النَّاسِ مَعْرِفَتِي بِهِمْ ۞ وَطُولُ اخْتِبَارِي صَاحِبًا بَعْدَ صَاحِبِفَلَمْ تُرِنِي الأَيَّامُ خِلًّا تَسُرُّنِي ۞ مَبَادِيهِ إِلَّا سَاءَنِي فِي العَوَاقِبِ**
+> **وَزُهْدِي فِي النَّاسِ مَعْرِفَتِي بِهِمْ ۞ وَطُولُ اخْتِبَارِي صَاحِبًا بَعْدَ صَاحِبِ**  
+> **فَلَمْ تُرِنِي الأَيَّامُ خِلًّا تَسُرُّنِي ۞ مَبَادِيهِ إِلَّا سَاءَنِي فِي العَوَاقِبِ**
 >
-> *"“Dan sikap zuhudku daripada manusia berpunca daripada pengenalanku terhadap hakikat mereka,Dan lamanya pengalamanku menguji sahabat demi sahabat silih berganti;Maka hari-hari yang berlalu tidak pernah memperlihatkan kepadaku seorang sahabat yang menggembirakan pada permulaannya,Melainkan akhirnya dia menyakitkan hatiku pada kesudahan urusannya!”"*
+> *"Dan sikap zuhudku daripada manusia berpunca daripada pengenalanku terhadap hakikat mereka,<br>Dan lamanya pengalamanku menguji sahabat demi sahabat silih berganti;<br>Maka hari-hari yang berlalu tidak pernah memperlihatkan kepadaku seorang sahabat yang menggembirakan pada permulaannya,<br>Melainkan akhirnya dia menyakitkan hatiku pada kesudahan urusannya!"*
+
+Kami katakan kepadanya: Engkau kini berada di hadapan sebuah seruan dakwah yang baharu dan satu kaum yang sedang bangkit membesar, yang menyerumu untuk beramal bersama mereka, menggabungkan diri ke dalam saf mereka, dan berusaha melangkah di sisi mereka menuju ke arah matlamat yang menjadi impian setiap muslim serta harapan setiap mukmin. Dan menjadi hakmu untuk bertanya tentang sejauh mana wasilah-wasilah praktikal mereka, dan menjadi kewajipanmu pula untuk menyelidiki serta memahami secara mendalam apa yang mereka serukan kepadamu. Dan sesungguhnya saya amat kagum terhadap seorang sahabat yang pernah saya ajak menyertai jemaah kami: dia sering menyemak kembali setiap perkataan bersama saya, berhenti meneliti setiap ungkapan, dan membahaskan setiap wasilah; sehinggalah apabila jiwanya telah benar-benar berpuas hati dan yakin, dia melafazkan kata-katanya—maka kata-katanya itu sentiasa dipelihara kehormatannya, direalisasikan maknanya, serta jelas terpampang kesannya; dan dia kekal menjadi seorang pekerja dakwah yang gigih bersungguh-sungguh hingga ke saat ini.
 
 Keadaan seperti saudaraku ini amat banyak kami temui dalam kalangan saudara-saudara kita yang mulia dan ikhlas. Namun demikian, izinkan saya membisikkan beberapa renungan jujur ke dalam sanubarinya:
 
