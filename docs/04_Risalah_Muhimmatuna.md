@@ -364,7 +364,13 @@ Mereka yang mendengar seruan ini pasti akan berkata dalam keraguan dan sinis: "I
 
   Adapun kami, maka kami menjawab dengan penuh ketenangan: Bahawa sesungguhnya nenek moyang kita para Salafus Soleh yang telah membuka pelusuk dunia dan diteguhkan kedaulatan mereka oleh Allah di muka bumi, pada peringkat awalnya sama sekali tidak memiliki bilangan tentera yang lebih ramai daripada musuh mereka, dan tidak mempunyai kelengkapan senjata yang lebih canggih daripada kuasa-kuasa besar zaman mereka!
   Ingatlah kembali peristiwa hari di mana Baginda Rasulullah ﷺ menjanjikan kepada Surāqah bin Mālik gelang emas Maharaja Kisra Parsi; pada saat itu Baginda hanyalah seorang musafir yang berhijrah menyelamatkan diri daripada ancaman pembunuhan musyrikin Quraisy, tiada sesiapa bersama baginda melainkan Allah dan sahabat setianya Abu Bakar As-Siddiq RA!
-  Ingatlah kembali hari di mana Baginda Rasulullah ﷺ melaungkan berita gembira kemenangan ke atas istana-istana putih Rom tatkala memecahkan batu besar dalam Perang Khandaq; pada saat itu kaum muslimin sedang dikepung rapat oleh gabungan tentera Ahzab dari segenap penjuru, perut mereka diikat dengan batu kerana kelaparan, dan ketakutan mencengkam sehingga hati sampai ke kerongkong!
+  Ingatlah kembali hari di mana Baginda Rasulullah ﷺ melaungkan berita gembira kemenangan ke atas istana-istana putih Rom tatkala memecahkan batu besar dalam Perang Khandaq; pada saat itu kaum muslimin sedang dikepung rapat oleh gabungan tentera Ahzab dari segenap penjuru, perut mereka diikat dengan batu kerana kelaparan, dan ketakutan mencengkam sehingga hati sampai ke kerongkong! Sebagaimana firman Allah SWT:
+
+> **وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ ۝**
+>
+> *"Dan (ingatlah) ketika pandangan mata menjadi liar (kerana cemas dan gentar) serta hati (berdebar-debar seolah-olah) sampai ke kerongkong."*
+> — **Surah Al-Aḥzāb (33): 10**
+
   Lalu apakah yang berlaku sesudah itu...?!
   Yang berlaku adalah: Telinga zaman akhirnya tunduk mendengar seruan dakwah Rasulullah ﷺ, ayat-ayat Al-Quran bergema megah di bibir peradaban dunia, fajar petunjuk Islam menyinari timur dan barat, empayar Parsi dan Rom tumbang di hadapan kaki pahlawan-pahlawan Islam, dan janji Rasulullah ﷺ menjadi kenyataan yang disaksikan oleh sejarah!
 
