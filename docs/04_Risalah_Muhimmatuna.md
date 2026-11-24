@@ -355,6 +355,13 @@ Kelengkapan bekalan kami tidak lain adalah kelengkapan para Salafus Soleh terdah
 Mereka yang mendengar seruan ini pasti akan berkata dalam keraguan dan sinis: "Ini adalah khayalan semata-mata! Ini adalah igauan angan-angan kosong dan ketaksuban yang memperdayakan! Bagaimanakah mungkin segolongan manusia yang tidak memiliki apa-apa senjata kebendaan melainkan keimanan dan keazaman jihad mampu menentang kuasa-kuasa raksasa dunia yang bersekongkol menentang mereka, sedangkan kuasa-kuasa itu memiliki kekayaan wang, kelengkapan senjata moden, perancangan diplomasi, dan bala tentera yang perkasa?!"
 
   Iktibar Sejarah Perintis: Mukjizat Keimanan Menundukkan Empayar
+  Barangkali mereka mempunyai sedikit alasan (untuk berpandangan demikian), kerana mereka sesungguhnya telah berputus asa terhadap keupayaan diri mereka sendiri, dan mereka telah berputus asa daripada hubungan pertalian mereka dengan (Allah) Yang Maha Kuat lagi Maha Berkuasa. Adapun kami, maka kami menegaskan bahawa ini adalah hakikat yang kami imani dan kami berjuang kerananya, sedang kami sentiasa membaca firman Allah Taala:
+
+> **وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ ۖ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ ٱللَّهِ مَا لَا يَرْجُونَ ۝**
+>
+> *"Dan janganlah kamu lemah (atau berhati gentar) dalam memburu musuh itu; jika kamu menderita kesakitan, maka sesungguhnya mereka pun menderita kesakitan sebagaimana kamu menderita, sedangkan kamu mengharapkan daripada Allah apa yang tidak mereka harapkan."*
+> — **Surah An-Nisā’ (4): 104**
+
   Adapun kami, maka kami menjawab dengan penuh ketenangan: Bahawa sesungguhnya nenek moyang kita para Salafus Soleh yang telah membuka pelusuk dunia dan diteguhkan kedaulatan mereka oleh Allah di muka bumi, pada peringkat awalnya sama sekali tidak memiliki bilangan tentera yang lebih ramai daripada musuh mereka, dan tidak mempunyai kelengkapan senjata yang lebih canggih daripada kuasa-kuasa besar zaman mereka!
   Ingatlah kembali peristiwa hari di mana Baginda Rasulullah ﷺ menjanjikan kepada Surāqah bin Mālik gelang emas Maharaja Kisra Parsi; pada saat itu Baginda hanyalah seorang musafir yang berhijrah menyelamatkan diri daripada ancaman pembunuhan musyrikin Quraisy, tiada sesiapa bersama baginda melainkan Allah dan sahabat setianya Abu Bakar As-Siddiq RA!
   Ingatlah kembali hari di mana Baginda Rasulullah ﷺ melaungkan berita gembira kemenangan ke atas istana-istana putih Rom tatkala memecahkan batu besar dalam Perang Khandaq; pada saat itu kaum muslimin sedang dikepung rapat oleh gabungan tentera Ahzab dari segenap penjuru, perut mereka diikat dengan batu kerana kelaparan, dan ketakutan mencengkam sehingga hati sampai ke kerongkong!
