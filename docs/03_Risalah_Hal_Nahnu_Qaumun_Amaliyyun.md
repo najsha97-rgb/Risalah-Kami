@@ -323,7 +323,7 @@ Maka Ikhwan telah meneliti segala wasilah dan jalan untuk mencapai matlamat pemb
 
 ---
 
-### 6. Kedudukan Solat Khusyuk (منزلة الصــلاة)
+### 6. Kedudukan Salat (منزلة الصلاة)
 
 Maka apabila Ikhwanul Muslimin telah memilih agama Islam sebagai wasilah asasi untuk mentarbiah dan memperbaharui jiwa umat, perkara pertama yang mereka hadapkan pandangan mereka kepadanya adalah: KEDUDUKAN SOLAT (منزلة الصلاة).
 Ikhwanul Muslimin memandang solat bukan sekadar pergerakan anggota badan yang kaku, bukan senaman fizikal yang hampa, dan bukan adat kebiasaan turun-temurun yang dilakukan tanpa kehadiran hati. Sebaliknya, solat di sisi Ikhwan adalah mikraj rohani (*mi‘rāj ar-rūḥ*), stesen pembekalan tenaga ketuhanan, dan madrasah harian pembinaan disiplin insan pejuang!
