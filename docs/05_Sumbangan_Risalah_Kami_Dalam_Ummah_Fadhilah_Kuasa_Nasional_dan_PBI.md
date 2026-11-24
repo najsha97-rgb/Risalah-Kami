@@ -71,7 +71,7 @@ Kemuncak kepada seluruh perjuangan Tetralogi Risalah Kami adalah menyumbang ke a
 
 3. **Rantaian Enam Peringkat Menuju Khilafah (*Muhimmatunā*):**  
    PBI tidak dicapai melalui rampasan kuasa melulu atau mimpi angan-angan; ia dicapai melalui proses pembinaan bertahap yang organik dan kukuh:  
-   $$	ext{Individu Muslim} \longrightarrow 	ext{Rumahtangga Muslim} \longrightarrow 	ext{Masyarakat Muslim} \longrightarrow 	ext{Kerajaan Muslim} \longrightarrow 	ext{Daulah Khilafah} \longrightarrow 	ext{Kepimpinan Peradaban Dunia (PBI)}$$
+   > **Individu Muslim** ➔ **Rumahtangga Muslim** ➔ **Masyarakat Muslim** ➔ **Kerajaan Muslim** ➔ **Daulah Khilafah** ➔ **Kepimpinan Peradaban Dunia (PBI)**
 
 ---
 
