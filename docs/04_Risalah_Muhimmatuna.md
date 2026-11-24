@@ -485,4 +485,4 @@ Inilah kedudukan martabat kamu yang mulia! Maka janganlah sesekali kamu merendah
 > *"Dan bahawa sesungguhnya inilah jalan-Ku (agama Islam) yang betul lurus, maka hendaklah kamu mengikutinya; dan janganlah kamu mengikut jalan-jalan yang lain (selain Islam), kerana jalan-jalan itu akan mencerai-beraikan kamu daripada jalan-Nya. Yang demikian itu diperintahkan oleh Allah kepada kamu supaya kamu bertakwa."*
 > — **Surah Al-An‘ām (6): 153**
 
-ـ حسن البنا (Ḥasan al-Bannā)
+**<span dir="rtl">ـ حسن البنا</span>** (Ḥasan al-Bannā)

@@ -1983,6 +1983,22 @@ body {
   text-shadow: 0 0 12px rgba(255, 215, 0, 0.35);
 }
 
+.hadith-arabic.hadith-arabic-white,
+.hadith-arabic-white {
+  color: #FFFFFF !important;
+  text-shadow: 0 0 12px rgba(255, 255, 255, 0.25) !important;
+}
+
+.arabic-amiri-white {
+  font-family: 'Amiri', serif !important;
+  font-size: 1.55rem !important;
+  font-weight: 700 !important;
+  color: #FFFFFF !important;
+  text-shadow: 0 0 12px rgba(255, 255, 255, 0.25) !important;
+  font-style: normal !important;
+  line-height: 2.2 !important;
+}
+
 .hadith-translation {
   font-family: var(--font-body, 'Merriweather', serif);
   font-size: 0.98rem;
