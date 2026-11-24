@@ -8,27 +8,72 @@
 
 ---
 
-## 📌 RINGKASAN EKSEKUTIF DAKWATUNA (5 BAHAGIAN UTAMA)
+## 📌 RINGKASAN INTISARI ILMIAH SETIAP FASAL (21 FASAL)
 
-Risalah *Da'watuna (Seruan Dakwah Kami)* merupakan piagam asas manifestasi fikrah gerakan dakwah Islamiah moden yang digariskan oleh Al-Imam Hasan al-Banna. Risalah ini dipecahkan kepada 5 Bahagian Utama yang saling melengkapi:
+Risalah *Da‘watunā (Seruan Dakwah Kami)* merupakan piagam asas manifestasi fikrah gerakan dakwah Islamiah moden yang digariskan oleh Al-Imam Hasan al-Banna. Berikut adalah intisari eksekutif bagi setiap 21 fasal secara terperinci:
 
-### 1. Da‘watunā: Hakikat Dakwah Ikhwan (Fasal 01 – 12)
-Menegaskan ketelusan matlamat (*al-muṣāraḥah*) dan kesucian niat (*al-barā'ah*) dakwah yang bebas daripada sebarang cita-cita peribadi, harta, atau kuasa duniawi. Digerakkan semata-mata atas dasar kasih sayang (*al-‘āṭifah*) terhadap umat dan menyerahkan segala kurnia kepada Allah. Mengklasifikasikan manusia kepada 4 golongan (Mukmin, Ragu-ragu, Oportunis, Berprasangka) serta menuntut penyerahan diri secara total (*al-fanā'*). Menghidupkan keimanan yang membara di samping meneliti gelombang seruan moden, duat terlatih, revolusi wasilah komunikasi, dan memartabatkan kesyumulan Islam (*Islāmunā*) yang merangkumi segenap sudut kehidupan.
+### [FASAL 01 • MUKADIMAH] 1. Keterusterangan (المصارحة - Al-Muṣāraḥah)
+Menegaskan kewajipan berterus-terang (al-muṣāraḥah) kepada seluruh manusia mengenai matlamat dan manhaj dakwah tanpa sebarang kesamaran, kepura-puraan, atau agenda tersembunyi. Dakwah ini bersumberkan wahyu yang benderang bagaikan fajar menyingsing, menyeru manusia kembali kepada fitrah Islam yang suci dan membebaskan akal daripada belenggu kekeliruan.
 
-### 2. Pendirian Terhadap Aliran Fahaman Lain: Patriotisme & Asabiyah (Fasal 13 – 15)
-Menggariskan neraca Islam yang adil dan seimbang terhadap pelbagai seruan semasa. Mendokong konsep Patriotisme (*Al-Waṭaniyyah*) dalam bentuk kecintaan tanah air (*ḥanīn*), kemerdekaan (*ḥurriyyah*), dan pemakmuran (*iṣlāḥ*); namun menolak keras ketaksuban politik yang merobek perpaduan. Mendokong Sentimen Kebangsaan (*Al-Qawmiyyah*) yang meraikan kegemilangan salaf soleh dan perpaduan generasi, seraya menentang chauvinisme rasis jahiliah. Menegaskan batas watan seorang muslim adalah setiap jengkal bumi yang padanya dilaungkan kalimah Tauhid.
+### [FASAL 02 • KEIKHLASAN] 2. Pembersihan Diri & Keikhlasan (البراءة - Al-Barā'ah)
+Mengisytiharkan pembersihan diri yang mutlak (al-barā'ah) daripada sebarang kepentingan kebendaan, pangkat kedudukan, atau cita-cita peribadi. Menolak permohonan sumbangan daripada individu atau pihak yang berkepentingan demi menjaga kemurnian dan kedaulatan dakwah agar kekal ikhlas semata-mata mengharapkan keredaan Allah.
 
-### 3. Berdepan dengan Perselisihan Mazhab / Khilafiah (Fasal 16 – 17)
-Merumuskan kaedah Fiqh Ikhtilaf yang matang dalam menangani khilaf fiqh dan mazhab. Menghuraikan faktor tabi'i perbezaan pandangan (faktor perbezaan kefahaman dalil, keluasan ilmu hadis, dan tafsiran nas). Menegaskan prinsip: berlapang dada dalam perkara cabang (*furū‘*), bersatu dalam perkara usul, bekerjasama dalam perkara yang disepakati, dan bertoleransi dalam perkara yang diperselisihkan demi memelihara kesatuan ummah.
+### [FASAL 03 • KASIH SAYANG] 3. Kasih Sayang & Belas Kasihan (العاطفة - Al-‘Āṭifah)
+Mendedahkan bahawa enjin penggerak dakwah ini bukanlah permusuhan atau dendam, sebaliknya limpahan kasih sayang sejati (al-‘āṭifah) terhadap umat yang sedang menderita dalam kelemahan. Para pendakwah rela mengorbankan kesenangan diri dan mencucurkan titisan darah demi membahagiakan insan lain serta menebus maruah umat yang tercalar.
 
-### 4. Jalan Penyelesaian & Wasilah Kebangkitan (Fasal 18 – 20)
-Mendiagnosis punca kelemahan dan penyakit umat Timur (perpecahan politik, keruntuhan moral, kelemahan ekonomi, dan kelesuan jiwa) seraya menyuntik optimisme bahawa fajar kebangkitan pasti tiba. Menggariskan **Tiga Rukun Utama Wasilah Perubahan**:
-1. **المنهاج الصحيح (Al-Minhāj aṣ-Ṣaḥīḥ):** Al-Quran, Sunnah & Syariat yang Tulen tanpa pencemaran asing.
-2. **العاملون المؤمنون (Al-‘Āmilūn al-Mu’minūn):** Barisan penggerak yang beriman, ikhlas, berdisiplin, dan melaksanakan syariat tanpa kompromi.
-3. **القيادة الحازمة الموثوق بها (Al-Qiyādah al-Ḥāzimah):** Kepimpinan yang tegas, berwibawa, dan diyakini oleh seluruh saf dakwah.
+### [FASAL 04 • TAUFIK ALLAH] 4. Segala Kurnia & Kelebihan Milik Allah (لله الفضل والمنة - Lillāhil-Faḍlu wal-Minnah)
+Menolak keras sikap mengungkit jasa dan budi dalam perjuangan berasaskan firman Allah dalam Surah Al-Hujurat (ayat 17). Segala kelebihan, taufik kejayaan, dan hidayah kembali kepada Allah SWT semata-mata, manakala pendakwah hanyalah hamba yang terpilih untuk menyambung tugas agung para anbiya'.
 
-### 5. Khatimah: Engkaulah Yusuf bagi Mimpi Kebangkitan Ini (Fasal 21)
-Mengakhiri risalah dengan tamsilan metafora agung Nabi Yusuf AS: meletakkan setiap pembaca dan jiwa mukmin sebagai 'Yusuf' yang bakal mentakwil, mengurus, dan merealisasikan mimpi-mimpi kebangkitan umat daripada kemarau kejatuhan kepada fajar kejayaan (*wa anta Yūsufu hādzihil-aḥlām*). Ditutup dengan seruan tulus dan penuh pengharapan agar menghulurkan tangan (*bai‘ah fil-‘amal*), merapatkan saf, dan melangkah bersama-sama di atas jalan dakwah ini dengan berserah diri sepenuhnya kepada Allah: Dialah Pelindung taufik kami, sebaik-baik Pemimpin, dan sebaik-baik Penolong!
+### [FASAL 05 • TIPOLOGI MANUSIA] 5. Empat Golongan Manusia (أصناف أربعة - Aṣnāf Arba‘ah)
+Mengelaskan manusia ketika berhadapan dakwah kepada 4 golongan: (1) Mukmin yang terus menyahut seruan, (2) Ragu-ragu yang memerlukan bimbingan hujah, (3) Oportunis yang menanti habuan duniawi, dan (4) Berprasangka yang menolak kerana prejudis. Duat dituntut bersikap sabar, menyantuni setiap kategori dengan hikmah, dan mendoakan hidayah sebagaimana teladan Rasulullah ﷺ.
+
+### [FASAL 06 • PENGORBANAN MUTLAK] 6. Pengorbanan Total & Penyerahan Mutlak (الفناء - Al-Fanā')
+Menegaskan bahawa dakwah Islam tidak menerima komitmen separuh masa atau tawar-menawar; ia menuntut pengorbanan total (al-fanā') jiwa, harta, masa, dan tenaga. Pendakwah mestilah bersiap siaga menyerahkan segalanya demi dakwah berpandukan Surah At-Tawbah (ayat 24) sebelum mengharapkan kemenangan daripada Allah.
+
+### [FASAL 07 • PRINSIP DAKWAH] 7. Kejelasan Prinsip (الوضوح - Al-Wuḍūḥ)
+Menyeru manusia kepada suatu prinsip (al-mabda') yang jelas, kukuh batasannya, dan disepakati oleh seluruh umat iaitu Islam itu sendiri. Kebahagiaan dan kejayaan umat manusia hanya akan tercapai apabila mereka berpegang kepada prinsip yang telah terbukti membina tamadun teragung dunia ini.
+
+### [FASAL 08 • KEIMANAN HIDUP] 8. Dua Jenis Keimanan: Lesu vs Menyala-Nyala (إيمانان - Īmānāni)
+Membezakan antara iman yang lesu, terbius, dan pasif di dalam dada masyarakat dengan keimanan sejati yang hidup, menyala-nyala, dan mencetuskan amal pembaharuan. Ikhwanul Muslimin bertekad menghidupkan semula bara keimanan agar ia bergerak memandu tindakan dan memimpin realiti kehidupan.
+
+### [FASAL 09 • ANALISIS ZAMAN] 9. Gelombang Seruan & Ideologi Semasa (دعوات - Da‘awāt)
+Menganalisis pertembungan pelbagai ideologi, doktrin politik, dan teori moden di Timur dan Barat yang saling bersaing merebut pengaruh jiwa manusia. Di tengah-tengah kebingungan ini, dakwah Islam hadir sebagai satu-satunya sistem hidup rabbani yang mampu memuaskan akal dan menenteramkan jiwa manusia sejagat.
+
+### [FASAL 10 • KADER PENDAKWAH] 10. Pendakwah Moden yang Terlatih (دعاة - Du‘āh)
+Membongkar realiti pendakwah ideologi moden di Barat yang terlatih secara profesional, berpendidikan tinggi, dan dilengkapi kepakaran sistematik. Menuntut gerakan Islam membentuk barisan pendakwah yang memiliki iltizam akidah yang mendalam, berdisiplin tinggi, serta menguasai ilmu pengetahuan semasa untuk menyaingi cabaran zaman.
+
+### [FASAL 11 • MEDIA & WASILAH] 11. Revolusi Wasilah & Media Komunikasi (وسائل - Wasā'il)
+Menyoroti perkembangan revolusi media dan komunikasi moden (akhbar, radio, teater, dan penerbitan) yang dimanfaatkan secara agresif oleh pelbagai propaganda asing. Menegaskan kewajipan umat Islam menguasai dan memperalatkan seluruh wasilah kontemporari ini demi menyampaikan kebenaran risalah Islam ke seluruh pelosok dunia.
+
+### [FASAL 12 • KESYUMULAN ISLAM] 12. Hakikat Islam Syumul Kita (إسلامنا - Islāmunā)
+Mengisytiharkan bahawa sifat asasi dakwah ini terangkum dalam satu perkataan: Islamiyyah (berteraskan Islam). Menolak sebarang tafsiran Islam yang sempit dan terhad kepada ritual semata-mata, seraya menegaskan kesyumulan Islam yang mengatur akidah, ibadah, watan, kerajaan, undang-undang, akhlak, ekonomi, dan peradaban.
+
+### [FASAL 13 • NERACA ISLAM] 13. Neraca Menghadapi Pelbagai Fahaman Semasa (موقفنا من الدعوات المختلفة)
+Menetapkan neraca Islam yang adil dalam menilai pelbagai fahaman dan gerakan semasa. Apa sahaja fahaman yang selari dan bertepatan dengan prinsip Islam akan diterima dengan lapang dada, manakala apa yang bertentangan atau menyeleweng akan ditolak secara tegas tanpa sebarang kompromi.
+
+### [FASAL 14 • PATRIOTISME] 14. Pendirian Terhadap Kewatanan / Patriotisme (الوطنية - Al-Waṭaniyyah)
+Menghuraikan konsep patriotisme (al-waṭaniyyah) dari sudut neraca Islam: menyokong kecintaan tumpah darah, perjuangan pembebasan watan daripada penjajah, dan perpaduan masyarakat; namun menolak chauvinisme sempit yang menyemai permusuhan sesama insan. Menegaskan bahawa sempadan watan seorang muslim melangkaui geografi bumi iaitu merangkumi setiap bumi yang bertauhid.
+
+### [FASAL 15 • KEBANGSAAN ISLAM] 15. Pendirian Terhadap Sentimen Kebangsaan (القومية - Al-Qawmiyyah)
+Memperincikan neraca terhadap sentimen kebangsaan (al-qawmiyyah): menerima kebangsaan yang meneladani kemuliaan salaf soleh, memperkukuh persaudaraan, dan menegakkan keadilan; tetapi menolak sekeras-kerasnya kebangsaan berasaskan takabbur jahiliah dan penindasan kaum lain. Menegaskan bahawa nasab tertinggi mukmin adalah ikatan akidah Islam.
+
+### [FASAL 16 • FIQH KHILAF] 16. Fiqh Ikhtilaf: Menghadapi Khilaf Fiqh & Mazhab (أمام الخلافات الدينية)
+Menggariskan prinsip Fiqh Ikhtilaf yang matang dalam menangani khilaf fiqh dan mazhab: berlapang dada dalam masalah cabang (furū‘), bersatu dalam perkara pokok (uṣūl), bekerjasama dalam perkara yang disepakati, dan bertolak ansur dalam perkara yang diperselisihkan demi memelihara perpaduan saf umat.
+
+### [FASAL 17 • RAWATAN UMAT] 17. Menuju Rawatan & Pemulihan Umat (إلى العلاج - Ilā al-‘Ilāj)
+Membuat analogi bahawa jatuh bangun dan kesakitan sesuatu umat adalah serupa dengan tubuh badan manusia. Menegaskan bahawa kejatuhan umat Islam bukanlah kematian mutlak, sebaliknya suatu penyakit sementara yang boleh disembuhkan sekiranya didiagnosis dengan tepat dan dirawat menggunakan penawar syariat yang sahih.
+
+### [FASAL 18 • DIAGNOSIS PENYAKIT] 18. Gejala Penyakit Umat Timur (الأعراض - Al-A‘rāḍ)
+Mendiagnosis gejala penyakit kronik yang melumpuhkan umat Timur: belenggu penjajahan politik, perpecahan dan fanatik kepartian, amalan riba dan monopoli ekonomi, keruntuhan moral dan kebejatan sosial, serta kelesuan jiwa dan krisis keimanan.
+
+### [FASAL 19 • HARAPAN BANGKIT] 19. Optimisme & Harapan Kebangkitan (أمل وشعور - Amalun wa Syu‘ūr)
+Meniupkan roh optimisme dan melarang keras sikap berputus asa terhadap masa depan umat Islam. Membuktikan sunnatullah sejarah bahawa setiap kejatuhan pasti disusuli fajar kebangkitan, dan tiada pemisah antara umat dengan kemenangan melainkan hilangnya putus asa serta berputiknya tekad juang yang membara.
+
+### [FASAL 20 • TIGA RUKUN WASILAH] 20. Tiga Rukun Utama Wasilah Kebangkitan (الأركان الثلاثة - Al-Arkān al-Thalāthah)
+Menggariskan tiga rukun wasilah amali bagi menjayakan transformasi umat: (1) Manhaj yang Sahih berteraskan al-Quran dan Sunnah, (2) Barisan Penggerak yang Beriman yang berdisiplin dan ikhlas berkorban, dan (3) Kepimpinan yang Tegas lagi Dipercayai yang membimbing saf perjuangan menuju keredaan Allah.
+
+### [FASAL 21 • KHATIMAH BAI‘AH] 21. Penutup: Seruan Bergabung Bahu (خاتمة)
+Menutup risalah dengan metafora agung Nabi Yusuf AS: meletakkan setiap jiwa mukmin sebagai 'Yusuf' yang bertanggungjawab mentakwil dan merealisasikan mimpi kebangkitan umat. Menyeru pembaca menghulurkan tangan berbai'ah dalam saf amal, bersatu melangkah di atas jalan dakwah, dan bertawakal sepenuhnya kepada Allah.
 
 ---
 
