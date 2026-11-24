@@ -7,6 +7,49 @@
 
 ---
 
+## 📌 RINGKASAN INTISARI ILMIAH SETIAP FASAL (12 FASAL)
+
+Risalah *Muhimmatunā (Misi dan Tugas Kami)* merupakan pelan tindakan strategik dan perisytiharan identiti dakwah dalam membina 8 sistem kenegaraan serta rantaian 6 peringkat sasaran amal kebangkitan Islam. Berikut adalah intisari eksekutif bagi setiap 12 fasal secara terperinci:
+
+### [FASAL 01 • SUARA TENANG] 01. Mukadimah: Suara Tenang di Tengah Kebisingan Zaman (مقدمة: نتقدم بدعوتنا)
+Mengisytiharkan penampilan dakwah dengan nada yang tenang dan berwibawa di tengah hiruk-pikuk pertelingkahan parti dan fitnah zaman. Dakwah ini merendah diri namun lebih teguh daripada gunung, terpelihara daripada riak kepalsuan, dan bertujuan murni memimpin jiwa manusia menuju kebenaran hakiki.
+
+### [FASAL 02 • SERUAN PERTAMA] 02. Di Bawah Sinar Seruan Pertama (على ضـوء الدعـوة الأولـى)
+Mengaitkan seruan Ikhwanul Muslimin secara langsung dengan wahyu pertama kenabian: perintah "Bangunlah serta berikanlah peringatan!" (Surah Al-Muddaththir). Menegaskan bahawa umat sedang dilanda tidur lena kelalaian dan hanya seruan tajdid yang berani mampu mengejutkan mereka daripada lena kemunduran.
+
+### [FASAL 03 • JURANG REALITI UMAT] 03. Di Manakah Kita daripada Ajaran Islam? (أين نحن من تعاليم الإسلام؟)
+Membongkar jurang pemisah yang luas antara realiti semasa umat dengan petunjuk al-Quran merangkumi 8 bidang teras: pemerintahan, hubungan diplomatik, kehakiman undang-undang, ketenteraan, ekonomi, pendidikan, institusi kekeluargaan, dan akhlak peribadi.
+
+### [FASAL 04 • ARUS TAKLID BARAT] 04. Gelombang Taklid Buta Terhadap Barat (موجة التقليد الأعمى للغرب)
+Mendedahkan bahaya gelombang penjajahan pemikiran dan taklid buta terhadap gaya hidup Barat sekular. Arus ini meracuni generasi muda, meruntuhkan keperibadian Islam, dan menjadikan umat tawanan budaya hedonistik yang memisahkan agama daripada urusan dunia.
+
+### [FASAL 05 • KRISIS TAMADUN BARAT] 05. Menilai Hakikat Tamadun Materialistik Barat (تقويم الحضارة الغربية المادية)
+Menilai secara objektif tamadun Barat: walaupun maju dari sudut sains, teknologi, dan kebendaan, ia bangkrap dari sudut rohani dan akhlak. Kegagalan ini melahirkan kekosongan jiwa, keruntuhan institusi keluarga, dan kezaliman imperialisme global.
+
+### [FASAL 06 • MISI ASASI & SISTEM] 06. Misi Kami: Dua Misi Asasi & 8 Sistem Kenegaraan (مـهـمّتنـا إجمالاً وتفصيلاً)
+Menggariskan dua misi agung: (1) Membendung gelombang kebendaan di tanah air Islam, dan (2) Mempersembahkan Islam sebagai alternatif penyelamat dunia. Memperincikan kerangka pembinaan 8 sistem kenegaraan berteraskan syariat wahyu.
+
+### [FASAL 07 • MARATIBUL AMAL] 07. Rantaian 6 Peringkat Sasaran Kami (مَرَاتِبُ أَهْدَافِنَا السِّتَّة)
+Merumuskan strategi bertahap pembinaan tamadun (Marātibul ‘Amal): (1) Individu Muslim, (2) Rumah Tangga Muslim, (3) Masyarakat Muslim, (4) Pembebasan Tanah Air, (5) Kerajaan Islam, dan (6) Kepimpinan Peradaban Dunia (Ustāziyyatul ‘Ālam).
+
+### [FASAL 08 • TIGA BEKALAN HAKIKI] 08. Bekalan dan Senjata Kami (عُـدَّتُـنَـا)
+Menegaskan tiga kelengkapan bekalan perjuangan (‘Uddatunā) yang tidak mampu ditandingi senjata kebendaan: (1) Iman mendalam yang tidak goyah, (2) Ikatan ukhuwah mahabbah yang menyatukan jiwa, dan (3) Kesiapsiagaan berkorban dan berjihad di jalan Allah.
+
+### [FASAL 09 • REALISME PERJUANGAN] 09. Antara Khayalan dan Hakikat (بين الخيال و الحقيقة)
+Menangkis tuduhan skeptis kononnya misi kebangkitan Islam ini satu khayalan dan igauan kosong. Membuktikan melalui sunnatullah sejarah bahawa setiap tamadun bermula daripada cita-cita yang dianggap mustahil, sebagaimana janji kemenangan Nabi ﷺ sewaktu menggali parit Khandaq.
+
+### [FASAL 10 • PERANAN KERAJAAN ISLAM] 10. Andai Kita Mempunyai Kerajaan Islam yang Sejati (لو كانت لنا حكومة)
+Menghuraikan impak luar biasa andai wujud sebuah kerajaan Islam yang berdaulat, merdeka jiwanya, dan faham akan keagungan syariat. Menegaskan kaedah: orang yang tidak memiliki sesuatu tidak mampu memberikannya (fāqidul syai’ lā yu‘ṭīh), lantas harapan diletakkan kepada pemuda bertarbiah rabbani.
+
+### [FASAL 11 • IDENTITI FIKRAH SYUMUL] 11. Hakikat dan Identiti Fikrah Kami (طبيعة فكرتنـا)
+Menolak empat pengelasan sempit: Ikhwan bukanlah parti politik partisan, bukan persatuan kebajikan biasa, bukan tarekat sufi pasif, dan bukan kelab sukan terhad. Fikrah ini adalah Islam itu sendiri dalam kesyumulan akidah, ibadah, perundangan, dan peradaban.
+
+### [FASAL 12 • SERUAN KETEGUHAN BAI‘AH] 12. Khatimah Haraki: Seruan Keteguhan Langkah & Bai‘ah Perjuangan (خاتمة حركية)
+Menggemakan pesanan terakhir yang membakar semangat agar para pejuang tidak merendahkan martabat dakwah atau berkompromi dengan kebatilan. Menuntut bai‘ah amal, kesabaran menanggung onak duri perjalanan, serta keyakinan bulat bahawa masa depan adalah milik Islam.
+
+---
+
+
 ### 01. Mukadimah: Suara Tenang di Tengah Kebisingan Zaman (مقدمة: نتقدم بدعوتنا)
 
 Bismillāhir-Raḥmānir-Raḥīm.

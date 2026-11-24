@@ -1557,40 +1557,76 @@ var RISALAH_DATA = [
     ],
     "summary": [
       {
-        "badge": "BAHAGIAN 1: FASAL 01 - 02",
-        "title": "1. Mukadimah Haraki & Menelusuri Jejak Seruan Pertama Wahyu",
-        "brief": "Mengisytiharkan sifat asasi dakwah: tenang tetapi berdaya gegaran mengatasi ribut taufan, merendah diri namun lebih mulia daripada gunung ganang, serta terpelihara daripada riak kepalsuan. Menegaskan kesinambungan misi ini dengan seruan awal Rasulullah ﷺ melalui perintah Surah Al-Muddaththir: 'Bangunlah serta berikan peringatan!'",
+        "badge": "FASAL 01 • SUARA TENANG",
+        "title": "01. Mukadimah: Suara Tenang di Tengah Kebisingan Zaman (مقدمة: نتقدم بدعوتنا)",
+        "brief": "Mengisytiharkan penampilan dakwah dengan nada yang tenang dan berwibawa di tengah hiruk-pikuk pertelingkahan parti dan fitnah zaman. Dakwah ini merendah diri namun lebih teguh daripada gunung, terpelihara daripada riak kepalsuan, dan bertujuan murni memimpin jiwa manusia menuju kebenaran hakiki.",
         "start_sec": 0
       },
       {
-        "badge": "BAHAGIAN 2: FASAL 03 - 04",
-        "title": "2. Diagnosis Keterasingan Sistem Hidup & Ancaman Arus Taklid Barat",
-        "brief": "Membongkar pemisahan total antara tata sistem kehidupan umat dengan Al-Quran merangkumi 8 bidang teras (pemerintahan, diplomasi antarabangsa, kehakiman, pertahanan ketenteraan, ekonomi, pendidikan, institusi keluarga, dan akhlak peribadi). Mengkritik taklid buta terhadap tamadun sekular Barat yang mencabut jati diri dan meruntuhkan benteng akidah umat.",
+        "badge": "FASAL 02 • SERUAN PERTAMA",
+        "title": "02. Di Bawah Sinar Seruan Pertama (على ضـوء الدعـوة الأولـى)",
+        "brief": "Mengaitkan seruan Ikhwanul Muslimin secara langsung dengan wahyu pertama kenabian: perintah \"Bangunlah serta berikanlah peringatan!\" (Surah Al-Muddaththir). Menegaskan bahawa umat sedang dilanda tidur lena kelalaian dan hanya seruan tajdid yang berani mampu mengejutkan mereka daripada lena kemunduran.",
+        "start_sec": 1
+      },
+      {
+        "badge": "FASAL 03 • JURANG REALITI UMAT",
+        "title": "03. Di Manakah Kita daripada Ajaran Islam? (أين نحن من تعاليم الإسلام؟)",
+        "brief": "Membongkar jurang pemisah yang luas antara realiti semasa umat dengan petunjuk al-Quran merangkumi 8 bidang teras: pemerintahan, hubungan diplomatik, kehakiman undang-undang, ketenteraan, ekonomi, pendidikan, institusi kekeluargaan, dan akhlak peribadi.",
         "start_sec": 2
       },
       {
-        "badge": "BAHAGIAN 3: FASAL 05 - 06",
-        "title": "3. Kebankrapan Tamadun Kebendaan & Garis Panduan Misi Agung Ikhwan",
-        "brief": "Menilai kegagalan hakiki tamadun materialis Barat yang gagal mendatangkan ketenteraman batin, gagal menghentikan tangisan kemiskinan, dan gagal membasmi jenayah moral. Menggariskan misi agung Ikhwanul Muslimin secara umum (menghadang gelombang nafsu dan kebendaan) dan khusus (membina 8 sistem kenegaraan berasaskan wahyu Al-Quran).",
+        "badge": "FASAL 04 • ARUS TAKLID BARAT",
+        "title": "04. Gelombang Taklid Buta Terhadap Barat (موجة التقليد الأعمى للغرب)",
+        "brief": "Mendedahkan bahaya gelombang penjajahan pemikiran dan taklid buta terhadap gaya hidup Barat sekular. Arus ini meracuni generasi muda, meruntuhkan keperibadian Islam, dan menjadikan umat tawanan budaya hedonistik yang memisahkan agama daripada urusan dunia.",
+        "start_sec": 3
+      },
+      {
+        "badge": "FASAL 05 • KRISIS TAMADUN BARAT",
+        "title": "05. Menilai Hakikat Tamadun Materialistik Barat (تقويم الحضارة الغربية المادية)",
+        "brief": "Menilai secara objektif tamadun Barat: walaupun maju dari sudut sains, teknologi, dan kebendaan, ia bangkrap dari sudut rohani dan akhlak. Kegagalan ini melahirkan kekosongan jiwa, keruntuhan institusi keluarga, dan kezaliman imperialisme global.",
         "start_sec": 4
       },
       {
-        "badge": "BAHAGIAN 4: FASAL 07 - 08",
-        "title": "4. Rantaian 6 Peringkat Sasaran (Maratibul-Amal) & Senjata Bekalan Hakiki",
-        "brief": "Merumuskan rantaian enam fasa pembinaan peradaban: Individu Muslim, Rumah Tangga Muslim, Masyarakat Muslim, Pembebasan Tanah Air, Kerajaan Islam, dan Kepimpinan Peradaban Dunia (Ustaziyyatul 'Alam). Memperincikan kelengkapan bekalan ('Uddatuna): Iman mendalam yang tidak goyah, Ukhuwah suci yang menyatukan hati, dan Jihad pengorbanan jiwa raga.",
+        "badge": "FASAL 06 • MISI ASASI & SISTEM",
+        "title": "06. Misi Kami: Dua Misi Asasi & 8 Sistem Kenegaraan (مـهـمّتنـا إجمالاً وتفصيلاً)",
+        "brief": "Menggariskan dua misi agung: (1) Membendung gelombang kebendaan di tanah air Islam, dan (2) Mempersembahkan Islam sebagai alternatif penyelamat dunia. Memperincikan kerangka pembinaan 8 sistem kenegaraan berteraskan syariat wahyu.",
+        "start_sec": 5
+      },
+      {
+        "badge": "FASAL 07 • MARATIBUL AMAL",
+        "title": "07. Rantaian 6 Peringkat Sasaran Kami (مَرَاتِبُ أَهْدَافِنَا السِّتَّة)",
+        "brief": "Merumuskan strategi bertahap pembinaan tamadun (Marātibul ‘Amal): (1) Individu Muslim, (2) Rumah Tangga Muslim, (3) Masyarakat Muslim, (4) Pembebasan Tanah Air, (5) Kerajaan Islam, dan (6) Kepimpinan Peradaban Dunia (Ustāziyyatul ‘Ālam).",
         "start_sec": 6
       },
       {
-        "badge": "BAHAGIAN 5: FASAL 09 - 10",
-        "title": "5. Menepis Tuduhan Khayalan & Menuntut Kewujudan Kerajaan Islam Sejati",
-        "brief": "Menangkis skeptisisme pihak yang menuduh cita-cita kebangkitan Islam sebagai khayalan mustahil dengan membuktikan sunnatullah sejarah para anbiya' dan janji kemenangan di Khandaq. Menegaskan realiti bahawa penguasa sekular yang ketandusan Islam tidak mampu menegakkannya ('faqidus syai' la yu'tihi'), lalu mengalihkan harapan kepada generasi muda bertarbiah rabbani.",
+        "badge": "FASAL 08 • TIGA BEKALAN HAKIKI",
+        "title": "08. Bekalan dan Senjata Kami (عُـدَّتُـنَـا)",
+        "brief": "Menegaskan tiga kelengkapan bekalan perjuangan (‘Uddatunā) yang tidak mampu ditandingi senjata kebendaan: (1) Iman mendalam yang tidak goyah, (2) Ikatan ukhuwah mahabbah yang menyatukan jiwa, dan (3) Kesiapsiagaan berkorban dan berjihad di jalan Allah.",
+        "start_sec": 7
+      },
+      {
+        "badge": "FASAL 09 • REALISME PERJUANGAN",
+        "title": "09. Antara Khayalan dan Hakikat (بين الخيال و الحقيقة)",
+        "brief": "Menangkis tuduhan skeptis kononnya misi kebangkitan Islam ini satu khayalan dan igauan kosong. Membuktikan melalui sunnatullah sejarah bahawa setiap tamadun bermula daripada cita-cita yang dianggap mustahil, sebagaimana janji kemenangan Nabi ﷺ sewaktu menggali parit Khandaq.",
         "start_sec": 8
       },
       {
-        "badge": "BAHAGIAN 6: FASAL 11 - 12",
-        "title": "6. Hakikat Identiti Fikrah Syumul & Khatimah Seruan Keteguhan Langkah",
-        "brief": "Menegaskan bahawa dakwah ini bukan sekadar parti politik sempit atau persatuan kebajikan biasa, tetapi adalah Fikrah & Akidah, Nizam & Manhaj yang mewarisi panji Rasulullah ﷺ. Ditutup dengan seruan haraki yang menggetarkan jiwa pejuang agar terus melangkah teguh di atas jalan yang lurus (Siratul Mustaqim) tanpa goyah oleh celaan mereka yang berpaling.",
+        "badge": "FASAL 10 • PERANAN KERAJAAN ISLAM",
+        "title": "10. Andai Kita Mempunyai Kerajaan Islam yang Sejati (لو كانت لنا حكومة)",
+        "brief": "Menghuraikan impak luar biasa andai wujud sebuah kerajaan Islam yang berdaulat, merdeka jiwanya, dan faham akan keagungan syariat. Menegaskan kaedah: orang yang tidak memiliki sesuatu tidak mampu memberikannya (fāqidul syai’ lā yu‘ṭīh), lantas harapan diletakkan kepada pemuda bertarbiah rabbani.",
+        "start_sec": 9
+      },
+      {
+        "badge": "FASAL 11 • IDENTITI FIKRAH SYUMUL",
+        "title": "11. Hakikat dan Identiti Fikrah Kami (طبيعة فكرتنـا)",
+        "brief": "Menolak empat pengelasan sempit: Ikhwan bukanlah parti politik partisan, bukan persatuan kebajikan biasa, bukan tarekat sufi pasif, dan bukan kelab sukan terhad. Fikrah ini adalah Islam itu sendiri dalam kesyumulan akidah, ibadah, perundangan, dan peradaban.",
         "start_sec": 10
+      },
+      {
+        "badge": "FASAL 12 • SERUAN KETEGUHAN BAI‘AH",
+        "title": "12. Khatimah Haraki: Seruan Keteguhan Langkah & Bai‘ah Perjuangan (خاتمة حركية)",
+        "brief": "Menggemakan pesanan terakhir yang membakar semangat agar para pejuang tidak merendahkan martabat dakwah atau berkompromi dengan kebatilan. Menuntut bai‘ah amal, kesabaran menanggung onak duri perjalanan, serta keyakinan bulat bahawa masa depan adalah milik Islam.",
+        "start_sec": 11
       }
     ],
     "golden_quotes_rich": [
