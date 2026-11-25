@@ -1,9 +1,9 @@
 /**
  * Service Worker: Risalah Kami PWA
- * Offline-First dengan Perlindungan Anti-Redirect Cloudflare Pages
+ * Offline-First dengan Perlindungan Penuh Anti-Redirect Cloudflare Pages
  */
 
-const CACHE_NAME = 'risalah-kami-v110';
+const CACHE_NAME = 'risalah-kami-v111';
 const ASSETS_TO_CACHE = [
   './',
   './css/style.css',
@@ -27,28 +27,27 @@ const ASSETS_TO_CACHE = [
   './docs/05_Sumbangan_Risalah_Kami_Dalam_Ummah_Fadhilah_Kuasa_Nasional_dan_PBI.md'
 ];
 
-// Buang flag redirected supaya Chrome/PWA tidak pernah membuang ERR_FAILED pada navigasi
-function toCleanResponse(response) {
+// Buang flag redirected dengan selamat (elak status < 200 seperti opaqueredirect)
+async function toCleanResponse(response) {
   if (!response || !response.redirected) return response;
-  const bodyPromise = response.clone().arrayBuffer();
-  return bodyPromise.then((buffer) => {
-    const headers = new Headers(response.headers);
-    return new Response(buffer, {
-      status: response.status,
-      statusText: response.statusText,
-      headers
-    });
+  if (response.status < 200 || response.status > 599) return response;
+  const buffer = await response.clone().arrayBuffer();
+  const headers = new Headers(response.headers);
+  return new Response(buffer, {
+    status: response.status,
+    statusText: response.statusText,
+    headers
   });
 }
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then(async (cache) => {
-      console.log('[ServiceWorker] Caching App Shell and Offline Assets (v110)');
+      console.log('[ServiceWorker] Caching App Shell and Offline Assets (v111)');
       await Promise.allSettled(
         ASSETS_TO_CACHE.map(async (url) => {
           try {
-            const req = new Request(url, { cache: 'reload' });
+            const req = new Request(url, { cache: 'reload', redirect: 'follow' });
             const res = await fetch(req);
             if (res && res.ok) {
               const clean = await toCleanResponse(res);
@@ -81,10 +80,11 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
 
-  // 1. Permintaan navigasi halaman (termasuk / atau /index.html daripada pintasan PWA lama)
+  // 1. Permintaan navigasi halaman (/ atau /index.html):
+  // Sentiasa fetch laluan kanonik './' secara terus (status 200, elak 308 redirect Pretty URLs)
   if (event.request.mode === 'navigate') {
     event.respondWith(
-      fetch(event.request)
+      fetch('./', { cache: 'no-cache' })
         .then(async (networkResponse) => {
           const clean = await toCleanResponse(networkResponse);
           if (clean && clean.ok) {
@@ -96,14 +96,14 @@ self.addEventListener('fetch', (event) => {
         .catch(async () => {
           const cached = await caches.match('./');
           if (cached) return toCleanResponse(cached);
-          const fallback = await caches.match(event.request);
+          const fallback = await caches.match(event.request, { ignoreSearch: true });
           return fallback ? toCleanResponse(fallback) : Response.error();
         })
     );
     return;
   }
 
-  // 2. Aset statik & dokumen: Cache-first dengan kemas kini selamat
+  // 2. Aset statik & dokumen: Cache-first (ignoreSearch sokong ?v=110)
   event.respondWith(
     caches.match(event.request, { ignoreSearch: true }).then((cachedResponse) => {
       if (cachedResponse) {
