@@ -3,7 +3,7 @@
  * Offline-First dengan Perlindungan Penuh Anti-Redirect Cloudflare Pages
  */
 
-const CACHE_NAME = 'risalah-kami-v111';
+const CACHE_NAME = 'risalah-kami-v112';
 const ASSETS_TO_CACHE = [
   './',
   './css/style.css',
